@@ -103,7 +103,6 @@ Events
 | Kama          | [Link](https://twitter.com/hp0818/status/1222379484323516420?s=20)         | Fully NoCE, NoSwap
 | Karna         | [Link](https://twitter.com/tksr0000/status/1221418591204986881?s=20)       | Ereshkigal as second core, NoSwap
 |               | [Link](https://twitter.com/7Corner/status/1220947426627878912?s=20)        | NoSwap
-
 | Kiara         | [Link](https://twitter.com/Dorapika_Wu/status/1221317706470678528?s=20)    |
 | King Hassan   | [Link](https://twitter.com/Bonta_Unit_07/status/1223966839920685056?s=20)  |
 | Kintoki       | [Link](https://twitter.com/WacBook/status/1221777489942286340?s=20)        |
