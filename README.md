@@ -8,7 +8,7 @@ This repository serves as a collection of gameplay videos from FGO.
 Table of Contents
 -----------------
 
-- [Penth Amazones CQ](#Amazonesscom-CEO-Crisis-2020)
+- [Penth Amazones CQ](#Amazonesscom---CEO-Crisis-2020)
 
 
 
