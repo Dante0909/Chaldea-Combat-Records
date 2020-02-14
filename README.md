@@ -16,7 +16,7 @@ Table of Contents
 Events
 -------
 
-### Amazoness.com ~CEO Crisis 2020~ 
+### Amazoness.com - CEO Crisis 2020
 | DPS Used      |     Link      |    Remarks    |
 | ------------- | ------------- | ------------- |
 | Melt (Alter-Ego)         | https://twitter.com/rurun_Replicant/status/1224868777604472832?s=20  | Completely Normal TA
