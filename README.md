@@ -135,7 +135,7 @@ Events
 | Nagao Kagetora | [Link](https://twitter.com/hork0320/status/1220927188507099136?s=20)      |
 | Napoleon      | [Link](https://twitter.com/yunomuteki/status/1222515893751517184?s=20)     |
 | Nero Bride    | [Link](https://twitter.com/mishima173/status/1220590282300768261?s=20)     | Low Resource, NoSwap, NoCE on Support
-|               | [Link](https://twitter.com/Chihiro1000/status/1220580965157703680?s=20     | NoSwap
+|               | [Link](https://twitter.com/Chihiro1000/status/1220580965157703680?s=20)     | NoSwap
 | Nero (Caster) | [Link](https://twitter.com/mana_pwpr/status/1222897587574865920?s=20)      | NoCE on all but Nitocris
 | Nero (Saber)  | [Link](https://twitter.com/Chihiro1000/status/1222068608857038849?s=20)    | NoCE on Support
 | Nezha         | [Link](https://twitter.com/snowdroptree/status/1223250252259446791?s=20)   |
