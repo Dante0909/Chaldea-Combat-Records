@@ -22,7 +22,7 @@ Events
 | Abigail       | [Link](https://twitter.com/fgosyukai1/status/1224018243888631808?s=20)     | NoSwap
 | Achilles      | [Link](https://twitter.com/calpis_102/status/1224346756730613760?s=20)     | Solo
 | Altera        | [Link](https://twitter.com/shortcut588/status/1222529545858764800?s=20)    |
-| Altera (Archer) | [Link]( https://twitter.com/shortcut588/status/1220706608855969792?s=20  |
+| Altera (Archer) | [Link]( https://twitter.com/shortcut588/status/1220706608855969792?s=20)  |
 | Amakusa Shirou | [Link](https://twitter.com/7Corner/status/1221742207972995073?s=20)       |
 | Antonio Salieri | [Link](https://twitter.com/hiduka01/status/1224387162449178624?s=20)     |
 | Ashwatthama   | [Link](https://twitter.com/nagaru35/status/1220500651886596096?s=20)       |
