@@ -8,6 +8,7 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 
 ### 2020
 
+-   [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
 -   [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
 -   [Penth Amazoness.com CQ](#Amazonesscom---CEO-Crisis-2020)
 
@@ -17,7 +18,17 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 
 ## Events
 
-### Yang CQ Enmatei Event Rerun
+### Benienma CQ Enmatei Event Rerun
+
+| DPS Used         | Link                                                                      | Remarks            |
+| ---------------- | ------------------------------------------------------------------------- | ------------------ |
+| Arjuna (Alter)   | [Link](https://twitter.com/Kag_Tam/status/1218202969268580352?s=20)       | NoSwap, Fully NoCE |
+| Arthur           | [Link](https://twitter.com/NAO42010/status/1218135203668848645?s=20)      |                    |
+| Gorgon           | [Link](https://twitter.com/2_5_dimension/status/1218337172182323200?s=20) |                    |
+| Melt (Alter-Ego) | [Link](https://www.bilibili.com/video/av86170700)                         |                    |
+| Sakata Kintoki   | [Link](https://twitter.com/BOBislazyboy/status/1224453741643890695?s=20)  |                    |
+| Tamamo Cat       | [Link](https://twitter.com/shortcut588/status/1218377349885857792?s=20)   |                    |
+| Tesla            | [Link](https://www.bilibili.com/video/av83778060)                         | NoCE               |
 
 | DPS Used                       | Link                                                                       | Remarks                                      |
 | ------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------- |
