@@ -21,9 +21,12 @@ Events
 ### Yang CQ Enmatei Event Rerun
 | DPS Used      |     Link      |    Remarks    |
 | ------------- | ------------- | ------------- |
+| Altera (Archer) | [Link]( https://twitter.com/snowdroptree/status/1216684861680807937?s=20)  |
 | Arthur | [Link](https://twitter.com/shishito443/status/1217121139622760454?s=20) |
+| Arthur | [Link](https://twitter.com/NAO42010/status/1216602296676569088?s=20) |
 | Arturia (Ruler) | [Link](https://twitter.com/maruihayao/status/1217756767376965633?s=20) | 
 | Ashwatthama   | [Link](https://twitter.com/2_5_dimension/status/1216622330811600896?s=20)       |
+| Astarte       | [Link](https://twitter.com/KUR_NU_GI_A/status/1216645358190620672?s=20) | Multi-core setup with Rishtar and Ereshkigal
 | Astolfo (Saber) | [Link](https://twitter.com/2_5_dimension/status/1217426427252862980?s=20) | Multi-core with Chen Gong and KiyoLancer
 | Atalanta (Alter)| [Link](https://twitter.com/FrnHorn/status/1217392696274243586?s=20) |
 | Carmila | [Link](https://twitter.com/otkznr/status/1217757676450410496?s=20) |
@@ -31,27 +34,40 @@ Events
 | Cursed Arm Hassan | [Link](https://twitter.com/tago260/status/1216607069026938880?s=20) |
 | Dantes   | [Link](https://twitter.com/monhanluna/status/1215939950006292482?s=20) | 
 | Enkidu | [Link](https://twitter.com/mgmg3939pnd/status/1217464692840419328?s=20) | NoCE
+| Ereshkigal       | [Link](https://twitter.com/KUR_NU_GI_A/status/1216645358190620672?s=20) | Multi-core setup with Rishtar and Astarte
 | Frankenstein (Saber) | [Link](https://twitter.com/FrnHorn/status/1216829567094018048?s=20)    |
 | Gilgamesh     | [Link](https://twitter.com/gameover_fate/status/1217218569299058688?s=20)    | Non SSR support only
 | Hokusai | [Link](https://twitter.com/takato09217/status/1217379884751704064?s=20) | Fully NoCE, Low Rarity Support
+|         | [Link](https://twitter.com/fgo38195272/status/1216606942950498304?s=20) | Low Resource, NoSwap, Low Rarity Support
+|         | [Link](https://twitter.com/kitakitasnas/status/1216536197746458626?s=20) | Low Resource, NoSwap, Low Rarity Support
 | Hundred Faces Hassan | [Link](https://twitter.com/NorthFGO1/status/1217461696974839808?s=20) |
 | Ibaraki       | [Link](https://twitter.com/snowdroptree/status/1216792922047148032?s=20)   |
+| Ishtar (Rider) | [Link](https://twitter.com/KUR_NU_GI_A/status/1216645358190620672?s=20) | Multi-core setup with Ereshkigal and Astarte
 | Jeanne d'Arc Alter (Berserker)       | [Link](https://www.youtube.com/watch?v=00JtUu-xYxo)     |
 | Kiara | [Link](https://twitter.com/midori_alt/status/1217232937894039552?s=20) | Solo
+|  | [Link](https://twitter.com/2_5_dimension/status/1216388651682164738?s=20) | Dual-Core with KP
 | KingProtea | [Link](https://twitter.com/takato09217/status/1216716173414264833?s=20) | 
+|  | [Link](https://twitter.com/2_5_dimension/status/1216388651682164738?s=20) | Dual-Core with Kiara
 | Kiyohime (Lancer) | [Link](https://twitter.com/2_5_dimension/status/1217426427252862980?s=20) | Multi-core with Astolfo and Gong
+|  | [Link](https://twitter.com/2_5_dimension/status/1216612955573194752?s=20) | 
 | Mashu | [Link](https://twitter.com/ZIIRefinement/status/1217164722560045056?s=20) | Non NP
 | Mecha Liz | [Link](https://twitter.com/kitakitasnas/status/1216726702434308097?s=20) |
 | Melt (Alter-Ego) | [Link](https://twitter.com/BOBislazyboy/status/1216737617934520321?s=20)  | Low Resource, NoSwap, Low Rarity Support
-|               | [Link](https://twitter.com/2_5_dimension/status/1220368988401586182?s=20)  | NoSwap
+|               | [Link](https://twitter.com/takato09217/status/1216629753718824961?s=20)  | NoSwap, double DPS
+|               | [Link](https://twitter.com/tksr0000/status/1216083345945137153?s=20)  |
 | MHXX          | [Link](https://twitter.com/yumey_c2_vv/status/1216700730284728320?s=20)    | Low Resource, NoSwap, Low Rarity Support
+| |[Link](https://twitter.com/yumey_c2_vv/status/1216344820135804928?s=20)    | Non SSR Support Only
 | Nero Bride    | [Link](https://twitter.com/Chihiro1000/status/1216760227594260481?s=20)     | Low Resource, NoSwap, Low Rarity Support
+|               | [Link](https://twitter.com/takato09217/status/1216422153274318848?s=20 | Non SSR support only
+| Nobu (Maou)   | [Link](https://twitter.com/OrGOrG_FGO/status/1215977307925467138?s=20)     | NoSwap
 | Okada Izou    | [Link](https://twitter.com/otkznr/status/1217099280441151488?s=20)       |
 | Okita (Alter) | [Link](https://twitter.com/kusunokifgo/status/1216776687460835328?s=20)  |
+| Orion (Superhuman) | [Link](https://twitter.com/ITMST/status/1216642013057056768?s=20)     | NoCE on Support, NoSwap, Low Rarity Support
 | Paris | [Link](https://twitter.com/kitakitasnas/status/1217201477698998272?s=20) |
 |       | [Link](https://twitter.com/tago260/status/1216639091082547200?s=20) |
 | Passionlip | [Link](https://twitter.com/takato09217/status/1217001810822459392?s=20) |
 | Penthesilea    | [Link](https://twitter.com/EdaFgo/status/1216661912420642816?s=20)         | 
+| Sasaki Kojiro | [Link](https://twitter.com/otkznr/status/1216623063019581440)    |
 | Scathach | [Link](https://twitter.com/gameover_fate/status/1216780903264899072?s=20) | Non SSR support only
 
 ### Amazoness.com - CEO Crisis 2020
