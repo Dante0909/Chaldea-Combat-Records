@@ -7,8 +7,8 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 Table of Contents
 -----------------
 ### 2020
-- [Yang CQ Enmatei Event Rerun](##yang-cq-enmatei-event-rerun)
-- [Penth Amazoness.com CQ](###Amazonesscom---CEO-Crisis-2020)
+- [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
+- [Penth Amazoness.com CQ](#Amazonesscom---CEO-Crisis-2020)
 
 
 
