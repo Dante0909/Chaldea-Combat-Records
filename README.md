@@ -13,7 +13,7 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 
 ## Contributing
 
--   Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Avalon/blob/master/CONTRIBUTING.md).
+-   Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Chaldea-Combat-Records/blob/master/CONTRIBUTING.md).
 
 ## Events
 
