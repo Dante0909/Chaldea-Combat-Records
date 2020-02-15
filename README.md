@@ -1,8 +1,8 @@
-# Avalon [Name subject to change, suggestions welcome]
+# Chaldea Combat Records
 
 ## Introduction
 
-This repository serves as a collection of notable gameplay videos from FGO, although mainly focusing on TAs.
+This repository serves as a collection of notable gameplay videos from FGO, although mainly focusing on TAs. The videos are grouped by year according to the JP timeline.
 
 ## Table of Contents
 
