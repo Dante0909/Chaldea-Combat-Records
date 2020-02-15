@@ -58,7 +58,7 @@ Events
 | MHXX          | [Link](https://twitter.com/yumey_c2_vv/status/1216700730284728320?s=20)    | Low Resource, NoSwap, Low Rarity Support
 | |[Link](https://twitter.com/yumey_c2_vv/status/1216344820135804928?s=20)    | Non SSR Support Only
 | Nero Bride    | [Link](https://twitter.com/Chihiro1000/status/1216760227594260481?s=20)     | Low Resource, NoSwap, Low Rarity Support
-|               | [Link](https://twitter.com/takato09217/status/1216422153274318848?s=20 | Non SSR support only
+|               | [Link](https://twitter.com/takato09217/status/1216422153274318848?s=20) | Non SSR support only
 | Nobu (Maou)   | [Link](https://twitter.com/OrGOrG_FGO/status/1215977307925467138?s=20)     | NoSwap
 | Okada Izou    | [Link](https://twitter.com/otkznr/status/1217099280441151488?s=20)       |
 | Okita (Alter) | [Link](https://twitter.com/kusunokifgo/status/1216776687460835328?s=20)  |
