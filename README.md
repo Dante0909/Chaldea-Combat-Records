@@ -12,7 +12,9 @@ Table of Contents
 
 
 
-
+Contributing
+------------
+Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Avalon/blob/master/CONTRIBUTING.md).
 Events
 -------
 
