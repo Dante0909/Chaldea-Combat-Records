@@ -2,11 +2,12 @@
 Introduction
 ------------
 
-This repository serves as a collection of notable gameplay videos from FGO.
+This repository serves as a collection of notable gameplay videos from FGO, although mainly focusing on TAs.
 
 Table of Contents
 -----------------
 ### 2020
+- [Yang CQ Enmatei Event Rerun]
 - [Penth Amazoness.com CQ](###Amazonesscom---CEO-Crisis-2020)
 
 
@@ -17,6 +18,21 @@ Contributing
 
 Events
 -------
+### Yang CQ Enmatei Event Rerun
+| DPS Used      |     Link      |    Remarks    |
+| ------------- | ------------- | ------------- |
+| Arturia (Ruler) | [Link](https://twitter.com/maruihayao/status/1217756767376965633?s=20) | 
+| Astolfo (Saber) | [Link](https://twitter.com/2_5_dimension/status/1217426427252862980?s=20) | Multi-core with Chen Gong and KiyoLancer
+| Atalanta (Alter)| [Link](https://twitter.com/FrnHorn/status/1217392696274243586?s=20) |
+| Carmila | [Link](https://twitter.com/otkznr/status/1217757676450410496?s=20) |
+| Chen Gong | [Link](https://twitter.com/2_5_dimension/status/1217426427252862980?s=20)| Multi-core with Astolfo and KiyoLancer
+| Dantes   | [Link](https://twitter.com/monhanluna/status/1215939950006292482?s=20) | 
+| Enkidu | [Link](https://twitter.com/mgmg3939pnd/status/1217464692840419328?s=20) | NoCE
+| Hokusai | [Link](https://twitter.com/takato09217/status/1217379884751704064?s=20) | Fully NoCE, Low Rarity Support
+| Hundred Faces Hassan | [Link](https://twitter.com/NorthFGO1/status/1217461696974839808?s=20) |
+| Jeanne d'Arc Alter (Berserker)       | [Link](https://www.youtube.com/watch?v=00JtUu-xYxo)     |
+| Kiyohime (Lancer) | [Link](https://twitter.com/2_5_dimension/status/1217426427252862980?s=20) | Multi-core with Astolfo and Gong
+
 
 ### Amazoness.com - CEO Crisis 2020
 | DPS Used      |     Link      |    Remarks    |
