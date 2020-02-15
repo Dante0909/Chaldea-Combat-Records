@@ -3,9 +3,11 @@
 
 * Fork the repo
 * The repo uses this format for the table:
-       | DPS Used      |     Link      |      Remarks     |
-       | ------------- | ------------- | ---------------- |
-       | <DPS Name>    |    <Link>     | Anything Notable |
+````
+| DPS Used      |     Link      |      Remarks     |    
+| ------------- | ------------- | ---------------- |      
+| <DPS Name>    |    <Link>     | Anything Notable |
+````
   So please ensure you are using this format.
 * Push and wait.
 
