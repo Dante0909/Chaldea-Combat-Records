@@ -1,4 +1,4 @@
-# Akashic Records
+# Avalon [Name subject to change, suggestions welcome]
 
 ## Introduction
 
