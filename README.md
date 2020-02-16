@@ -6,9 +6,6 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 
 ## Table of Contents
 
-### 2019
-
--   [Xmas 2019 CQ](#xmas-2019)
 
 ### 2020
 
@@ -16,6 +13,10 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 -   [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
 -   [Penth Amazoness.com CQ](#Amazonesscom---CEO-Crisis-2020)
 
+
+### 2019
+
+-   [Xmas 2019 CQ](#xmas-2019)
 ## Contributing
 
 -   Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Chaldea-Combat-Records/blob/master/CONTRIBUTING.md).
