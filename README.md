@@ -30,6 +30,8 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 |                       | [Link](https://twitter.com/snowdroptree/status/1217454325493989376?s=20)   |                                                        |
 |                       | [Link](https://twitter.com/fgo38195272/status/1217074262831292416?s=20)    | Solo                                                   |
 |                       | [Link](https://twitter.com/fgo38195272/status/1216182948099063809?s=20)    | NoSwap, NoCE on Support, Non SSR Support Only          |
+|                       | [Link](https://twitter.com/kusunokifgo/status/1215934022452301824?s=20)    | Multi-core Orion/Bunny King                            |
+| Asagami Fujino        | [Link](https://twitter.com/7Corner/status/1215932515547926529?s=20)        |                                                        |
 | Astarte               | [Link](https://twitter.com/KUR_NU_GI_A/status/1217453702878941191?s=20)    | NoCE on DPS                                            |
 |                       | [Link](https://twitter.com/jyuubeeyuuan/status/1216028025445208064?s=20)   |                                                        |
 | Arthur                | [Link](https://twitter.com/NAO42010/status/1218135203668848645?s=20)       |                                                        |
@@ -43,6 +45,7 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 | Chloe von Einzbern    | [Link](https://twitter.com/niku2_admiral/status/1216337924934864896?s=20)  |                                                        |
 |                       | [Link](https://twitter.com/niku2_admiral/status/1216337924934864896?s=20)  |                                                        |
 | Emiya                 | [Link](https://twitter.com/clearchetype/status/1216643450847629312?s=20)   | Non SSR Support Only                                   |
+|                       | [Link](https://twitter.com/Violet_g612/status/1215935634960834560?s=20)    | Non SSR Support Only                                   |
 | Gilgamesh             | [Link](https://twitter.com/Chinquepig/status/1215993157411729408?s=20)     | NoSwap                                                 |
 |                       | [Link](https://twitter.com/2_5_dimension/status/1215923928645824512?s=20)  | Multi-Core with Gong and Penth                         |
 | Gorgon                | [Link](https://twitter.com/2_5_dimension/status/1218337172182323200?s=20)  |                                                        |
@@ -52,9 +55,12 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 | Ishtar                | [Link](https://twitter.com/2_5_dimension/status/1217434894478893063?s=20)  |                                                        |
 |                       | [Link](https://twitter.com/2_5_dimension/status/1217434894478893063?s=20)  | Multi-Core Meme with Gong, Penth and Paris             |
 |                       | [Link](https://twitter.com/waiwaikigurumi/status/1215956219027845121?s=20) | NoCE                                                   |
+|                       | [Link](https://twitter.com/bikakindefgo/status/1215934972155924481?s=20)   | NoSwap                                                 |
 | Ishtar (Rider)        | [Link](https://twitter.com/waiwaikigurumi/status/1216033244312793089?s=20) |                                                        |
 | Jeanne d'Arc (Archer) | [Link](https://twitter.com/airmong_/status/1216064209307308032?s=20)       |                                                        |
 | Lakshmibai            | [Link](https://www.bilibili.com/video/av83381865)                          |                                                        |
+| Lancelot (Saber)      | [Link](https://twitter.com/snowdroptree/status/1215930294458470400?s=20)   |                                                        |
+|                       | [Link](https://twitter.com/tarasque0221/status/1215936068333125633?s=20)   |                                                        |
 | Melt (Alter-Ego)      | [Link](https://www.bilibili.com/video/av86170700)                          |                                                        |
 |                       | [Link](https://twitter.com/2_5_dimension/status/1216775632970903552?s=20)  | Double Core with Paris                                 |
 | MHX                   | [Link](https://twitter.com/Bonta_Unit_07/status/1217473571137605633?s=20)  |                                                        |
