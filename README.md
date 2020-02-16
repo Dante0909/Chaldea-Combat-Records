@@ -20,15 +20,66 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 
 ### Benienma CQ Enmatei Event Rerun
 
-| DPS Used         | Link                                                                      | Remarks            |
-| ---------------- | ------------------------------------------------------------------------- | ------------------ |
-| Arjuna (Alter)   | [Link](https://twitter.com/Kag_Tam/status/1218202969268580352?s=20)       | NoSwap, Fully NoCE |
-| Arthur           | [Link](https://twitter.com/NAO42010/status/1218135203668848645?s=20)      |                    |
-| Gorgon           | [Link](https://twitter.com/2_5_dimension/status/1218337172182323200?s=20) |                    |
-| Melt (Alter-Ego) | [Link](https://www.bilibili.com/video/av86170700)                         |                    |
-| Sakata Kintoki   | [Link](https://twitter.com/BOBislazyboy/status/1224453741643890695?s=20)  |                    |
-| Tamamo Cat       | [Link](https://twitter.com/shortcut588/status/1218377349885857792?s=20)   |                    |
-| Tesla            | [Link](https://www.bilibili.com/video/av83778060)                         | NoCE               |
+| DPS Used              | Link                                                                       | Remarks                                                |
+| --------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------ |
+| Altera (Archer)       | [Link](https://twitter.com/shortcut588/status/1217445896117350402?s=20)    |                                                        |
+|                       | [Link](https://twitter.com/snowdroptree/status/1217306935000621057?s=20)   |                                                        |
+| Arash                 | [Link](https://twitter.com/snowdroptree/status/1217012058442457088?s=20)   |                                                        |
+|                       | [Link](https://twitter.com/mishima173/status/1216070303798845440?s=20)     | Non SSR Support only, Multi-core with Para and Romulus |
+| Arjuna (Alter)        | [Link](https://twitter.com/Kag_Tam/status/1218202969268580352?s=20)        | NoSwap, Fully NoCE                                     |
+|                       | [Link](https://twitter.com/snowdroptree/status/1217454325493989376?s=20)   |                                                        |
+|                       | [Link](https://twitter.com/fgo38195272/status/1217074262831292416?s=20)    | Solo                                                   |
+|                       | [Link](https://twitter.com/fgo38195272/status/1216182948099063809?s=20)    | NoSwap, NoCE on Support, Non SSR Support Only          |
+| Astarte               | [Link](https://twitter.com/KUR_NU_GI_A/status/1217453702878941191?s=20)    | NoCE on DPS                                            |
+|                       | [Link](https://twitter.com/jyuubeeyuuan/status/1216028025445208064?s=20)   |                                                        |
+| Arthur                | [Link](https://twitter.com/NAO42010/status/1218135203668848645?s=20)       |                                                        |
+| Arturia (Ruler)       | [Link](https://twitter.com/BOBislazyboy/status/1216730717448757248?s=20)   |                                                        |
+| Bedivere              | [Link](https://twitter.com/snowdroptree/status/1215930294458470400?s=20)   | Multi-Core with Gilgamesh, Gong                        |
+| Chacha                | [Link](https://twitter.com/snowdroptree/status/1217575565399486466?s=20)   |                                                        |
+| Chen Gong             | [Link](https://twitter.com/Chinkyu_pencil/status/1217572015608958976?s=20) |                                                        |
+|                       | [Link](https://twitter.com/2_5_dimension/status/1217434894478893063?s=20)  | Multi-Core Meme with Ishtar, Penth and Paris           |
+|                       | [Link](https://twitter.com/2_5_dimension/status/1215923928645824512?s=20)  | Multi-Core with Gil and Penth                          |
+| Chiron                | [Link](https://twitter.com/Peperon8310/status/1217494782609461249?s=20)    |                                                        |
+| Chloe von Einzbern    | [Link](https://twitter.com/niku2_admiral/status/1216337924934864896?s=20)  |                                                        |
+|                       | [Link](https://twitter.com/niku2_admiral/status/1216337924934864896?s=20)  |                                                        |
+| Emiya                 | [Link](https://twitter.com/clearchetype/status/1216643450847629312?s=20)   | Non SSR Support Only                                   |
+| Gilgamesh             | [Link](https://twitter.com/Chinquepig/status/1215993157411729408?s=20)     | NoSwap                                                 |
+|                       | [Link](https://twitter.com/2_5_dimension/status/1215923928645824512?s=20)  | Multi-Core with Gong and Penth                         |
+| Gorgon                | [Link](https://twitter.com/2_5_dimension/status/1218337172182323200?s=20)  |                                                        |
+| Heracles              | [Link](https://www.youtube.com/watch?v=0h3cDlWbzDw&feature=youtu.be)       |                                                        |
+|                       | [Link](https://twitter.com/Herakles_osi/status/1215993630571163649?s=20)   |                                                        |
+| Ibaraki               | [Link](https://twitter.com/snowdroptree/status/1216094871561224192?s=20)   |                                                        |
+| Ishtar                | [Link](https://twitter.com/2_5_dimension/status/1217434894478893063?s=20)  |                                                        |
+|                       | [Link](https://twitter.com/2_5_dimension/status/1217434894478893063?s=20)  | Multi-Core Meme with Gong, Penth and Paris             |
+|                       | [Link](https://twitter.com/waiwaikigurumi/status/1215956219027845121?s=20) | NoCE                                                   |
+| Ishtar (Rider)        | [Link](https://twitter.com/waiwaikigurumi/status/1216033244312793089?s=20) |                                                        |
+| Jeanne d'Arc (Archer) | [Link](https://twitter.com/airmong_/status/1216064209307308032?s=20)       |                                                        |
+| Lakshmibai            | [Link](https://www.bilibili.com/video/av83381865)                          |                                                        |
+| Melt (Alter-Ego)      | [Link](https://www.bilibili.com/video/av86170700)                          |                                                        |
+|                       | [Link](https://twitter.com/2_5_dimension/status/1216775632970903552?s=20)  | Double Core with Paris                                 |
+| MHX                   | [Link](https://twitter.com/Bonta_Unit_07/status/1217473571137605633?s=20)  |                                                        |
+| Moriarity             | [Link](https://twitter.com/Peperon8310/status/1216784847672205312?s=20)    |                                                        |
+| Musashi (Berserker)   | [Link](https://twitter.com/kkka3618/status/1216361823697395714?s=20)       |                                                        |
+| Napoleon              | [Link](https://twitter.com/Dorapika_Wu/status/1215942592761696256?s=20)    |                                                        |
+| Nero (Saber)          | [Link](https://twitter.com/takato09217/status/1216264290153332736?s=20)    |                                                        |
+| Okita Souji           | [Link](https://twitter.com/yychem/status/1217413231808876545?s=20)         |                                                        |
+| Okita (Assassin)      | [Link](https://twitter.com/yychem/status/1216098397859368960?s=20)         |                                                        |
+| Orion (Superhuman)    | [Link](https://twitter.com/ITMST/status/1215942402201944064?s=20)          |                                                        |
+| Paris                 | [Link](https://twitter.com/2_5_dimension/status/1217434894478893063?s=20)  | Multi-Core Meme with Gong, Penth and Ishtar            |
+|                       | [Link](https://twitter.com/2_5_dimension/status/1216775632970903552?s=20)  | Double Core with Melt                                  |
+| Penthesilia           | [Link](https://twitter.com/2_5_dimension/status/1217434894478893063?s=20)  | Multi-Core Meme with Gong, Penth and Paris             |
+|                       | [Link](https://twitter.com/r0o5z3i3/status/1216040738024124417?s=20)       | Non SSR Support Only                                   |
+|                       | [Link](https://twitter.com/2_5_dimension/status/1215923928645824512?s=20)  | Multi-Core with Gong and Gil                           |
+| Osakabehime (Archer)  | [Link](https://twitter.com/aoba_009/status/1217480309031129093?s=20)       |                                                        |
+| Quetzalcoatl (Ruler)  | [Link](https://twitter.com/snowdroptree/status/1217577393142943744?s=20)   |                                                        |
+| Raikou                | [Link](https://twitter.com/airmong_/status/1215999465695277056?s=20)       |                                                        |
+| Romulus               | [Link](https://twitter.com/mishima173/status/1216070303798845440?s=20)     | Non SSR Support only, Multi-core with Para and Arash   |
+| Sakata Kintoki        | [Link](https://twitter.com/BOBislazyboy/status/1224453741643890695?s=20)   |                                                        |
+| SHIKI (Saber)         | [Link](https://twitter.com/nmo_mo_fgo/status/1216731951219888131?s=20)     |                                                        |
+| Tamamo Cat            | [Link](https://twitter.com/shortcut588/status/1218377349885857792?s=20)    |                                                        |
+| Tesla                 | [Link](https://www.bilibili.com/video/av83778060)                          | NoCE                                                   |
+|                       | [Link](https://twitter.com/abiro_game/status/1216028085750919169?s=20)     | NoSwap                                                 |
+| Yang Guifei           | [Link](https://twitter.com/bikakindefgo/status/1217435638225489920?s=20)   |                                                        |
 
 | DPS Used                       | Link                                                                       | Remarks                                      |
 | ------------------------------ | -------------------------------------------------------------------------- | -------------------------------------------- |
