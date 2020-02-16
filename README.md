@@ -30,7 +30,6 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 | Arjuna (Alter)   | [Link](https://twitter.com/ITMST/status/1202969972055531520)               | Multi-Core with Saber Astolfo |
 | Astarte          | [Link](https://www.youtube.com/watch?v=JkQR5uKcnEQ&feature=youtu.be)       |                               |
 | Astraea          | [Link](https://www.bilibili.com/video/av78857973)                          |                               |
-|                  | [Link](https://www.youtube.com/watch?v=oaypoWXbuFw&feature=youtu.be)       |                               |
 | Chen Gong        | [Link](https://twitter.com/mgmg3939pnd/status/1201840650418704384)         |                               |
 | Dantes           | [Link](https://twitter.com/monhanluna/status/1201804182149165056?s=20)     |                               |
 | Ereshkigal       | [Link](https://twitter.com/SW87807148/status/1201865470506201093)          | NoCE on DPS                   |
