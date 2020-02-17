@@ -6,17 +6,16 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 
 ## Table of Contents
 
-
 ### 2020
 
 -   [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
 -   [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
 -   [Penth Amazoness.com CQ](#Amazonesscom---CEO-Crisis-2020)
 
-
 ### 2019
 
 -   [Xmas 2019 CQ](#xmas-2019)
+
 ## Contributing
 
 -   Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Chaldea-Combat-Records/blob/master/CONTRIBUTING.md).
@@ -25,32 +24,39 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 
 ### Xmas 2019
 
-| DPS Used         | Link                                                                       | Remarks                       |
-| ---------------- | -------------------------------------------------------------------------- | ----------------------------- |
-| Arjuna (Alter)   | [Link](https://twitter.com/ITMST/status/1202969972055531520)               | Multi-Core with Saber Astolfo |
-| Astarte          | [Link](https://www.youtube.com/watch?v=JkQR5uKcnEQ&feature=youtu.be)       |                               |
-| Astraea          | [Link](https://www.bilibili.com/video/av78857973)                          |                               |
-| Chen Gong        | [Link](https://twitter.com/mgmg3939pnd/status/1201840650418704384)         |                               |
-| Dantes           | [Link](https://twitter.com/monhanluna/status/1201804182149165056?s=20)     |                               |
-| Ereshkigal       | [Link](https://twitter.com/SW87807148/status/1201865470506201093)          | NoCE on DPS                   |
-| Frankenstein     | [Link](https://twitter.com/FrnHorn/status/1201899991498817536)             |                               |
-| Gilgamesh        | [Link](https://twitter.com/KUR_NU_GI_A/status/1201911136091701248?s=20)    | noCE on DPS                   |
-| Hessian Lobo     | [Link](https://twitter.com/kitakitasnas/status/1202482956045938688)        |                               |
-| Ishtar           | [Link](https://twitter.com/waiwaikigurumi/status/1203639263964741633?s=20) | noCE on DPS                   |
-| Ishtar (Rider)   | [Link](https://twitter.com/waiwaikigurumi/status/1201817173905162240)      |                               |
-|                  | [Link](https://twitter.com/waiwaikigurumi/status/1204710940106620928)      | Fully NoCE                    |
-|                  | [Link](https://twitter.com/waiwaikigurumi/status/1202206000398262272)      | NoCE on DPS                   |
-| Melt (Alter-Ego) | [Link](https://twitter.com/2_5_dimension/status/1203582486334164997?s=20)  |                               |
-| Melt (Lancer)    | [Link](https://twitter.com/BOBislazyboy/status/1201906559674130433)        | NoSwap                        |
-|                  | [Link](https://www.youtube.com/watch?v=oaypoWXbuFw&feature=youtu.be)       |                               |
-| MHXA             | [Link](https://twitter.com/Bonta_Unit_07/status/1204248994194448385?s=20)  |                               |
-| Nero (Saber)     | [Link](https://twitter.com/Chihiro1000/status/1202800990140821504?s=20)    | w/Bride Meme                  |
-| Nobu (Maou)      | [Link](https://twitter.com/OrGOrG_FGO/status/1201934364197543936)          | NoSwap                        |
-| Okita (Alter)    | [Link](https://twitter.com/BOBislazyboy/status/1203876232414281730)        |                               |
-| Passionlip       | [Link](https://twitter.com/onabeno_huta/status/1203693162532724737)        |                               |
-| Semiramis        | [Link](https://twitter.com/7Corner/status/1204418511272960004)             |                               |
-| Tesla            | [Link](https://twitter.com/abiro_game/status/1201872557093400580)          |                               |
-| Yu Miaoyi        | [Link](https://twitter.com/EstesT32/status/1202028169420689408)            |                               |
+| DPS Used               | Link                                                                       | Remarks                       |
+| ---------------------- | -------------------------------------------------------------------------- | ----------------------------- |
+| Arjuna (Alter)         | [Link](https://twitter.com/ITMST/status/1202969972055531520)               | Multi-Core with Saber Astolfo |
+|                        | [Link](https://twitter.com/ITMST/status/1202609077928382464)               |                               |
+| Arturia                | [Link](https://twitter.com/spike197905/status/1202524161865740289)         |                               |
+| Arturia (Lancer Alter) | [Link](https://twitter.com/7Corner/status/1202465928593592326?s=20)        |                               |
+| Astarte                | [Link](https://www.youtube.com/watch?v=JkQR5uKcnEQ&feature=youtu.be)       |                               |
+| Astraea                | [Link](https://www.bilibili.com/video/av78857973)                          |                               |
+| Chen Gong              | [Link](https://twitter.com/mgmg3939pnd/status/1201840650418704384)         |                               |
+| Dantes                 | [Link](https://twitter.com/monhanluna/status/1201804182149165056?s=20)     |                               |
+| Drake                  | [Link](https://twitter.com/7Corner/status/1202387677598769153?s=20)        |                               |
+| Ereshkigal             | [Link](https://twitter.com/SW87807148/status/1201865470506201093)          | NoCE on DPS                   |
+| Frankenstein           | [Link](https://twitter.com/FrnHorn/status/1201899991498817536)             |                               |
+| Gilgamesh              | [Link](https://twitter.com/KUR_NU_GI_A/status/1201911136091701248?s=20)    | noCE on DPS                   |
+| Hessian Lobo           | [Link](https://twitter.com/kitakitasnas/status/1202482956045938688)        |                               |
+| Ishtar                 | [Link](https://twitter.com/waiwaikigurumi/status/1203639263964741633?s=20) | noCE on DPS                   |
+| Ishtar (Rider)         | [Link](https://twitter.com/waiwaikigurumi/status/1201817173905162240)      |                               |
+|                        | [Link](https://twitter.com/waiwaikigurumi/status/1204710940106620928)      | Fully NoCE                    |
+|                        | [Link](https://twitter.com/waiwaikigurumi/status/1202206000398262272)      | NoCE on DPS                   |
+| Ivan                   | [Link](https://twitter.com/7Corner/status/1202404446098968577?s=20)        |                               |
+| Kingprotea             | [Link](https://twitter.com/BOBislazyboy/status/1202005665658671104)        |                               |
+| Melt (Alter-Ego)       | [Link](https://twitter.com/2_5_dimension/status/1203582486334164997?s=20)  |                               |
+| Melt (Lancer)          | [Link](https://twitter.com/BOBislazyboy/status/1201906559674130433)        | NoSwap                        |
+|                        | [Link](https://www.youtube.com/watch?v=oaypoWXbuFw&feature=youtu.be)       |                               |
+| MHXA                   | [Link](https://twitter.com/Bonta_Unit_07/status/1204248994194448385?s=20)  |                               |
+| Musashi (Berserker)    | [Link](https://twitter.com/KUR_NU_GI_A/status/1202423715637555200?s=20)    | noCE on DPS                   |
+| Nero (Saber)           | [Link](https://twitter.com/Chihiro1000/status/1202800990140821504?s=20)    | w/Bride Meme                  |
+| Nobu (Maou)            | [Link](https://twitter.com/OrGOrG_FGO/status/1201934364197543936)          | NoSwap                        |
+| Okita (Alter)          | [Link](https://twitter.com/BOBislazyboy/status/1203876232414281730)        |                               |
+| Passionlip             | [Link](https://twitter.com/onabeno_huta/status/1203693162532724737)        |                               |
+| Semiramis              | [Link](https://twitter.com/7Corner/status/1204418511272960004)             |                               |
+| Tesla                  | [Link](https://twitter.com/abiro_game/status/1201872557093400580)          |                               |
+| Yu Miaoyi              | [Link](https://twitter.com/EstesT32/status/1202028169420689408)            |                               |
 
 ### Benienma CQ Enmatei Event Rerun
 
