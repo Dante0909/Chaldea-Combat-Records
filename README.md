@@ -49,6 +49,7 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 | Melt (Lancer)          | [Link](https://twitter.com/BOBislazyboy/status/1201906559674130433)        | NoSwap                        |
 |                        | [Link](https://www.youtube.com/watch?v=oaypoWXbuFw&feature=youtu.be)       |                               |
 | MHXA                   | [Link](https://twitter.com/Bonta_Unit_07/status/1204248994194448385?s=20)  |                               |
+| Murasaki Shikibu       | [Link](https://www.bilibili.com/video/av78006414)                          |                               |
 | Musashi (Berserker)    | [Link](https://twitter.com/KUR_NU_GI_A/status/1202423715637555200?s=20)    | noCE on DPS                   |
 | Nero (Saber)           | [Link](https://twitter.com/Chihiro1000/status/1202800990140821504?s=20)    | w/Bride Meme                  |
 | Nobu (Maou)            | [Link](https://twitter.com/OrGOrG_FGO/status/1201934364197543936)          | NoSwap                        |
@@ -56,6 +57,7 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 | Passionlip             | [Link](https://twitter.com/onabeno_huta/status/1203693162532724737)        |                               |
 | Semiramis              | [Link](https://twitter.com/7Corner/status/1204418511272960004)             |                               |
 | Tesla                  | [Link](https://twitter.com/abiro_game/status/1201872557093400580)          |                               |
+| Tesla                  | [Link](https://twitter.com/abiro_game/status/1202526989178925056?s=20)     | NoCE on DPS                   |
 | Yu Miaoyi              | [Link](https://twitter.com/EstesT32/status/1202028169420689408)            |                               |
 
 ### Benienma CQ Enmatei Event Rerun
