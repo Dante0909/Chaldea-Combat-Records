@@ -15,12 +15,21 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 ### 2019
 
 -   [Xmas 2019 CQ](#xmas-2019)
+-   [Xmas 2019 Farming Comps](#xmas-2019-farming-comps)
 
 ## Contributing
 
 -   Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Chaldea-Combat-Records/blob/master/CONTRIBUTING.md).
 
 ## Events
+
+### Xmas 2019 Farming Comps
+
+| DPS Used                 | Link                                                             |
+| ------------------------ | ---------------------------------------------------------------- |
+| Arjuna (Alter), Benienma | [Link](https://twitter.com/Kag_Tam/status/1201805361457483776)   |
+| Arturia,Benienma         | [Link](https://twitter.com/mathia204/status/1201803796172525569) |
+| Lancelot (Berserker)     | [Link](https://twitter.com/zonntche/status/1201834561010688001)  |
 
 ### Xmas 2019
 
