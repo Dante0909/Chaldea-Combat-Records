@@ -25,11 +25,11 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 
 ### Xmas 2019 Farming Comps
 
-| DPS Used                 | Link                                                             |
-| ------------------------ | ---------------------------------------------------------------- |
-| Arjuna (Alter), Benienma | [Link](https://twitter.com/Kag_Tam/status/1201805361457483776)   |
-| Arturia,Benienma         | [Link](https://twitter.com/mathia204/status/1201803796172525569) |
-| Lancelot (Berserker)     | [Link](https://twitter.com/zonntche/status/1201834561010688001)  |
+| DPS Used                 | Link                                                             | Remarks |
+| ------------------------ | ---------------------------------------------------------------- | ------- |
+| Arjuna (Alter), Benienma | [Link](https://twitter.com/Kag_Tam/status/1201805361457483776)   |         |
+| Arturia,Benienma         | [Link](https://twitter.com/mathia204/status/1201803796172525569) |         |
+| Lancelot (Berserker)     | [Link](https://twitter.com/zonntche/status/1201834561010688001)  |         |
 
 ### Xmas 2019
 
