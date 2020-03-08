@@ -44,6 +44,7 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 | Compilation 1                 | [Link](https://www.youtube.com/watch?v=dTPc_KP2cgo)                 | Double Waver/Self Charging Sabers |
 | Compilation 2                 | [Link](https://www.youtube.com/watch?v=D3nplMbSjrc)                 |                                   |
 | Compilation 3                 | [Link](https://twitter.com/KUR_NU_GI_A/status/1201849273442160646)  |                                   |
+| Compilation 4                 | [Link](https://twitter.com/WacBook/status/1202542420488933376)      |                                   |
 
 ### Xmas 2019
 
