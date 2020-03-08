@@ -25,7 +25,6 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 
 ### Xmas 2019 Farming Comps
 
-<<<<<<< HEAD
 | DPS Used                 | Link                                                             | Remarks                       |
 | ------------------------ | ---------------------------------------------------------------- | ----------------------------- |
 | Arjuna (Alter), Benienma | [Link](https://twitter.com/Kag_Tam/status/1201805361457483776)   |                               |
@@ -34,13 +33,6 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 | Astarte                  | [Link](https://twitter.com/ITMST/status/1201895993005838336)     | Double core with Arjuna Alter |
 |                          | [Link](https://www.youtube.com/watch?v=M8YQKMC8MHE)              | Double Core with Nito         |
 |                          | [Link](https://www.youtube.com/watch?v=k0wev4aIOnY)              | Double Skadi + Waver          |
-=======
-| DPS Used                 | Link                                                             | Remarks |
-| ------------------------ | ---------------------------------------------------------------- | ------- |
-| Arjuna (Alter), Benienma | [Link](https://twitter.com/Kag_Tam/status/1201805361457483776)   |         |
-| Arturia,Benienma         | [Link](https://twitter.com/mathia204/status/1201803796172525569) |         |
-| Lancelot (Berserker)     | [Link](https://twitter.com/zonntche/status/1201834561010688001)  |         |
->>>>>>> 7d7fb94efafc4e6a97a7cde1c7a17d4e331ed2cf
 
 ### Xmas 2019
 
