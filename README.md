@@ -25,14 +25,25 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 
 ### Xmas 2019 Farming Comps
 
-| DPS Used                 | Link                                                             | Remarks                       |
-| ------------------------ | ---------------------------------------------------------------- | ----------------------------- |
-| Arjuna (Alter), Benienma | [Link](https://twitter.com/Kag_Tam/status/1201805361457483776)   |                               |
-| Arturia,Benienma         | [Link](https://twitter.com/mathia204/status/1201803796172525569) |                               |
-| Lancelot (Berserker)     | [Link](https://twitter.com/zonntche/status/1201834561010688001)  |                               |
-| Astarte                  | [Link](https://twitter.com/ITMST/status/1201895993005838336)     | Double core with Arjuna Alter |
-|                          | [Link](https://www.youtube.com/watch?v=M8YQKMC8MHE)              | Double Core with Nito         |
-|                          | [Link](https://www.youtube.com/watch?v=k0wev4aIOnY)              | Double Skadi + Waver          |
+| DPS Used                      | Link                                                                | Remarks                           |
+| ----------------------------- | ------------------------------------------------------------------- | --------------------------------- |
+| Arjuna (Alter)                | [Link](https://twitter.com/Kag_Tam/status/1201805361457483776)      | With Benienma                     |
+|                               | [Link](https://www.youtube.com/watch?v=Ps8yl1lNb0s)                 | With Chen Gong                    |
+|                               | [Link](https://twitter.com/ITMST/status/1201895993005838336)        | With Arturia                      |
+| Arturia                       | [Link](https://twitter.com/mathia204/status/1201803796172525569)    | With Benienma                     |
+| Arturia                       | [Link](https://www.youtube.com/watch?v=mKCCU_flsHI)                 | With Summer BB                    |
+| Astarte                       | [Link](https://twitter.com/ITMST/status/1201895993005838336)        | Double core with Arjuna Alter     |
+|                               | [Link](https://www.youtube.com/watch?v=M8YQKMC8MHE)                 | Double Core with Nito             |
+|                               | [Link](https://www.youtube.com/watch?v=k0wev4aIOnY)                 | Double Skadi + Waver              |
+| Da Vinci (Rider)              | [Link](https://www.youtube.com/watch?v=E1YeqicbqPQ)                 |                                   |
+|                               | [Link](https://www.youtube.com/watch?v=EnesvidCsc8)                 | Chen Gong for swap                |
+| Lakshmibai, Suzuka Gozen      | [Link](https://www.youtube.com/watch?v=9s0xUIRchzU)                 |                                   |
+| Lancelot (Berserker)          | [Link](https://twitter.com/zonntche/status/1201834561010688001)     |                                   |
+|                               | [Link](https://www.youtube.com/watch?v=wZZOrc3HhYk)                 |                                   |
+| ST + 2AoE Saber Demonstration | [Link](https://twitter.com/tarasque0221/status/1201818172745080832) |                                   |
+| Compilation 1                 | [Link](https://www.youtube.com/watch?v=dTPc_KP2cgo)                 | Double Waver/Self Charging Sabers |
+| Compilation 2                 | [Link](https://www.youtube.com/watch?v=D3nplMbSjrc)                 |                                   |
+| Compilation 3                 | [Link](https://twitter.com/KUR_NU_GI_A/status/1201849273442160646)  |                                   |
 
 ### Xmas 2019
 
