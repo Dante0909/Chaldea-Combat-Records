@@ -11,6 +11,7 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 -   [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
 -   [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
 -   [Penth Amazoness.com CQ](#Amazonesscom---CEO-Crisis-2020)
+-   [Chaldea Boys Collection](#chaldea-boys-collection-2020)
 
 ### 2019
 
@@ -509,3 +510,57 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 | Yagyuu                 | [Link](https://twitter.com/kitakitasnas/status/1221381798451507201?s=20)    |                                           |
 | Yang Guifei            | [Link](https://twitter.com/2_5_dimension/status/1220567228329758720?s=20)   |                                           |
 | Yu Miaoyi              | [Link](https://twitter.com/SW87807148/status/1220276195402477568?s=20)      |                                           |
+
+### Chaldea Boys Collection 2020
+
+| DPS Used                  | Link                                                                         | Remarks                                    |
+| ------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------ |
+| Abigail Williams          | [Link](https://twitter.com/fgosyukai1/status/1237738717608984577?s=20)       |                                            |
+| Achilles                  | [Link](https://twitter.com/Tachilles_FGO/status/1237728524074496000?s=20)    |                                            |
+| Altera (Archer)           | [Link](https://twitter.com/snowdroptree/status/1237682970699247616?s=20)     |                                            |
+| Arturia Pendragon (Ruler) | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1237709892753870849?s=201) |                                            |
+| Ashwatthama               | [Link](https://twitter.com/nagaru35/status/1237710750530932736?s=20)         |                                            |
+| Astarte                   | [Link](https://twitter.com/KUR_NU_GI_A/status/1237683733995520000?s=20)      |                                            |
+| Astolfo (Saber)           | [Link](https://twitter.com/2_5_dimension/status/1237699051396558848?s=20)    | Dual Core with Kama                        |
+| Beowulf                   | [Link](https://twitter.com/Hibari31/status/1237706253087866880?s=20)         |                                            |
+| Brynhildr                 | [Link](https://twitter.com/yakusagu327/status/1237686278952378368?s=20)      |                                            |
+| Caesar                    | [Link](https://twitter.com/snowdroptree/status/1237688680745037826?s=20)     |                                            |
+| Enkidu                    | [Link](https://twitter.com/mgmg3939pnd/status/1237680929910341632?s=20)      |                                            |
+|                           | [Link](https://twitter.com/NAO42010/status/1237797005130231808?s=20)         |                                            |
+| Ereshkigal                | [Link](https://twitter.com/waiwaikigurumi/status/1237755017286676486?s=20)   |                                            |
+| Fujino                    | [Link](https://twitter.com/7Corner/status/1237747444051406848?s=20)          |                                            |
+| Gilgamesh                 | [Link](https://twitter.com/Asupara0821_FGO/status/1237682496042496001?s=20)  |                                            |
+|                           | [Link](https://twitter.com/nazo_hiroinG/status/1237679606993313794?s=20)     |                                            |
+| Heracles                  | [Link](https://twitter.com/fuwa_rai/status/1237786900208840704?s=20)         | Bronze Supports Only                       |
+|                           | [Link](https://twitter.com/fuwa_rai/status/1237720416732368896?s=20)         | Non SSR supports only, Chen Gong Dual Core |
+| Hijikata                  | [Link](https://twitter.com/NAO42010/status/1237749421200134145?s=20)         |                                            |
+| Ibaraki                   | [Link](https://twitter.com/snowdroptree/status/1237701647272304643?s=20)     |                                            |
+|                           | [Link](https://twitter.com/snowdroptree/status/1237812378953060353?s=20)     | Non SSR supports only                      |
+| Illya                     | [Link](https://twitter.com/Herakles_osi/status/1237703638165811200?s=20)     |                                            |
+| Ishtar                    | [Link](https://twitter.com/waiwaikigurumi/status/1237703689185267714?s=20)   |                                            |
+| Jeanne d'Arc (Alter)      | [Link](https://twitter.com/hm_fgogo/status/1237698928159502337?s=20)         |                                            |
+| Kama                      | [Link](https://twitter.com/abiro_game/status/1237742463365742597?s=20)       | Fully noCE                                 |
+| Lancelot (Saber)          | [Link](https://twitter.com/FGOakauntoz/status/1237685521754640384?s=20)      |                                            |
+|                           | [Link](https://twitter.com/tarasque0221/status/1237717662924288000?s=20)     |                                            |
+| Martha (Ruler)            | [Link](https://twitter.com/otkznr/status/1237756013803008001?s=20)           |                                            |
+| Meltryliis (Alter-Ego)    | [Link](https://twitter.com/2_5_dimension/status/1237676080653197313?s=20)    |                                            |
+|                           | [Link](https://twitter.com/otkznr/status/1237679449161654272?s=20)           |                                            |
+|                           | [Link](https://twitter.com/Yuri_duelist/status/1237707018334392321?s=20)     | NoCE on DPS                                |
+|                           | [Link](https://twitter.com/BOBislazyboy/status/1237695058167595008?s=20)     | NoSwap                                     |
+| Meltryllis (Lancer)       | [Link](https://twitter.com/BOBislazyboy/status/1237752977257086976?s=20)     |                                            |
+| MHXA                      | [Link](https://twitter.com/r0o5z3i3/status/1237673595062501377?s=20)         |                                            |
+| Napoleon                  | [Link](https://twitter.com/Dorapika_Wu/status/1237717189655842816?s=0)       |                                            |
+| Nero (Bride)              | [Link](https://twitter.com/takato09217/status/1237675155272286212?s=20)      |                                            |
+| Nikola Tesla              | [Link](https://twitter.com/abiro_game/status/1237669766044594176?s=20)       |                                            |
+| Oda Nobunaga (Berserker)  | [Link](https://twitter.com/snowdroptree/status/1237788504882475008?s=20)     |                                            |
+| Okita Souji               | [Link](https://twitter.com/snowdroptree/status/1237676747522338816?s=20)     |                                            |
+| Orion                     | [Link](https://twitter.com/SW87807148/status/1237687499742253056?s=20)       |                                            |
+|                           | [Link](https://twitter.com/fgo38195272/status/1237724822081114112?s=20)      | noSwap, Bronze supports only               |
+| Passionlip                | [Link](https://twitter.com/onabeno_huta/status/1237717828465090562?s=20)     | SBB Time Lock                              |
+| Penthisilea               | [Link](https://twitter.com/EdaFgo/status/1237748661112590337?s=20)           | NoSwap                                     |
+| Sasaki Kojirou            | [Link](https://twitter.com/Violet_g612/status/1237675615148314624?s=20)      |                                            |
+| Sei Shonagon              | [Link](https://twitter.com/Yuri_duelist/status/1237737094895661056?s=20)     |                                            |
+| Tomoe Gozen               | [Link](https://twitter.com/fullice50/status/1237705702048587776?s=20)        |                                            |
+| Wu Zetian                 | [Link](https://twitter.com/premium__gold/status/1237754968490172417?s=20)    |                                            |
+
+\| 
