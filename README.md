@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository serves as a collection of notable gameplay videos from FGO, although mainly focusing on TAs. The videos are grouped by year according to the JP timeline.
+This repository serves as a collection of notable gameplay videos from FGO, focusing on TAs and solos. The videos are grouped by year according to the JP timeline.
 
 ## Table of Contents
 
@@ -696,3 +696,6 @@ This repository serves as a collection of notable gameplay videos from FGO, alth
 | Vlad                      | [Link](https://twitter.com/nanaki_toshima/status/1237746251346505728?s=20)   | NoCE on support                            |
 | Wu Zetian                 | [Link](https://twitter.com/premium__gold/status/1237754968490172417?s=20)    |                                            |
 | Multiple Cores 1          | [Link](https://twitter.com/2_5_dimension/status/1237982018941546496?s=20)    |                                            |
+
+1. All videos linked in this repo are the properties of their owners.
+2. Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
