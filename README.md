@@ -643,6 +643,8 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Dantes                         | [Link](https://twitter.com/Raven2106/status/1237735064126885888?s=20)        |                                            |
 |                                | [Link](https://twitter.com/mana_pwpr/status/1238399054960136192?s=20)        | NoSwap                                     |
 | Diarmuid (Saber)               | [Link](https://twitter.com/hiduka01/status/1237899495448305664?s=20)         |                                            |
+|                                | [Link](https://twitter.com/hiduka01/status/1238078903714902018?s=20)         | NoSwap                                     |
+| EMIYA (Assassin, Kiritsugu)    | [Link](https://twitter.com/GrimOMeimei/status/1238425063054905344?s=20)      |                                            |
 | Enkidu                         | [Link](https://twitter.com/mgmg3939pnd/status/1237680929910341632?s=20)      |                                            |
 |                                | [Link](https://twitter.com/NAO42010/status/1237797005130231808?s=20)         |                                            |
 | Ereshkigal                     | [Link](https://twitter.com/waiwaikigurumi/status/1237755017286676486?s=20)   |                                            |
@@ -655,6 +657,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 |                                | [Link](https://twitter.com/fuwa_rai/status/1237720416732368896?s=20)         | Non SSR supports only, Chen Gong Dual Core |
 | Hessian Lobo                   | [Link](https://twitter.com/kitakitasnas/status/1237958080870014976?s=20)     |                                            |
 | Hijikata                       | [Link](https://twitter.com/NAO42010/status/1237749421200134145?s=20)         |                                            |
+| Hokusai (Saber)                | [Link](https://twitter.com/snowdroptree/status/1238425312490188801?s=20)     |                                            |
 | Ibaraki                        | [Link](https://twitter.com/snowdroptree/status/1237701647272304643?s=20)     |                                            |
 |                                | [Link](https://twitter.com/snowdroptree/status/1237812378953060353?s=20)     | Non SSR supports only                      |
 | Illya                          | [Link](https://twitter.com/Herakles_osi/status/1237703638165811200?s=20)     |                                            |
@@ -682,6 +685,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Meltryllis (Lancer)            | [Link](https://twitter.com/BOBislazyboy/status/1237752977257086976?s=20)     |                                            |
 | MHXA                           | [Link](https://twitter.com/r0o5z3i3/status/1237673595062501377?s=20)         |                                            |
 | MHXX                           | [Link](https://twitter.com/PURIN_XX_/status/1237734167732867072?s=20)        |                                            |
+| Moriarity                      | [Link](https://twitter.com/nanaki_toshima/status/1238089858154786820?s=20)   |                                            |
 | Musashi (Saber)                | [Link](https://twitter.com/hiduka01/status/1238432499379736576?s=20)         |                                            |
 | Nagao Kagetora                 | [Link](https://twitter.com/hork0320/status/1237789689274232833?s=20)         |                                            |
 | Napoleon                       | [Link](https://twitter.com/Dorapika_Wu/status/1237717189655842816?s=0)       |                                            |
@@ -689,6 +693,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 |                                | [Link](https://twitter.com/Chihiro1000/status/1237910127820206080?s=20)      |                                            |
 | Nikola Tesla                   | [Link](https://twitter.com/abiro_game/status/1237669766044594176?s=20)       |                                            |
 | Oda Nobunaga (Berserker)       | [Link](https://twitter.com/snowdroptree/status/1237788504882475008?s=20)     |                                            |
+|                                | [Link](https://twitter.com/snowdroptree/status/1238201832054222848?s=20)     | NoCE on Support                            |
 | Odysseus                       | [Link](https://twitter.com/2_5_dimension/status/1237964229270892544?s=20)    |                                            |
 | Okita Souji                    | [Link](https://twitter.com/snowdroptree/status/1237676747522338816?s=20)     |                                            |
 | Okita Souji (Alter)            | [Link](https://twitter.com/BOBislazyboy/status/1238155707545006081?s=20)     |                                            |
@@ -704,6 +709,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Raikou                         | [Link](https://twitter.com/niflheimr413413/status/1237867100087160834?s=20)  |                                            |
 | Raikou (Lancer)                | [Link](https://twitter.com/niflheimr413413/status/1238405417576714240?s=20)  |                                            |
 | Robin                          | [Link](https://twitter.com/canal00/status/1237732234670379010?s=20)          |                                            |
+|                                | [Link](https://twitter.com/canal00/status/1238120779394342912?s=20)          | NonSSR supports only                       |
 | Sasaki Kojirou                 | [Link](https://twitter.com/Violet_g612/status/1237675615148314624?s=20)      |                                            |
 | Sei Shonagon                   | [Link](https://twitter.com/Yuri_duelist/status/1237737094895661056?s=20)     |                                            |
 | Shiki                          | [Link](https://twitter.com/liyangru/status/1237834967071129600?s=20)         |                                            |
@@ -713,6 +719,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Valkyrie                       | [Link](https://twitter.com/terminas_aria/status/1237702633520939008?s=20)    |                                            |
 | Vlad                           | [Link](https://twitter.com/nanaki_toshima/status/1237746251346505728?s=20)   | NoCE on support                            |
 | Wu Zetian                      | [Link](https://twitter.com/premium__gold/status/1237754968490172417?s=20)    |                                            |
+| Xiang Yu                       | [Link](https://twitter.com/2_5_dimension/status/1238138614862643200?s=20)    |                                            |
 | Yangyuu Munenori               | [Link](https://twitter.com/kumamori4/status/1238406519655288832?s=20)        |                                            |
 | Yang Guifei                    | [Link](https://twitter.com/bikakindefgo/status/1238467042010755073?s=20)     |                                            |
 | Multiple Cores 1               | [Link](https://twitter.com/2_5_dimension/status/1237982018941546496?s=20)    |                                            |
