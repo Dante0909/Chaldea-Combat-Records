@@ -711,7 +711,8 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Raikou (Lancer)                | [Link](https://twitter.com/niflheimr413413/status/1238405417576714240?s=20)  |                                            |
 | Robin                          | [Link](https://twitter.com/canal00/status/1237732234670379010?s=20)          |                                            |
 |                                | [Link](https://twitter.com/canal00/status/1238120779394342912?s=20)          | NonSSR supports only                       |
-| Sasaki Kojirou                 | [Link](https://twitter.com/Violet_g612/status/1237675615148314624?s=20)      |                                            |
+| Sasaki Kojiro                  | [Link](https://twitter.com/Violet_g612/status/1237675615148314624?s=20)      |                                            |
+|                                | [Link](https://www.youtube.com/watch?v=-04JCIzy6LE)                          |                                            |
 | Sei Shonagon                   | [Link](https://twitter.com/Yuri_duelist/status/1237737094895661056?s=20)     |                                            |
 | Shiki                          | [Link](https://twitter.com/liyangru/status/1237834967071129600?s=20)         |                                            |
 | Tamamo-no-Mae (Lancer)         | [Link](https://twitter.com/ibu_fgo/status/1238440871910989826?s=20)          |                                            |
