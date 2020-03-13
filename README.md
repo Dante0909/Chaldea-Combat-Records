@@ -628,6 +628,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Arturia Pendragon (Maid Alter) | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1237745881350197248?s=20)  |                                            |
 | Arturia Pendragon (Ruler)      | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1237709892753870849?s=201) |                                            |
 | Ashwatthama                    | [Link](https://twitter.com/nagaru35/status/1237710750530932736?s=20)         |                                            |
+|                                | [Link](https://www.youtube.com/watch?v=Gzbfgoj_kGg)                          |                                            |
 |                                | [Link](https://twitter.com/nagaru35/status/1237786775059193857?s=20)         |                                            |
 |                                | [Link](https://twitter.com/nagaru35/status/1238165714982203393?s=20)         | NoSwap                                     |
 |                                | [Link](https://twitter.com/hork0320/status/1238131043703508992?s=20)         | NoSwap                                     |
