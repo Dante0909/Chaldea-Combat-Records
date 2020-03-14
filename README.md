@@ -626,6 +626,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Altera (Archer)                | [Link](https://twitter.com/snowdroptree/status/1237682970699247616?s=20)     |                                            |
 | Arash                          | [Link](https://twitter.com/mizuchaofgo/status/1238304937198489600?s=20)      |                                            |
 | Arthur Pendragon (Prototype)   | [Link](https://twitter.com/NAO42010/status/1238671268078964736?s=20)         |                                            |
+| Arturia Pendragon (Alter)      | [Link](https://twitter.com/taihou04/status/1238697209350090752?s=20)         |                                            |
 | Arturia Pendragon (Maid Alter) | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1237745881350197248?s=20)  |                                            |
 | Arturia Pendragon (Ruler)      | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1237709892753870849?s=201) |                                            |
 | Ashwatthama                    | [Link](https://twitter.com/nagaru35/status/1237710750530932736?s=20)         |                                            |
@@ -666,6 +667,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Hessian Lobo                   | [Link](https://twitter.com/kitakitasnas/status/1237958080870014976?s=20)     |                                            |
 | Hijikata                       | [Link](https://twitter.com/NAO42010/status/1237749421200134145?s=20)         |                                            |
 | Hokusai (Saber)                | [Link](https://twitter.com/snowdroptree/status/1238425312490188801?s=20)     |                                            |
+| Hokusai (Foreigner)            | [Link](https://twitter.com/kitakitasnas/status/1238756381286494212?s=20)     |                                            |
 | Ibaraki                        | [Link](https://twitter.com/snowdroptree/status/1237701647272304643?s=20)     |                                            |
 |                                | [Link](https://twitter.com/snowdroptree/status/1237812378953060353?s=20)     | Non SSR supports only                      |
 | Illya                          | [Link](https://twitter.com/Herakles_osi/status/1237703638165811200?s=20)     |                                            |
@@ -715,6 +717,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Penthisilea                    | [Link](https://twitter.com/EdaFgo/status/1237748661112590337?s=20)           | NoSwap                                     |
 |                                | [Link](https://twitter.com/EdaFgo/status/1238218320760852480?s=20)           | Double Core with self                      |
 | Qin Shi Huang                  | [Link](https://www.youtube.com/watch?v=O27gAIhNAYY&feature=youtu.be)         | SOLO                                       |
+| Quetzalcoatl                   | [Link](https://twitter.com/ibu_fgo/status/1238694194199187461?s=20)          |                                            |
 | Raikou                         | [Link](https://twitter.com/niflheimr413413/status/1237867100087160834?s=20)  |                                            |
 | Raikou (Lancer)                | [Link](https://twitter.com/niflheimr413413/status/1238405417576714240?s=20)  |                                            |
 | Robin                          | [Link](https://twitter.com/canal00/status/1237732234670379010?s=20)          |                                            |
