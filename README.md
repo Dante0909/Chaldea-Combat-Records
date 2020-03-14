@@ -683,6 +683,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Li Shuwen  (Assassin)          | [Link](https://twitter.com/kitakitasnas/status/1237849756488978438?s=20)     |                                            |
 | Mandricardo                    | [Link](https://twitter.com/hork0320/status/1237790216422744064?s=20)         |                                            |
 | Martha (Ruler)                 | [Link](https://twitter.com/otkznr/status/1237756013803008001?s=20)           |                                            |
+| Mashu                          | [Link](https://www.bilibili.com/video/av96128210)                            |                                            |
 | Medb                           | [Link](https://twitter.com/daigooregairu/status/1237988509354344448?s=20)    |                                            |
 | Medusa (Lancer)                | [Link](https://twitter.com/_sky110/status/1237862036853252102?s=20)          |                                            |
 | Meltryliis (Alter-Ego)         | [Link](https://twitter.com/2_5_dimension/status/1237676080653197313?s=20)    |                                            |
