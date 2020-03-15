@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository serves as a collection of notable gameplay videos from FGO, focusing on TAs and solos. The videos are grouped by year according to the JP timeline.
+This repository serves as a collection of notable gameplay videos from FGO, focusing on efficient gameplay. The videos are grouped by year according to the JP timeline.
 
 ## Table of Contents
 
@@ -646,6 +646,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Caesar                         | [Link](https://twitter.com/snowdroptree/status/1237688680745037826?s=20)     |                                            |
 | Chiron                         | [Link](https://twitter.com/Chihiro1000/status/1237959624935919616?s=20)      |                                            |
 | Chloe                          | [Link](https://twitter.com/niku2_admiral/status/1237902996438044672?s=20)    |                                            |
+| Cu Alter                       | [Link](https://www.youtube.com/watch?v=-wvTYyng6uU)                          | Solo                                       |
 | Dantes                         | [Link](https://twitter.com/Raven2106/status/1237735064126885888?s=20)        |                                            |
 |                                | [Link](https://twitter.com/mana_pwpr/status/1238399054960136192?s=20)        | NoSwap                                     |
 | Diarmuid (Saber)               | [Link](https://twitter.com/hiduka01/status/1237899495448305664?s=20)         |                                            |
