@@ -641,6 +641,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Astolfo (Saber)                | [Link](https://twitter.com/2_5_dimension/status/1237699051396558848?s=20)    | Dual Core with Kama                        |
 |                                | [Link](https://twitter.com/1104shoki/status/1237722066272391168?s=20)        |                                            |
 | Atalanta (Alter)               | [Link](https://twitter.com/RGrOmQJMfkWvSHg/status/1237765692784406528?s=20)  |                                            |
+|                                | [Link](https://twitter.com/RGrOmQJMfkWvSHg/status/1239088500802113536?s=20)  | NoSwap                                     |
 | Bedivere                       | [Link](https://twitter.com/terminas_aria/status/1238445592407183361?s=20)    |                                            |
 | Beowulf                        | [Link](https://twitter.com/Hibari31/status/1237706253087866880?s=20)         |                                            |
 | Brynhildr                      | [Link](https://twitter.com/yakusagu327/status/1237686278952378368?s=20)      |                                            |
@@ -666,6 +667,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 |                                | [Link](https://twitter.com/KUR_NU_GI_A/status/1237926008281427969?s=20)      | noCE on DPS                                |
 |                                | [Link](https://twitter.com/KUR_NU_GI_A/status/1238634547660509184?s=20)      | NoSwap, NoCE on supports                   |
 |                                | [Link](https://twitter.com/otkznr/status/1239072368842031105?s=20)           | NoCE on Supports, Non SSR Supports only    |
+| Hassan of the Cursed Arm       | [Link](https://twitter.com/tago260/status/1238853305838657536?s=20)          |                                            |
 | Heracles                       | [Link](https://twitter.com/fuwa_rai/status/1237786900208840704?s=20)         | Bronze Supports Only                       |
 |                                | [Link](https://twitter.com/fuwa_rai/status/1237720416732368896?s=20)         | Non SSR supports only, Chen Gong Dual Core |
 |                                | [Link](https://twitter.com/fuwa_rai/status/1238642640469426176?s=20)         | Fully NoCE                                 |
@@ -707,6 +709,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | MHXA                           | [Link](https://twitter.com/r0o5z3i3/status/1237673595062501377?s=20)         |                                            |
 | MHXX                           | [Link](https://twitter.com/PURIN_XX_/status/1237734167732867072?s=20)        |                                            |
 | Moriarity                      | [Link](https://twitter.com/nanaki_toshima/status/1238089858154786820?s=20)   |                                            |
+| Mori Nagayoshi                 | [Link](https://twitter.com/nmnppp/status/1238779085469315072?s=20)           |                                            |
 | Musashi (Saber)                | [Link](https://twitter.com/hiduka01/status/1238432499379736576?s=20)         |                                            |
 | Nagao Kagetora                 | [Link](https://twitter.com/hork0320/status/1237789689274232833?s=20)         |                                            |
 | Napoleon                       | [Link](https://twitter.com/Dorapika_Wu/status/1237717189655842816?s=0)       |                                            |
