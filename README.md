@@ -664,6 +664,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Heracles                       | [Link](https://twitter.com/fuwa_rai/status/1237786900208840704?s=20)         | Bronze Supports Only                       |
 |                                | [Link](https://twitter.com/fuwa_rai/status/1237720416732368896?s=20)         | Non SSR supports only, Chen Gong Dual Core |
 |                                | [Link](https://twitter.com/fuwa_rai/status/1238642640469426176?s=20)         | Fully NoCE                                 |
+|                                | [Link](https://www.bilibili.com/video/av95995688)                            | Solo                                       |
 | Hessian Lobo                   | [Link](https://twitter.com/kitakitasnas/status/1237958080870014976?s=20)     |                                            |
 | Hijikata                       | [Link](https://twitter.com/NAO42010/status/1237749421200134145?s=20)         |                                            |
 | Hokusai (Saber)                | [Link](https://twitter.com/snowdroptree/status/1238425312490188801?s=20)     |                                            |
@@ -716,7 +717,8 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Paris                          | [Link](https://twitter.com/hatahuriojisan/status/1238127670459682817?s=20)   |                                            |
 | Penthisilea                    | [Link](https://twitter.com/EdaFgo/status/1237748661112590337?s=20)           | NoSwap                                     |
 |                                | [Link](https://twitter.com/EdaFgo/status/1238218320760852480?s=20)           | Double Core with self                      |
-| Qin Shi Huang                  | [Link](https://www.youtube.com/watch?v=O27gAIhNAYY&feature=youtu.be)         | SOLO                                       |
+| Qin Shi Huang                  | [Link](https://www.youtube.com/watch?v=O27gAIhNAYY&feature=youtu.be)         | Solo                                       |
+|                                | [Link](https://www.bilibili.com/video/av95906664)                            |                                            |
 | Quetzalcoatl                   | [Link](https://twitter.com/ibu_fgo/status/1238694194199187461?s=20)          |                                            |
 | Raikou                         | [Link](https://twitter.com/niflheimr413413/status/1237867100087160834?s=20)  |                                            |
 | Raikou (Lancer)                | [Link](https://twitter.com/niflheimr413413/status/1238405417576714240?s=20)  |                                            |
