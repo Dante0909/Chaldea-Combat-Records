@@ -635,6 +635,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 |                                | [Link](https://twitter.com/nagaru35/status/1238165714982203393?s=20)         | NoSwap                                     |
 |                                | [Link](https://twitter.com/hork0320/status/1238131043703508992?s=20)         | NoSwap                                     |
 |                                | [Link](https://twitter.com/nagaru35/status/1238565810840330241?s=20)         | NoSwap                                     |
+|                                | [Link](https://www.youtube.com/watch?v=K9Bf4y37J-g)                          | Solo                                       |
 | Astarte                        | [Link](https://twitter.com/KUR_NU_GI_A/status/1237683733995520000?s=20)      |                                            |
 | Astolfo (Saber)                | [Link](https://twitter.com/2_5_dimension/status/1237699051396558848?s=20)    | Dual Core with Kama                        |
 |                                | [Link](https://twitter.com/1104shoki/status/1237722066272391168?s=20)        |                                            |
@@ -679,6 +680,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 |                                | [Link](https://twitter.com/Phi_fgo/status/1237779272061739008?s=20)          |                                            |
 | Kama                           | [Link](https://twitter.com/abiro_game/status/1237742463365742597?s=20)       | Fully noCE                                 |
 |                                | [Link](https://twitter.com/ffgo_rin/status/1237834876897746944?s=20)         | non SSR supports only                      |
+|                                | [Link](https://www.youtube.com/watch?v=ZG7lwOei4dQ)                          | Solo                                       |
 | Kiara                          | [Link](https://twitter.com/Dorapika_Wu/status/1238450774700519424?s=20)      |                                            |
 | Kingprotea                     | [Link](https://twitter.com/BOBislazyboy/status/1237874005878525957?s=20)     |                                            |
 | Lancelot (Saber)               | [Link](https://twitter.com/FGOakauntoz/status/1237685521754640384?s=20)      |                                            |
