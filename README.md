@@ -657,8 +657,8 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | EMIYA (Assassin, Kiritsugu)    | [Link](https://twitter.com/GrimOMeimei/status/1238425063054905344?s=20)      |                                            |
 | EMIYA (Alter)                  | [Link](https://twitter.com/ika_fight/status/1238637722790580225?s=20)        |                                            |
 | Enkidu                         | [Link](https://twitter.com/mgmg3939pnd/status/1237680929910341632?s=20)      |                                            |
-|                                | [Link](https://twitter.com/NAO42010/status/1237797005130231808?s=20)         |   
-| | [Link](https://www.youtube.com/watch?v=4-NZZUKukmo) | Lv80 Black Grail |
+|                                | [Link](https://twitter.com/NAO42010/status/1237797005130231808?s=20)         |                                            |
+|                                | [Link](https://www.youtube.com/watch?v=4-NZZUKukmo)                          | Lv80 Black Grail                           |
 | Ereshkigal                     | [Link](https://twitter.com/waiwaikigurumi/status/1237755017286676486?s=20)   |                                            |
 | Frankenstein (Saber)           | [Link](https://twitter.com/FrnHorn/status/1238650240699228160?s=20)          |                                            |
 | Fujino                         | [Link](https://twitter.com/7Corner/status/1237747444051406848?s=20)          |                                            |
@@ -737,7 +737,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Raikou (Lancer)                | [Link](https://twitter.com/niflheimr413413/status/1238405417576714240?s=20)  |                                            |
 | Robin                          | [Link](https://twitter.com/canal00/status/1237732234670379010?s=20)          |                                            |
 |                                | [Link](https://twitter.com/canal00/status/1238120779394342912?s=20)          | NonSSR supports only                       |
-| | [Link](https://www.youtube.com/watch?v=wS0I3e17lOI) | |
+|                                | [Link](https://www.youtube.com/watch?v=wS0I3e17lOI)                          |                                            |
 | Sasaki Kojiro                  | [Link](https://twitter.com/Violet_g612/status/1237675615148314624?s=20)      |                                            |
 |                                | [Link](https://www.youtube.com/watch?v=-04JCIzy6LE)                          |                                            |
 | Sei Shonagon                   | [Link](https://twitter.com/Yuri_duelist/status/1237737094895661056?s=20)     |                                            |
