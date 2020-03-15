@@ -627,6 +627,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Arash                          | [Link](https://twitter.com/mizuchaofgo/status/1238304937198489600?s=20)      |                                            |
 | Arthur Pendragon (Prototype)   | [Link](https://twitter.com/NAO42010/status/1238671268078964736?s=20)         |                                            |
 | Arturia Pendragon (Alter)      | [Link](https://twitter.com/taihou04/status/1238697209350090752?s=20)         |                                            |
+| Arturia pEndragon (Archer)     | [Link](https://twitter.com/kinopaint/status/1238104479200759809?s=20)        |                                            |
 | Arturia Pendragon (Maid Alter) | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1237745881350197248?s=20)  |                                            |
 | Arturia Pendragon (Ruler)      | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1237709892753870849?s=201) |                                            |
 | Ashwatthama                    | [Link](https://twitter.com/nagaru35/status/1237710750530932736?s=20)         |                                            |
@@ -643,6 +644,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Bedivere                       | [Link](https://twitter.com/terminas_aria/status/1238445592407183361?s=20)    |                                            |
 | Beowulf                        | [Link](https://twitter.com/Hibari31/status/1237706253087866880?s=20)         |                                            |
 | Brynhildr                      | [Link](https://twitter.com/yakusagu327/status/1237686278952378368?s=20)      |                                            |
+| Bunyan                         | [Link](https://twitter.com/756xyz/status/1238724523534323712?s=20)           |                                            |
 | Caesar                         | [Link](https://twitter.com/snowdroptree/status/1237688680745037826?s=20)     |                                            |
 | Chiron                         | [Link](https://twitter.com/Chihiro1000/status/1237959624935919616?s=20)      |                                            |
 | Chloe                          | [Link](https://twitter.com/niku2_admiral/status/1237902996438044672?s=20)    |                                            |
@@ -663,11 +665,13 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 |                                | [Link](https://twitter.com/nazo_hiroinG/status/1237679606993313794?s=20)     |                                            |
 |                                | [Link](https://twitter.com/KUR_NU_GI_A/status/1237926008281427969?s=20)      | noCE on DPS                                |
 |                                | [Link](https://twitter.com/KUR_NU_GI_A/status/1238634547660509184?s=20)      | NoSwap, NoCE on supports                   |
+|                                | [Link](https://twitter.com/otkznr/status/1239072368842031105?s=20)           | NoCE on Supports, Non SSR Supports only    |
 | Heracles                       | [Link](https://twitter.com/fuwa_rai/status/1237786900208840704?s=20)         | Bronze Supports Only                       |
 |                                | [Link](https://twitter.com/fuwa_rai/status/1237720416732368896?s=20)         | Non SSR supports only, Chen Gong Dual Core |
 |                                | [Link](https://twitter.com/fuwa_rai/status/1238642640469426176?s=20)         | Fully NoCE                                 |
 |                                | [Link](https://www.bilibili.com/video/av95995688)                            | Solo                                       |
 | Hessian Lobo                   | [Link](https://twitter.com/kitakitasnas/status/1237958080870014976?s=20)     |                                            |
+|                                | [Link](https://twitter.com/kitakitasnas/status/1239005096593088513?s=20)     | Fully NoCE                                 |
 | Hijikata                       | [Link](https://twitter.com/NAO42010/status/1237749421200134145?s=20)         |                                            |
 | Hokusai (Saber)                | [Link](https://twitter.com/snowdroptree/status/1238425312490188801?s=20)     |                                            |
 | Hokusai (Foreigner)            | [Link](https://twitter.com/kitakitasnas/status/1238756381286494212?s=20)     |                                            |
@@ -684,6 +688,8 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 |                                | [Link](https://www.youtube.com/watch?v=ZG7lwOei4dQ)                          | Solo                                       |
 | Kiara                          | [Link](https://twitter.com/Dorapika_Wu/status/1238450774700519424?s=20)      |                                            |
 | Kingprotea                     | [Link](https://twitter.com/BOBislazyboy/status/1237874005878525957?s=20)     |                                            |
+| King Hassan                    | [Link](https://twitter.com/2_5_dimension/status/1238862979510104064?s=20)    |                                            |
+| Kintoki (Rider)                | [Link](https://twitter.com/shortcut588/status/1239063171026972674?s=20)      | NoSwap, NoCE on supports                   |
 | Lancelot (Saber)               | [Link](https://twitter.com/FGOakauntoz/status/1237685521754640384?s=20)      |                                            |
 |                                | [Link](https://twitter.com/tarasque0221/status/1237717662924288000?s=20)     |                                            |
 | Li Shuwen  (Assassin)          | [Link](https://twitter.com/kitakitasnas/status/1237849756488978438?s=20)     |                                            |
@@ -731,6 +737,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 |                                | [Link](https://www.youtube.com/watch?v=-04JCIzy6LE)                          |                                            |
 | Sei Shonagon                   | [Link](https://twitter.com/Yuri_duelist/status/1237737094895661056?s=20)     |                                            |
 | Shiki                          | [Link](https://twitter.com/liyangru/status/1237834967071129600?s=20)         |                                            |
+| SHIKI (Saber)                  | [Link](https://twitter.com/nmo_mo_fgo/status/1239053731468984320?s=20)       |                                            |
 | Tamamo-no-Mae (Lancer)         | [Link](https://twitter.com/ibu_fgo/status/1238440871910989826?s=20)          |                                            |
 | Tomoe Gozen                    | [Link](https://twitter.com/fullice50/status/1237705702048587776?s=20)        |                                            |
 | Tristan                        | [Link](https://twitter.com/terminas_aria/status/1238466538966880263?s=20)    |                                            |
