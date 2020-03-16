@@ -625,6 +625,9 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Achilles                       | [Link](https://twitter.com/Tachilles_FGO/status/1237728524074496000?s=20)    |                                            |
 | Altera (Archer)                | [Link](https://twitter.com/snowdroptree/status/1237682970699247616?s=20)     |                                            |
 | Arash                          | [Link](https://twitter.com/mizuchaofgo/status/1238304937198489600?s=20)      |                                            |
+|                                | [Link](https://twitter.com/mishima173/status/1239143675319336960?s=20)       | Non-SSR Supports Only                      |
+| Arjuna (Alter)                 | [Link](https://twitter.com/otkznr/status/1238054478584016897?s=20)           |                                            |
+|                                | [Link](https://twitter.com/otkznr/status/1239041266123337729)                | Non-SSR Supports Only                      |
 | Arthur Pendragon (Prototype)   | [Link](https://twitter.com/NAO42010/status/1238671268078964736?s=20)         |                                            |
 | Arturia Pendragon (Alter)      | [Link](https://twitter.com/taihou04/status/1238697209350090752?s=20)         |                                            |
 | Arturia pEndragon (Archer)     | [Link](https://twitter.com/kinopaint/status/1238104479200759809?s=20)        |                                            |
@@ -710,6 +713,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | MHXA                           | [Link](https://twitter.com/r0o5z3i3/status/1237673595062501377?s=20)         |                                            |
 | MHXX                           | [Link](https://twitter.com/PURIN_XX_/status/1237734167732867072?s=20)        |                                            |
 | Moriarity                      | [Link](https://twitter.com/nanaki_toshima/status/1238089858154786820?s=20)   |                                            |
+|                                | [Link](https://twitter.com/nanaki_toshima/status/1239205736212623362?s=20)   | NoSwap                                     |
 | Mori Nagayoshi                 | [Link](https://twitter.com/nmnppp/status/1238779085469315072?s=20)           |                                            |
 | Musashi (Saber)                | [Link](https://twitter.com/hiduka01/status/1238432499379736576?s=20)         |                                            |
 | Nagao Kagetora                 | [Link](https://twitter.com/hork0320/status/1237789689274232833?s=20)         |                                            |
@@ -719,6 +723,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Nikola Tesla                   | [Link](https://twitter.com/abiro_game/status/1237669766044594176?s=20)       |                                            |
 | Oda Nobunaga (Berserker)       | [Link](https://twitter.com/snowdroptree/status/1237788504882475008?s=20)     |                                            |
 |                                | [Link](https://twitter.com/snowdroptree/status/1238201832054222848?s=20)     | NoCE on Support                            |
+| Oda Nobunaga (Maou)            | [Link](https://twitter.com/OrGOrG_FGO/status/1239191595053756416?s=20)       |                                            |
 | Odysseus                       | [Link](https://twitter.com/2_5_dimension/status/1237964229270892544?s=20)    |                                            |
 | Okita Souji                    | [Link](https://twitter.com/snowdroptree/status/1237676747522338816?s=20)     |                                            |
 | Okita Souji (Alter)            | [Link](https://twitter.com/BOBislazyboy/status/1238155707545006081?s=20)     |                                            |
@@ -738,6 +743,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Robin                          | [Link](https://twitter.com/canal00/status/1237732234670379010?s=20)          |                                            |
 |                                | [Link](https://twitter.com/canal00/status/1238120779394342912?s=20)          | NonSSR supports only                       |
 |                                | [Link](https://www.youtube.com/watch?v=wS0I3e17lOI)                          |                                            |
+| Sakamoto Ryouma                | [Link](https://www.youtube.com/watch?v=R4DDHbYGSMg)                          |                                            |
 | Sasaki Kojiro                  | [Link](https://twitter.com/Violet_g612/status/1237675615148314624?s=20)      |                                            |
 |                                | [Link](https://www.youtube.com/watch?v=-04JCIzy6LE)                          |                                            |
 | Sei Shonagon                   | [Link](https://twitter.com/Yuri_duelist/status/1237737094895661056?s=20)     |                                            |
