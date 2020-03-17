@@ -628,6 +628,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 |                                | [Link](https://twitter.com/mishima173/status/1239143675319336960?s=20)       | Non-SSR Supports Only                      |
 | Arjuna (Alter)                 | [Link](https://twitter.com/otkznr/status/1238054478584016897?s=20)           |                                            |
 |                                | [Link](https://twitter.com/otkznr/status/1239041266123337729)                | Non-SSR Supports Only                      |
+|                                | [Link](https://www.bilibili.com/video/av96069529)                            |                                            |
 | Arthur Pendragon (Prototype)   | [Link](https://twitter.com/NAO42010/status/1238671268078964736?s=20)         |                                            |
 | Arturia Pendragon (Alter)      | [Link](https://twitter.com/taihou04/status/1238697209350090752?s=20)         |                                            |
 | Arturia pEndragon (Archer)     | [Link](https://twitter.com/kinopaint/status/1238104479200759809?s=20)        |                                            |
@@ -754,6 +755,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Tristan                        | [Link](https://twitter.com/terminas_aria/status/1238466538966880263?s=20)    |                                            |
 | Valkyrie                       | [Link](https://twitter.com/terminas_aria/status/1237702633520939008?s=20)    |                                            |
 | Vlad                           | [Link](https://twitter.com/nanaki_toshima/status/1237746251346505728?s=20)   | NoCE on support                            |
+| William Tell                   | [Link](https://twitter.com/hork0320/status/1239577833287995392?s=20)         |                                            |
 | Wu Zetian                      | [Link](https://twitter.com/premium__gold/status/1237754968490172417?s=20)    |                                            |
 | Xiang Yu                       | [Link](https://twitter.com/2_5_dimension/status/1238138614862643200?s=20)    |                                            |
 | Yangyuu Munenori               | [Link](https://twitter.com/kumamori4/status/1238406519655288832?s=20)        |                                            |
