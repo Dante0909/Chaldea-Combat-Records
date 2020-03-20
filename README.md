@@ -624,6 +624,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Abigail Williams               | [Link](https://twitter.com/fgosyukai1/status/1237738717608984577?s=20)       |                                            |
 | Achilles                       | [Link](https://twitter.com/Tachilles_FGO/status/1237728524074496000?s=20)    |                                            |
 | Altera (Archer)                | [Link](https://twitter.com/snowdroptree/status/1237682970699247616?s=20)     |                                            |
+| Anne Bonny & Mary Read         | [Link](https://twitter.com/FrnHorn/status/1238687546466390016?s=20)          |                                            |
 | Arash                          | [Link](https://twitter.com/mizuchaofgo/status/1238304937198489600?s=20)      |                                            |
 |                                | [Link](https://twitter.com/mishima173/status/1239143675319336960?s=20)       | Non-SSR Supports Only                      |
 | Arjuna (Alter)                 | [Link](https://twitter.com/otkznr/status/1238054478584016897?s=20)           |                                            |
@@ -644,6 +645,8 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Astarte                        | [Link](https://twitter.com/KUR_NU_GI_A/status/1237683733995520000?s=20)      |                                            |
 | Astolfo (Saber)                | [Link](https://twitter.com/2_5_dimension/status/1237699051396558848?s=20)    | Dual Core with Kama                        |
 |                                | [Link](https://twitter.com/1104shoki/status/1237722066272391168?s=20)        |                                            |
+| Astolfo (Rider)                | [Link](https://twitter.com/1104shoki/status/1237708100360007680?s=20)        |                                            |
+| Astraea                        | [Link](https://www.bilibili.com/video/av96347042)                            |                                            |
 | Atalanta (Alter)               | [Link](https://twitter.com/RGrOmQJMfkWvSHg/status/1237765692784406528?s=20)  |                                            |
 |                                | [Link](https://twitter.com/RGrOmQJMfkWvSHg/status/1239088500802113536?s=20)  | NoSwap                                     |
 | Bedivere                       | [Link](https://twitter.com/terminas_aria/status/1238445592407183361?s=20)    |                                            |
@@ -664,6 +667,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 |                                | [Link](https://twitter.com/NAO42010/status/1237797005130231808?s=20)         |                                            |
 |                                | [Link](https://www.youtube.com/watch?v=4-NZZUKukmo)                          | Lv80 Black Grail                           |
 | Ereshkigal                     | [Link](https://twitter.com/waiwaikigurumi/status/1237755017286676486?s=20)   |                                            |
+| Euryale                        | [Link](https://twitter.com/snowdroptree/status/1237992377047863296?s=20)     |                                            |
 | Frankenstein (Saber)           | [Link](https://twitter.com/FrnHorn/status/1238650240699228160?s=20)          |                                            |
 | Fujino                         | [Link](https://twitter.com/7Corner/status/1237747444051406848?s=20)          |                                            |
 | Gareth                         | [Link](https://twitter.com/FrnHorn/status/1238445284222365696?s=20)          |                                            |
@@ -697,6 +701,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Kingprotea                     | [Link](https://twitter.com/BOBislazyboy/status/1237874005878525957?s=20)     |                                            |
 |                                | [Link](https://twitter.com/mokotrion2fg/status/1239027382272417792?s=20)     |                                            |
 | King Hassan                    | [Link](https://twitter.com/2_5_dimension/status/1238862979510104064?s=20)    |                                            |
+| Kintoki (Berserker)            | [Link](https://twitter.com/tksr0000/status/1238040686206672896?s=20)         |                                            |
 | Kintoki (Rider)                | [Link](https://twitter.com/shortcut588/status/1239063171026972674?s=20)      | NoSwap, NoCE on supports                   |
 | Lancelot (Saber)               | [Link](https://twitter.com/FGOakauntoz/status/1237685521754640384?s=20)      |                                            |
 |                                | [Link](https://twitter.com/tarasque0221/status/1237717662924288000?s=20)     |                                            |
@@ -718,6 +723,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Moriarity                      | [Link](https://twitter.com/nanaki_toshima/status/1238089858154786820?s=20)   |                                            |
 |                                | [Link](https://twitter.com/nanaki_toshima/status/1239205736212623362?s=20)   | NoSwap                                     |
 | Mori Nagayoshi                 | [Link](https://twitter.com/nmnppp/status/1238779085469315072?s=20)           |                                            |
+| Musashi (Berserker)            | [Link](https://twitter.com/ShotkAnime/status/1238080919975497728?s=20)       |                                            |
 | Musashi (Saber)                | [Link](https://twitter.com/hiduka01/status/1238432499379736576?s=20)         |                                            |
 | Nagao Kagetora                 | [Link](https://twitter.com/hork0320/status/1237789689274232833?s=20)         |                                            |
 | Napoleon                       | [Link](https://twitter.com/Dorapika_Wu/status/1237717189655842816?s=0)       |                                            |
@@ -752,10 +758,12 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Sei Shonagon                   | [Link](https://twitter.com/Yuri_duelist/status/1237737094895661056?s=20)     |                                            |
 | Shiki                          | [Link](https://twitter.com/liyangru/status/1237834967071129600?s=20)         |                                            |
 | SHIKI (Saber)                  | [Link](https://twitter.com/nmo_mo_fgo/status/1239053731468984320?s=20)       |                                            |
+| Sigurd                         | [Link](https://twitter.com/SS_0xff/status/1238865272510877697?s=20)          |                                            |
 | Sitonai                        | [Link](https://www.bilibili.com/video/av95581926/)                           |                                            |
 | Tamamo-no-Mae (Lancer)         | [Link](https://twitter.com/ibu_fgo/status/1238440871910989826?s=20)          |                                            |
 | Tomoe Gozen                    | [Link](https://twitter.com/fullice50/status/1237705702048587776?s=20)        |                                            |
 | Tristan                        | [Link](https://twitter.com/terminas_aria/status/1238466538966880263?s=20)    |                                            |
+| Ushiwakamaru                   | [Link](https://twitter.com/otkznr/status/1238109107292258305?s=20)           |                                            |
 | Valkyrie                       | [Link](https://twitter.com/terminas_aria/status/1237702633520939008?s=20)    |                                            |
 | Vlad                           | [Link](https://twitter.com/nanaki_toshima/status/1237746251346505728?s=20)   | NoCE on support                            |
 | William Tell                   | [Link](https://twitter.com/hork0320/status/1239577833287995392?s=20)         |                                            |
