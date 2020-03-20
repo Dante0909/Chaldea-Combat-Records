@@ -695,6 +695,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 |                                | [Link](https://www.youtube.com/watch?v=ZG7lwOei4dQ)                          | Solo                                       |
 | Kiara                          | [Link](https://twitter.com/Dorapika_Wu/status/1238450774700519424?s=20)      |                                            |
 | Kingprotea                     | [Link](https://twitter.com/BOBislazyboy/status/1237874005878525957?s=20)     |                                            |
+|                                | [Link](https://twitter.com/mokotrion2fg/status/1239027382272417792?s=20)     |                                            |
 | King Hassan                    | [Link](https://twitter.com/2_5_dimension/status/1238862979510104064?s=20)    |                                            |
 | Kintoki (Rider)                | [Link](https://twitter.com/shortcut588/status/1239063171026972674?s=20)      | NoSwap, NoCE on supports                   |
 | Lancelot (Saber)               | [Link](https://twitter.com/FGOakauntoz/status/1237685521754640384?s=20)      |                                            |
@@ -702,6 +703,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Li Shuwen  (Assassin)          | [Link](https://twitter.com/kitakitasnas/status/1237849756488978438?s=20)     |                                            |
 | Mandricardo                    | [Link](https://twitter.com/hork0320/status/1237790216422744064?s=20)         |                                            |
 | Martha (Ruler)                 | [Link](https://twitter.com/otkznr/status/1237756013803008001?s=20)           |                                            |
+| Mecha Liz                      | [Link](https://twitter.com/snowdroptree/status/1239298159555145729?s=20)     |                                            |
 | Medb                           | [Link](https://twitter.com/daigooregairu/status/1237988509354344448?s=20)    |                                            |
 |                                | [Link](https://www.youtube.com/channel/UCmJiYRwUafsZvF0maV0Wj_A)             | Lv80 Black Grail                           |
 | Medusa (Lancer)                | [Link](https://twitter.com/_sky110/status/1237862036853252102?s=20)          |                                            |
@@ -750,6 +752,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Sei Shonagon                   | [Link](https://twitter.com/Yuri_duelist/status/1237737094895661056?s=20)     |                                            |
 | Shiki                          | [Link](https://twitter.com/liyangru/status/1237834967071129600?s=20)         |                                            |
 | SHIKI (Saber)                  | [Link](https://twitter.com/nmo_mo_fgo/status/1239053731468984320?s=20)       |                                            |
+| Sitonai                        | [Link](https://www.bilibili.com/video/av95581926/)                           |                                            |
 | Tamamo-no-Mae (Lancer)         | [Link](https://twitter.com/ibu_fgo/status/1238440871910989826?s=20)          |                                            |
 | Tomoe Gozen                    | [Link](https://twitter.com/fullice50/status/1237705702048587776?s=20)        |                                            |
 | Tristan                        | [Link](https://twitter.com/terminas_aria/status/1238466538966880263?s=20)    |                                            |
