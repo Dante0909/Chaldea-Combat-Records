@@ -708,6 +708,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Li Shuwen  (Assassin)          | [Link](https://twitter.com/kitakitasnas/status/1237849756488978438?s=20)     |                                            |
 | Mandricardo                    | [Link](https://twitter.com/hork0320/status/1237790216422744064?s=20)         |                                            |
 | Martha (Ruler)                 | [Link](https://twitter.com/otkznr/status/1237756013803008001?s=20)           |                                            |
+| Mash Kyrielight                | [Link](https://www.bilibili.com/video/av96128210)                            |                                            |
 | Mecha Liz                      | [Link](https://twitter.com/snowdroptree/status/1239298159555145729?s=20)     |                                            |
 | Medb                           | [Link](https://twitter.com/daigooregairu/status/1237988509354344448?s=20)    |                                            |
 |                                | [Link](https://www.youtube.com/channel/UCmJiYRwUafsZvF0maV0Wj_A)             | Lv80 Black Grail                           |
