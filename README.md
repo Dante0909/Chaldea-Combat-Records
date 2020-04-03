@@ -811,10 +811,12 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Gilgamesh                 | [Link](https://twitter.com/otkznr/status/1245351596604583937?s=20)                   |                                |
 | Gray                      | [Link](https://www.bilibili.com/video/BV1Xg4y1b7rg)                                  |                                |
 | Heracles                  | [Link](https://twitter.com/fuwa_rai/status/1245399180169736192?s=20)                 |                                |
+| Hessian Lobo              | [Link](https://www.bilibili.com/video/BV1WZ4y1j7SE)                                  |                                |
 | Hokusai                   | [Link](https://twitter.com/kitakitasnas/status/1245473460412768256?s=20)             |                                |
 | Ibaraki                   | [Link](https://twitter.com/snowdroptree/status/1245735874643419136?s=20)             | NonSSR Supports Only           |
 | Jack                      | [Link](https://twitter.com/ebichiri01417/status/1245379027260432384?s=20)            |                                |
 | Jeanne d'Arc (Alter)      | [Link](https://twitter.com/myc_1228/status/1245728364947599360?s=20)                 |                                |
+| Karna                     | [Link](https://www.bilibili.com/video/BV1Wz411b7Ts)                                  |                                |
 | Kiara                     | [Link](https://twitter.com/ITMST/status/1245798202122489856?s=20)                    |                                |
 | Lancelot (Berserker)      | [Link](https://twitter.com/snowdroptree/status/1245333556806561792?s=20)             |                                |
 | Lancelot (Saber)          | [Link](https://twitter.com/tarasque0221/status/1245700735855017985?s=20)             |                                |
@@ -822,6 +824,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Medusa                    | [Link](https://twitter.com/ffgo_rin/status/1245385627308191744?s=20)                 |                                |
 | Meltryllis (Alter-Ego)    | [Link](https://twitter.com/2_5_dimension/status/1245341929933398016?s=20)            |                                |
 | Meltryllis (Lancer)       | [Link](https://twitter.com/Yuri_duelist/status/1245384553683759104?s=20)             |                                |
+|                           | [Link](https://www.bilibili.com/video/BV1jZ4y1j7Q9)                                  | NoSwap                         |
 | MHXA                      | [Link](https://twitter.com/NAO42010/status/1245691218224267265?s=20)                 |                                |
 | Mordred (Saber)           | [Link](https://twitter.com/RyouEmerald/status/1245849893207281665?s=20)              |                                |
 |                           | [Link](https://twitter.com/mana_pwpr/status/1245813635105951745?s=20)                | NoSwap                         |
@@ -832,8 +835,10 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Oda Nobunaga (Maou)       | [Link](https://www.bilibili.com/video/BV1F54y1d7dN/?spm_id_from=333.788.videocard.4) | Non SSR Supports Only          |
 | Oda Nobunaga (Berserker)  | [Link](https://twitter.com/snowdroptree/status/1245702117899128834?s=20)             |                                |
 | Odysseus                  | [Link](https://www.bilibili.com/video/BV1TC4y1s7YE?)                                 | DualCore with Salieri          |
+|                           | [Link](https://www.bilibili.com/video/BV15e411x7hu)                                  |                                |
 | Okita Souji (Alter)       | [Link](https://www.bilibili.com/video/BV1Zg4y1b7Hn)                                  |                                |
 | Okita Souji (Saber)       | [Link](https://twitter.com/snowdroptree/status/1245855746958307329?s=20)             |                                |
+| Orion (Superhuman)        | [Link](https://www.bilibili.com/video/BV1yA41187qc)                                  |                                |
 | Parvati                   | [Link](https://twitter.com/ffgo_rin/status/1245499518558154752?s=20)                 |                                |
 | Passionlip                | [Link](https://twitter.com/onabeno_huta/status/1245342347447001089?s=20)             |                                |
 | Penthsilea                | [Link](https://twitter.com/EdaFgo/status/1245699481271558145?s=20)                   | NonSSR Supports Only           |
