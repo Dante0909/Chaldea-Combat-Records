@@ -781,11 +781,14 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | ------------------------- | ------------------------------------------------------------------------------------ | ------------------------------ |
 | Achilles                  | [Link](https://twitter.com/calpis_102/status/1245692925893201923?s=20)               | Solo                           |
 |                           | [Link](https://twitter.com/Chinquepig/status/1245478339772477440?s=20)               | NoSwap                         |
+| Amakusa Shirou            | [Link](https://www.bilibili.com/video/BV1eK4y1C7yB)                                  |                                |
 | Antonio Salieri           | [Link](https://twitter.com/Nagato_Yuki_233/status/1245531080523800576?s=20)          |                                |
 | Arjuna (Alter)            | [Link](https://twitter.com/moyo_FGO/status/1245709708050059265?s=20)                 | Solo                           |
+|                           | [Link](https://www.bilibili.com/video/BV1zK411775J)                                  | Solo                           |
 |                           | [Link](https://www.bilibili.com/video/BV1mV411f7P8)                                  |                                |
 |                           | [Link](https://www.bilibili.com/video/BV1Ke411x7EQ/?spm_id_from=333.788.videocard.8) | NoSwap                         |
 |                           | [Link](https://www.bilibili.com/video/BV1he411x7tY)                                  | NP1 DPS                        |
+|                           | [Link](https://www.bilibili.com/video/BV1r5411675h)                                  | NonGold Supports only          |
 | Arturia Pendragon (Alter) | [Link](https://www.bilibili.com/video/BV1wt4y1U7mW)                                  |                                |
 | Arturia Pendragon (Lily)  | [Link](https://www.bilibili.com/video/BV1nC4y1s7ec)                                  |                                |
 | Arturia Pendragon (Ruler) | [Link](https://www.bilibili.com/video/BV1j64y1u7Q2)                                  |                                |
@@ -799,12 +802,14 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Chacha                    | [Link](https://twitter.com/snowdroptree/status/1245686421681102848?s=20)             |                                |
 | Chen Gong                 | [Link](https://twitter.com/mgmg3939pnd/status/1245335527772938241?s=20)              |                                |
 | Cu Chulainn (Alter)       | [Link](https://www.bilibili.com/video/BV1U54y1R7vx)                                  | NP1 DPS,  Bronze Supports Only |
+|                           | [Link](https://www.bilibili.com/video/BV1Gp4y1C72n)                                  | Solo                           |
 | Da Vinci (Rider)          | [Link](https://twitter.com/niku2_admiral/status/1245682175648792577?s=20)            |                                |
 | Dantes                    | [Link](https://twitter.com/mana_pwpr/status/1245391176598880256?s=20)                | NoSwap                         |
 | Ereshkigal                | [Link](https://www.bilibili.com/video/BV1SK4y1C7Fg)                                  |                                |
 | Fran                      | [Link](https://twitter.com/abiro_game/status/1245349818425200640?s=20)               | Fully NoCE                     |
 | Gawain                    | [Link](https://twitter.com/orionkumachan/status/1245730462267400193?s=20)            |                                |
 | Gilgamesh                 | [Link](https://twitter.com/otkznr/status/1245351596604583937?s=20)                   |                                |
+| Gray                      | [Link](https://www.bilibili.com/video/BV1Xg4y1b7rg)                                  |                                |
 | Heracles                  | [Link](https://twitter.com/fuwa_rai/status/1245399180169736192?s=20)                 |                                |
 | Hokusai                   | [Link](https://twitter.com/kitakitasnas/status/1245473460412768256?s=20)             |                                |
 | Ibaraki                   | [Link](https://twitter.com/snowdroptree/status/1245735874643419136?s=20)             | NonSSR Supports Only           |
@@ -826,6 +831,8 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Nero (Caster)             | [Link](https://twitter.com/Chihiro1000/status/1245648459283066880?s=20)              | NoSwap, NoCE on Supports       |
 | Oda Nobunaga (Maou)       | [Link](https://www.bilibili.com/video/BV1F54y1d7dN/?spm_id_from=333.788.videocard.4) | Non SSR Supports Only          |
 | Oda Nobunaga (Berserker)  | [Link](https://twitter.com/snowdroptree/status/1245702117899128834?s=20)             |                                |
+| Odysseus                  | [Link](https://www.bilibili.com/video/BV1TC4y1s7YE?)                                 | DualCore with Salieri          |
+| Okita Souji (Alter)       | [Link](https://www.bilibili.com/video/BV1Zg4y1b7Hn)                                  |                                |
 | Okita Souji (Saber)       | [Link](https://twitter.com/snowdroptree/status/1245855746958307329?s=20)             |                                |
 | Parvati                   | [Link](https://twitter.com/ffgo_rin/status/1245499518558154752?s=20)                 |                                |
 | Passionlip                | [Link](https://twitter.com/onabeno_huta/status/1245342347447001089?s=20)             |                                |
@@ -833,6 +840,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Qin Shi Huang             | [Link](https://www.bilibili.com/video/BV1EQ4y1M7PF)                                  | Solo                           |
 | Raikou                    | [Link](https://www.youtube.com/watch?v=C2k2X-iYNQ4&feature=youtu.be)                 |                                |
 | Red Hare                  | [Link](https://twitter.com/tarasque0221/status/1245726167115526144?s=20)             |                                |
+| Salome                    | [Link](https://www.bilibili.com/video/BV1iK4y1C7Eb)                                  |                                |
 | Sei Shonagon              | [Link](https://www.bilibili.com/video/BV1R64y1M77e/?spm_id_from=333.788.videocard.2) |                                |
 | Shuten                    | [Link](https://twitter.com/tago260/status/1245741639835865090?s=20)                  |                                |
 | Sitonai                   | [Link](https://www.bilibili.com/video/BV1TA411h7JM?)                                 |                                |
