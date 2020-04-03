@@ -790,16 +790,20 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Astolfo (Saber)          | [Link](https://www.bilibili.com/video/BV1Cg4y1b72V/?spm_id_from=333.788.videocard.6) |                          |
 | Astraea                  | [Link](https://twitter.com/ShotkAnime/status/1245793170882871298?s=20)               |                          |
 | BB (Summer)              | [Link](https://twitter.com/ffgo_rin/status/1245742844624568320?s=20)                 |                          |
+| Brynhildr                | [Link](https://twitter.com/yakusagu327/status/1245701369090080769?s=20)              |                          |
+| Chacha                   | [Link](https://twitter.com/snowdroptree/status/1245686421681102848?s=20)             |                          |
 | Da Vinci (Rider)         | [Link](https://twitter.com/niku2_admiral/status/1245682175648792577?s=20)            |                          |
 | Dantes                   | [Link](https://twitter.com/mana_pwpr/status/1245391176598880256?s=20)                | NoSwap                   |
 | Fran                     | [Link](https://twitter.com/abiro_game/status/1245349818425200640?s=20)               | Fully NoCE               |
 | Gawain                   | [Link](https://twitter.com/orionkumachan/status/1245730462267400193?s=20)            |                          |
+| Heracles                 | [Link](https://twitter.com/fuwa_rai/status/1245399180169736192?s=20)                 |                          |
 | Hokusai                  | [Link](https://twitter.com/kitakitasnas/status/1245473460412768256?s=20)             |                          |
 | Ibaraki                  | [Link](https://twitter.com/snowdroptree/status/1245735874643419136?s=20)             | NonSSR Supports Only     |
 | Jeanne d'Arc (Alter)     | [Link](https://twitter.com/myc_1228/status/1245728364947599360?s=20)                 |                          |
 | Kiara                    | [Link](https://twitter.com/ITMST/status/1245798202122489856?s=20)                    |                          |
 | Lancelot (Berserker)     | [Link](https://twitter.com/snowdroptree/status/1245333556806561792?s=20)             |                          |
 | Lancelot (Saber)         | [Link](https://twitter.com/tarasque0221/status/1245700735855017985?s=20)             |                          |
+| Martha (Rider)           | [Link](https://twitter.com/otkznr/status/1245619841630756865?s=20)                   |                          |
 | Medusa                   | [Link](https://twitter.com/ffgo_rin/status/1245385627308191744?s=20)                 |                          |
 | MHXA                     | [Link](https://twitter.com/NAO42010/status/1245691218224267265?s=20)                 |                          |
 | Mordred (Saber)          | [Link](https://twitter.com/RyouEmerald/status/1245849893207281665?s=20)              |                          |
@@ -812,10 +816,14 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Okita Souji (Saber)      | [Link](https://twitter.com/snowdroptree/status/1245855746958307329?s=20)             |                          |
 | Parvati                  | [Link](https://twitter.com/ffgo_rin/status/1245499518558154752?s=20)                 |                          |
 | Passionlip               | [Link](https://twitter.com/onabeno_huta/status/1245342347447001089?s=20)             |                          |
+| Penthsilea               | [Link](https://twitter.com/EdaFgo/status/1245699481271558145?s=20)                   | NonSSR Supports Only     |
 | Qin Shi Huang            | [Link](https://www.bilibili.com/video/BV1EQ4y1M7PF)                                  | Solo                     |
+| Raikou                   | [Link](https://www.youtube.com/watch?v=C2k2X-iYNQ4&feature=youtu.be)                 |                          |
+| Red Hare                 | [Link](https://twitter.com/tarasque0221/status/1245726167115526144?s=20)             |                          |
 | Sei Shonagon             | [Link](https://www.bilibili.com/video/BV1R64y1M77e/?spm_id_from=333.788.videocard.2) |                          |
 | Shuten                   | [Link](https://twitter.com/tago260/status/1245741639835865090?s=20)                  |                          |
 | Tamamo Cat               | [Link](https://twitter.com/shortcut588/status/1245371319455113217?s=20)              |                          |
+| Vlad                     | [Link](https://twitter.com/midori_alt/status/1245679269801422848?s=20)               |                          |
 | Yang Guifei              | [Link](https://twitter.com/chwangk/status/1245782389097254912?s=20)                  |                          |
 
 -   All videos linked in this repo are the properties of their owners.
