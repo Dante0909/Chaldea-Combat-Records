@@ -779,6 +779,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 
 | DPS Used                  | Link                                                                                 | Remarks                        |
 | ------------------------- | ------------------------------------------------------------------------------------ | ------------------------------ |
+| Abigail Williams          | [Link](https://www.bilibili.com/video/BV1Uk4y1d7eu)                                  |                                |
 | Achilles                  | [Link](https://twitter.com/calpis_102/status/1245692925893201923?s=20)               | Solo                           |
 |                           | [Link](https://twitter.com/Chinquepig/status/1245478339772477440?s=20)               | NoSwap                         |
 | Alexander                 | [Link](https://twitter.com/waiwaikigurumi/status/1246290465709645826?s=20)           |                                |
@@ -798,6 +799,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Astarte                   | [Link](https://twitter.com/bikakindefgo/status/1245698040075137025?s=20)             | NoSwap, NoCE on Supports       |
 | Astolfo (Saber)           | [Link](https://www.bilibili.com/video/BV1Cg4y1b72V/?spm_id_from=333.788.videocard.6) |                                |
 | Astraea                   | [Link](https://twitter.com/ShotkAnime/status/1245793170882871298?s=20)               |                                |
+| Atalante (Alter)          | [Link](https://www.bilibili.com/video/BV1eZ4y1j7rt)                                  | NP1 DPS                        |
 | BB (Summer)               | [Link](https://twitter.com/ffgo_rin/status/1245742844624568320?s=20)                 |                                |
 | Brynhildr                 | [Link](https://twitter.com/yakusagu327/status/1245701369090080769?s=20)              |                                |
 | Caesar                    | [Link](https://twitter.com/waiwaikigurumi/status/1246133966790209547?s=20)           |                                |
@@ -824,6 +826,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Jeanne d'Arc (Alter)      | [Link](https://twitter.com/myc_1228/status/1245728364947599360?s=20)                 |                                |
 | Karna                     | [Link](https://www.bilibili.com/video/BV1Wz411b7Ts)                                  |                                |
 | Kiara                     | [Link](https://twitter.com/ITMST/status/1245798202122489856?s=20)                    |                                |
+|                           | [Link](https://www.bilibili.com/video/BV1dA41187Qo)                                  | Solo                           |
 | Lancelot (Berserker)      | [Link](https://twitter.com/snowdroptree/status/1245333556806561792?s=20)             |                                |
 | Lancelot (Saber)          | [Link](https://twitter.com/tarasque0221/status/1245700735855017985?s=20)             |                                |
 | Martha (Rider)            | [Link](https://twitter.com/otkznr/status/1245619841630756865?s=20)                   |                                |
@@ -868,6 +871,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Tamamo Cat                | [Link](https://twitter.com/shortcut588/status/1245371319455113217?s=20)              |                                |
 | Valkyrie                  | [Link](https://twitter.com/terminas_aria/status/1245971986011938816?s=20)            | NoSwap                         |
 | Vlad                      | [Link](https://twitter.com/midori_alt/status/1245679269801422848?s=20)               |                                |
+| Wu Zetian                 | [Link](https://www.bilibili.com/video/BV1Fi4y187RL)                                  |                                |
 | Xiang Yu                  | [Link](https://twitter.com/Violet_g612/status/1245357999553560576?s=20)              |                                |
 | Yang Guifei               | [Link](https://twitter.com/chwangk/status/1245782389097254912?s=20)                  |                                |
 
