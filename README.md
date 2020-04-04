@@ -845,8 +845,8 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Nero (Bride)              | [Link](https://twitter.com/Chihiro1000/status/1245940143971680257?s=20)              |                                |
 | Nero (Caster)             | [Link](https://twitter.com/Chihiro1000/status/1245648459283066880?s=20)              | NoSwap, NoCE on Supports       |
 | Nero (Saber)              | [Link](https://twitter.com/Chihiro1000/status/1245997688933367808?s=20)              |                                |
-| Oda Nobunaga (Maou)       | [Link](https://www.bilibili.com/video/BV1F54y1d7dN/?spm_id_from=333.788.videocard.4) | Non SSR Supports Only          |
-| Oda Nobunaga (Berserker)  | [Link](https://twitter.com/snowdroptree/status/1245702117899128834?s=20)             |                                |
+| Oda Nobunaga (Maou)       | [Link](https://www.bilibili.com/video/BV1F54y1d7dN/?spm_id_from=333.788.videocard.4) |                                |
+| Oda Nobunaga (Berserker)  | [Link](https://twitter.com/snowdroptree/status/1245702117899128834?s=20)             | Non SSR Supports Only          |
 |                           | [Link](https://twitter.com/snowdroptree/status/1246153828782620672?s=20)             | NoSwap                         |
 | Odysseus                  | [Link](https://www.bilibili.com/video/BV1TC4y1s7YE?)                                 | DualCore with Salieri          |
 |                           | [Link](https://www.bilibili.com/video/BV15e411x7hu)                                  |                                |
