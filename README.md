@@ -3,7 +3,8 @@
 ## Introduction
 
 This repository serves as a collection of notable gameplay videos from FGO, focusing on efficient gameplay. The videos are grouped by year according to the JP timeline.
-For any suggestions, corrections or just a word of thanks, you can contact me on Discord at Arc#4114 or use Github itself.
+
+For any suggestions, corrections or just a word of thanks, you can contact me on Discord at ``Arc#4114`` or use Github itself.
 
 ## Table of Contents
 
