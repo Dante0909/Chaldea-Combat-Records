@@ -810,6 +810,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 |                           | [Link](https://www.bilibili.com/video/BV1Gp4y1C72n)                                  | Solo                           |
 | Da Vinci (Rider)          | [Link](https://twitter.com/niku2_admiral/status/1245682175648792577?s=20)            |                                |
 | Dantes                    | [Link](https://twitter.com/mana_pwpr/status/1245391176598880256?s=20)                | NoSwap                         |
+| Darius                    | [Link](https://twitter.com/snowdroptree/status/1246400978296778752?s=20)             |                                |
 | Ereshkigal                | [Link](https://www.bilibili.com/video/BV1SK4y1C7Fg)                                  |                                |
 | Fran                      | [Link](https://twitter.com/abiro_game/status/1245349818425200640?s=20)               | Fully NoCE                     |
 | Gawain                    | [Link](https://twitter.com/orionkumachan/status/1245730462267400193?s=20)            |                                |
@@ -869,6 +870,7 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 | Sitonai                   | [Link](https://www.bilibili.com/video/BV1TA411h7JM?)                                 |                                |
 | Spartacus                 | [Link](https://www.bilibili.com/video/BV1o64y1M7kA)                                  |                                |
 | Tamamo Cat                | [Link](https://twitter.com/shortcut588/status/1245371319455113217?s=20)              |                                |
+| Ushiwakamaru (Assassin)   | [Link](https://twitter.com/otkznr/status/1246395029247135744?s=20)                   |                                |
 | Valkyrie                  | [Link](https://twitter.com/terminas_aria/status/1245971986011938816?s=20)            | NoSwap                         |
 | Vlad                      | [Link](https://twitter.com/midori_alt/status/1245679269801422848?s=20)               |                                |
 | Wu Zetian                 | [Link](https://www.bilibili.com/video/BV1Fi4y187RL)                                  |                                |
