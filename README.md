@@ -4,7 +4,7 @@
 
 This repository serves as a collection of notable gameplay videos from FGO, focusing on efficient gameplay. The videos are grouped by year according to the JP timeline.
 
-For any suggestions, corrections or just a word of thanks, you can contact me on Discord at ``Arc#4114`` or use Github itself.
+For any suggestions, corrections or just a word of thanks, you can contact me on Discord at `Arc#4114` or use Github itself.
 
 ## Table of Contents
 
@@ -805,6 +805,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 | BB (Summer)               | [Link](https://twitter.com/ffgo_rin/status/1245742844624568320?s=20)                 |                                |
 | Brynhildr                 | [Link](https://twitter.com/yakusagu327/status/1245701369090080769?s=20)              |                                |
 | Caesar                    | [Link](https://twitter.com/waiwaikigurumi/status/1246133966790209547?s=20)           |                                |
+| Caligula | [Link](https://www.bilibili.com/video/BV1t4411V7NQ)
 | Carmila (Rider)           | [Link](https://www.bilibili.com/video/BV12k4y1d72h)                                  | Lv60 DPS                       |
 | Chacha                    | [Link](https://twitter.com/snowdroptree/status/1245686421681102848?s=20)             |                                |
 | Chen Gong                 | [Link](https://twitter.com/mgmg3939pnd/status/1245335527772938241?s=20)              |                                |
@@ -860,6 +861,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 | Penthsilea                | [Link](https://twitter.com/EdaFgo/status/1245699481271558145?s=20)                   | NonSSR Supports Only           |
 |                           | [Link](https://twitter.com/EdaFgo/status/1246235650417782785?s=20)                   | Non Supports Only, NoSwap      |
 |                           | [Link](https://twitter.com/EdaFgo/status/1246202218853707776?s=20)                   | Bronze Supports Only           |
+|                           | [Link](https://twitter.com/EdaFgo/status/1246412882952114176?s=20)                   | Bronze Supports Only, NoSwap   |
 | Qin Shi Huang             | [Link](https://www.bilibili.com/video/BV1EQ4y1M7PF)                                  | Solo                           |
 |                           | [Link](https://twitter.com/hiduka01/status/1246095984725090304?s=20)                 |                                |
 | Raikou                    | [Link](https://www.youtube.com/watch?v=C2k2X-iYNQ4&feature=youtu.be)                 |                                |
