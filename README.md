@@ -834,6 +834,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 | Kama                      | [Link](https://www.bilibili.com/video/BV1T64y1u7AL)                                  |                                                           |
 | Karna                     | [Link](https://www.bilibili.com/video/BV1Wz411b7Ts)                                  |                                                           |
 |                           | [Link](https://twitter.com/Misaya0131/status/1246086954866769925?s=20)               | NoCE on support                                           |
+| | [Link](https://www.youtube.com/watch?v=0z5nfMEjM8w) 
 | Kiara                     | [Link](https://twitter.com/ITMST/status/1245798202122489856?s=20)                    |                                                           |
 |                           | [Link](https://www.bilibili.com/video/BV1dA41187Qo)                                  | Solo                                                      |
 | Lancelot (Berserker)      | [Link](https://twitter.com/snowdroptree/status/1245333556806561792?s=20)             |                                                           |
