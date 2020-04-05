@@ -800,6 +800,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 | Arturia Pendragon (Ruler) | [Link](https://www.bilibili.com/video/BV1j64y1u7Q2)                                  |                                                           |
 | Ashwatthama               | [Link](https://twitter.com/nagaru35/status/1245728286245679105?s=20)                 |                                                           |
 | Astarte                   | [Link](https://twitter.com/bikakindefgo/status/1245698040075137025?s=20)             | NoSwap, NoCE on Supports                                  |
+|                           | [Link](https://www.youtube.com/watch?v=VJgb4vwUJqk)                                  | NP1 DPS, No event CE                                      |
 | Astolfo (Saber)           | [Link](https://www.bilibili.com/video/BV1Cg4y1b72V/?spm_id_from=333.788.videocard.6) |                                                           |
 | Astraea                   | [Link](https://twitter.com/ShotkAnime/status/1245793170882871298?s=20)               |                                                           |
 | Atalante (Alter)          | [Link](https://www.bilibili.com/video/BV1eZ4y1j7rt)                                  | NP1 DPS                                                   |
@@ -816,6 +817,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 | Dantes                    | [Link](https://twitter.com/mana_pwpr/status/1245391176598880256?s=20)                | NoSwap                                                    |
 | Darius                    | [Link](https://twitter.com/snowdroptree/status/1246400978296778752?s=20)             |                                                           |
 | Ereshkigal                | [Link](https://www.bilibili.com/video/BV1SK4y1C7Fg)                                  |                                                           |
+|                           | [Link](https://www.youtube.com/watch?v=Vpwwijt8YuQ)                                  |                                                           |
 | Fran                      | [Link](https://twitter.com/abiro_game/status/1245349818425200640?s=20)               | Fully NoCE                                                |
 | Gawain                    | [Link](https://twitter.com/orionkumachan/status/1245730462267400193?s=20)            |                                                           |
 | Gilgamesh                 | [Link](https://twitter.com/otkznr/status/1245351596604583937?s=20)                   |                                                           |
