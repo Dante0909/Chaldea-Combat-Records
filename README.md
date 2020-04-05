@@ -782,6 +782,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 | DPS Used                  | Link                                                                                 | Remarks                                                   |
 | ------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------- |
 | Abigail Williams          | [Link](https://www.bilibili.com/video/BV1Uk4y1d7eu)                                  |                                                           |
+|                           | [Link](https://twitter.com/moyo_FGO/status/1246453480027377669?s=20)                 | NoSwap                                                    |
 | Achilles                  | [Link](https://twitter.com/calpis_102/status/1245692925893201923?s=20)               | Solo                                                      |
 |                           | [Link](https://twitter.com/Chinquepig/status/1245478339772477440?s=20)               | NoSwap                                                    |
 | Alexander                 | [Link](https://twitter.com/waiwaikigurumi/status/1246290465709645826?s=20)           |                                                           |
@@ -828,7 +829,9 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 |                           | [Link](https://twitter.com/snowdroptree/status/1246093256242245632?s=20)             | Bronze Supports Only                                      |
 | Jack                      | [Link](https://twitter.com/ebichiri01417/status/1245379027260432384?s=20)            |                                                           |
 | Jeanne d'Arc (Alter)      | [Link](https://twitter.com/myc_1228/status/1245728364947599360?s=20)                 |                                                           |
+| Kama                      | [Link](https://www.bilibili.com/video/BV1T64y1u7AL)                                  |                                                           |
 | Karna                     | [Link](https://www.bilibili.com/video/BV1Wz411b7Ts)                                  |                                                           |
+|                           | [Link](https://twitter.com/Misaya0131/status/1246086954866769925?s=20)               | NoCE on support                                           |
 | Kiara                     | [Link](https://twitter.com/ITMST/status/1245798202122489856?s=20)                    |                                                           |
 |                           | [Link](https://www.bilibili.com/video/BV1dA41187Qo)                                  | Solo                                                      |
 | Lancelot (Berserker)      | [Link](https://twitter.com/snowdroptree/status/1245333556806561792?s=20)             |                                                           |
