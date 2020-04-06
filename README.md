@@ -844,6 +844,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 | Medusa                    | [Link](https://twitter.com/ffgo_rin/status/1245385627308191744?s=20)                 |                                                         |
 | Medusa (Lancer)           | [Link](https://twitter.com/_sky110/status/1246092583169708032?s=20)                  |                                                         |
 | Meltryllis (Alter-Ego)    | [Link](https://twitter.com/2_5_dimension/status/1245341929933398016?s=20)            |                                                         |
+|                           | [Link](https://twitter.com/Yuri_duelist/status/1246831441859637254?s=20)             | NoSwap                                                  |
 | Meltryllis (Lancer)       | [Link](https://twitter.com/Yuri_duelist/status/1245384553683759104?s=20)             |                                                         |
 |                           | [Link](https://www.bilibili.com/video/BV1jZ4y1j7Q9)                                  | NoSwap                                                  |
 | MHXA                      | [Link](https://twitter.com/NAO42010/status/1245691218224267265?s=20)                 |                                                         |
