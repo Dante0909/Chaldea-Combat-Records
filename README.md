@@ -806,6 +806,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 | Astraea                   | [Link](https://twitter.com/ShotkAnime/status/1245793170882871298?s=20)               |                                                         |
 | Atalante (Alter)          | [Link](https://www.bilibili.com/video/BV1eZ4y1j7rt)                                  | NP1 DPS                                                 |
 | BB (Summer)               | [Link](https://twitter.com/ffgo_rin/status/1245742844624568320?s=20)                 |                                                         |
+| Bradamante                | [Link](https://twitter.com/fuwa_rai/status/1247200765048803328?s=20)                 |                                                         |
 | Brynhildr                 | [Link](https://twitter.com/yakusagu327/status/1245701369090080769?s=20)              |                                                         |
 | Caesar                    | [Link](https://twitter.com/waiwaikigurumi/status/1246133966790209547?s=20)           |                                                         |
 | Caligula                  | [Link](https://www.bilibili.com/video/BV1t4411V7NQ)                                  | BraveLiz 3rd used, Non-SSR Supports only (Original Run) |
@@ -879,6 +880,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 |                           | [Link](https://twitter.com/EdaFgo/status/1246412882952114176?s=20)                   | Bronze Supports Only, NoSwap                            |
 | Qin Shi Huang             | [Link](https://www.bilibili.com/video/BV1EQ4y1M7PF)                                  | Solo                                                    |
 |                           | [Link](https://twitter.com/hiduka01/status/1246095984725090304?s=20)                 |                                                         |
+| Quetzalcotl (Ruler)       | [Link](https://twitter.com/snowdroptree/status/1247098131608551424?s=20)             |                                                         |
 | Raikou                    | [Link](https://www.youtube.com/watch?v=C2k2X-iYNQ4&feature=youtu.be)                 |                                                         |
 | Red Hare                  | [Link](https://twitter.com/tarasque0221/status/1245726167115526144?s=20)             |                                                         |
 | Salome                    | [Link](https://www.bilibili.com/video/BV1iK4y1C7Eb)                                  |                                                         |
