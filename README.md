@@ -816,12 +816,14 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 | Da Vinci (Rider)          | [Link](https://twitter.com/niku2_admiral/status/1245682175648792577?s=20)            |                                                         |
 | Dantes                    | [Link](https://twitter.com/mana_pwpr/status/1245391176598880256?s=20)                | NoSwap                                                  |
 | Darius                    | [Link](https://twitter.com/snowdroptree/status/1246400978296778752?s=20)             |                                                         |
+| Diarmuid (Saber)          | [Link](https://twitter.com/hiduka01/status/1246822228424974336?s=20)                 |                                                         |
 | Ereshkigal                | [Link](https://www.bilibili.com/video/BV1SK4y1C7Fg)                                  |                                                         |
 |                           | [Link](https://www.youtube.com/watch?v=Vpwwijt8YuQ)                                  |                                                         |
 | Fran                      | [Link](https://twitter.com/abiro_game/status/1245349818425200640?s=20)               | Fully NoCE                                              |
 | Gawain                    | [Link](https://twitter.com/orionkumachan/status/1245730462267400193?s=20)            |                                                         |
 | Gilgamesh                 | [Link](https://twitter.com/otkznr/status/1245351596604583937?s=20)                   |                                                         |
 | Gray                      | [Link](https://www.bilibili.com/video/BV1Xg4y1b7rg)                                  |                                                         |
+| Henry Jekyll and Hyde     | [Link](https://twitter.com/NAO42010/status/1246716338996830208?s=20)                 |                                                         |
 | Heracles                  | [Link](https://twitter.com/fuwa_rai/status/1245399180169736192?s=20)                 |                                                         |
 |                           | [Link](https://twitter.com/fuwa_rai/status/1245992628123873281?s=20)                 | Non Gold Supports only                                  |
 | Hessian Lobo              | [Link](https://www.bilibili.com/video/BV1WZ4y1j7SE)                                  |                                                         |
@@ -878,6 +880,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 | Raikou                    | [Link](https://www.youtube.com/watch?v=C2k2X-iYNQ4&feature=youtu.be)                 |                                                         |
 | Red Hare                  | [Link](https://twitter.com/tarasque0221/status/1245726167115526144?s=20)             |                                                         |
 | Salome                    | [Link](https://www.bilibili.com/video/BV1iK4y1C7Eb)                                  |                                                         |
+| Scathach                  | [Link](https://twitter.com/Misaya0131/status/1246486931749273600?s=20)               |                                                         |
 | Sei Shonagon              | [Link](https://www.bilibili.com/video/BV1R64y1M77e/?spm_id_from=333.788.videocard.2) |                                                         |
 | Semiramis                 | [Link](https://www.bilibili.com/video/BV1hV411f78W)                                  |                                                         |
 | SHIKI (Saber)             | [Link](https://twitter.com/tsugarian_apple/status/1246016137285922816?s=20)          |                                                         |
