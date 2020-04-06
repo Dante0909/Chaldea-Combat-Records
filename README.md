@@ -788,6 +788,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 | Alexander                 | [Link](https://twitter.com/waiwaikigurumi/status/1246290465709645826?s=20)           |                                                         |
 | Amakusa Shirou            | [Link](https://www.bilibili.com/video/BV1eK4y1C7yB)                                  |                                                         |
 | Antonio Salieri           | [Link](https://twitter.com/Nagato_Yuki_233/status/1245531080523800576?s=20)          |                                                         |
+| Arash                     | [Link](https://twitter.com/mizuchaofgo/status/1246440316225253376?s=20)              |                                                         |
 | Arjuna (Alter)            | [Link](https://twitter.com/moyo_FGO/status/1245709708050059265?s=20)                 | Solo                                                    |
 |                           | [Link](https://www.bilibili.com/video/BV1zK411775J)                                  | Solo                                                    |
 |                           | [Link](https://www.bilibili.com/video/BV1mV411f7P8)                                  |                                                         |
@@ -831,6 +832,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 |                           | [Link](https://twitter.com/kitakitasnas/status/1246062841959858176?s=20)             | NoSwap                                                  |
 | Ibaraki                   | [Link](https://twitter.com/snowdroptree/status/1245735874643419136?s=20)             | NonSSR Supports Only                                    |
 |                           | [Link](https://twitter.com/snowdroptree/status/1246093256242245632?s=20)             | Bronze Supports Only                                    |
+| Iskandar                  | [Link](https://twitter.com/SwoRa_Kento/status/1246780459993796608?s=20)              |                                                         |
 | Jack                      | [Link](https://twitter.com/ebichiri01417/status/1245379027260432384?s=20)            |                                                         |
 | Jeanne d'Arc (Alter)      | [Link](https://twitter.com/myc_1228/status/1245728364947599360?s=20)                 |                                                         |
 | Kama                      | [Link](https://www.bilibili.com/video/BV1T64y1u7AL)                                  |                                                         |
