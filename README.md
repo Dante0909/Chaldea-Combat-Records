@@ -862,9 +862,11 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 |                                | [Link](https://twitter.com/WacBook/status/1245574132281950208?s=20)                  | DualCore with Kiara                                     |
 | Napoleon                       | [Link](https://www.youtube.com/watch?v=9jfkXQWEAVM)                                  |                                                         |
 | Nero (Bride)                   | [Link](https://twitter.com/Chihiro1000/status/1245940143971680257?s=20)              |                                                         |
+|                                | [Link](https://twitter.com/Chihiro1000/status/1247584841887080451?s=20)              | Non SSR Supports only                                   |
 | Nero (Caster)                  | [Link](https://twitter.com/Chihiro1000/status/1245648459283066880?s=20)              | NoSwap, NoCE on Supports                                |
 | Nero (Saber)                   | [Link](https://twitter.com/Chihiro1000/status/1245997688933367808?s=20)              |                                                         |
 | Oda Nobunaga (Maou)            | [Link](https://www.bilibili.com/video/BV1F54y1d7dN/?spm_id_from=333.788.videocard.4) |                                                         |
+|                                | [Link](https://www.youtube.com/watch?v=J1iXWdXgh1M)                                  | NP1 DPS                                                 |
 | Oda Nobunaga (Berserker)       | [Link](https://twitter.com/snowdroptree/status/1245702117899128834?s=20)             | Non SSR Supports Only                                   |
 |                                | [Link](https://twitter.com/snowdroptree/status/1246153828782620672?s=20)             | NoSwap                                                  |
 | Odysseus                       | [Link](https://www.bilibili.com/video/BV1TC4y1s7YE?)                                 | DualCore with Salieri                                   |
