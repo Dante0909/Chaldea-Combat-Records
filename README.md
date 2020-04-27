@@ -833,6 +833,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 |                                | [Link](https://twitter.com/kitakitasnas/status/1246062841959858176?s=20)             | NoSwap                                                  |
 | Ibaraki                        | [Link](https://twitter.com/snowdroptree/status/1245735874643419136?s=20)             | NonSSR Supports Only                                    |
 |                                | [Link](https://twitter.com/snowdroptree/status/1246093256242245632?s=20)             | Bronze Supports Only                                    |
+| Ishtar | [Link](https://www.bilibili.com/video/BV1y4411P7xf) |
 | Iskandar                       | [Link](https://twitter.com/SwoRa_Kento/status/1246780459993796608?s=20)              |                                                         |
 | Jack                           | [Link](https://twitter.com/ebichiri01417/status/1245379027260432384?s=20)            |                                                         |
 | Jeanne d'Arc (Alter)           | [Link](https://twitter.com/myc_1228/status/1245728364947599360?s=20)                 |                                                         |
