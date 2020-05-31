@@ -5,6 +5,7 @@
 This repository serves as a collection of notable gameplay videos from FGO, focusing on efficient gameplay. The videos are grouped by year according to the JP timeline.
 
 For any suggestions, corrections or just a word of thanks, you can contact me on Discord at `Arc#4114` or use Github itself.
+
 Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 ## Contributing
@@ -937,6 +938,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Astarte                          | [Link](https://twitter.com/bikakindefgo/status/1266760729031356416?s=20)    |
 | Astolfo (Saber)                  | [Link](https://twitter.com/1104shoki/status/1266676563527024640?s=20)       | NoSwap                   |
 |                                  | [Link](https://twitter.com/2_5_dimension/status/1266666148357009413?s=19)   |
+| Atalante (Alter)                 | [Link](https://twitter.com/RGrOmQJMfkWvSHg/status/1267071707308679175?s=20) |
 | Bedivere                         | [Link](https://twitter.com/waiwaikigurumi/status/1266981114180034561?s=20)  |
 | Benienma                         | [Link](https://twitter.com/waiwaikigurumi/status/1266680939695857665?s=20)  | NP1 DPS                  |
 | Beowulf                          | [Link](https://twitter.com/Hibari31/status/1266738755810914307?s=20)        |
@@ -978,6 +980,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | MHXA                             | [Link](https://twitter.com/h1r33/status/1266675039283277825?s=20)           |
 | Mordred                          | [Link](https://twitter.com/Hello_Anthem/status/1266669743966089216?s=20)    |
 |                                  | [Link](https://twitter.com/Hello_Anthem/status/1266698480606515201)         | NoSwap                   |
+| Mori Nagayoshi                   | [Link](https://twitter.com/nmnppp/status/1267063116312895488?s=20)          |
 | Musashi (Berserker)              | [Link](https://twitter.com/ShotkAnime/status/1266763007075291143?s=20)      |
 | Musashi (Saber)                  | [Link](https://twitter.com/bikakindefgo/status/1266705123654262785?s=19)    |
 | Nero (Bride)                     | [Link](https://twitter.com/takato09217/status/1266956563203284995?s=20)     | Lv1 ROMA as supports     |
@@ -985,6 +988,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                  | [Link](https://twitter.com/abiro_game/status/1266964960145362946?s=20)      | Triple Nero team, noSwap |
 | Nero (Caster)                    | [Link](https://twitter.com/Chihiro1000/status/1267033597417893889?s=20)     |
 | Nero (Saber)                     | [Link](https://twitter.com/Chihiro1000/status/1266775104580489221?s=20)     | Non SSR Supports Only    |
+|                                  | [Link](https://twitter.com/fullice50/status/1267012008752234496?s=20)       | SOLO                     |
 | Oda Nobunaga (Berserker)         | [Link](9https://twitter.com/snowdroptree/status/1266690998475710464?s=20)   |
 | Oda Nobunaga (Maou)              | [Link](https://twitter.com/OrGOrG_FGO/status/1266766164526415872?s=20)      |
 | Okita                            | [Link](https://twitter.com/kusunokifgo/status/1266668151879512065?s=20)     |
