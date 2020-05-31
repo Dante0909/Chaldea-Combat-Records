@@ -922,22 +922,32 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 
 ### Fate/Requiem Board Game Apocalypse
 
-| DPS Used             | Link                                                                        | Remarks               |
-| -------------------- | --------------------------------------------------------------------------- | --------------------- |
-| Arturia (Saber)      | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1266679504501534726?s=20) |
-| Astolfo (Saber)      | [Link](https://twitter.com/1104shoki/status/1266676563527024640?s=20)       | NoSwap                |
-| Benienma             | [Link](https://twitter.com/waiwaikigurumi/status/1266680939695857665?s=20)  | NP1 DPS               |
-| Caesar               | [Link](https://twitter.com/kitakitasnas/status/1266684511569375233?s=20)    |
-| Dantes               | [Link](https://twitter.com/otkznr/status/1266667759825383424?s=20)          |
-| Diarmuid             | [Link](https://twitter.com/waiwaikigurumi/status/1266684625427902464?s=20)  | NoSwap                |
-| Dioscuri             | [Link](https://twitter.com/Herakles_osi/status/1266676364083511296?s=20)    | Non SSR supports only |
-| Gawain               | [Link](https://twitter.com/orionkumachan/status/1266678762264903680?s=20)   |
-| Hokusai              | [Link](https://twitter.com/kitakitasnas/status/1266679711259701249?s=20)    |
-| Lancelot (Berserker) | [Link](https://twitter.com/fuwa_rai/status/1266678042794971137?s=20)        |
-| MHXA                 | [Link](https://twitter.com/h1r33/status/1266675039283277825?s=20)           |
-| Mordred              | [Link](https://twitter.com/Hello_Anthem/status/1266669743966089216?s=20)    |
-| Okita                | [Link](https://twitter.com/kusunokifgo/status/1266668151879512065?s=20)     |
-| SHIKI                | [Link](https://twitter.com/7Corner/status/1266672767975317505?s=20)         |
+| DPS Used               | Link                                                                        | Remarks               |
+| ---------------------- | --------------------------------------------------------------------------- | --------------------- |
+| Altera                 | [Link](https://twitter.com/shortcut588/status/1266710383558971392?s=19)     | Lv1 ROMA buffer       |
+| Arjuna (Alter)         | [Link](https://twitter.com/otkznr/status/1266712774912045057?s=19)          |
+|                        | [Link](https://www.youtube.com/watch?v=5_uTfjYimQE)                         |
+| Arturia (Saber)        | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1266679504501534726?s=20) |
+| Astolfo (Saber)        | [Link](https://twitter.com/1104shoki/status/1266676563527024640?s=20)       | NoSwap                |
+|                        | [Link](https://twitter.com/2_5_dimension/status/1266666148357009413?s=19)   |
+| Benienma               | [Link](https://twitter.com/waiwaikigurumi/status/1266680939695857665?s=20)  | NP1 DPS               |
+| Caesar                 | [Link](https://twitter.com/kitakitasnas/status/1266684511569375233?s=20)    |
+| Dantes                 | [Link](https://twitter.com/otkznr/status/1266667759825383424?s=20)          |
+| Diarmuid               | [Link](https://twitter.com/waiwaikigurumi/status/1266684625427902464?s=20)  | NoSwap                |
+| Dioscuri               | [Link](https://twitter.com/Herakles_osi/status/1266676364083511296?s=20)    | Non SSR supports only |
+| Frankenstein (Saber)   | [Link](https://twitter.com/FrnHorn/status/1266694351163256832?s=19)         | NoSwap                |
+| Gawain                 | [Link](https://twitter.com/orionkumachan/status/1266678762264903680?s=20)   |
+| Hijikata               | [Link](https://twitter.com/NAO42010/status/1266766509877035009)             |
+| Hokusai                | [Link](https://twitter.com/kitakitasnas/status/1266679711259701249?s=20)    |
+| Lancelot (Berserker)   | [Link](https://twitter.com/fuwa_rai/status/1266678042794971137?s=20)        |
+| Meltryllis (Alter-Ego) | [Link](https://twitter.com/2_5_dimension/status/1266692982670942208?s=19)   |
+| MHXA                   | [Link](https://twitter.com/h1r33/status/1266675039283277825?s=20)           |
+| Mordred                | [Link](https://twitter.com/Hello_Anthem/status/1266669743966089216?s=20)    |
+|                        | [Link](https://twitter.com/Hello_Anthem/status/1266698480606515201)         | NoSwap                |
+| Musashi                | [Link](https://twitter.com/bikakindefgo/status/1266705123654262785?s=19)    |
+| Okita                  | [Link](https://twitter.com/kusunokifgo/status/1266668151879512065?s=20)     |
+| Penthesilea            | [Link](https://twitter.com/EdaFgo/status/1266709862769016833?s=19)          |
+| SHIKI                  | [Link](https://twitter.com/7Corner/status/1266672767975317505?s=20)         |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
