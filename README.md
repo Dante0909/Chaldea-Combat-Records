@@ -6,44 +6,44 @@ This repository serves as a collection of notable gameplay videos from FGO, focu
 
 For any suggestions, corrections or just a word of thanks, you can contact me on Discord at `Arc#4114` or use Github itself.
 
+## Contributing
+
+- Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Chaldea-Combat-Records/blob/master/CONTRIBUTING.md).
+
 ## Table of Contents
 
 ### 2020
 
--   [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
--   [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
--   [Penth Amazoness.com CQ](#amazonesscom---ceo-crisis-2020)
--   [Valentines 2020](#valentines-2020)
--   [Chaldea Boys Collection](#chaldea-boys-collection-2020)
--   [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
+- [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
+- [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
+- [Penth Amazoness.com CQ](#amazonesscom---ceo-crisis-2020)
+- [Valentines 2020](#valentines-2020)
+- [Chaldea Boys Collection](#chaldea-boys-collection-2020)
+- [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
 
 ### 2019
 
--   [Xmas 2019 CQ](#xmas-2019)
--   [Xmas 2019 Farming Comps](#xmas-2019-farming-comps)
+- [Xmas 2019 CQ](#xmas-2019)
+- [Xmas 2019 Farming Comps](#xmas-2019-farming-comps)
 
 ### Memorial Quests
 
--   [Saber Alter](#saber-alter)
-
-## Contributing
-
--   Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Chaldea-Combat-Records/blob/master/CONTRIBUTING.md).
+- [Saber Alter](#saber-alter)
 
 ## Events
 
 ### Saber Alter
 
-| DPS Used                      | Link                                                                | Remarks                           |
-| ----------------------------- | ------------------------------------------------------------------- | --------------------------------- |
-| Gilgamesh (Archer)            | [Link](https://www.youtube.com/watch?v=uMbyq6BwdeI)                 | Lvl 100 and 2k fou
-|                               | [Link](https://www.youtube.com/watch?v=wBbK51mD9aQ)                 | 
-| Arturia (Archer)              | [Link](https://www.youtube.com/watch?v=r8ycw0at3-0)                 | 
-| Santa Altera                  | [Link](https://www.youtube.com/watch?v=KHC6MP31Fdo)                 | Good Civilization
-| MHXA                          | [Link](https://www.youtube.com/watch?v=3WXmt94wFDE)                 | 
-|                               | [Link](https://www.youtube.com/watch?v=araIdZceb6M)                 | 
-| Jack                          | [Link](https://www.youtube.com/watch?v=hgBc8ePl4o8)                 | 
-| MHX                           | [Link](https://youtu.be/80t0M0zSiGc?t=1167)                         | 
+| DPS Used           | Link                                                | Remarks            |
+| ------------------ | --------------------------------------------------- | ------------------ |
+| Gilgamesh (Archer) | [Link](https://www.youtube.com/watch?v=uMbyq6BwdeI) | Lvl 100 and 2k fou |
+|                    | [Link](https://www.youtube.com/watch?v=wBbK51mD9aQ) |
+| Arturia (Archer)   | [Link](https://www.youtube.com/watch?v=r8ycw0at3-0) |
+| Santa Altera       | [Link](https://www.youtube.com/watch?v=KHC6MP31Fdo) | Good Civilization  |
+| MHXA               | [Link](https://www.youtube.com/watch?v=3WXmt94wFDE) |
+|                    | [Link](https://www.youtube.com/watch?v=araIdZceb6M) |
+| Jack               | [Link](https://www.youtube.com/watch?v=hgBc8ePl4o8) |
+| MHX                | [Link](https://youtu.be/80t0M0zSiGc?t=1167)         |
 
 ### Xmas 2019 Farming Comps
 
@@ -725,7 +725,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 | Kintoki (Rider)                | [Link](https://twitter.com/shortcut588/status/1239063171026972674?s=20)      | NoSwap, NoCE on supports                   |
 | Lancelot (Saber)               | [Link](https://twitter.com/FGOakauntoz/status/1237685521754640384?s=20)      |                                            |
 |                                | [Link](https://twitter.com/tarasque0221/status/1237717662924288000?s=20)     |                                            |
-| Li Shuwen  (Assassin)          | [Link](https://twitter.com/kitakitasnas/status/1237849756488978438?s=20)     |                                            |
+| Li Shuwen (Assassin)           | [Link](https://twitter.com/kitakitasnas/status/1237849756488978438?s=20)     |                                            |
 | Mandricardo                    | [Link](https://twitter.com/hork0320/status/1237790216422744064?s=20)         |                                            |
 | Martha (Ruler)                 | [Link](https://twitter.com/otkznr/status/1237756013803008001?s=20)           |                                            |
 | Mash Kyrielight                | [Link](https://www.bilibili.com/video/av96128210)                            |                                            |
@@ -830,7 +830,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 | Carmila (Rider)                | [Link](https://www.bilibili.com/video/BV12k4y1d72h)                                  | Lv60 DPS                                                |
 | Chacha                         | [Link](https://twitter.com/snowdroptree/status/1245686421681102848?s=20)             |                                                         |
 | Chen Gong                      | [Link](https://twitter.com/mgmg3939pnd/status/1245335527772938241?s=20)              |                                                         |
-| Cu Chulainn (Alter)            | [Link](https://www.bilibili.com/video/BV1U54y1R7vx)                                  | NP1 DPS,  Bronze Supports Only                          |
+| Cu Chulainn (Alter)            | [Link](https://www.bilibili.com/video/BV1U54y1R7vx)                                  | NP1 DPS, Bronze Supports Only                           |
 |                                | [Link](https://www.bilibili.com/video/BV1Gp4y1C72n)                                  | Solo                                                    |
 | Da Vinci (Rider)               | [Link](https://twitter.com/niku2_admiral/status/1245682175648792577?s=20)            |                                                         |
 | Dantes                         | [Link](https://twitter.com/mana_pwpr/status/1245391176598880256?s=20)                | NoSwap                                                  |
@@ -850,7 +850,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 |                                | [Link](https://twitter.com/kitakitasnas/status/1246062841959858176?s=20)             | NoSwap                                                  |
 | Ibaraki                        | [Link](https://twitter.com/snowdroptree/status/1245735874643419136?s=20)             | NonSSR Supports Only                                    |
 |                                | [Link](https://twitter.com/snowdroptree/status/1246093256242245632?s=20)             | Bronze Supports Only                                    |
-| Ishtar | [Link](https://www.bilibili.com/video/BV1y4411P7xf) |
+| Ishtar                         | [Link](https://www.bilibili.com/video/BV1y4411P7xf)                                  |
 | Iskandar                       | [Link](https://twitter.com/SwoRa_Kento/status/1246780459993796608?s=20)              |                                                         |
 | Jack                           | [Link](https://twitter.com/ebichiri01417/status/1245379027260432384?s=20)            |                                                         |
 | Jeanne d'Arc (Alter)           | [Link](https://twitter.com/myc_1228/status/1245728364947599360?s=20)                 |                                                         |
@@ -920,5 +920,24 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 | Xiang Yu                       | [Link](https://twitter.com/Violet_g612/status/1245357999553560576?s=20)              |                                                         |
 | Yang Guifei                    | [Link](https://twitter.com/chwangk/status/1245782389097254912?s=20)                  |                                                         |
 
--   All videos linked in this repo are the properties of their owners.
--   Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
+### Fate/Requiem Board Game Apocalypse
+
+| DPS Used             | Link                                                                        | Remarks               |
+| -------------------- | --------------------------------------------------------------------------- | --------------------- |
+| Arturia (Saber)      | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1266679504501534726?s=20) |
+| Astolfo (Saber)      | [Link](https://twitter.com/1104shoki/status/1266676563527024640?s=20)       | NoSwap                |
+| Benienma             | [Link](https://twitter.com/waiwaikigurumi/status/1266680939695857665?s=20)  | NP1 DPS               |
+| Caesar               | [Link](https://twitter.com/kitakitasnas/status/1266684511569375233?s=20)    |
+| Dantes               | [Link](https://twitter.com/otkznr/status/1266667759825383424?s=20)          |
+| Diarmuid             | [Link](https://twitter.com/waiwaikigurumi/status/1266684625427902464?s=20)  | NoSwap                |
+| Dioscuri             | [Link](https://twitter.com/Herakles_osi/status/1266676364083511296?s=20)    | Non SSR supports only |
+| Gawain               | [Link](https://twitter.com/orionkumachan/status/1266678762264903680?s=20)   |
+| Hokusai              | [Link](https://twitter.com/kitakitasnas/status/1266679711259701249?s=20)    |
+| Lancelot (Berserker) | [Link](https://twitter.com/fuwa_rai/status/1266678042794971137?s=20)        |
+| MHXA                 | [Link](https://twitter.com/h1r33/status/1266675039283277825?s=20)           |
+| Mordred              | [Link](https://twitter.com/Hello_Anthem/status/1266669743966089216?s=20)    |
+| Okita                | [Link](https://twitter.com/kusunokifgo/status/1266668151879512065?s=20)     |
+| SHIKI                | [Link](https://twitter.com/7Corner/status/1266672767975317505?s=20)         |
+
+- All videos linked in this repo are the properties of their owners.
+- Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
