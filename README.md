@@ -5,6 +5,7 @@
 This repository serves as a collection of notable gameplay videos from FGO, focusing on efficient gameplay. The videos are grouped by year according to the JP timeline.
 
 For any suggestions, corrections or just a word of thanks, you can contact me on Discord at `Arc#4114` or use Github itself.
+Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 ## Contributing
 
@@ -923,61 +924,70 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 
 ### Fate/Requiem Board Game Apocalypse
 
-| DPS Used                 | Link                                                                        | Remarks                  |
-| ------------------------ | --------------------------------------------------------------------------- | ------------------------ |
-| Altera                   | [Link](https://twitter.com/shortcut588/status/1266710383558971392?s=19)     | Lv1 ROMA buffer          |
-| Arjuna (Alter)           | [Link](https://twitter.com/otkznr/status/1266712774912045057?s=19)          |
-|                          | [Link](https://www.youtube.com/watch?v=5_uTfjYimQE)                         |
-| Arthur                   | [Link](https://twitter.com/kkkka5715/status/1266879926000447488?s=20)       |
-| Arturia (Saber)          | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1266679504501534726?s=20) |
-| Astarte                  | [Link](https://twitter.com/bikakindefgo/status/1266760729031356416?s=20)    |
-| Astolfo (Saber)          | [Link](https://twitter.com/1104shoki/status/1266676563527024640?s=20)       | NoSwap                   |
-|                          | [Link](https://twitter.com/2_5_dimension/status/1266666148357009413?s=19)   |
-| Bedivere                 | [Link](https://twitter.com/waiwaikigurumi/status/1266981114180034561?s=20)  |
-| Benienma                 | [Link](https://twitter.com/waiwaikigurumi/status/1266680939695857665?s=20)  | NP1 DPS                  |
-| Beowulf                  | [Link](https://twitter.com/Hibari31/status/1266738755810914307?s=20)        |
-| Caesar                   | [Link](https://twitter.com/kitakitasnas/status/1266684511569375233?s=20)    |
-| Cu Chulainn (Alter)      | [Link](https://twitter.com/damepoyochan/status/1266762280886140928?s=20)    | SOLO                     |
-| Dantes                   | [Link](https://twitter.com/otkznr/status/1266667759825383424?s=20)          |
-| Diarmuid                 | [Link](https://twitter.com/waiwaikigurumi/status/1266684625427902464?s=20)  | NoSwap                   |
-| Dioscuri                 | [Link](https://twitter.com/Herakles_osi/status/1266676364083511296?s=20)    | Non SSR supports only    |
-| Frankenstein (Saber)     | [Link](https://twitter.com/FrnHorn/status/1266694351163256832?s=19)         | NoSwap                   |
-| Gawain                   | [Link](https://twitter.com/orionkumachan/status/1266678762264903680?s=20)   |
-|                          | [Link](https://twitter.com/fgo38195272/status/1266945138602897409?s=20)     | Bronze Supports Only     |
-| Heracles                 | [Link](https://twitter.com/fuwa_rai/status/1266708293444988929?s=20)        | Non SSR supports only    |
-| Hijikata                 | [Link](https://twitter.com/NAO42010/status/1266766509877035009)             |
-| Hokusai                  | [Link](https://twitter.com/kitakitasnas/status/1266679711259701249?s=20)    |
-| Ibaraki                  | [Link](https://twitter.com/snowdroptree/status/1266820731750412288?s=20)    |
-| Ishtar (Rider)           | [Link](https://twitter.com/waiwaikigurumi/status/1266968245275291650?s=20)  |
-| Jeanne d'Arc (Alter)     | [Link](https://twitter.com/SW87807148/status/1266898625688305664?s=20)      |
-| Kijyo Koyo               | [Link](https://twitter.com/EstesT32/status/1266732757285171202?s=20)        |
-|                          | [Link](https://twitter.com/Yuri_duelist/status/1266748176117055489?s=20)    |
-| Lancelot (Berserker)     | [Link](https://twitter.com/fuwa_rai/status/1266678042794971137?s=20)        |
-| Lancelot (Saber)         | [Link](https://twitter.com/tarasque0221/status/1266872928538222593?s=20)    |
-|                          | [Link](https://twitter.com/tarasque0221/status/1266873568937181184?s=20)    | NoSwap                   |
-| Martha (Ruler)           | [Link](https://twitter.com/otkznr/status/1266765597880094720?s=20)          |
-| Meltryllis (Alter-Ego)   | [Link](https://twitter.com/2_5_dimension/status/1266692982670942208?s=19)   |
-| MHXA                     | [Link](https://twitter.com/h1r33/status/1266675039283277825?s=20)           |
-| Mordred                  | [Link](https://twitter.com/Hello_Anthem/status/1266669743966089216?s=20)    |
-|                          | [Link](https://twitter.com/Hello_Anthem/status/1266698480606515201)         | NoSwap                   |
-| Musashi (Berserker)      | [Link](https://twitter.com/ShotkAnime/status/1266763007075291143?s=20)      |
-| Musashi (Saber)          | [Link](https://twitter.com/bikakindefgo/status/1266705123654262785?s=19)    |
-| Nero (Bride)             | [Link](https://twitter.com/takato09217/status/1266956563203284995?s=20)     | Lv1 ROMA as supports     |
-|                          | [Link](https://twitter.com/takato09217/status/1266725183882006530?s=20)     | Boudica + Roman Supports |
-|                          | [Link](https://twitter.com/abiro_game/status/1266964960145362946?s=20)      | Triple Nero team, noSwap |
-| Nero (Saber)             | [Link](https://twitter.com/Chihiro1000/status/1266775104580489221?s=20)     | Non SSR Supports Only    |
-| Oda Nobunaga (Berserker) | [Link](9https://twitter.com/snowdroptree/status/1266690998475710464?s=20)   |
-| Oda Nobunaga (Maou)      | [Link](https://twitter.com/OrGOrG_FGO/status/1266766164526415872?s=20)      |
-| Okita                    | [Link](https://twitter.com/kusunokifgo/status/1266668151879512065?s=20)     |
-| Penthesilea              | [Link](https://twitter.com/EdaFgo/status/1266709862769016833?s=19)          |
-| Raikou                   | [Link](https://twitter.com/otkznr/status/1266937920025325568?s=20)          |
-| Scathach                 | [Link](https://twitter.com/gameover_fate/status/1266745838157496321?s=20)   |
-| SHIKI                    | [Link](https://twitter.com/7Corner/status/1266672767975317505?s=20)         |
-| Shuten (Caster)          | [Link](https://twitter.com/shuten1341/status/1266985189076434946?s=20)      | Lv100 DPS                |
-| TamaCat                  | [Link](https://twitter.com/shortcut588/status/1266781755912056832?s=20)     |
-| Xiang Yu                 | [Link](https://twitter.com/Violet_g612/status/1266763711689023488?s=20)     |
-| Yang Guifei              | [Link](https://twitter.com/chwangk/status/1266961873775149056?s=20)         |
-| Yagyuu                   | [Link](https://twitter.com/shuten1341/status/1266760874083053569?s=20)      |
+| DPS Used                         | Link                                                                        | Remarks                  |
+| -------------------------------- | --------------------------------------------------------------------------- | ------------------------ |
+| Altera                           | [Link](https://twitter.com/shortcut588/status/1266710383558971392?s=19)     | Lv1 ROMA buffer          |
+| Arjuna (Alter)                   | [Link](https://twitter.com/otkznr/status/1266712774912045057?s=19)          |
+|                                  | [Link](https://www.youtube.com/watch?v=5_uTfjYimQE)                         |
+| Arthur                           | [Link](https://twitter.com/kkkka5715/status/1266879926000447488?s=20)       |
+| Arturia (Saber)                  | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1266679504501534726?s=20) |
+|                                  | [Link](https://twitter.com/TKGFGO1/status/1266993882849439749?s=20)         | Non SSR Supports only    |
+| Arturia (Maid Alter)             | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1266803584802250752?s=20) |
+| Astarte                          | [Link](https://twitter.com/bikakindefgo/status/1266760729031356416?s=20)    |
+| Astolfo (Saber)                  | [Link](https://twitter.com/1104shoki/status/1266676563527024640?s=20)       | NoSwap                   |
+|                                  | [Link](https://twitter.com/2_5_dimension/status/1266666148357009413?s=19)   |
+| Bedivere                         | [Link](https://twitter.com/waiwaikigurumi/status/1266981114180034561?s=20)  |
+| Benienma                         | [Link](https://twitter.com/waiwaikigurumi/status/1266680939695857665?s=20)  | NP1 DPS                  |
+| Beowulf                          | [Link](https://twitter.com/Hibari31/status/1266738755810914307?s=20)        |
+| Caesar                           | [Link](https://twitter.com/kitakitasnas/status/1266684511569375233?s=20)    |
+|                                  | [Link](https://twitter.com/kitakitasnas/status/1266850251568148480?s=20)    | NoSwap                   |
+| Cu Chulainn (Alter)              | [Link](https://twitter.com/damepoyochan/status/1266762280886140928?s=20)    | SOLO                     |
+|                                  | [Link](https://twitter.com/warfare_Holic/status/1266703211932430336?s=20)   | Solo                     |
+| Dantes                           | [Link](https://twitter.com/otkznr/status/1266667759825383424?s=20)          |
+| Diarmuid                         | [Link](https://twitter.com/waiwaikigurumi/status/1266684625427902464?s=20)  | NoSwap                   |
+| Dioscuri                         | [Link](https://twitter.com/Herakles_osi/status/1266676364083511296?s=20)    | Non SSR supports only    |
+| Ereshkigal                       | [Link](https://twitter.com/waiwaikigurumi/status/1266731578488578048?s=20)  |
+| Frankenstein (Saber)             | [Link](https://twitter.com/FrnHorn/status/1266694351163256832?s=19)         | NoSwap                   |
+| Gawain                           | [Link](https://twitter.com/orionkumachan/status/1266678762264903680?s=20)   |
+|                                  | [Link](https://twitter.com/fgo38195272/status/1266945138602897409?s=20)     | Bronze Supports Only     |
+| Heracles                         | [Link](https://twitter.com/fuwa_rai/status/1266708293444988929?s=20)        | Non SSR supports only    |
+| Hijikata                         | [Link](https://twitter.com/NAO42010/status/1266766509877035009)             |
+| Hokusai (Foreigner)              | [Link](https://twitter.com/kitakitasnas/status/1266679711259701249?s=20)    |
+| Hokusai (Saber)                  | [Link](https://twitter.com/kusunokifgo/status/1266952610382090240?s=20)     |
+| Ibaraki                          | [Link](https://twitter.com/snowdroptree/status/1266820731750412288?s=20)    |
+| Ishtar (Rider)                   | [Link](https://twitter.com/waiwaikigurumi/status/1266968245275291650?s=20)  |
+| Jeanne d'Arc (Alter)             | [Link](https://twitter.com/SW87807148/status/1266898625688305664?s=20)      |
+| Jeanne d'Arc (Alter) (Berserker) | [Link](https://twitter.com/Miyabi_fgo_/status/1266916463123693569?s=20)     |
+| Kijyo Koyo                       | [Link](https://twitter.com/EstesT32/status/1266732757285171202?s=20)        |
+|                                  | [Link](https://twitter.com/Yuri_duelist/status/1266748176117055489?s=20)    |
+| Lancelot (Berserker)             | [Link](https://twitter.com/fuwa_rai/status/1266678042794971137?s=20)        |
+| Lancelot (Saber)                 | [Link](https://twitter.com/tarasque0221/status/1266872928538222593?s=20)    |
+|                                  | [Link](https://twitter.com/tarasque0221/status/1266873568937181184?s=20)    | NoSwap                   |
+| Marie                            | [Link](https://twitter.com/A_Bear13/status/1266795698537652224?s=20)        |
+| Martha (Ruler)                   | [Link](https://twitter.com/otkznr/status/1266765597880094720?s=20)          |
+| Meltryllis (Alter-Ego)           | [Link](https://twitter.com/2_5_dimension/status/1266692982670942208?s=19)   |
+| MHXA                             | [Link](https://twitter.com/h1r33/status/1266675039283277825?s=20)           |
+| Mordred                          | [Link](https://twitter.com/Hello_Anthem/status/1266669743966089216?s=20)    |
+|                                  | [Link](https://twitter.com/Hello_Anthem/status/1266698480606515201)         | NoSwap                   |
+| Musashi (Berserker)              | [Link](https://twitter.com/ShotkAnime/status/1266763007075291143?s=20)      |
+| Musashi (Saber)                  | [Link](https://twitter.com/bikakindefgo/status/1266705123654262785?s=19)    |
+| Nero (Bride)                     | [Link](https://twitter.com/takato09217/status/1266956563203284995?s=20)     | Lv1 ROMA as supports     |
+|                                  | [Link](https://twitter.com/takato09217/status/1266725183882006530?s=20)     | Boudica + Roman Supports |
+|                                  | [Link](https://twitter.com/abiro_game/status/1266964960145362946?s=20)      | Triple Nero team, noSwap |
+| Nero (Saber)                     | [Link](https://twitter.com/Chihiro1000/status/1266775104580489221?s=20)     | Non SSR Supports Only    |
+| Oda Nobunaga (Berserker)         | [Link](9https://twitter.com/snowdroptree/status/1266690998475710464?s=20)   |
+| Oda Nobunaga (Maou)              | [Link](https://twitter.com/OrGOrG_FGO/status/1266766164526415872?s=20)      |
+| Okita                            | [Link](https://twitter.com/kusunokifgo/status/1266668151879512065?s=20)     |
+| Penthesilea                      | [Link](https://twitter.com/EdaFgo/status/1266709862769016833?s=19)          |
+| Raikou                           | [Link](https://twitter.com/otkznr/status/1266937920025325568?s=20)          |
+| Romulus=Quirinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1266772110921232385?s=20)     |
+| Scathach                         | [Link](https://twitter.com/gameover_fate/status/1266745838157496321?s=20)   |
+| SHIKI                            | [Link](https://twitter.com/7Corner/status/1266672767975317505?s=20)         |
+| Shuten (Caster)                  | [Link](https://twitter.com/shuten1341/status/1266985189076434946?s=20)      | Lv100 DPS                |
+| TamaCat                          | [Link](https://twitter.com/shortcut588/status/1266781755912056832?s=20)     |
+| Xiang Yu                         | [Link](https://twitter.com/Violet_g612/status/1266763711689023488?s=20)     |
+| Yang Guifei                      | [Link](https://twitter.com/chwangk/status/1266961873775149056?s=20)         |
+| Yagyuu                           | [Link](https://twitter.com/shuten1341/status/1266760874083053569?s=20)      |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
