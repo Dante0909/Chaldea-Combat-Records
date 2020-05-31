@@ -20,6 +20,7 @@ For any suggestions, corrections or just a word of thanks, you can contact me on
 - [Valentines 2020](#valentines-2020)
 - [Chaldea Boys Collection](#chaldea-boys-collection-2020)
 - [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
+- [Requiem Collab Event : Board Game Collapse](#faterequiem-board-game-apocalypse)
 
 ### 2019
 
