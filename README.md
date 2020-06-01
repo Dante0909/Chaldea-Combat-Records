@@ -11,32 +11,59 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 ## Contributing
 
 - Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Chaldea-Combat-Records/blob/master/CONTRIBUTING.md).
-- For further discussion on in-depth topics related to FGO, please check this button :
+- I would like to extend my thanks to ``Hong#7870``, ``SaberOfAvalon#0001``, ``Ditt93#9759``, ``_Dante09#9825`` and ``Akaibu#9379`` for contributing in growth of this repo.
+- For further discussion on in-depth topics related to FGO, please check this server :
   [![Discord server invite](https://discordapp.com/api/guilds/502554574423457812/embed.png)](https://discord.gg/TKJmuCR)
 
-## Table of Contents
 
-### 2020
+- [Chaldea Combat Records](#chaldea-combat-records)
+  - [Introduction](#introduction)
+  - [Contributing](#contributing)
+  - [Story Bosses](#story-bosses)
+    - [LB5 Aphrodite](#lb5-aphrodite)
+    - [LB5 Dioscuri](#lb5-dioscuri)
+  - [Memorial Quests](#memorial-quests)
+    - [Saber Alter](#saber-alter)
+  - [Events](#events)
+    - [Xmas 2019 Farming Comps](#xmas-2019-farming-comps)
+    - [Xmas 2019](#xmas-2019)
+    - [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
+    - [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
+    - [Amazoness.com - CEO Crisis 2020](#amazonesscom---ceo-crisis-2020)
+    - [Valentines 2020](#valentines-2020)
+    - [Chaldea Boys Collection 2020](#chaldea-boys-collection-2020)
+    - [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
+    - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
+  
+  - [Events](#events)
+    - [Saber Alter](#saber-alter)
+    - [Xmas 2019 Farming Comps](#xmas-2019-farming-comps)
+    - [Xmas 2019](#xmas-2019)
+    - [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
+    - [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
+    - [Amazoness.com - CEO Crisis 2020](#amazonesscom---ceo-crisis-2020)
+    - [Valentines 2020](#valentines-2020)
+    - [Chaldea Boys Collection 2020](#chaldea-boys-collection-2020)
+    - [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
+    - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
 
-- [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
-- [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
-- [Penth Amazoness.com CQ](#amazonesscom---ceo-crisis-2020)
-- [Valentines 2020](#valentines-2020)
-- [Chaldea Boys Collection](#chaldea-boys-collection-2020)
-- [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
-- [Requiem Collab Event : Board Game Collapse](#faterequiem-board-game-apocalypse)
+## Story Bosses
+### LB5 Aphrodite
 
-### 2019
+| DPS Used     | Link                                  | Remarks |
+| ------------ | ------------------------------------- | ------- |
+| Hijikata     | [Link](https://youtu.be/QlZro3NQUeM)  | 3turn   |
+| King Hassan  | [Link](https://youtu.be/PzGx_qox4ig)  | SOLO    |
+| Space Ishtar | [Link](https://youtu.be/tHEjjOuz0Pc)  | 3turn   |
+|              | [Link](https://youtu.be/O_KUIWMJiGEg) | 3turn   |
 
-- [Xmas 2019 CQ](#xmas-2019)
-- [Xmas 2019 Farming Comps](#xmas-2019-farming-comps)
+### LB5 Dioscuri
 
-### Memorial Quests
+| DPS Used | Link                                 | Remarks |
+| -------- | ------------------------------------ | ------- |
+|          | [Link](https://youtu.be/Oo6zdHwIvj8) | 3turn   |
 
-- [Saber Alter](#saber-alter)
-
-## Events
-
+## Memorial Quests
 ### Saber Alter
 
 | DPS Used           | Link                                                | Remarks            |
@@ -49,6 +76,8 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                    | [Link](https://www.youtube.com/watch?v=araIdZceb6M) |
 | Jack               | [Link](https://www.youtube.com/watch?v=hgBc8ePl4o8) |
 | MHX                | [Link](https://youtu.be/80t0M0zSiGc?t=1167)         |
+
+## Events
 
 ### Xmas 2019 Farming Comps
 
