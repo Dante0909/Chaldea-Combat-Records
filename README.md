@@ -11,12 +11,12 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 ## Contributing
 
 - Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Chaldea-Combat-Records/blob/master/CONTRIBUTING.md).
-- I would like to extend my thanks to ``Hong#7870``, ``SaberOfAvalon#0001``, ``Ditt93#9759``, ``_Dante09#9825`` and ``Akaibu#9379`` for contributing in growth of this repo.
+- I would like to extend my thanks to `Hong#7870`, `SaberOfAvalon#0001`, `Ditt93#9759`, `_Dante09#9825` and `Akaibu#9379` for contributing in growth of this repo.
 - For further discussion on in-depth topics related to FGO, please check this server :
   [![Discord server invite](https://discordapp.com/api/guilds/502554574423457812/embed.png)](https://discord.gg/TKJmuCR)
 
-
 - [Chaldea Combat Records](#chaldea-combat-records)
+
   - [Introduction](#introduction)
   - [Contributing](#contributing)
   - [Story Bosses](#story-bosses)
@@ -29,6 +29,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Xmas 2019 Farming Comps](#xmas-2019-farming-comps)
     - [Xmas 2019](#xmas-2019)
   - [2020](#2020)
+
     - [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
     - [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
     - [Amazoness.com - CEO Crisis 2020](#amazonesscom---ceo-crisis-2020)
@@ -36,9 +37,24 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Chaldea Boys Collection 2020](#chaldea-boys-collection-2020)
     - [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
     - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
-  
-    
+
+    - [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
+    - [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
+    - [Amazoness.com - CEO Crisis 2020](#amazonesscom---ceo-crisis-2020)
+    - [Valentines 2020](#valentines-2020)
+    - [Chaldea Boys Collection 2020](#chaldea-boys-collection-2020)
+    - [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
+    - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
+
 ## Story Bosses
+
+### LB5 Dioscuri
+
+| DPS Used | Link                                                | Remarks |
+| -------- | --------------------------------------------------- | ------- |
+| Enkidu   | [Link](https://www.youtube.com/watch?v=JsBQUl2jRyk) | Solo    |
+| QSH      | [Link](https://www.youtube.com/watch?v=0b8xWW_RLtw) | Solo    |
+
 ### LB5 Aphrodite
 
 | DPS Used     | Link                                  | Remarks |
@@ -52,9 +68,10 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 | DPS Used | Link                                 | Remarks |
 | -------- | ------------------------------------ | ------- |
-|          | [Link](https://youtu.be/Oo6zdHwIvj8) | 3turn   |
+| Chloe    | [Link](https://youtu.be/Oo6zdHwIvj8) | 3turn   |
 
 ## Memorial Quests
+
 ### Saber Alter
 
 | DPS Used           | Link                                                | Remarks            |
@@ -69,7 +86,9 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | MHX                | [Link](https://youtu.be/80t0M0zSiGc?t=1167)         |
 
 ## Events
+
 ## 2019
+
 ### Xmas 2019 Farming Comps
 
 | DPS Used                      | Link                                                                | Remarks                           |
@@ -132,6 +151,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Yu Miaoyi              | [Link](https://twitter.com/EstesT32/status/1202028169420689408)            |                               |
 
 ## 2020
+
 ### Benienma CQ Enmatei Event Rerun
 
 | DPS Used              | Link                                                                       | Remarks                                                |
@@ -953,6 +973,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Altera                           | [Link](https://twitter.com/shortcut588/status/1266710383558971392?s=19)     | Lv1 ROMA buffer              |
 | Arjuna (Alter)                   | [Link](https://twitter.com/otkznr/status/1266712774912045057?s=19)          |
 |                                  | [Link](https://www.youtube.com/watch?v=5_uTfjYimQE)                         |
+|                                  | [Link](https://www.youtube.com/watch?v=5_uTfjYimQE)                         | NoCE                         |
 | Arthur                           | [Link](https://twitter.com/kkkka5715/status/1266879926000447488?s=20)       |
 | Arturia (Saber)                  | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1266679504501534726?s=20) |
 |                                  | [Link](https://twitter.com/TKGFGO1/status/1266993882849439749?s=20)         | Non SSR Supports only        |
@@ -963,14 +984,18 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Astolfo (Saber)                  | [Link](https://twitter.com/1104shoki/status/1266676563527024640?s=20)       | NoSwap                       |
 |                                  | [Link](https://twitter.com/2_5_dimension/status/1266666148357009413?s=19)   |
 | Atalante (Alter)                 | [Link](https://twitter.com/RGrOmQJMfkWvSHg/status/1267071707308679175?s=20) |
+| BB (Summer)                      | [Link](https://twitter.com/ITMST/status/1267444932727341060?s=20)           | NoCE on Support              |
+|                                  | [Link](https://twitter.com/Bbci_f/status/1267404375539937280?s=19)          |
 | Bedivere                         | [Link](https://twitter.com/waiwaikigurumi/status/1266981114180034561?s=20)  |
 | Benienma                         | [Link](https://twitter.com/waiwaikigurumi/status/1266680939695857665?s=20)  | NP1 DPS                      |
 | Beowulf                          | [Link](https://twitter.com/Hibari31/status/1266738755810914307?s=20)        |
+| Bradamante                       | [Link](https://twitter.com/FrnHorn/status/1267453129412407296?s=20)         |
 | Caenis                           | [Link](https://twitter.com/kumamori4/status/1267038725894074368?s=20)       |
 | Caesar                           | [Link](https://twitter.com/kitakitasnas/status/1266684511569375233?s=20)    |
 |                                  | [Link](https://twitter.com/kitakitasnas/status/1266850251568148480?s=20)    | NoSwap                       |
 | Cu Chulainn (Alter)              | [Link](https://twitter.com/damepoyochan/status/1266762280886140928?s=20)    | SOLO                         |
-|                                  | [Link](https://twitter.com/warfare_Holic/status/1266703211932430336?s=20)   | Solo                         |
+|                                  | [Link](https://twitter.com/warfare_Holic/status/1266703211932430336?s=20)   | SOLO                         |
+|                                  | [Link](https://twitter.com/otkznr/status/1267382869279686656?s=20)          |
 | Dantes                           | [Link](https://twitter.com/otkznr/status/1266667759825383424?s=20)          |
 |                                  | [Link](https://twitter.com/mana_pwpr/status/1267123311554650112?s=20)       | NoSwap                       |
 | Diarmuid                         | [Link](https://twitter.com/waiwaikigurumi/status/1266684625427902464?s=20)  | NoSwap                       |
@@ -983,6 +1008,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                  | [Link](https://twitter.com/orionkumachan/status/1267064268458831872?s=19)   | Bronze Supports only, NoSwap |
 | Heracles                         | [Link](https://twitter.com/fuwa_rai/status/1266708293444988929?s=20)        | Non SSR supports only        |
 | Hessian Lobo                     | [Link](https://twitter.com/kitakitasnas/status/1267017901850030086?s=20)    |
+|                                  | [Link](https://twitter.com/kitakitasnas/status/1267430351686651904?s=20)    | NoSwap                       |
 | Hijikata                         | [Link](https://twitter.com/NAO42010/status/1266766509877035009)             |
 |                                  | [Link](https://twitter.com/NAO42010/status/1267044605716910083?s=20)        | Non SSR Supports only        |
 | Hokusai (Foreigner)              | [Link](https://twitter.com/kitakitasnas/status/1266679711259701249?s=20)    |
@@ -1002,17 +1028,20 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Lancelot (Berserker)             | [Link](https://twitter.com/fuwa_rai/status/1266678042794971137?s=20)        |
 | Lancelot (Saber)                 | [Link](https://twitter.com/tarasque0221/status/1266872928538222593?s=20)    |
 |                                  | [Link](https://twitter.com/tarasque0221/status/1266873568937181184?s=20)    | NoSwap                       |
+| Lu Bu                            | [Link](https://twitter.com/snowdroptree/status/1267443000352796678?s=20)    |
 | Marie                            | [Link](https://twitter.com/A_Bear13/status/1266795698537652224?s=20)        |
 | Martha (Ruler)                   | [Link](https://twitter.com/otkznr/status/1266765597880094720?s=20)          |
 | Medb (Saber)                     | [Link](https://www.youtube.com/watch?v=YTgm5IUNvcY)                         |
 | Medusa (Lancer)                  | [Link](https://twitter.com/_sky110/status/1267090576932913152?s=20)         |
 | Meltryllis (Alter-Ego)           | [Link](https://twitter.com/2_5_dimension/status/1266692982670942208?s=19)   |
 | Meltryllis (Lancer)              | [Link](https://twitter.com/2_5_dimension/status/1267260703750057988?s=20)   |
+| MHX                              | [Link](https://twitter.com/Bonta_Unit_07/status/1267417467476824064?s=20)   |
 | MHXA                             | [Link](https://twitter.com/h1r33/status/1266675039283277825?s=20)           |
 | Mordred                          | [Link](https://twitter.com/Hello_Anthem/status/1266669743966089216?s=20)    |
 |                                  | [Link](https://twitter.com/Hello_Anthem/status/1266698480606515201)         | NoSwap                       |
 | Mori Nagayoshi                   | [Link](https://twitter.com/nmnppp/status/1267063116312895488?s=20)          |
 | Musashi (Berserker)              | [Link](https://twitter.com/ShotkAnime/status/1266763007075291143?s=20)      |
+|                                  | [Link](https://twitter.com/ShotkAnime/status/1267444389913092104?s=20)      | NoSwap                       |
 | Musashi (Saber)                  | [Link](https://twitter.com/bikakindefgo/status/1266705123654262785?s=19)    |
 |                                  | [Link](https://twitter.com/hiduka01/status/1266845222262063104?s=20)        | NoSwap                       |
 | Nero (Bride)                     | [Link](https://twitter.com/takato09217/status/1266956563203284995?s=20)     | Lv1 ROMA as supports         |
@@ -1028,6 +1057,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Okita Souji (Saber)              | [Link](https://twitter.com/kusunokifgo/status/1266668151879512065?s=20)     |
 |                                  | [Link](https://twitter.com/yumey_c2_vv/status/1266835220411461632?s=19)     | NoSwap                       |
 | Penthesilea                      | [Link](https://twitter.com/EdaFgo/status/1266709862769016833?s=19)          |
+|                                  | [Link](https://twitter.com/EdaFgo/status/1267456626241355777?s=20)          | Bronze Supports Only         |
 | Raikou                           | [Link](https://twitter.com/otkznr/status/1266937920025325568?s=20)          |
 | Rama                             | [Link](https://twitter.com/hiduka01/status/1267020032866828289?s=20)        |
 | Romulus=Quirinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1266772110921232385?s=20)     |
@@ -1035,7 +1065,11 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Scathach                         | [Link](https://twitter.com/gameover_fate/status/1266745838157496321?s=20)   |
 | SHIKI                            | [Link](https://twitter.com/7Corner/status/1266672767975317505?s=20)         |
 |                                  | [Link](https://twitter.com/liyangru/status/1266968357380616194?s=19)        | No powermod CE               |
+|                                  | [Link](https://twitter.com/_ao2412fgo/status/1267298596493250560?s=20)      | NoSwap                       |
+| Shuten (Assassin)                | [Link](https://twitter.com/1syuten2syefi/status/1267376828827594752?s=20)   |
 | Shuten (Caster)                  | [Link](https://twitter.com/shuten1341/status/1266985189076434946?s=20)      | Lv100 DPS                    |
+| Sigurd                           | [Link](https://twitter.com/leoomotefriend/status/1267354724375789568?s=20)  |
+|                                  | [Link](https://twitter.com/yakusagu327/status/1266713961111498753)          |
 | TamaCat                          | [Link](https://twitter.com/shortcut588/status/1266781755912056832?s=20)     |
 | Valkyrie                         | [Link](https://twitter.com/terminas_aria/status/1267199296958394371?s=20)   |
 | Vlad (Berserker)                 | [Link](https://twitter.com/otkznr/status/1267025330960609281?s=20)          |
