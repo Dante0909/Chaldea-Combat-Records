@@ -993,6 +993,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Caenis                           | [Link](https://twitter.com/kumamori4/status/1267038725894074368?s=20)       |
 | Caesar                           | [Link](https://twitter.com/kitakitasnas/status/1266684511569375233?s=20)    |
 |                                  | [Link](https://twitter.com/kitakitasnas/status/1266850251568148480?s=20)    | NoSwap                       |
+| Carmila (Assassin)               | [Link](https://twitter.com/waiwaikigurumi/status/1267436286060589056?s=20)  |
 | Cu Chulainn (Alter)              | [Link](https://twitter.com/damepoyochan/status/1266762280886140928?s=20)    | SOLO                         |
 |                                  | [Link](https://twitter.com/warfare_Holic/status/1266703211932430336?s=20)   | SOLO                         |
 |                                  | [Link](https://twitter.com/otkznr/status/1267382869279686656?s=20)          |
@@ -1073,6 +1074,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | TamaCat                          | [Link](https://twitter.com/shortcut588/status/1266781755912056832?s=20)     |
 | Valkyrie                         | [Link](https://twitter.com/terminas_aria/status/1267199296958394371?s=20)   |
 | Vlad (Berserker)                 | [Link](https://twitter.com/otkznr/status/1267025330960609281?s=20)          |
+| Voyager                          | [Link](https://twitter.com/hork0320/status/1267459600921456640?s=20)        |
 | Xiang Yu                         | [Link](https://twitter.com/Violet_g612/status/1266763711689023488?s=20)     |
 | Yang Guifei                      | [Link](https://twitter.com/chwangk/status/1266961873775149056?s=20)         |
 | Yagyuu                           | [Link](https://twitter.com/shuten1341/status/1266760874083053569?s=20)      |
