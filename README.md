@@ -11,8 +11,8 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 ## Contributing
 
 - Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Chaldea-Combat-Records/blob/master/CONTRIBUTING.md).
-- For further discussion on in-depth topics related to FGO, please check this button : 
-[![Discord server invite](https://discordapp.com/api/guilds/502554574423457812/embed.png)](https://discord.gg/TKJmuCR)
+- For further discussion on in-depth topics related to FGO, please check this button :
+  [![Discord server invite](https://discordapp.com/api/guilds/502554574423457812/embed.png)](https://discord.gg/TKJmuCR)
 
 ## Table of Contents
 
@@ -983,6 +983,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                  | [Link](https://twitter.com/tarasque0221/status/1266873568937181184?s=20)    | NoSwap                       |
 | Marie                            | [Link](https://twitter.com/A_Bear13/status/1266795698537652224?s=20)        |
 | Martha (Ruler)                   | [Link](https://twitter.com/otkznr/status/1266765597880094720?s=20)          |
+| Medb (Saber)                     | [Link](https://www.youtube.com/watch?v=YTgm5IUNvcY)                         |
 | Medusa (Lancer)                  | [Link](https://twitter.com/_sky110/status/1267090576932913152?s=20)         |
 | Meltryllis (Alter-Ego)           | [Link](https://twitter.com/2_5_dimension/status/1266692982670942208?s=19)   |
 | Meltryllis (Lancer)              | [Link](https://twitter.com/2_5_dimension/status/1267260703750057988?s=20)   |
