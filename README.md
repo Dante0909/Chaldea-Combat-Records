@@ -998,6 +998,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Nero (Caster)                    | [Link](https://twitter.com/Chihiro1000/status/1267033597417893889?s=20)     |
 | Nero (Saber)                     | [Link](https://twitter.com/Chihiro1000/status/1266775104580489221?s=20)     | Non SSR Supports Only        |
 |                                  | [Link](https://twitter.com/fullice50/status/1267012008752234496?s=20)       | SOLO                         |
+|                                  | [Link](https://twitter.com/takato09217/status/1267258468395671552?s=20)     | Triple Nero Team             |
 | Oda Nobunaga (Berserker)         | [Link](9https://twitter.com/snowdroptree/status/1266690998475710464?s=20)   |
 | Oda Nobunaga (Maou)              | [Link](https://twitter.com/OrGOrG_FGO/status/1266766164526415872?s=20)      |
 | Okita Souji (Saber)              | [Link](https://twitter.com/kusunokifgo/status/1266668151879512065?s=20)     |
@@ -1012,6 +1013,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                  | [Link](https://twitter.com/liyangru/status/1266968357380616194?s=19)        | No powermod CE               |
 | Shuten (Caster)                  | [Link](https://twitter.com/shuten1341/status/1266985189076434946?s=20)      | Lv100 DPS                    |
 | TamaCat                          | [Link](https://twitter.com/shortcut588/status/1266781755912056832?s=20)     |
+| Valkyrie                         | [Link](https://twitter.com/terminas_aria/status/1267199296958394371?s=20)   |
 | Vlad (Berserker)                 | [Link](https://twitter.com/otkznr/status/1267025330960609281?s=20)          |
 | Xiang Yu                         | [Link](https://twitter.com/Violet_g612/status/1266763711689023488?s=20)     |
 | Yang Guifei                      | [Link](https://twitter.com/chwangk/status/1266961873775149056?s=20)         |
