@@ -25,8 +25,10 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
   - [Memorial Quests](#memorial-quests)
     - [Saber Alter](#saber-alter)
   - [Events](#events)
+  - [2019](#2019)
     - [Xmas 2019 Farming Comps](#xmas-2019-farming-comps)
     - [Xmas 2019](#xmas-2019)
+  - [2020](#2020)
     - [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
     - [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
     - [Amazoness.com - CEO Crisis 2020](#amazonesscom---ceo-crisis-2020)
@@ -35,18 +37,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
     - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
   
-  - [Events](#events)
-    - [Saber Alter](#saber-alter)
-    - [Xmas 2019 Farming Comps](#xmas-2019-farming-comps)
-    - [Xmas 2019](#xmas-2019)
-    - [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
-    - [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
-    - [Amazoness.com - CEO Crisis 2020](#amazonesscom---ceo-crisis-2020)
-    - [Valentines 2020](#valentines-2020)
-    - [Chaldea Boys Collection 2020](#chaldea-boys-collection-2020)
-    - [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
-    - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
-
+    
 ## Story Bosses
 ### LB5 Aphrodite
 
@@ -78,7 +69,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | MHX                | [Link](https://youtu.be/80t0M0zSiGc?t=1167)         |
 
 ## Events
-
+## 2019
 ### Xmas 2019 Farming Comps
 
 | DPS Used                      | Link                                                                | Remarks                           |
@@ -140,6 +131,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Tesla                  | [Link](https://twitter.com/abiro_game/status/1202526989178925056?s=20)     | NoCE on DPS                   |
 | Yu Miaoyi              | [Link](https://twitter.com/EstesT32/status/1202028169420689408)            |                               |
 
+## 2020
 ### Benienma CQ Enmatei Event Rerun
 
 | DPS Used              | Link                                                                       | Remarks                                                |
