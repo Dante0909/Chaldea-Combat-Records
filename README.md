@@ -15,6 +15,8 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 - For further discussion on in-depth topics related to FGO, please check this server :
   [![Discord server invite](https://discordapp.com/api/guilds/502554574423457812/embed.png)](https://discord.gg/TKJmuCR)
 
+## Index
+
 - [Chaldea Combat Records](#chaldea-combat-records)
 
   - [Introduction](#introduction)
@@ -1004,10 +1006,12 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Dioscuri                         | [Link](https://twitter.com/Herakles_osi/status/1266676364083511296?s=20)    | Non SSR supports only        |
 | Elizabeth Bathory (Brave)        | [Link](https://twitter.com/snowdroptree/status/1267002737977253888?s=20)    |
 | Ereshkigal                       | [Link](https://twitter.com/waiwaikigurumi/status/1266731578488578048?s=20)  |
+| Fergus                           | [Link](https://twitter.com/hiduka01/status/1267655494920859648?s=20)        |
 | Frankenstein (Saber)             | [Link](https://twitter.com/FrnHorn/status/1266694351163256832?s=19)         | NoSwap                       |
 | Gawain                           | [Link](https://twitter.com/orionkumachan/status/1266678762264903680?s=20)   |
 |                                  | [Link](https://twitter.com/fgo38195272/status/1266945138602897409?s=20)     | Bronze Supports Only         |
 |                                  | [Link](https://twitter.com/orionkumachan/status/1267064268458831872?s=19)   | Bronze Supports only, NoSwap |
+|                                  | [Link](https://twitter.com/orionkumachan/status/1267456581131632640?s=20)   | Bond CE on DPS               |
 | Heracles                         | [Link](https://twitter.com/fuwa_rai/status/1266708293444988929?s=20)        | Non SSR supports only        |
 | Hessian Lobo                     | [Link](https://twitter.com/kitakitasnas/status/1267017901850030086?s=20)    |
 |                                  | [Link](https://twitter.com/kitakitasnas/status/1267430351686651904?s=20)    | NoSwap                       |
@@ -1015,12 +1019,15 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                  | [Link](https://twitter.com/NAO42010/status/1267044605716910083?s=20)        | Non SSR Supports only        |
 | Hokusai (Foreigner)              | [Link](https://twitter.com/kitakitasnas/status/1266679711259701249?s=20)    |
 | Hokusai (Saber)                  | [Link](https://twitter.com/kusunokifgo/status/1266952610382090240?s=20)     |
+|                                  | [Link](https://twitter.com/snowdroptree/status/1267680129720836096?s=20)    | Non SSR Supports Only        |
 | Ibaraki                          | [Link](https://twitter.com/snowdroptree/status/1266820731750412288?s=20)    |
 |                                  | [Link](https://twitter.com/snowdroptree/status/1267032142204174336?s=20)    | Non SSR Supports only        |
 | Ishtar (Rider)                   | [Link](https://twitter.com/waiwaikigurumi/status/1266968245275291650?s=20)  |
+| Jack the Ripper                  | [Link](https://twitter.com/ShigureMea/status/1267645514234781697?s=20)      |
 | Jeanne d'Arc (Ruler)             | [Link](https://twitter.com/hatahuriojisan/status/1266912155103715329?s=20)  | Solo                         |
 | Jeanne d'Arc (Alter)             | [Link](https://twitter.com/SW87807148/status/1266898625688305664?s=20)      |
 | Jeanne d'Arc (Alter) (Berserker) | [Link](https://twitter.com/Miyabi_fgo_/status/1266916463123693569?s=20)     |
+| Kama                             | [Link](https://twitter.com/myc_1228/status/1267617247062667265?s=20)        |
 | Kijyo Koyo                       | [Link](https://twitter.com/EstesT32/status/1266732757285171202?s=20)        |
 |                                  | [Link](https://twitter.com/Yuri_duelist/status/1266748176117055489?s=20)    |
 |                                  | [Link](https://www.youtube.com/watch?v=O6sOzCWrVLQ)                         | NoCE                         |
