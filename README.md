@@ -32,7 +32,6 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Xmas 2019 Farming Comps](#xmas-2019-farming-comps)
     - [Xmas 2019](#xmas-2019)
   - [2020](#2020)
-
     - [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
     - [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
     - [Amazoness.com - CEO Crisis 2020](#amazonesscom---ceo-crisis-2020)
@@ -41,13 +40,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
     - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
 
-    - [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
-    - [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
-    - [Amazoness.com - CEO Crisis 2020](#amazonesscom---ceo-crisis-2020)
-    - [Valentines 2020](#valentines-2020)
-    - [Chaldea Boys Collection 2020](#chaldea-boys-collection-2020)
-    - [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
-    - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
+    
 
 ## Story Bosses
 
