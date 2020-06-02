@@ -48,14 +48,14 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 ## Story Bosses
 
-### LB5 Dioscuri
+### LB5 Chapter 7 - Arrow 2
 
 | DPS Used | Link                                                | Remarks |
 | -------- | --------------------------------------------------- | ------- |
 | Enkidu   | [Link](https://www.youtube.com/watch?v=JsBQUl2jRyk) | Solo    |
 | QSH      | [Link](https://www.youtube.com/watch?v=0b8xWW_RLtw) | Solo    |
 
-### LB5 Aphrodite
+### LB5 Chapter 13 - Arrow 2
 
 | DPS Used     | Link                                  | Remarks |
 | ------------ | ------------------------------------- | ------- |
@@ -64,7 +64,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Space Ishtar | [Link](https://youtu.be/tHEjjOuz0Pc)  | 3turn   |
 |              | [Link](https://youtu.be/O_KUIWMJiGEg) | 3turn   |
 
-### LB5 Dioscuri
+### LB5 Chapter 17 - Arrow 3
 
 | DPS Used | Link                                 | Remarks |
 | -------- | ------------------------------------ | ------- |
