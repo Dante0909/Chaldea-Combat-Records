@@ -1029,6 +1029,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Lancelot (Berserker)             | [Link](https://twitter.com/fuwa_rai/status/1266678042794971137?s=20)        |
 | Lancelot (Saber)                 | [Link](https://twitter.com/tarasque0221/status/1266872928538222593?s=20)    |
 |                                  | [Link](https://twitter.com/tarasque0221/status/1266873568937181184?s=20)    | NoSwap                       |
+|                                  | [Link](https://twitter.com/hork0320/status/1267459373061730304?s=20)        | No event CE                  |
 | Lu Bu                            | [Link](https://twitter.com/snowdroptree/status/1267443000352796678?s=20)    |
 | Marie                            | [Link](https://twitter.com/A_Bear13/status/1266795698537652224?s=20)        |
 | Martha (Ruler)                   | [Link](https://twitter.com/otkznr/status/1266765597880094720?s=20)          |
@@ -1038,6 +1039,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Meltryllis (Lancer)              | [Link](https://twitter.com/2_5_dimension/status/1267260703750057988?s=20)   |
 | MHX                              | [Link](https://twitter.com/Bonta_Unit_07/status/1267417467476824064?s=20)   |
 | MHXA                             | [Link](https://twitter.com/h1r33/status/1266675039283277825?s=20)           |
+| MHXX                             | [Link](https://twitter.com/yumey_c2_vv/status/1267492158493224961)          |
 | Mordred                          | [Link](https://twitter.com/Hello_Anthem/status/1266669743966089216?s=20)    |
 |                                  | [Link](https://twitter.com/Hello_Anthem/status/1266698480606515201)         | NoSwap                       |
 | Mori Nagayoshi                   | [Link](https://twitter.com/nmnppp/status/1267063116312895488?s=20)          |
