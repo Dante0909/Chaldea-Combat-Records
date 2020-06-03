@@ -32,6 +32,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Xmas 2019 Farming Comps](#xmas-2019-farming-comps)
     - [Xmas 2019](#xmas-2019)
   - [2020](#2020)
+
     - [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
     - [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
     - [Amazoness.com - CEO Crisis 2020](#amazonesscom---ceo-crisis-2020)
@@ -39,8 +40,6 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Chaldea Boys Collection 2020](#chaldea-boys-collection-2020)
     - [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
     - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
-
-    
 
 ## Story Bosses
 
@@ -964,73 +963,75 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 ### Fate/Requiem Board Game Apocalypse
 
-| DPS Used                         | Link                                                                        | Remarks                      |
-| -------------------------------- | --------------------------------------------------------------------------- | ---------------------------- |
-| Altera                           | [Link](https://twitter.com/shortcut588/status/1266710383558971392?s=19)     | Lv1 ROMA buffer              |
+| DPS Used                         | Link                                                                        | Remarks                                        |
+| -------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------- |
+| Altera                           | [Link](https://twitter.com/shortcut588/status/1266710383558971392?s=19)     | Lv1 ROMA buffer                                |
 | Arjuna (Alter)                   | [Link](https://twitter.com/otkznr/status/1266712774912045057?s=19)          |
 |                                  | [Link](https://www.youtube.com/watch?v=5_uTfjYimQE)                         |
-|                                  | [Link](https://www.youtube.com/watch?v=5_uTfjYimQE)                         | NoCE                         |
+|                                  | [Link](https://www.youtube.com/watch?v=5_uTfjYimQE)                         | NoCE                                           |
 | Arthur                           | [Link](https://twitter.com/kkkka5715/status/1266879926000447488?s=20)       |
 | Arturia (Saber)                  | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1266679504501534726?s=20) |
-|                                  | [Link](https://twitter.com/TKGFGO1/status/1266993882849439749?s=20)         | Non SSR Supports only        |
-|                                  | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1267007541034184705?s=20) | NoSwap                       |
+|                                  | [Link](https://twitter.com/TKGFGO1/status/1266993882849439749?s=20)         | Non SSR Supports only                          |
+|                                  | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1267007541034184705?s=20) | NoSwap                                         |
 | Arturia (Saber Alter)            | [Link](https://twitter.com/ux8VxvVdBq51p7e/status/1267214946313461760?s=20) |
 | Arturia (Maid Alter)             | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1266803584802250752?s=20) |
 | Astarte                          | [Link](https://twitter.com/bikakindefgo/status/1266760729031356416?s=20)    |
-| Astolfo (Saber)                  | [Link](https://twitter.com/1104shoki/status/1266676563527024640?s=20)       | NoSwap                       |
+| Astolfo (Saber)                  | [Link](https://twitter.com/1104shoki/status/1266676563527024640?s=20)       | NoSwap                                         |
 |                                  | [Link](https://twitter.com/2_5_dimension/status/1266666148357009413?s=19)   |
 | Atalante (Alter)                 | [Link](https://twitter.com/RGrOmQJMfkWvSHg/status/1267071707308679175?s=20) |
-| BB (Summer)                      | [Link](https://twitter.com/ITMST/status/1267444932727341060?s=20)           | NoCE on Support              |
+| BB (Summer)                      | [Link](https://twitter.com/ITMST/status/1267444932727341060?s=20)           | NoCE on Support                                |
 |                                  | [Link](https://twitter.com/Bbci_f/status/1267404375539937280?s=19)          |
 | Bedivere                         | [Link](https://twitter.com/waiwaikigurumi/status/1266981114180034561?s=20)  |
-| Benienma                         | [Link](https://twitter.com/waiwaikigurumi/status/1266680939695857665?s=20)  | NP1 DPS                      |
+| Benienma                         | [Link](https://twitter.com/waiwaikigurumi/status/1266680939695857665?s=20)  | NP1 DPS                                        |
 | Beowulf                          | [Link](https://twitter.com/Hibari31/status/1266738755810914307?s=20)        |
 | Bradamante                       | [Link](https://twitter.com/FrnHorn/status/1267453129412407296?s=20)         |
 | Caenis                           | [Link](https://twitter.com/kumamori4/status/1267038725894074368?s=20)       |
 | Caesar                           | [Link](https://twitter.com/kitakitasnas/status/1266684511569375233?s=20)    |
-|                                  | [Link](https://twitter.com/kitakitasnas/status/1266850251568148480?s=20)    | NoSwap                       |
-| Carmila (Assassin)               | [Link](https://twitter.com/waiwaikigurumi/status/1267436286060589056?s=20)  |
-| Cu Chulainn (Alter)              | [Link](https://twitter.com/damepoyochan/status/1266762280886140928?s=20)    | SOLO                         |
-|                                  | [Link](https://twitter.com/warfare_Holic/status/1266703211932430336?s=20)   | SOLO                         |
+|                                  | [Link](https://twitter.com/kitakitasnas/status/1266850251568148480?s=20)    | NoSwap                                         |
+| Carmilla (Assassin)              | [Link](https://twitter.com/waiwaikigurumi/status/1267436286060589056?s=20)  |
+| Carmilla (Rider)                 | [Link](https://www.youtube.com/watch?v=NYEmnyNjfoA)                         |
+| Cu Chulainn (Alter)              | [Link](https://twitter.com/damepoyochan/status/1266762280886140928?s=20)    | SOLO                                           |
+|                                  | [Link](https://twitter.com/warfare_Holic/status/1266703211932430336?s=20)   | SOLO                                           |
 |                                  | [Link](https://twitter.com/otkznr/status/1267382869279686656?s=20)          |
 | Dantes                           | [Link](https://twitter.com/otkznr/status/1266667759825383424?s=20)          |
-|                                  | [Link](https://twitter.com/mana_pwpr/status/1267123311554650112?s=20)       | NoSwap                       |
-| Diarmuid                         | [Link](https://twitter.com/waiwaikigurumi/status/1266684625427902464?s=20)  | NoSwap                       |
-| Dioscuri                         | [Link](https://twitter.com/Herakles_osi/status/1266676364083511296?s=20)    | Non SSR supports only        |
+|                                  | [Link](https://twitter.com/mana_pwpr/status/1267123311554650112?s=20)       | NoSwap                                         |
+| Diarmuid                         | [Link](https://twitter.com/waiwaikigurumi/status/1266684625427902464?s=20)  | NoSwap                                         |
+| Dioscuri                         | [Link](https://twitter.com/Herakles_osi/status/1266676364083511296?s=20)    | Non SSR supports only                          |
 | Elizabeth Bathory (Brave)        | [Link](https://twitter.com/snowdroptree/status/1267002737977253888?s=20)    |
 | Ereshkigal                       | [Link](https://twitter.com/waiwaikigurumi/status/1266731578488578048?s=20)  |
 | Fergus                           | [Link](https://twitter.com/hiduka01/status/1267655494920859648?s=20)        |
-| Frankenstein (Saber)             | [Link](https://twitter.com/FrnHorn/status/1266694351163256832?s=19)         | NoSwap                       |
+| Frankenstein (Saber)             | [Link](https://twitter.com/FrnHorn/status/1266694351163256832?s=19)         | NoSwap                                         |
 | Gawain                           | [Link](https://twitter.com/orionkumachan/status/1266678762264903680?s=20)   |
-|                                  | [Link](https://twitter.com/fgo38195272/status/1266945138602897409?s=20)     | Bronze Supports Only         |
-|                                  | [Link](https://twitter.com/orionkumachan/status/1267064268458831872?s=19)   | Bronze Supports only, NoSwap |
-|                                  | [Link](https://twitter.com/orionkumachan/status/1267456581131632640?s=20)   | Bond CE on DPS               |
-| Heracles                         | [Link](https://twitter.com/fuwa_rai/status/1266708293444988929?s=20)        | Non SSR supports only        |
+|                                  | [Link](https://twitter.com/fgo38195272/status/1266945138602897409?s=20)     | Bronze Supports Only                           |
+|                                  | [Link](https://twitter.com/orionkumachan/status/1267064268458831872?s=19)   | Bronze Supports only, NoSwap                   |
+|                                  | [Link](https://twitter.com/orionkumachan/status/1267456581131632640?s=20)   | Bond CE on DPS                                 |
+| Heracles                         | [Link](https://twitter.com/fuwa_rai/status/1266708293444988929?s=20)        | Non SSR supports only                          |
 | Hessian Lobo                     | [Link](https://twitter.com/kitakitasnas/status/1267017901850030086?s=20)    |
-|                                  | [Link](https://twitter.com/kitakitasnas/status/1267430351686651904?s=20)    | NoSwap                       |
+|                                  | [Link](https://twitter.com/kitakitasnas/status/1267430351686651904?s=20)    | NoSwap                                         |
 | Hijikata                         | [Link](https://twitter.com/NAO42010/status/1266766509877035009)             |
-|                                  | [Link](https://twitter.com/NAO42010/status/1267044605716910083?s=20)        | Non SSR Supports only        |
+|                                  | [Link](https://twitter.com/NAO42010/status/1267044605716910083?s=20)        | Non SSR Supports only                          |
 | Hokusai (Foreigner)              | [Link](https://twitter.com/kitakitasnas/status/1266679711259701249?s=20)    |
 | Hokusai (Saber)                  | [Link](https://twitter.com/kusunokifgo/status/1266952610382090240?s=20)     |
-|                                  | [Link](https://twitter.com/snowdroptree/status/1267680129720836096?s=20)    | Non SSR Supports Only        |
+|                                  | [Link](https://twitter.com/snowdroptree/status/1267680129720836096?s=20)    | Non SSR Supports Only                          |
 | Ibaraki                          | [Link](https://twitter.com/snowdroptree/status/1266820731750412288?s=20)    |
-|                                  | [Link](https://twitter.com/snowdroptree/status/1267032142204174336?s=20)    | Non SSR Supports only        |
+|                                  | [Link](https://twitter.com/snowdroptree/status/1267032142204174336?s=20)    | Non SSR Supports only                          |
 | Ishtar (Rider)                   | [Link](https://twitter.com/waiwaikigurumi/status/1266968245275291650?s=20)  |
 | Jack the Ripper                  | [Link](https://twitter.com/ShigureMea/status/1267645514234781697?s=20)      |
-| Jeanne d'Arc (Ruler)             | [Link](https://twitter.com/hatahuriojisan/status/1266912155103715329?s=20)  | Solo                         |
+| Jeanne d'Arc (Ruler)             | [Link](https://twitter.com/hatahuriojisan/status/1266912155103715329?s=20)  | Solo                                           |
 | Jeanne d'Arc (Alter)             | [Link](https://twitter.com/SW87807148/status/1266898625688305664?s=20)      |
 | Jeanne d'Arc (Alter) (Berserker) | [Link](https://twitter.com/Miyabi_fgo_/status/1266916463123693569?s=20)     |
 | Kama                             | [Link](https://twitter.com/myc_1228/status/1267617247062667265?s=20)        |
 | Kijyo Koyo                       | [Link](https://twitter.com/EstesT32/status/1266732757285171202?s=20)        |
 |                                  | [Link](https://twitter.com/Yuri_duelist/status/1266748176117055489?s=20)    |
-|                                  | [Link](https://www.youtube.com/watch?v=O6sOzCWrVLQ)                         | NoCE                         |
+|                                  | [Link](https://www.youtube.com/watch?v=O6sOzCWrVLQ)                         | NoCE                                           |
 | Kintoki (Berserker)              | [Link](https://twitter.com/mana_pwpr/status/1267035908823343104?s=20)       |
 | Kintoki (Rider)                  | [Link](https://twitter.com/hiduka01/status/1267002835431878657?s=20)        |
-| Lakshmibai                       | [Link](https://twitter.com/FrnHorn/status/1267059288469463041?s=20)         | NoSwap                       |
+| Lakshmibai                       | [Link](https://twitter.com/FrnHorn/status/1267059288469463041?s=20)         | NoSwap                                         |
+|                                  | [Link](https://twitter.com/ShotkAnime/status/1267832776876679168?s=19)      | Non SSR Supports Only                          |
 | Lancelot (Berserker)             | [Link](https://twitter.com/fuwa_rai/status/1266678042794971137?s=20)        |
 | Lancelot (Saber)                 | [Link](https://twitter.com/tarasque0221/status/1266872928538222593?s=20)    |
-|                                  | [Link](https://twitter.com/tarasque0221/status/1266873568937181184?s=20)    | NoSwap                       |
-|                                  | [Link](https://twitter.com/hork0320/status/1267459373061730304?s=20)        | No event CE                  |
+|                                  | [Link](https://twitter.com/tarasque0221/status/1266873568937181184?s=20)    | NoSwap                                         |
+|                                  | [Link](https://twitter.com/hork0320/status/1267459373061730304?s=20)        | No event CE                                    |
 | Lu Bu                            | [Link](https://twitter.com/snowdroptree/status/1267443000352796678?s=20)    |
 | Marie                            | [Link](https://twitter.com/A_Bear13/status/1266795698537652224?s=20)        |
 | Martha (Ruler)                   | [Link](https://twitter.com/otkznr/status/1266765597880094720?s=20)          |
@@ -1042,38 +1043,41 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | MHXA                             | [Link](https://twitter.com/h1r33/status/1266675039283277825?s=20)           |
 | MHXX                             | [Link](https://twitter.com/yumey_c2_vv/status/1267492158493224961)          |
 | Mordred                          | [Link](https://twitter.com/Hello_Anthem/status/1266669743966089216?s=20)    |
-|                                  | [Link](https://twitter.com/Hello_Anthem/status/1266698480606515201)         | NoSwap                       |
+|                                  | [Link](https://twitter.com/Hello_Anthem/status/1266698480606515201)         | NoSwap                                         |
 | Mori Nagayoshi                   | [Link](https://twitter.com/nmnppp/status/1267063116312895488?s=20)          |
 | Musashi (Berserker)              | [Link](https://twitter.com/ShotkAnime/status/1266763007075291143?s=20)      |
-|                                  | [Link](https://twitter.com/ShotkAnime/status/1267444389913092104?s=20)      | NoSwap                       |
+|                                  | [Link](https://twitter.com/ShotkAnime/status/1267444389913092104?s=20)      | NoSwap                                         |
 | Musashi (Saber)                  | [Link](https://twitter.com/bikakindefgo/status/1266705123654262785?s=19)    |
-|                                  | [Link](https://twitter.com/hiduka01/status/1266845222262063104?s=20)        | NoSwap                       |
-| Nero (Bride)                     | [Link](https://twitter.com/takato09217/status/1266956563203284995?s=20)     | Lv1 ROMA as supports         |
-|                                  | [Link](https://twitter.com/takato09217/status/1266725183882006530?s=20)     | Boudica + Roman Supports     |
-|                                  | [Link](https://twitter.com/abiro_game/status/1266964960145362946?s=20)      | Triple Nero team, noSwap     |
-|                                  | [Link](https://twitter.com/Chihiro1000/status/1266747590609039361?s=19)     | Non SSR Supports only        |
+|                                  | [Link](https://twitter.com/hiduka01/status/1266845222262063104?s=20)        | NoSwap                                         |
+| Nero (Bride)                     | [Link](https://twitter.com/takato09217/status/1266956563203284995?s=20)     | Lv1 ROMA as supports                           |
+|                                  | [Link](https://twitter.com/takato09217/status/1266725183882006530?s=20)     | Boudica + Roman Supports                       |
+|                                  | [Link](https://twitter.com/abiro_game/status/1266964960145362946?s=20)      | Triple Nero team, noSwap                       |
+|                                  | [Link](https://twitter.com/Chihiro1000/status/1266747590609039361?s=19)     | Non SSR Supports only                          |
+|                                  | [Link](https://twitter.com/takato09217/status/1267634618955468800?s=19)     | NoSwap, Bronze Supports Only, NoCE on Supports |
 | Nero (Caster)                    | [Link](https://twitter.com/Chihiro1000/status/1267033597417893889?s=20)     |
-| Nero (Saber)                     | [Link](https://twitter.com/Chihiro1000/status/1266775104580489221?s=20)     | Non SSR Supports Only        |
-|                                  | [Link](https://twitter.com/fullice50/status/1267012008752234496?s=20)       | SOLO                         |
-|                                  | [Link](https://twitter.com/takato09217/status/1267258468395671552?s=20)     | Triple Nero Team             |
+| Nero (Saber)                     | [Link](https://twitter.com/Chihiro1000/status/1266775104580489221?s=20)     | Non SSR Supports Only                          |
+|                                  | [Link](https://twitter.com/fullice50/status/1267012008752234496?s=20)       | SOLO                                           |
+|                                  | [Link](https://twitter.com/takato09217/status/1267258468395671552?s=20)     | Triple Nero Team                               |
 | Oda Nobunaga (Berserker)         | [Link](9https://twitter.com/snowdroptree/status/1266690998475710464?s=20)   |
 | Oda Nobunaga (Maou)              | [Link](https://twitter.com/OrGOrG_FGO/status/1266766164526415872?s=20)      |
 | Okita Souji (Saber)              | [Link](https://twitter.com/kusunokifgo/status/1266668151879512065?s=20)     |
-|                                  | [Link](https://twitter.com/yumey_c2_vv/status/1266835220411461632?s=19)     | NoSwap                       |
+|                                  | [Link](https://twitter.com/yumey_c2_vv/status/1266835220411461632?s=19)     | NoSwap                                         |
 | Penthesilea                      | [Link](https://twitter.com/EdaFgo/status/1266709862769016833?s=19)          |
-|                                  | [Link](https://twitter.com/EdaFgo/status/1267456626241355777?s=20)          | Bronze Supports Only         |
+|                                  | [Link](https://twitter.com/EdaFgo/status/1267456626241355777?s=20)          | Bronze Supports Only                           |
 | Raikou                           | [Link](https://twitter.com/otkznr/status/1266937920025325568?s=20)          |
 | Rama                             | [Link](https://twitter.com/hiduka01/status/1267020032866828289?s=20)        |
 | Romulus=Quirinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1266772110921232385?s=20)     |
 | Sasaki Kojiro                    | [Link](https://twitter.com/roomatoraiaruma/status/1267026204411883523?s=19) |
 | Scathach                         | [Link](https://twitter.com/gameover_fate/status/1266745838157496321?s=20)   |
+| Seigfried                        | [Link](https://twitter.com/otkznr/status/1267815727362265092?s=19)          |
 | SHIKI                            | [Link](https://twitter.com/7Corner/status/1266672767975317505?s=20)         |
-|                                  | [Link](https://twitter.com/liyangru/status/1266968357380616194?s=19)        | No powermod CE               |
-|                                  | [Link](https://twitter.com/_ao2412fgo/status/1267298596493250560?s=20)      | NoSwap                       |
+|                                  | [Link](https://twitter.com/liyangru/status/1266968357380616194?s=19)        | No powermod CE                                 |
+|                                  | [Link](https://twitter.com/_ao2412fgo/status/1267298596493250560?s=20)      | NoSwap                                         |
 | Shuten (Assassin)                | [Link](https://twitter.com/1syuten2syefi/status/1267376828827594752?s=20)   |
-| Shuten (Caster)                  | [Link](https://twitter.com/shuten1341/status/1266985189076434946?s=20)      | Lv100 DPS                    |
+| Shuten (Caster)                  | [Link](https://twitter.com/shuten1341/status/1266985189076434946?s=20)      | Lv100 DPS                                      |
 | Sigurd                           | [Link](https://twitter.com/leoomotefriend/status/1267354724375789568?s=20)  |
 |                                  | [Link](https://twitter.com/yakusagu327/status/1266713961111498753)          |
+| Suzuka Gozen                     | [Link](https://twitter.com/yumey_c2_vv/status/1267861978803875840?s=20)     |
 | TamaCat                          | [Link](https://twitter.com/shortcut588/status/1266781755912056832?s=20)     |
 | Valkyrie                         | [Link](https://twitter.com/terminas_aria/status/1267199296958394371?s=20)   |
 | Vlad (Berserker)                 | [Link](https://twitter.com/otkznr/status/1267025330960609281?s=20)          |
