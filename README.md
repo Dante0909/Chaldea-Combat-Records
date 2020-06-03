@@ -32,7 +32,6 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Xmas 2019 Farming Comps](#xmas-2019-farming-comps)
     - [Xmas 2019](#xmas-2019)
   - [2020](#2020)
-
     - [Benienma CQ Enmatei Event Rerun](#benienma-cq-enmatei-event-rerun)
     - [Yang CQ Enmatei Event Rerun](#yang-cq-enmatei-event-rerun)
     - [Amazoness.com - CEO Crisis 2020](#amazonesscom---ceo-crisis-2020)
@@ -1062,6 +1061,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Oda Nobunaga (Maou)              | [Link](https://twitter.com/OrGOrG_FGO/status/1266766164526415872?s=20)      |
 | Okita Souji (Saber)              | [Link](https://twitter.com/kusunokifgo/status/1266668151879512065?s=20)     |
 |                                  | [Link](https://twitter.com/yumey_c2_vv/status/1266835220411461632?s=19)     | NoSwap                                         |
+| Parvati                          | [Link](https://twitter.com/ffgo_rin/status/1268016214535626752?s=20)        |
 | Penthesilea                      | [Link](https://twitter.com/EdaFgo/status/1266709862769016833?s=19)          |
 |                                  | [Link](https://twitter.com/EdaFgo/status/1267456626241355777?s=20)          | Bronze Supports Only                           |
 | Raikou                           | [Link](https://twitter.com/otkznr/status/1266937920025325568?s=20)          |
