@@ -1005,10 +1005,12 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                  | [Link](https://twitter.com/orionkumachan/status/1267064268458831872?s=19)   | Bronze Supports only, NoSwap                   |
 |                                  | [Link](https://twitter.com/orionkumachan/status/1267456581131632640?s=20)   | Bond CE on DPS                                 |
 | Heracles                         | [Link](https://twitter.com/fuwa_rai/status/1266708293444988929?s=20)        | Non SSR supports only                          |
+|                                  | [Link](https://twitter.com/fuwa_rai/status/1268208438930059265?s=19)        |
 | Hessian Lobo                     | [Link](https://twitter.com/kitakitasnas/status/1267017901850030086?s=20)    |
 |                                  | [Link](https://twitter.com/kitakitasnas/status/1267430351686651904?s=20)    | NoSwap                                         |
 | Hijikata                         | [Link](https://twitter.com/NAO42010/status/1266766509877035009)             |
 |                                  | [Link](https://twitter.com/NAO42010/status/1267044605716910083?s=20)        | Non SSR Supports only                          |
+|                                  | [Link](https://twitter.com/NAO42010/status/1267793161583071235?s=20)        | NoSwap                                         |
 | Hokusai (Foreigner)              | [Link](https://twitter.com/kitakitasnas/status/1266679711259701249?s=20)    |
 | Hokusai (Saber)                  | [Link](https://twitter.com/kusunokifgo/status/1266952610382090240?s=20)     |
 |                                  | [Link](https://twitter.com/snowdroptree/status/1267680129720836096?s=20)    | Non SSR Supports Only                          |
