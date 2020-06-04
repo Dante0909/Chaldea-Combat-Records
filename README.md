@@ -965,6 +965,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | DPS Used                         | Link                                                                        | Remarks                                        |
 | -------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------- |
 | Altera                           | [Link](https://twitter.com/shortcut588/status/1266710383558971392?s=19)     | Lv1 ROMA buffer                                |
+|                                  | [Link](https://twitter.com/shortcut588/status/1268194411847929858)          | Bronze Supports Only                           |
 | Arjuna (Alter)                   | [Link](https://twitter.com/otkznr/status/1266712774912045057?s=19)          |
 |                                  | [Link](https://www.youtube.com/watch?v=5_uTfjYimQE)                         |
 |                                  | [Link](https://www.youtube.com/watch?v=5_uTfjYimQE)                         | NoCE                                           |
@@ -983,6 +984,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                  | [Link](https://twitter.com/Bbci_f/status/1267404375539937280?s=19)          |
 | Bedivere                         | [Link](https://twitter.com/waiwaikigurumi/status/1266981114180034561?s=20)  |
 | Benienma                         | [Link](https://twitter.com/waiwaikigurumi/status/1266680939695857665?s=20)  | NP1 DPS                                        |
+|                                  | [Link](https://twitter.com/waiwaikigurumi/status/1268128688421236736)       | NP1 DPS, Bronze Supports Only                  |
 | Beowulf                          | [Link](https://twitter.com/Hibari31/status/1266738755810914307?s=20)        |
 | Bradamante                       | [Link](https://twitter.com/FrnHorn/status/1267453129412407296?s=20)         |
 | Caenis                           | [Link](https://twitter.com/kumamori4/status/1267038725894074368?s=20)       |
@@ -1013,6 +1015,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Hijikata                         | [Link](https://twitter.com/NAO42010/status/1266766509877035009)             |
 |                                  | [Link](https://twitter.com/NAO42010/status/1267044605716910083?s=20)        | Non SSR Supports only                          |
 |                                  | [Link](https://twitter.com/NAO42010/status/1267793161583071235?s=20)        | NoSwap                                         |
+|                                  | [Link](https://twitter.com/Aloha258_master/status/1268171193590231043)      | NoSwap                                         |
 | Hokusai (Foreigner)              | [Link](https://twitter.com/kitakitasnas/status/1266679711259701249?s=20)    |
 | Hokusai (Saber)                  | [Link](https://twitter.com/kusunokifgo/status/1266952610382090240?s=20)     |
 |                                  | [Link](https://twitter.com/snowdroptree/status/1267680129720836096?s=20)    | Non SSR Supports Only                          |
