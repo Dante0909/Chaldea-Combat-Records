@@ -964,12 +964,15 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 | DPS Used                         | Link                                                                        | Remarks                                        |
 | -------------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------- |
+| Achilles                         | [Link](https://www.youtube.com/watch?v=XMy-U7-7GvM)                         |
 | Altera                           | [Link](https://twitter.com/shortcut588/status/1266710383558971392?s=19)     | Lv1 ROMA buffer                                |
 |                                  | [Link](https://twitter.com/shortcut588/status/1268194411847929858)          | Bronze Supports Only                           |
+|                                  | [Link](https://www.youtube.com/watch?v=yNSRJ1JLtks)                         | NoSwap                                         |
 | Arjuna (Alter)                   | [Link](https://twitter.com/otkznr/status/1266712774912045057?s=19)          |
 |                                  | [Link](https://www.youtube.com/watch?v=5_uTfjYimQE)                         |
 |                                  | [Link](https://www.youtube.com/watch?v=5_uTfjYimQE)                         | NoCE                                           |
 | Arthur                           | [Link](https://twitter.com/kkkka5715/status/1266879926000447488?s=20)       |
+|                                  | [Link](https://twitter.com/ITMST/status/1266932362811568128)                |
 | Arturia (Lily)                   | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1268506010064322566?s=20) |
 | Arturia (Saber)                  | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1266679504501534726?s=20) |
 |                                  | [Link](https://twitter.com/TKGFGO1/status/1266993882849439749?s=20)         | Non SSR Supports only                          |
@@ -1001,6 +1004,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Dioscuri                         | [Link](https://twitter.com/Herakles_osi/status/1266676364083511296?s=20)    | Non SSR supports only                          |
 | Elizabeth Bathory (Brave)        | [Link](https://twitter.com/snowdroptree/status/1267002737977253888?s=20)    |
 | Ereshkigal                       | [Link](https://twitter.com/waiwaikigurumi/status/1266731578488578048?s=20)  |
+|                                  | [Link](https://twitter.com/ITMST/status/1268935433460711426?s=19)           | NoCE on Support                                |
 | Fergus                           | [Link](https://twitter.com/hiduka01/status/1267655494920859648?s=20)        |
 | Frankenstein (Saber)             | [Link](https://twitter.com/FrnHorn/status/1266694351163256832?s=19)         | NoSwap                                         |
 |                                  | [Link](https://twitter.com/ebichiri01417/status/1268474976929116160?s=20)   |
@@ -1008,6 +1012,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                  | [Link](https://twitter.com/fgo38195272/status/1266945138602897409?s=20)     | Bronze Supports Only                           |
 |                                  | [Link](https://twitter.com/orionkumachan/status/1267064268458831872?s=19)   | Bronze Supports only, NoSwap                   |
 |                                  | [Link](https://twitter.com/orionkumachan/status/1267456581131632640?s=20)   | Bond CE on DPS                                 |
+|                                  | [Link](https://twitter.com/orionkumachan/status/1268857341232861184)        | NoCE on Supports, NoSwap                       |
 | Heracles                         | [Link](https://twitter.com/fuwa_rai/status/1266708293444988929?s=20)        | Non SSR supports only                          |
 |                                  | [Link](https://twitter.com/fuwa_rai/status/1268208438930059265?s=19)        |
 | Hessian Lobo                     | [Link](https://twitter.com/kitakitasnas/status/1267017901850030086?s=20)    |
@@ -1017,6 +1022,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                  | [Link](https://twitter.com/NAO42010/status/1267793161583071235?s=20)        | NoSwap                                         |
 |                                  | [Link](https://twitter.com/Aloha258_master/status/1268171193590231043)      | NoSwap                                         |
 | Hokusai (Foreigner)              | [Link](https://twitter.com/kitakitasnas/status/1266679711259701249?s=20)    |
+|                                  | [Link](https://twitter.com/kitakitasnas/status/1269009880448331778?s=19)    | NoCE on Supports                               |
 | Hokusai (Saber)                  | [Link](https://twitter.com/kusunokifgo/status/1266952610382090240?s=20)     |
 |                                  | [Link](https://twitter.com/snowdroptree/status/1267680129720836096?s=20)    | Non SSR Supports Only                          |
 | Ibaraki                          | [Link](https://twitter.com/snowdroptree/status/1266820731750412288?s=20)    |
@@ -1033,11 +1039,15 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                  | [Link](https://twitter.com/Yuri_duelist/status/1266748176117055489?s=20)    |
 |                                  | [Link](https://www.youtube.com/watch?v=O6sOzCWrVLQ)                         | NoCE                                           |
 |                                  | [Link](https://twitter.com/1syuten2syefi/status/1268404374692225024)        | Non SSR Supports only                          |
-| Kintoki (Berserker)              | [Link](https://twitter.com/mana_pwpr/status/1267035908823343104?s=20)       |
+| Kintoki (Berserker)              | [Link](https://twitter.com/mana_pwpr/status/1267035908823343104?s=20)       |                                                |
+|                                  | [Link](https://www.bilibili.com/video/BV14Q4y1P7Nt)                         |
 | Kintoki (Rider)                  | [Link](https://twitter.com/hiduka01/status/1267002835431878657?s=20)        |
+|                                  | [Link](https://twitter.com/hiduka01/status/1269042748255989760?s=19)        | NoCE on Support                                |
 | Lakshmibai                       | [Link](https://twitter.com/FrnHorn/status/1267059288469463041?s=20)         | NoSwap                                         |
 |                                  | [Link](https://twitter.com/ShotkAnime/status/1267832776876679168?s=19)      | Non SSR Supports Only                          |
+|                                  | [Link](https://twitter.com/rurun_Replicant/status/1268455148256243723?s=19) | NP1 DPS                                        |
 | Lancelot (Berserker)             | [Link](https://twitter.com/fuwa_rai/status/1266678042794971137?s=20)        |
+|                                  | [Link](https://twitter.com/nmnppp/status/1268871480927911937?s=19)          | NoSwap                                         |
 | Lancelot (Saber)                 | [Link](https://twitter.com/tarasque0221/status/1266872928538222593?s=20)    |
 |                                  | [Link](https://twitter.com/tarasque0221/status/1266873568937181184?s=20)    | NoSwap                                         |
 |                                  | [Link](https://twitter.com/hork0320/status/1267459373061730304?s=20)        | No event CE                                    |
@@ -1060,11 +1070,16 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Musashi (Saber)                  | [Link](https://twitter.com/bikakindefgo/status/1266705123654262785?s=19)    |
 |                                  | [Link](https://twitter.com/hiduka01/status/1266845222262063104?s=20)        | NoSwap                                         |
 |                                  | [Link](https://twitter.com/hiduka01/status/1268309457210994694?s=19)        | Bronze Supports Only                           |
+|                                  | [Link](https://twitter.com/hiduka01/status/1268586161963819009?s=19)        | NoCE on DPS                                    |
 | Nero (Bride)                     | [Link](https://twitter.com/takato09217/status/1266956563203284995?s=20)     | Lv1 ROMA as supports                           |
 |                                  | [Link](https://twitter.com/takato09217/status/1266725183882006530?s=20)     | Boudica + Roman Supports                       |
 |                                  | [Link](https://twitter.com/abiro_game/status/1266964960145362946?s=20)      | Triple Nero team, noSwap                       |
 |                                  | [Link](https://twitter.com/Chihiro1000/status/1266747590609039361?s=19)     | Non SSR Supports only                          |
 |                                  | [Link](https://twitter.com/takato09217/status/1267634618955468800?s=19)     | NoSwap, Bronze Supports Only, NoCE on Supports |
+|                                  | [Link](https://twitter.com/takato09217/status/1268578973077737473)          | NoCE                                           |
+|                                  | [Link](https://twitter.com/Chihiro1000/status/1267131149517647872)          | NoSwap                                         |
+|                                  | [Link](https://www.bilibili.com/video/BV1pp4y1X7f2)                         | Dual Core with Circe, No Event CE              |
+|                                  | [Link](https://twitter.com/abiro_game/status/1268598234802356224)           | Bond CE on all                                 |
 | Nero (Caster)                    | [Link](https://twitter.com/Chihiro1000/status/1267033597417893889?s=20)     |
 | Nero (Saber)                     | [Link](https://twitter.com/Chihiro1000/status/1266775104580489221?s=20)     | Non SSR Supports Only                          |
 |                                  | [Link](https://twitter.com/fullice50/status/1267012008752234496?s=20)       | SOLO                                           |
@@ -1079,6 +1094,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Parvati                          | [Link](https://twitter.com/ffgo_rin/status/1268016214535626752?s=20)        |
 | Penthesilea                      | [Link](https://twitter.com/EdaFgo/status/1266709862769016833?s=19)          |
 |                                  | [Link](https://twitter.com/EdaFgo/status/1267456626241355777?s=20)          | Bronze Supports Only                           |
+| Prince of Lanling                | [Link](https://twitter.com/7Corner/status/1268908972032978944)              | Facecard only run                              |
 | Raikou                           | [Link](https://twitter.com/otkznr/status/1266937920025325568?s=20)          |
 | Rama                             | [Link](https://twitter.com/hiduka01/status/1267020032866828289?s=20)        |
 | Romulus=Quirinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1266772110921232385?s=20)     |
@@ -1096,6 +1112,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | TamaCat                          | [Link](https://twitter.com/shortcut588/status/1266781755912056832?s=20)     |
 | Valkyrie                         | [Link](https://twitter.com/terminas_aria/status/1267199296958394371?s=20)   |
 | Vlad (Berserker)                 | [Link](https://twitter.com/otkznr/status/1267025330960609281?s=20)          |
+|                                  | [Link](https://www.bilibili.com/video/BV1HT4y1g7oZ)                         |
 | Voyager                          | [Link](https://twitter.com/hork0320/status/1267459600921456640?s=20)        |
 | Xiang Yu                         | [Link](https://twitter.com/Violet_g612/status/1266763711689023488?s=20)     |
 | Yang Guifei                      | [Link](https://twitter.com/chwangk/status/1266961873775149056?s=20)         |
