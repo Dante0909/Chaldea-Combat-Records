@@ -11,7 +11,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 ## Contributing
 
 - Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Chaldea-Combat-Records/blob/master/CONTRIBUTING.md).
-- I would like to extend my thanks to `Hong#7870`, `SaberOfAvalon#0001`, `Ditt93#9759`, `_Dante09#9825` and `Akaibu#9379` for contributing in growth of this repo.
+- I would like to extend my thanks to `Hong#7870`, `SaberOfAvalon#0001`, `Ditt93#9759`, `_Dante09#9825`,`Ivory Black#0718` and `Akaibu#9379` for contributing in growth of this repo.
 - For further discussion on in-depth topics related to FGO, please check this server :
   [![Discord server invite](https://discordapp.com/api/guilds/502554574423457812/embed.png)](https://discord.gg/TKJmuCR)
 
@@ -1006,7 +1006,8 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Ereshkigal                       | [Link](https://twitter.com/waiwaikigurumi/status/1266731578488578048?s=20)  |
 |                                  | [Link](https://twitter.com/ITMST/status/1268935433460711426?s=19)           | NoCE on Support                                |
 | Fergus                           | [Link](https://twitter.com/hiduka01/status/1267655494920859648?s=20)        |
-| Frankenstein (Saber)             | [Link](https://twitter.com/FrnHorn/status/1266694351163256832?s=19)         | NoSwap                                         |
+| Fran (Berserker)                 | [Link](https://twitter.com/onabeno_huta/status/1268583567518359552?s=20)    |
+| Fran (Saber)                     | [Link](https://twitter.com/FrnHorn/status/1266694351163256832?s=19)         | NoSwap                                         |
 |                                  | [Link](https://twitter.com/ebichiri01417/status/1268474976929116160?s=20)   |
 | Gawain                           | [Link](https://twitter.com/orionkumachan/status/1266678762264903680?s=20)   |
 |                                  | [Link](https://twitter.com/fgo38195272/status/1266945138602897409?s=20)     | Bronze Supports Only                           |
@@ -1057,10 +1058,12 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Medb (Saber)                     | [Link](https://www.youtube.com/watch?v=YTgm5IUNvcY)                         |
 | Medusa (Lancer)                  | [Link](https://twitter.com/_sky110/status/1267090576932913152?s=20)         |
 | Meltryllis (Alter-Ego)           | [Link](https://twitter.com/2_5_dimension/status/1266692982670942208?s=19)   |
+|                                  | [Link](https://twitter.com/2_5_dimension/status/1269192180255449088?s=20)   |
 | Meltryllis (Lancer)              | [Link](https://twitter.com/2_5_dimension/status/1267260703750057988?s=20)   |
 | MHX                              | [Link](https://twitter.com/Bonta_Unit_07/status/1267417467476824064?s=20)   |
 | MHXA                             | [Link](https://twitter.com/h1r33/status/1266675039283277825?s=20)           |
 |                                  | [Link](https://twitter.com/NAO42010/status/1268301400745717760?s=19)        | NoSwap                                         |
+|                                  | [Link](https://twitter.com/Bonta_Unit_07/status/1269273489694879745?s=20)   | NoCe on Supports, Non SSR Supports Only        |
 | MHXX                             | [Link](https://twitter.com/yumey_c2_vv/status/1267492158493224961)          |
 | Mordred                          | [Link](https://twitter.com/Hello_Anthem/status/1266669743966089216?s=20)    |
 |                                  | [Link](https://twitter.com/Hello_Anthem/status/1266698480606515201)         | NoSwap                                         |
