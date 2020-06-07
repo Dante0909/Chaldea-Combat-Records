@@ -980,6 +980,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Arturia (Saber Alter)            | [Link](https://twitter.com/ux8VxvVdBq51p7e/status/1267214946313461760?s=20) |
 | Arturia (Maid Alter)             | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1266803584802250752?s=20) |
 | Astarte                          | [Link](https://twitter.com/bikakindefgo/status/1266760729031356416?s=20)    |
+|                                  | [Link](https://twitter.com/KUR_NU_GI_A/status/1269092211926298624?s=19)     | No CE on Support                               |
 | Astolfo (Saber)                  | [Link](https://twitter.com/1104shoki/status/1266676563527024640?s=20)       | NoSwap                                         |
 |                                  | [Link](https://twitter.com/2_5_dimension/status/1266666148357009413?s=19)   |
 | Atalante (Alter)                 | [Link](https://twitter.com/RGrOmQJMfkWvSHg/status/1267071707308679175?s=20) |
@@ -995,6 +996,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                  | [Link](https://twitter.com/kitakitasnas/status/1266850251568148480?s=20)    | NoSwap                                         |
 | Carmilla (Assassin)              | [Link](https://twitter.com/waiwaikigurumi/status/1267436286060589056?s=20)  |
 | Carmilla (Rider)                 | [Link](https://www.youtube.com/watch?v=NYEmnyNjfoA)                         |
+| Chacha                           | [Link](https://twitter.com/waiwaikigurumi/status/1269099887963955200?s=19)  |
 | Cu Chulainn (Alter)              | [Link](https://twitter.com/damepoyochan/status/1266762280886140928?s=20)    | SOLO                                           |
 |                                  | [Link](https://twitter.com/warfare_Holic/status/1266703211932430336?s=20)   | SOLO                                           |
 |                                  | [Link](https://twitter.com/otkznr/status/1267382869279686656?s=20)          |
@@ -1035,6 +1037,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Jeanne d'Arc (Alter)             | [Link](https://twitter.com/SW87807148/status/1266898625688305664?s=20)      |
 | Jeanne d'Arc (Alter) (Berserker) | [Link](https://twitter.com/Miyabi_fgo_/status/1266916463123693569?s=20)     |
 | Kama                             | [Link](https://twitter.com/myc_1228/status/1267617247062667265?s=20)        |
+|                                  | [Link](https://twitter.com/hp0818/status/1269324981730598912?s=19)          |
 | Karna                            | [Link](https://twitter.com/Misaya0131/status/1268490034908246016?s=19)      |
 | Kijyo Koyo                       | [Link](https://twitter.com/EstesT32/status/1266732757285171202?s=20)        |
 |                                  | [Link](https://twitter.com/Yuri_duelist/status/1266748176117055489?s=20)    |
@@ -1052,6 +1055,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Lancelot (Saber)                 | [Link](https://twitter.com/tarasque0221/status/1266872928538222593?s=20)    |
 |                                  | [Link](https://twitter.com/tarasque0221/status/1266873568937181184?s=20)    | NoSwap                                         |
 |                                  | [Link](https://twitter.com/hork0320/status/1267459373061730304?s=20)        | No event CE                                    |
+| Li Shuwen (Assassin)             | [Link](https://twitter.com/Misaya0131/status/1269307961152696327?s=19)      |
 | Lu Bu                            | [Link](https://twitter.com/snowdroptree/status/1267443000352796678?s=20)    |
 | Marie                            | [Link](https://twitter.com/A_Bear13/status/1266795698537652224?s=20)        |
 | Martha (Ruler)                   | [Link](https://twitter.com/otkznr/status/1266765597880094720?s=20)          |
