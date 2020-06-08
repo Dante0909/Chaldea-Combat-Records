@@ -983,6 +983,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                  | [Link](https://twitter.com/KUR_NU_GI_A/status/1269092211926298624?s=19)     | No CE on Support                               |
 | Astolfo (Saber)                  | [Link](https://twitter.com/1104shoki/status/1266676563527024640?s=20)       | NoSwap                                         |
 |                                  | [Link](https://twitter.com/2_5_dimension/status/1266666148357009413?s=19)   |
+|                                  | [Link](https://twitter.com/calpis_102/status/1269843208885829632?s=20)      | Solo                                           |
 | Atalante (Alter)                 | [Link](https://twitter.com/RGrOmQJMfkWvSHg/status/1267071707308679175?s=20) |
 | BB (Summer)                      | [Link](https://twitter.com/ITMST/status/1267444932727341060?s=20)           | NoCE on Support                                |
 |                                  | [Link](https://twitter.com/Bbci_f/status/1267404375539937280?s=19)          |
@@ -1087,6 +1088,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                  | [Link](https://twitter.com/Chihiro1000/status/1267131149517647872)          | NoSwap                                         |
 |                                  | [Link](https://www.bilibili.com/video/BV1pp4y1X7f2)                         | Dual Core with Circe, No Event CE              |
 |                                  | [Link](https://twitter.com/abiro_game/status/1268598234802356224)           | Bond CE on all                                 |
+|                                  | [Link](https://twitter.com/takato09217/status/1269641898764820481?s=20)     | Lv60 DPS                                       |
 | Nero (Caster)                    | [Link](https://twitter.com/Chihiro1000/status/1267033597417893889?s=20)     |
 | Nero (Saber)                     | [Link](https://twitter.com/Chihiro1000/status/1266775104580489221?s=20)     | Non SSR Supports Only                          |
 |                                  | [Link](https://twitter.com/fullice50/status/1267012008752234496?s=20)       | SOLO                                           |
@@ -1094,8 +1096,10 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                  | [Link](https://twitter.com/Chihiro1000/status/1268470949000536064)          | Non SSR Supports Only                          |
 | Oda Nobunaga (Berserker)         | [Link](9https://twitter.com/snowdroptree/status/1266690998475710464?s=20)   |
 |                                  | [Link](https://twitter.com/snowdroptree/status/1268563509538783232)         | NoCE                                           |
+|                                  | [Link](https://twitter.com/snowdroptree/status/1269758268752068613?s=20)    | NoSwap, NoCE on Support, Non SSR Supports Only |
 | Oda Nobunaga (Maou)              | [Link](https://twitter.com/OrGOrG_FGO/status/1266766164526415872?s=20)      |
 |                                  | [Link](https://twitter.com/OrGOrG_FGO/status/1268534895615197184?s=20)      | NoCE                                           |
+|                                  | [Link](https://twitter.com/OrGOrG_FGO/status/1269695140706136064?s=20)      | NoSwap, NoCE on Support, Non SSR Supports Only |
 | Okita Souji (Saber)              | [Link](https://twitter.com/kusunokifgo/status/1266668151879512065?s=20)     |
 |                                  | [Link](https://twitter.com/yumey_c2_vv/status/1266835220411461632?s=19)     | NoSwap                                         |
 | Parvati                          | [Link](https://twitter.com/ffgo_rin/status/1268016214535626752?s=20)        |
