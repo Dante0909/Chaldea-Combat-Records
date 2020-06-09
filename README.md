@@ -984,6 +984,8 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Astolfo (Saber)                  | [Link](https://twitter.com/1104shoki/status/1266676563527024640?s=20)       | NoSwap                                         |
 |                                  | [Link](https://twitter.com/2_5_dimension/status/1266666148357009413?s=19)   |
 |                                  | [Link](https://twitter.com/calpis_102/status/1269843208885829632?s=20)      | Solo                                           |
+|                                  | [Link](https://twitter.com/1104shoki/status/1269625364386443264?s=19)       | Fully NoCE                                     |
+| Astraea                          | [Link](https://www.bilibili.com/video/BV1K54y1Q789)                         |
 | Atalante (Alter)                 | [Link](https://twitter.com/RGrOmQJMfkWvSHg/status/1267071707308679175?s=20) |
 | BB (Summer)                      | [Link](https://twitter.com/ITMST/status/1267444932727341060?s=20)           | NoCE on Support                                |
 |                                  | [Link](https://twitter.com/Bbci_f/status/1267404375539937280?s=19)          |
@@ -1059,6 +1061,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Li Shuwen (Assassin)             | [Link](https://twitter.com/Misaya0131/status/1269307961152696327?s=19)      |
 | Lu Bu                            | [Link](https://twitter.com/snowdroptree/status/1267443000352796678?s=20)    |
 | Marie                            | [Link](https://twitter.com/A_Bear13/status/1266795698537652224?s=20)        |
+|                                  | [Link](https://www.bilibili.com/video/BV1cA411B7jx)                         |
 | Martha (Ruler)                   | [Link](https://twitter.com/otkznr/status/1266765597880094720?s=20)          |
 | Medb (Saber)                     | [Link](https://www.youtube.com/watch?v=YTgm5IUNvcY)                         |
 | Medusa (Lancer)                  | [Link](https://twitter.com/_sky110/status/1267090576932913152?s=20)         |
