@@ -1136,12 +1136,19 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 ### Summer 4 Rerun
 
-| DPS Used            | Link                                                                        | Remarks              |
-| ------------------- | --------------------------------------------------------------------------- | -------------------- |
-| Astolfo (Saber)     | [Link](https://twitter.com/d_fmgfam34/status/1274296720017420288?s=20)      |
-| Kijyo Koyo          | [Link](https://twitter.com/niflheimr413413/status/1274288498485256192?s=12) |
-| Romulus=Qurinus     | [Link](https://twitter.com/NuuuuuN0704/status/1274297740936110084?s=20)     |
-| Xuanzang Sanzang    | [Link](https://twitter.com/2_5_dimension/status/1274293632808316929?s=20)   | Very less RNG needed |
+| DPS Used                 | Link                                                                        | Remarks              |
+| ------------------------ | --------------------------------------------------------------------------- | -------------------- |
+| Astarte                  | [Link](https://twitter.com/jyuubeeyuuan/status/1274314648154595329?s=20)    |
+| Astolfo (Saber)          | [Link](https://twitter.com/d_fmgfam34/status/1274296720017420288?s=20)      |
+| Ereshkigal               | [Link](https://twitter.com/waiwaikigurumi/status/1274328102781349888?s=20)  |
+| Gawain                   | [Link](https://twitter.com/orionkumachan/status/1274337406078955520?s=20)   | NonSSR supports only |
+| Hessian Lobo             | [Link](https://twitter.com/kitakitasnas/status/1274334484540710912?s=20)    |
+| Ibaraki                  | [Link](https://twitter.com/snowdroptree/status/1274341379213152258?s=20)    | NoSwap               |
+| Kijyo Koyo               | [Link](https://twitter.com/niflheimr413413/status/1274288498485256192?s=12) |
+| Merlin                   | [Link](https://www.youtube.com/watch?v=nEySVqyyySw)                         | Solo                 |
+| Oda Nobunaga (Berserker) | [Link](https://www.bilibili.com/video/BV1GA411i77f)                         |
+| Romulus=Qurinus          | [Link](https://twitter.com/NuuuuuN0704/status/1274297740936110084?s=20)     |
+| Xuanzang Sanzang         | [Link](https://twitter.com/2_5_dimension/status/1274293632808316929?s=20)   | Very less RNG needed |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
