@@ -1136,9 +1136,12 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 ### Summer 4 Rerun
 
-| DPS Used   | Link                                                                        | Remarks |
-| ---------- | --------------------------------------------------------------------------- | ------- |
-| Kijyo Koyo | [Link](https://twitter.com/niflheimr413413/status/1274288498485256192?s=12) |
+| DPS Used            | Link                                                                        | Remarks              |
+| ------------------- | --------------------------------------------------------------------------- | -------------------- |
+| Astolfo (Saber)     | [Link](https://twitter.com/d_fmgfam34/status/1274296720017420288?s=20)      |
+| Kijyo Koyo          | [Link](https://twitter.com/niflheimr413413/status/1274288498485256192?s=12) |
+| Musashi (Berserker) | [Link](https://twitter.com/niflheimr413413/status/1274291557676445697?s=20) |
+| Xuanzang Sanzang    | [Link](https://twitter.com/2_5_dimension/status/1274293632808316929?s=20)   | Very less RNG needed |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
