@@ -1140,7 +1140,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | ------------------- | --------------------------------------------------------------------------- | -------------------- |
 | Astolfo (Saber)     | [Link](https://twitter.com/d_fmgfam34/status/1274296720017420288?s=20)      |
 | Kijyo Koyo          | [Link](https://twitter.com/niflheimr413413/status/1274288498485256192?s=12) |
-| Musashi (Berserker) | [Link](https://twitter.com/niflheimr413413/status/1274291557676445697?s=20) |
+| Romulus=Qurinus     | [Link](https://twitter.com/NuuuuuN0704/status/1274297740936110084?s=20)     |
 | Xuanzang Sanzang    | [Link](https://twitter.com/2_5_dimension/status/1274293632808316929?s=20)   | Very less RNG needed |
 
 - All videos linked in this repo are the properties of their owners.
