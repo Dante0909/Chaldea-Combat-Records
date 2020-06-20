@@ -21,12 +21,13 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
   - [Introduction](#introduction)
   - [Contributing](#contributing)
+  - [Index](#index)
   - [Story Bosses](#story-bosses)
     - [LB5 Chapter 7 - Arrow 2](#lb5-chapter-7---arrow-2)
     - [LB5 Chapter 13 - Arrow 2](#lb5-chapter-13---arrow-2)
     - [LB5 Chapter 17 - Arrow 3](#lb5-chapter-17---arrow-3)
-  - [Memorial Quests](#memorial-quests)
-    - [Saber Alter](#saber-alter)
+  - [Notable CQs](#notable-cqs)
+    - [Saber Alter Memorial Quest](#saber-alter-memorial-quest)
   - [Events](#events)
   - [2019](#2019)
     - [Xmas 2019 Farming Comps](#xmas-2019-farming-comps)
@@ -39,6 +40,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Chaldea Boys Collection 2020](#chaldea-boys-collection-2020)
     - [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
     - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
+    - [Summer 4 Rerun](#summer-4-rerun)
 
 ## Story Bosses
 
@@ -64,9 +66,9 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | -------- | ------------------------------------ | ------- |
 | Chloe    | [Link](https://youtu.be/Oo6zdHwIvj8) | 3turn   |
 
-## Memorial Quests
+## Notable CQs
 
-### Saber Alter
+### Saber Alter Memorial Quest
 
 | DPS Used           | Link                                                | Remarks            |
 | ------------------ | --------------------------------------------------- | ------------------ |
@@ -1131,6 +1133,12 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Xiang Yu                         | [Link](https://twitter.com/Violet_g612/status/1266763711689023488?s=20)     |
 | Yang Guifei                      | [Link](https://twitter.com/chwangk/status/1266961873775149056?s=20)         |
 | Yagyuu                           | [Link](https://twitter.com/shuten1341/status/1266760874083053569?s=20)      |
+
+### Summer 4 Rerun
+
+| DPS Used   | Link                                                                        | Remarks |
+| ---------- | --------------------------------------------------------------------------- | ------- |
+| Kijyo Koyo | [Link](https://twitter.com/niflheimr413413/status/1274288498485256192?s=12) |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
