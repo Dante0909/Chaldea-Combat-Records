@@ -1144,6 +1144,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                 | [Link](https://twitter.com/1104shoki/status/1274521746410889216?s=20)       | NoSwap                                |
 | Ereshkigal                      | [Link](https://twitter.com/waiwaikigurumi/status/1274328102781349888?s=20)  |
 | Gawain                          | [Link](https://twitter.com/orionkumachan/status/1274337406078955520?s=20)   | NonSSR supports only                  |
+| Gilgamesh                       | [Link](https://twitter.com/otkznr/status/1274581091014242304?s=20)          |
 | Hessian Lobo                    | [Link](https://twitter.com/kitakitasnas/status/1274334484540710912?s=20)    |
 |                                 | [Link](https://twitter.com/kitakitasnas/status/1274334484540710912?s=20)    | Non Event CE                          |
 | Hijikata                        | [Link](https://twitter.com/buenabisutafgo/status/1274392584022929409?s=20)  |
@@ -1153,8 +1154,11 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Kama                            | [Link](https://twitter.com/genmu08171/status/1274433015523930113?s=20)      |
 | Kijyo Koyo                      | [Link](https://twitter.com/niflheimr413413/status/1274288498485256192?s=12) |
 |                                 | [Link](https://twitter.com/Yuri_duelist/status/1274403727428878336?s=20)    | Non Event CE                          |
+| Meltryllis (Alter-Ego)          | [Link](https://twitter.com/Yuri_duelist/status/1274596847022030849?s=20)    | NoSwap, Non Event CE                  |
+|                                 | [Link](https://www.bilibili.com/video/BV12A411v7EW)                         | Solo                                  |
 | Merlin                          | [Link](https://www.youtube.com/watch?v=nEySVqyyySw)                         | Solo                                  |
 | MHXA                            | [Link](https://www.bilibili.com/video/BV19f4y1y75G)                         |
+| Mori Nagayoshi                  | [Link](https://twitter.com/nmnppp/status/1274599770900664320?s=20)          |
 | Musashi (Berserker)             | [Link](https://twitter.com/ShotkAnime/status/1274342881747034117?s=20)      | No Event CE, Non SSR Supports Only    |
 | Nero (Caster)                   | [Link](https://twitter.com/fgo38195272/status/1274541183872544768?s=20)     | NoCE on support, Bronze supports only |
 | Oda Nobunaga (Berserker)        | [Link](https://www.bilibili.com/video/BV1GA411i77f)                         |
@@ -1165,7 +1169,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Shuten (Caster)                 | [Link](https://twitter.com/shuten1341/status/1274357361906352129?s=20)      |
 | Sitonai                         | [Link](https://www.nicovideo.jp/watch/sm35602416)                           | Solo                                  |
 | Vlad (Berserker)                | [Link](https://twitter.com/Raven2106/status/1274355677666750464?s=20)       |
-| Xuanzang Sanzang                | [Link](https://twitter.com/2_5_dimension/status/1274293632808316929?s=20)   | Very less RNG needed                  |
+| Xuanzang Sanzang                | [Link](https://twitter.com/2_5_dimension/status/1274293632808316929?s=20)   | Very less RNG needed, Dual Core       |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
