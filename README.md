@@ -1154,6 +1154,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Kijyo Koyo                      | [Link](https://twitter.com/niflheimr413413/status/1274288498485256192?s=12) |
 |                                 | [Link](https://twitter.com/Yuri_duelist/status/1274403727428878336?s=20)    | Non Event CE                          |
 | Merlin                          | [Link](https://www.youtube.com/watch?v=nEySVqyyySw)                         | Solo                                  |
+| MHXA                            | [Link](https://www.bilibili.com/video/BV19f4y1y75G)                         |
 | Musashi (Berserker)             | [Link](https://twitter.com/ShotkAnime/status/1274342881747034117?s=20)      | No Event CE, Non SSR Supports Only    |
 | Nero (Caster)                   | [Link](https://twitter.com/fgo38195272/status/1274541183872544768?s=20)     | NoCE on support, Bronze supports only |
 | Oda Nobunaga (Berserker)        | [Link](https://www.bilibili.com/video/BV1GA411i77f)                         |
