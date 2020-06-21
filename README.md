@@ -1141,18 +1141,27 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Astarte                         | [Link](https://twitter.com/jyuubeeyuuan/status/1274314648154595329?s=20)    |
 | Astolfo (Saber)                 | [Link](https://twitter.com/d_fmgfam34/status/1274296720017420288?s=20)      |
 |                                 | [Link](https://twitter.com/1104shoki/status/1274344434641977345?s=20)       | Non Event CE                       |
+|                                 | [Link](https://twitter.com/1104shoki/status/1274521746410889216?s=20)       | NoSwap                             |
 | Ereshkigal                      | [Link](https://twitter.com/waiwaikigurumi/status/1274328102781349888?s=20)  |
 | Gawain                          | [Link](https://twitter.com/orionkumachan/status/1274337406078955520?s=20)   | NonSSR supports only               |
 | Hessian Lobo                    | [Link](https://twitter.com/kitakitasnas/status/1274334484540710912?s=20)    |
+|                                 | [Link](https://twitter.com/kitakitasnas/status/1274334484540710912?s=20)    | Non Event CE                       |
+| Hijikata                        | [Link](https://twitter.com/buenabisutafgo/status/1274392584022929409?s=20)  |
+|                                 | [Link](https://twitter.com/Aloha258_master/status/1274472550668529665?s=20) | Non Event CE                       |
 | Ibaraki                         | [Link](https://twitter.com/snowdroptree/status/1274341379213152258?s=20)    | NoSwap                             |
 | Jeanne d'Arc (Alter, Berserker) | [Link](https://twitter.com/myc_1228/status/1274358939543470082?s=20)        |
+| Kama                            | [Link](https://twitter.com/genmu08171/status/1274433015523930113?s=20)      |
 | Kijyo Koyo                      | [Link](https://twitter.com/niflheimr413413/status/1274288498485256192?s=12) |
+|                                 | [Link](https://twitter.com/Yuri_duelist/status/1274403727428878336?s=20)    | Non Event CE                       |
 | Merlin                          | [Link](https://www.youtube.com/watch?v=nEySVqyyySw)                         | Solo                               |
 | Musashi (Berserker)             | [Link](https://twitter.com/ShotkAnime/status/1274342881747034117?s=20)      | No Event CE, Non SSR Supports Only |
 | Oda Nobunaga (Berserker)        | [Link](https://www.bilibili.com/video/BV1GA411i77f)                         |
+| Orion (Superhuman)              | [Link](https://twitter.com/hiduka01/status/1274468928102621184?s=20)        | Non Event CE, Non SSR Supports     |
 | Romulus=Qurinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1274297740936110084?s=20)     |
+| Sei Shonagon                    | [Link](https://twitter.com/EdaFgo/status/1274467127219478528?s=20)          |
 | Shuten (Caster)                 | [Link](https://twitter.com/shuten1341/status/1274357361906352129?s=20)      |
 | Sitonai                         | [Link](https://www.nicovideo.jp/watch/sm35602416)                           | Solo                               |
+| Vlad (Berserker)                | [Link](https://twitter.com/Raven2106/status/1274355677666750464?s=20)       |
 | Xuanzang Sanzang                | [Link](https://twitter.com/2_5_dimension/status/1274293632808316929?s=20)   | Very less RNG needed               |
 
 - All videos linked in this repo are the properties of their owners.
