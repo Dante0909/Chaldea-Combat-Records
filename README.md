@@ -1155,6 +1155,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Gilgamesh                       | [Link](https://twitter.com/otkznr/status/1274581091014242304?s=20)          |
 | Hessian Lobo                    | [Link](https://twitter.com/kitakitasnas/status/1274334484540710912?s=20)    |
 |                                 | [Link](https://twitter.com/kitakitasnas/status/1274334484540710912?s=20)    | Non Event CE                               |
+| Heracles                        | [Link](https://twitter.com/fgo60509mochi/status/1275082844717453313?s=20)   |
 | Hijikata                        | [Link](https://twitter.com/buenabisutafgo/status/1274392584022929409?s=20)  |
 |                                 | [Link](https://twitter.com/Aloha258_master/status/1274472550668529665?s=20) | Non Event CE                               |
 |                                 | [Link](https://twitter.com/Aloha258_master/status/1274664936732413954?s=20) | Dual Core with Bunny King                  |
@@ -1169,7 +1170,9 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Kijyo Koyo                      | [Link](https://twitter.com/niflheimr413413/status/1274288498485256192?s=12) |
 |                                 | [Link](https://twitter.com/Yuri_duelist/status/1274403727428878336?s=20)    | Non Event CE                               |
 |                                 | [Link](https://twitter.com/mil_kurim/status/1274671655529275392?s=20)       | Non SSR Supports Only                      |
+| Kintoki (Berserker)             | [Link](https://twitter.com/WacBook/status/1275084656954630146?s=20)         |
 | Marie (Caster)                  | [Link](https://twitter.com/kohaku_marie/status/1274992547018838017?s=20)    |
+| Mecha Eli                       | [Link](https://twitter.com/snowdroptree/status/1275195607657791489?s=20)    |
 | Medusa (Lancer)                 | [Link](https://twitter.com/_sky110/status/1275016251182473222?s=20)         |
 | Meltryllis (Alter-Ego)          | [Link](https://twitter.com/Yuri_duelist/status/1274596847022030849?s=20)    | NoSwap, Non Event CE                       |
 |                                 | [Link](https://www.bilibili.com/video/BV12A411v7EW)                         | Solo                                       |
@@ -1177,6 +1180,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Merlin                          | [Link](https://www.youtube.com/watch?v=nEySVqyyySw)                         | Solo                                       |
 | MHX                             | [Link](https://twitter.com/mahimahi_xoxo/status/1274515787756134401?s=20)   |
 | MHXA                            | [Link](https://www.bilibili.com/video/BV19f4y1y75G)                         |
+| Mordred                         | [Link](https://twitter.com/Hello_Anthem/status/1275166615169044483?s=20)    |
 | Mori Nagayoshi                  | [Link](https://twitter.com/nmnppp/status/1274599770900664320?s=20)          |
 | Musashi (Berserker)             | [Link](https://twitter.com/ShotkAnime/status/1274342881747034117?s=20)      | No Event CE, Non SSR Supports Only         |
 |                                 | [Link](https://twitter.com/fgo38195272/status/1275081583217659909?s=20)     |
@@ -1197,6 +1201,8 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Passionlip                      | [Link](https://twitter.com/Yuri_duelist/status/1274674616833720321?s=20)    | NoSwap                                     |
 | Penthesilea                     | [Link](https://twitter.com/EdaFgo/status/1274641699893964801?s=20)          | NoSwap                                     |
 | Romulus=Qurinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1274297740936110084?s=20)     |
+| Sasaki Kojirou                  | [Link](https://twitter.com/roomatoraiaruma/status/1275110506785693699?s=20) |
+| Scathach                        | [Link](https://twitter.com/gameover_fate/status/1275295148994256897?s=20)   |
 | Sei Shonagon                    | [Link](https://twitter.com/EdaFgo/status/1274467127219478528?s=20)          |
 | Shuten (Caster)                 | [Link](https://twitter.com/shuten1341/status/1274357361906352129?s=20)      |
 |                                 | [Link](https://twitter.com/shuten1341/status/1274713937188024320?s=20)      | Bronze Supports Only                       |
@@ -1205,6 +1211,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Vlad (Berserker)                | [Link](https://twitter.com/Raven2106/status/1274355677666750464?s=20)       |
 | Voyager                         | [Link](https://www.bilibili.com/video/BV1Wa4y1Y7WG)                         |
 | Xiang Yu                        | [Link](https://twitter.com/Chinquepig/status/1274732761794744320?s=20)      | Non Event CE                               |
+|                                 | [Link](https://twitter.com/Nagato_Yuki_233/status/1275249692121550848?s=20) | Non Event CE                               |
 | Xuanzang Sanzang                | [Link](https://twitter.com/2_5_dimension/status/1274293632808316929?s=20)   | Very less RNG needed, Dual Core with Circe |
 
 - All videos linked in this repo are the properties of their owners.
