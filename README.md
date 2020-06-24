@@ -1138,12 +1138,14 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 | DPS Used                        | Link                                                                        | Remarks                                    |
 | ------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------ |
+| Achilles                        | [Link](https://twitter.com/calpis_102/status/1275583375777034241?s=20)      | NoSwap                                     |
 | Arjuna (Alter)                  | [Link](https://www.bilibili.com/video/BV1AV411k7tr)                         | NP1 DPS, Non Event CE, No NP used          |
 | Arturia Pendragon (Ruler)       | [Link](https://twitter.com/maruihayao/status/1275022156145909761?s=20)      |
 | Astarte                         | [Link](https://twitter.com/jyuubeeyuuan/status/1274314648154595329?s=20)    |
 | Astolfo (Saber)                 | [Link](https://twitter.com/d_fmgfam34/status/1274296720017420288?s=20)      |
 |                                 | [Link](https://twitter.com/1104shoki/status/1274344434641977345?s=20)       | Non Event CE                               |
 |                                 | [Link](https://twitter.com/1104shoki/status/1274521746410889216?s=20)       | NoSwap                                     |
+|                                 | [Link](https://twitter.com/1104shoki/status/1275422118704898048?s=20)       | Non Event CE, No CE on Support             |
 | Astraea                         | [Link](https://twitter.com/Chinquepig/status/1274733432262647808?s=20)      | Non Event CE                               |
 | Beni-emma                       | [Link](https://twitter.com/ITMST/status/1274935649901047808?s=20)           | Non Event CE                               |
 | Bunyan                          | [Link](https://twitter.com/756xyz/status/1274702420598116357?s=20)          |
@@ -1160,8 +1162,10 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                 | [Link](https://twitter.com/Aloha258_master/status/1274472550668529665?s=20) | Non Event CE                               |
 |                                 | [Link](https://twitter.com/Aloha258_master/status/1274664936732413954?s=20) | Dual Core with Bunny King                  |
 |                                 | [Link](https://twitter.com/Aloha258_master/status/1275031221265825792?s=20) | NoSwap                                     |
+| Hokusai (Saber)                 | [Link](https://twitter.com/Chinquepig/status/1275449013517467649?s=20)      | Non Event CE                               |
 | Ibaraki                         | [Link](https://twitter.com/snowdroptree/status/1274341379213152258?s=20)    | NoSwap                                     |
 |                                 | [Link](https://twitter.com/ElesyStone/status/1275011401241821186?s=20)      | Non Event CE                               |
+| Ishtar                          | [Link](https://twitter.com/waiwaikigurumi/status/1275630600280403968?s=20)  |
 | Jack the Ripper                 | [Link](https://twitter.com/Akatsuki_8240/status/1274835952213491712?s=20)   |
 | Jeanne d'Arc                    | [Link](https://twitter.com/NEKANA_8322/status/1274875973398216704?s=20)     | Solo                                       |
 | Jeanne d'Arc (Alter)            | [Link](https://twitter.com/SW87807148/status/1274852890721411072?s=20)      | Non Event CE                               |
@@ -1184,6 +1188,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Mori Nagayoshi                  | [Link](https://twitter.com/nmnppp/status/1274599770900664320?s=20)          |
 | Musashi (Berserker)             | [Link](https://twitter.com/ShotkAnime/status/1274342881747034117?s=20)      | No Event CE, Non SSR Supports Only         |
 |                                 | [Link](https://twitter.com/fgo38195272/status/1275081583217659909?s=20)     |
+|                                 | [Link](https://twitter.com/ITMST/status/1275431564034203650?s=20)           | No NP used                                 |
 | Musashi (Saber)                 | [Link](https://twitter.com/Goodmomon/status/1274662242529624066?s=20)       |
 | Napoleon                        | [Link](https://twitter.com/Dorapika_Wu/status/1274732301146972160?s=20)     |
 | Nero (Caster)                   | [Link](https://twitter.com/fgo38195272/status/1274541183872544768?s=20)     | NoCE on support, Bronze supports only      |
@@ -1194,10 +1199,12 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Oda Nobunaga (Berserker)        | [Link](https://www.bilibili.com/video/BV1GA411i77f)                         |
 |                                 | [Link](https://twitter.com/snowdroptree/status/1274638460964364288?s=20)    | Non Event CE                               |
 |                                 | [Link](https://twitter.com/snowdroptree/status/1274914492669849601?s=20)    | Non SSR Supports only                      |
+|                                 | [Link](https://twitter.com/snowdroptree/status/1275471203411439617?s=20)    | Non Event CE                               |
 | Oda Nobunaga (Maou)             | [Link](https://www.youtube.com/watch?v=dO6TgVTxExc&feature=youtu.be)        | No NP used                                 |
 |                                 | [Link](https://www.youtube.com/watch?v=dO6TgVTxExc&feature=youtu.be)        |
 | Okita Souji (Alter)             | [Link](https://twitter.com/myc_1228/status/1274636131431112704?s=20)        |
 | Orion (Superhuman)              | [Link](https://twitter.com/hiduka01/status/1274468928102621184?s=20)        | Non Event CE, Non SSR Supports             |
+| Osakabehime (Archer)            | [Link](https://twitter.com/1syuten2syefi/status/1275138519153795074?s=20)   |
 | Passionlip                      | [Link](https://twitter.com/Yuri_duelist/status/1274674616833720321?s=20)    | NoSwap                                     |
 | Penthesilea                     | [Link](https://twitter.com/EdaFgo/status/1274641699893964801?s=20)          | NoSwap                                     |
 | Romulus=Qurinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1274297740936110084?s=20)     |
