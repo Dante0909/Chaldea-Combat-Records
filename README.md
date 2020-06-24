@@ -1139,8 +1139,11 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | DPS Used                        | Link                                                                        | Remarks                                    |
 | ------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------ |
 | Achilles                        | [Link](https://twitter.com/calpis_102/status/1275583375777034241?s=20)      | NoSwap                                     |
+|                                 | [Link](https://twitter.com/calpis_102/status/1275583375777034241?s=20)      | Solo                                       |
 | Arjuna (Alter)                  | [Link](https://www.bilibili.com/video/BV1AV411k7tr)                         | NP1 DPS, Non Event CE, No NP used          |
+|                                 | [Link](https://twitter.com/Kag_Tam/status/1275799014189838346?s=20)         | NoCE                                       |
 | Arturia Pendragon (Ruler)       | [Link](https://twitter.com/maruihayao/status/1275022156145909761?s=20)      |
+|                                 | [Link](https://twitter.com/Aloha258_master/status/1275737590516215808?s=20) | Non SSR Supports Only                      |
 | Astarte                         | [Link](https://twitter.com/jyuubeeyuuan/status/1274314648154595329?s=20)    |
 | Astolfo (Saber)                 | [Link](https://twitter.com/d_fmgfam34/status/1274296720017420288?s=20)      |
 |                                 | [Link](https://twitter.com/1104shoki/status/1274344434641977345?s=20)       | Non Event CE                               |
@@ -1163,11 +1166,14 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                 | [Link](https://twitter.com/Aloha258_master/status/1274664936732413954?s=20) | Dual Core with Bunny King                  |
 |                                 | [Link](https://twitter.com/Aloha258_master/status/1275031221265825792?s=20) | NoSwap                                     |
 | Hokusai (Saber)                 | [Link](https://twitter.com/Chinquepig/status/1275449013517467649?s=20)      | Non Event CE                               |
-| Ibaraki                         | [Link](https://twitter.com/snowdroptree/status/1274341379213152258?s=20)    | NoSwap                                     |
+| Ibaraki (Berserker)             | [Link](https://twitter.com/snowdroptree/status/1274341379213152258?s=20)    | NoSwap                                     |
 |                                 | [Link](https://twitter.com/ElesyStone/status/1275011401241821186?s=20)      | Non Event CE                               |
+|                                 | [Link](https://twitter.com/snowdroptree/status/1275819708189536256?s=20)    | Dual Core with Nobuzerker                  |
+| Ibaraki (Lancer)                | [Link](https://twitter.com/shuten1341/status/1275757483059863554?s=20)      |
 | Ishtar                          | [Link](https://twitter.com/waiwaikigurumi/status/1275630600280403968?s=20)  |
 | Jack the Ripper                 | [Link](https://twitter.com/Akatsuki_8240/status/1274835952213491712?s=20)   |
 | Jeanne d'Arc                    | [Link](https://twitter.com/NEKANA_8322/status/1274875973398216704?s=20)     | Solo                                       |
+|                                 | [Link](https://twitter.com/NEKANA_8322/status/1275662469013307399?s=20)     | Solo                                       |
 | Jeanne d'Arc (Alter)            | [Link](https://twitter.com/SW87807148/status/1274852890721411072?s=20)      | Non Event CE                               |
 | Jeanne d'Arc (Alter, Berserker) | [Link](https://twitter.com/myc_1228/status/1274358939543470082?s=20)        |
 | Kama                            | [Link](https://twitter.com/genmu08171/status/1274433015523930113?s=20)      |
