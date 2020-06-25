@@ -1144,6 +1144,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                 | [Link](https://twitter.com/Kag_Tam/status/1275799014189838346?s=20)         | NoCE                                       |
 | Arturia Pendragon (Ruler)       | [Link](https://twitter.com/maruihayao/status/1275022156145909761?s=20)      |
 |                                 | [Link](https://twitter.com/Aloha258_master/status/1275737590516215808?s=20) | Non SSR Supports Only                      |
+| Ashwatthama                     | [Link](https://twitter.com/nagaru35/status/1275958041163075585?s=20)        |
 | Astarte                         | [Link](https://twitter.com/jyuubeeyuuan/status/1274314648154595329?s=20)    |
 | Astolfo (Saber)                 | [Link](https://twitter.com/d_fmgfam34/status/1274296720017420288?s=20)      |
 |                                 | [Link](https://twitter.com/1104shoki/status/1274344434641977345?s=20)       | Non Event CE                               |
@@ -1156,6 +1157,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Dantes                          | [Link](https://www.youtube.com/watch?v=2iBFDjvT3QM&feature=youtu.be)        |
 | Ereshkigal                      | [Link](https://twitter.com/waiwaikigurumi/status/1274328102781349888?s=20)  |
 | Fujino Asagami                  | [Link](https://twitter.com/7Corner/status/1275064329310580738?s=20)         |
+|                                 | [Link](https://twitter.com/_ao2412fgo/status/1275977585596305409?s=20)      |
 | Gawain                          | [Link](https://twitter.com/orionkumachan/status/1274337406078955520?s=20)   | NonSSR supports only                       |
 | Gilgamesh                       | [Link](https://twitter.com/otkznr/status/1274581091014242304?s=20)          |
 | Hessian Lobo                    | [Link](https://twitter.com/kitakitasnas/status/1274334484540710912?s=20)    |
@@ -1169,6 +1171,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Ibaraki (Berserker)             | [Link](https://twitter.com/snowdroptree/status/1274341379213152258?s=20)    | NoSwap                                     |
 |                                 | [Link](https://twitter.com/ElesyStone/status/1275011401241821186?s=20)      | Non Event CE                               |
 |                                 | [Link](https://twitter.com/snowdroptree/status/1275819708189536256?s=20)    | Dual Core with Nobuzerker                  |
+|                                 | [Link](https://twitter.com/snowdroptree/status/1275991174805745665?s=20)    | NoSwap, Non SSR Supports                   |
 | Ibaraki (Lancer)                | [Link](https://twitter.com/shuten1341/status/1275757483059863554?s=20)      |
 | Ishtar                          | [Link](https://twitter.com/waiwaikigurumi/status/1275630600280403968?s=20)  |
 | Jack the Ripper                 | [Link](https://twitter.com/Akatsuki_8240/status/1274835952213491712?s=20)   |
