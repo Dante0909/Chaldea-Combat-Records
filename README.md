@@ -1153,13 +1153,15 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Astraea                         | [Link](https://twitter.com/Chinquepig/status/1274733432262647808?s=20)      | Non Event CE                               |
 | Beni-emma                       | [Link](https://twitter.com/ITMST/status/1274935649901047808?s=20)           | Non Event CE                               |
 | Bunyan                          | [Link](https://twitter.com/756xyz/status/1274702420598116357?s=20)          |
+| Caesar                          | [Link](https://twitter.com/waiwaikigurumi/status/1276100546538045446?s=20)  |
 | Calamity Jane                   | [Link](https://twitter.com/ffgo_rin/status/1274781664292438016?s=20)        |
 | Dantes                          | [Link](https://www.youtube.com/watch?v=2iBFDjvT3QM&feature=youtu.be)        |
 | Ereshkigal                      | [Link](https://twitter.com/waiwaikigurumi/status/1274328102781349888?s=20)  |
 | Fujino Asagami                  | [Link](https://twitter.com/7Corner/status/1275064329310580738?s=20)         |
 |                                 | [Link](https://twitter.com/_ao2412fgo/status/1275977585596305409?s=20)      |
 | Gawain                          | [Link](https://twitter.com/orionkumachan/status/1274337406078955520?s=20)   | NonSSR supports only                       |
-| Gilgamesh                       | [Link](https://twitter.com/otkznr/status/1274581091014242304?s=20)          |
+| Gilgamesh (Archer)              | [Link](https://twitter.com/otkznr/status/1274581091014242304?s=20)          |
+| Gilgamesh (Caster)              | [Link](https://twitter.com/ITMST/status/1276065751628083201?s=20)           | Non SSR Supports Only                      |
 | Hessian Lobo                    | [Link](https://twitter.com/kitakitasnas/status/1274334484540710912?s=20)    |
 |                                 | [Link](https://twitter.com/kitakitasnas/status/1274334484540710912?s=20)    | Non Event CE                               |
 | Heracles                        | [Link](https://twitter.com/fgo60509mochi/status/1275082844717453313?s=20)   |
