@@ -1152,6 +1152,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                 | [Link](https://twitter.com/1104shoki/status/1275422118704898048?s=20)       | Non Event CE, No CE on Support             |
 | Astraea                         | [Link](https://twitter.com/Chinquepig/status/1274733432262647808?s=20)      | Non Event CE                               |
 | Beni-emma                       | [Link](https://twitter.com/ITMST/status/1274935649901047808?s=20)           | Non Event CE                               |
+| Beowulf                         | [Link](https://twitter.com/otkznr/status/1276170689003872256?s=20)          | Non SSR Supports Only                      |
 | Bunyan                          | [Link](https://twitter.com/756xyz/status/1274702420598116357?s=20)          |
 | Caesar                          | [Link](https://twitter.com/waiwaikigurumi/status/1276100546538045446?s=20)  |
 | Calamity Jane                   | [Link](https://twitter.com/ffgo_rin/status/1274781664292438016?s=20)        |
@@ -1165,6 +1166,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Hessian Lobo                    | [Link](https://twitter.com/kitakitasnas/status/1274334484540710912?s=20)    |
 |                                 | [Link](https://twitter.com/kitakitasnas/status/1274334484540710912?s=20)    | Non Event CE                               |
 | Heracles                        | [Link](https://twitter.com/fgo60509mochi/status/1275082844717453313?s=20)   |
+|                                 | [Link](https://twitter.com/fuwa_rai/status/1276192564584931328?s=20)        | Bronze Supports Only                       |
 | Hijikata                        | [Link](https://twitter.com/buenabisutafgo/status/1274392584022929409?s=20)  |
 |                                 | [Link](https://twitter.com/Aloha258_master/status/1274472550668529665?s=20) | Non Event CE                               |
 |                                 | [Link](https://twitter.com/Aloha258_master/status/1274664936732413954?s=20) | Dual Core with Bunny King                  |
@@ -1181,6 +1183,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                 | [Link](https://twitter.com/NEKANA_8322/status/1275662469013307399?s=20)     | Solo                                       |
 | Jeanne d'Arc (Alter)            | [Link](https://twitter.com/SW87807148/status/1274852890721411072?s=20)      | Non Event CE                               |
 | Jeanne d'Arc (Alter, Berserker) | [Link](https://twitter.com/myc_1228/status/1274358939543470082?s=20)        |
+|                                 | [Link](https://twitter.com/snowdroptree/status/1276185477528223746?s=20)    | Non SSR Supports Only                      |
 | Kama                            | [Link](https://twitter.com/genmu08171/status/1274433015523930113?s=20)      |
 | Kijyo Koyo                      | [Link](https://twitter.com/niflheimr413413/status/1274288498485256192?s=12) |
 |                                 | [Link](https://twitter.com/Yuri_duelist/status/1274403727428878336?s=20)    | Non Event CE                               |
@@ -1191,8 +1194,10 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Medusa (Lancer)                 | [Link](https://twitter.com/_sky110/status/1275016251182473222?s=20)         |
 | Meltryllis (Alter-Ego)          | [Link](https://twitter.com/Yuri_duelist/status/1274596847022030849?s=20)    | NoSwap, Non Event CE                       |
 |                                 | [Link](https://www.bilibili.com/video/BV12A411v7EW)                         | Solo                                       |
+|                                 | [Link](https://twitter.com/2_5_dimension/status/1276406062568976389?s=20)   | NoCE                                       |
 | Meltryllis (Lancer)             | [Link](https://twitter.com/2_5_dimension/status/1275024745717616641?s=20)   |
 | Merlin                          | [Link](https://www.youtube.com/watch?v=nEySVqyyySw)                         | Solo                                       |
+|                                 | [Link](https://twitter.com/snowdroptree/status/1276142877970624517?s=20)    | No NP used                                 |
 | MHX                             | [Link](https://twitter.com/mahimahi_xoxo/status/1274515787756134401?s=20)   |
 | MHXA                            | [Link](https://www.bilibili.com/video/BV19f4y1y75G)                         |
 | Mordred                         | [Link](https://twitter.com/Hello_Anthem/status/1275166615169044483?s=20)    |
@@ -1228,9 +1233,11 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Sitonai                         | [Link](https://www.nicovideo.jp/watch/sm35602416)                           | Solo                                       |
 | Vlad (Berserker)                | [Link](https://twitter.com/Raven2106/status/1274355677666750464?s=20)       |
 | Voyager                         | [Link](https://www.bilibili.com/video/BV1Wa4y1Y7WG)                         |
+| Wu Zetian                       | [Link](https://twitter.com/ibu_fgo/status/12 76143762851295232?s=20)        |
 | Xiang Yu                        | [Link](https://twitter.com/Chinquepig/status/1274732761794744320?s=20)      | Non Event CE                               |
 |                                 | [Link](https://twitter.com/Nagato_Yuki_233/status/1275249692121550848?s=20) | Non Event CE                               |
 | Xuanzang Sanzang                | [Link](https://twitter.com/2_5_dimension/status/1274293632808316929?s=20)   | Very less RNG needed, Dual Core with Circe |
+| Yang Guifei                     | [Link](https://twitter.com/chwangk/status/1276427827491946496?s=20)         |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
