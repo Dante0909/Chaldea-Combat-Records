@@ -1153,9 +1153,11 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Astraea                         | [Link](https://twitter.com/Chinquepig/status/1274733432262647808?s=20)      | Non Event CE                               |
 | Beni-emma                       | [Link](https://twitter.com/ITMST/status/1274935649901047808?s=20)           | Non Event CE                               |
 | Beowulf                         | [Link](https://twitter.com/otkznr/status/1276170689003872256?s=20)          | Non SSR Supports Only                      |
+| Bradamante                      | [Link](https://twitter.com/miku075/status/1276510299823075328?s=20)         |
 | Bunyan                          | [Link](https://twitter.com/756xyz/status/1274702420598116357?s=20)          |
 | Caesar                          | [Link](https://twitter.com/waiwaikigurumi/status/1276100546538045446?s=20)  |
 | Calamity Jane                   | [Link](https://twitter.com/ffgo_rin/status/1274781664292438016?s=20)        |
+| Chen Gong                       | [Link](https://twitter.com/mgmg3939pnd/status/1276526521566420992?s=20)     | Non Event CE, Dual Core                    |
 | Dantes                          | [Link](https://www.youtube.com/watch?v=2iBFDjvT3QM&feature=youtu.be)        |
 | Ereshkigal                      | [Link](https://twitter.com/waiwaikigurumi/status/1274328102781349888?s=20)  |
 | Fujino Asagami                  | [Link](https://twitter.com/7Corner/status/1275064329310580738?s=20)         |
@@ -1188,7 +1190,9 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Kijyo Koyo                      | [Link](https://twitter.com/niflheimr413413/status/1274288498485256192?s=12) |
 |                                 | [Link](https://twitter.com/Yuri_duelist/status/1274403727428878336?s=20)    | Non Event CE                               |
 |                                 | [Link](https://twitter.com/mil_kurim/status/1274671655529275392?s=20)       | Non SSR Supports Only                      |
+| King Protea                     | [Link](https://twitter.com/BOBislazyboy/status/1276496657136226304?s=20)    | Non Event CE                               |
 | Kintoki (Berserker)             | [Link](https://twitter.com/WacBook/status/1275084656954630146?s=20)         |
+| Lancelot (Berserker)            | [Link](https://twitter.com/haikaga/status/1276463460906266624?s=20)         |
 | Marie (Caster)                  | [Link](https://twitter.com/kohaku_marie/status/1274992547018838017?s=20)    |
 | Mecha Eli                       | [Link](https://twitter.com/snowdroptree/status/1275195607657791489?s=20)    |
 | Medusa (Lancer)                 | [Link](https://twitter.com/_sky110/status/1275016251182473222?s=20)         |
@@ -1223,6 +1227,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Osakabehime (Archer)            | [Link](https://twitter.com/1syuten2syefi/status/1275138519153795074?s=20)   |
 | Passionlip                      | [Link](https://twitter.com/Yuri_duelist/status/1274674616833720321?s=20)    | NoSwap                                     |
 | Penthesilea                     | [Link](https://twitter.com/EdaFgo/status/1274641699893964801?s=20)          | NoSwap                                     |
+| Raikou (Lancer)                 | [Link](https://twitter.com/Peperon8310/status/1276751961354915841?s=20)     |
 | Romulus=Qurinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1274297740936110084?s=20)     |
 | Sasaki Kojirou                  | [Link](https://twitter.com/roomatoraiaruma/status/1275110506785693699?s=20) |
 | Scathach                        | [Link](https://twitter.com/gameover_fate/status/1275295148994256897?s=20)   |
@@ -1233,7 +1238,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Sitonai                         | [Link](https://www.nicovideo.jp/watch/sm35602416)                           | Solo                                       |
 | Vlad (Berserker)                | [Link](https://twitter.com/Raven2106/status/1274355677666750464?s=20)       |
 | Voyager                         | [Link](https://www.bilibili.com/video/BV1Wa4y1Y7WG)                         |
-| Wu Zetian                       | [Link](https://twitter.com/ibu_fgo/status/12 76143762851295232?s=20)        |
+| Wu Zetian                       | [Link](https://twitter.com/ibu_fgo/status/1276143762851295232?s=20)         |
 | Xiang Yu                        | [Link](https://twitter.com/Chinquepig/status/1274732761794744320?s=20)      | Non Event CE                               |
 |                                 | [Link](https://twitter.com/Nagato_Yuki_233/status/1275249692121550848?s=20) | Non Event CE                               |
 | Xuanzang Sanzang                | [Link](https://twitter.com/2_5_dimension/status/1274293632808316929?s=20)   | Very less RNG needed, Dual Core with Circe |
