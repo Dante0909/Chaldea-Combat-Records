@@ -1201,6 +1201,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Lancelot (Berserker)            | [Link](https://twitter.com/haikaga/status/1276463460906266624?s=20)         |
 | Marie (Caster)                  | [Link](https://twitter.com/kohaku_marie/status/1274992547018838017?s=20)    |
 | Mecha Eli                       | [Link](https://twitter.com/snowdroptree/status/1275195607657791489?s=20)    |
+| Medb                            | [Link](https://twitter.com/buenabisutafgo/status/1276909111532126208?s=20)  | 1 CS Used
 | Medusa (Lancer)                 | [Link](https://twitter.com/_sky110/status/1275016251182473222?s=20)         |
 | Meltryllis (Alter-Ego)          | [Link](https://twitter.com/Yuri_duelist/status/1274596847022030849?s=20)    | NoSwap, Non Event CE                       |
 |                                 | [Link](https://www.bilibili.com/video/BV12A411v7EW)                         | Solo                                       |
@@ -1211,6 +1212,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                 | [Link](https://twitter.com/snowdroptree/status/1276142877970624517?s=20)    | No NP used                                 |
 | MHX                             | [Link](https://twitter.com/mahimahi_xoxo/status/1274515787756134401?s=20)   |
 | MHXA                            | [Link](https://www.bilibili.com/video/BV19f4y1y75G)                         |
+| MHXX                            | [Link](https://twitter.com/yumey_c2_vv/status/1276908830740209664?s=20)     |
 | Mordred                         | [Link](https://twitter.com/Hello_Anthem/status/1275166615169044483?s=20)    |
 | Mori Nagayoshi                  | [Link](https://twitter.com/nmnppp/status/1274599770900664320?s=20)          |
 | Musashi (Berserker)             | [Link](https://twitter.com/ShotkAnime/status/1274342881747034117?s=20)      | No Event CE, Non SSR Supports Only         |
@@ -1241,6 +1243,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Sasaki Kojirou                  | [Link](https://twitter.com/roomatoraiaruma/status/1275110506785693699?s=20) |
 | Scathach                        | [Link](https://twitter.com/gameover_fate/status/1275295148994256897?s=20)   |
 | Sei Shonagon                    | [Link](https://twitter.com/EdaFgo/status/1274467127219478528?s=20)          |
+| Skadi                           | [Link](https://twitter.com/shortcut588/status/1276930349361008640?s=20)     |
 | Shuten (Caster)                 | [Link](https://twitter.com/shuten1341/status/1274357361906352129?s=20)      |
 |                                 | [Link](https://twitter.com/shuten1341/status/1274713937188024320?s=20)      | Bronze Supports Only                       |
 |                                 | [Link](https://twitter.com/shuten1341/status/1274740479884537857?s=20)      | NoSwap                                     |
