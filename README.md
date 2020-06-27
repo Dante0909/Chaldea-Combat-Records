@@ -12,7 +12,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 - Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Chaldea-Combat-Records/blob/master/CONTRIBUTING.md).
 - I would like to extend my thanks to `Hong#7870`, `SaberOfAvalon#0001`, `Ditt93#9759`, `_Dante09#9825`,`Ivory Black#0718` and `Akaibu#9379` for contributing in growth of this repo.
-- For further discussion on in-depth topics related to FGO, please check this server :
+- For further discussion on in-depth topics related to FGO, please check this discord server :
   [![Discord server invite](https://discordapp.com/api/guilds/502554574423457812/embed.png)](https://discord.gg/TKJmuCR)
 
 ## Index
@@ -1142,6 +1142,8 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                 | [Link](https://twitter.com/calpis_102/status/1275583375777034241?s=20)      | Solo                                       |
 | Arjuna (Alter)                  | [Link](https://www.bilibili.com/video/BV1AV411k7tr)                         | NP1 DPS, Non Event CE, No NP used          |
 |                                 | [Link](https://twitter.com/Kag_Tam/status/1275799014189838346?s=20)         | NoCE                                       |
+|                                 | [Link](https://twitter.com/otkznr/status/1276850997864751104?s=20)          |
+|                                 | [Link](https://twitter.com/leoomotefriend/status/1276802655050846209?s=20)  |
 | Arturia Pendragon (Ruler)       | [Link](https://twitter.com/maruihayao/status/1275022156145909761?s=20)      |
 |                                 | [Link](https://twitter.com/Aloha258_master/status/1275737590516215808?s=20) | Non SSR Supports Only                      |
 | Ashwatthama                     | [Link](https://twitter.com/nagaru35/status/1275958041163075585?s=20)        |
@@ -1150,7 +1152,9 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                 | [Link](https://twitter.com/1104shoki/status/1274344434641977345?s=20)       | Non Event CE                               |
 |                                 | [Link](https://twitter.com/1104shoki/status/1274521746410889216?s=20)       | NoSwap                                     |
 |                                 | [Link](https://twitter.com/1104shoki/status/1275422118704898048?s=20)       | Non Event CE, No CE on Support             |
+|                                 | [Link](https://twitter.com/1104shoki/status/1276846561335496704?s=20)       | Non SSR Supports Only                      |
 | Astraea                         | [Link](https://twitter.com/Chinquepig/status/1274733432262647808?s=20)      | Non Event CE                               |
+| Atalante (Alter)                | [Link](https://twitter.com/RGrOmQJMfkWvSHg/status/1276800596784279552?s=20) |
 | Beni-emma                       | [Link](https://twitter.com/ITMST/status/1274935649901047808?s=20)           | Non Event CE                               |
 | Beowulf                         | [Link](https://twitter.com/otkznr/status/1276170689003872256?s=20)          | Non SSR Supports Only                      |
 | Bradamante                      | [Link](https://twitter.com/miku075/status/1276510299823075328?s=20)         |
@@ -1201,6 +1205,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Meltryllis (Alter-Ego)          | [Link](https://twitter.com/Yuri_duelist/status/1274596847022030849?s=20)    | NoSwap, Non Event CE                       |
 |                                 | [Link](https://www.bilibili.com/video/BV12A411v7EW)                         | Solo                                       |
 |                                 | [Link](https://twitter.com/2_5_dimension/status/1276406062568976389?s=20)   | NoCE                                       |
+|                                 | [Link](https://twitter.com/2_5_dimension/status/1276806351033778176?s=20)   | Fully NoCE                                 |
 | Meltryllis (Lancer)             | [Link](https://twitter.com/2_5_dimension/status/1275024745717616641?s=20)   |
 | Merlin                          | [Link](https://www.youtube.com/watch?v=nEySVqyyySw)                         | Solo                                       |
 |                                 | [Link](https://twitter.com/snowdroptree/status/1276142877970624517?s=20)    | No NP used                                 |
@@ -1225,10 +1230,12 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Oda Nobunaga (Maou)             | [Link](https://www.youtube.com/watch?v=dO6TgVTxExc&feature=youtu.be)        | No NP used                                 |
 |                                 | [Link](https://www.youtube.com/watch?v=dO6TgVTxExc&feature=youtu.be)        |
 | Okita Souji (Alter)             | [Link](https://twitter.com/myc_1228/status/1274636131431112704?s=20)        |
+| Okita Souji (Assassin)          | [Link](https://twitter.com/Tataminodouga/status/1276869931368235008?s=20)   |
 | Orion (Superhuman)              | [Link](https://twitter.com/hiduka01/status/1274468928102621184?s=20)        | Non Event CE, Non SSR Supports             |
 | Osakabehime (Archer)            | [Link](https://twitter.com/1syuten2syefi/status/1275138519153795074?s=20)   |
 | Passionlip                      | [Link](https://twitter.com/Yuri_duelist/status/1274674616833720321?s=20)    | NoSwap                                     |
 | Penthesilea                     | [Link](https://twitter.com/EdaFgo/status/1274641699893964801?s=20)          | NoSwap                                     |
+| Raikou (Berserker)              | [Link](https://twitter.com/neo_lex0403/status/1276845208949280771?s=20)     | Non SSR Supports Only                      |
 | Raikou (Lancer)                 | [Link](https://twitter.com/Peperon8310/status/1276751961354915841?s=20)     |
 | Romulus=Qurinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1274297740936110084?s=20)     |
 | Sasaki Kojirou                  | [Link](https://twitter.com/roomatoraiaruma/status/1275110506785693699?s=20) |
