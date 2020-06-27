@@ -1160,6 +1160,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Chen Gong                       | [Link](https://twitter.com/mgmg3939pnd/status/1276526521566420992?s=20)     | Non Event CE, Dual Core                    |
 | Dantes                          | [Link](https://www.youtube.com/watch?v=2iBFDjvT3QM&feature=youtu.be)        |
 | Ereshkigal                      | [Link](https://twitter.com/waiwaikigurumi/status/1274328102781349888?s=20)  |
+| Enkidu                          | [Link](https://www.youtube.com/watch?v=5-jH34-BNSo)                         | Solo                                       |
 | Fujino Asagami                  | [Link](https://twitter.com/7Corner/status/1275064329310580738?s=20)         |
 |                                 | [Link](https://twitter.com/_ao2412fgo/status/1275977585596305409?s=20)      |
 | Gawain                          | [Link](https://twitter.com/orionkumachan/status/1274337406078955520?s=20)   | NonSSR supports only                       |
@@ -1179,6 +1180,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                 | [Link](https://twitter.com/snowdroptree/status/1275819708189536256?s=20)    | Dual Core with Nobuzerker                  |
 |                                 | [Link](https://twitter.com/snowdroptree/status/1275991174805745665?s=20)    | NoSwap, Non SSR Supports                   |
 | Ibaraki (Lancer)                | [Link](https://twitter.com/shuten1341/status/1275757483059863554?s=20)      |
+| Illyasviel von Einzbern         | [Link](https://twitter.com/niku2_admiral/status/1276728055982026752?s=20)   |
 | Ishtar                          | [Link](https://twitter.com/waiwaikigurumi/status/1275630600280403968?s=20)  |
 | Jack the Ripper                 | [Link](https://twitter.com/Akatsuki_8240/status/1274835952213491712?s=20)   |
 | Jeanne d'Arc                    | [Link](https://twitter.com/NEKANA_8322/status/1274875973398216704?s=20)     | Solo                                       |
