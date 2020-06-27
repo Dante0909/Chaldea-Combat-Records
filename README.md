@@ -1215,7 +1215,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Napoleon                        | [Link](https://twitter.com/Dorapika_Wu/status/1274732301146972160?s=20)     |
 | Nero (Caster)                   | [Link](https://twitter.com/fgo38195272/status/1274541183872544768?s=20)     | NoCE on support, Bronze supports only      |
 |                                 | [Link](https://twitter.com/fgo38195272/status/1274837477937668096?s=20)     | NoCE on support, Bronze supports only      |
-| Nitocris                        | [Link](https://twitter.com/otkznr/status/1275027849741627396?s=20)          |
+| Nitocris                        | [Link](https://twitter.com/otkznr/status/1275027849741627396?s=20)          | Dual Core with Circe                       |
 | Nursery Rhyme                   | [Link](https://twitter.com/6UgYnoZKVn6PApV/status/1275038569485045762?s=20) | Non SSR Supports Only                      |
 |                                 | [Link](https://twitter.com/6UgYnoZKVn6PApV/status/1274943304661000192?s=20) |
 | Oda Nobunaga (Berserker)        | [Link](https://www.bilibili.com/video/BV1GA411i77f)                         |
