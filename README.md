@@ -1197,12 +1197,14 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                 | [Link](https://twitter.com/Yuri_duelist/status/1274403727428878336?s=20)    | Non Event CE                               |
 |                                 | [Link](https://twitter.com/mil_kurim/status/1274671655529275392?s=20)       | Non SSR Supports Only                      |
 | King Protea                     | [Link](https://twitter.com/BOBislazyboy/status/1276496657136226304?s=20)    | Non Event CE                               |
+|                                 | [Link](https://twitter.com/mokotrion2fg/status/1277112996326567937?s=20)    | Non Event CE, Non SSR Supports, No NP Used |
 | Kintoki (Berserker)             | [Link](https://twitter.com/WacBook/status/1275084656954630146?s=20)         |
 | Lancelot (Berserker)            | [Link](https://twitter.com/haikaga/status/1276463460906266624?s=20)         |
 | Marie (Caster)                  | [Link](https://twitter.com/kohaku_marie/status/1274992547018838017?s=20)    |
 | Mecha Eli                       | [Link](https://twitter.com/snowdroptree/status/1275195607657791489?s=20)    |
-| Medb                            | [Link](https://twitter.com/buenabisutafgo/status/1276909111532126208?s=20)  | 1 CS Used
+| Medb                            | [Link](https://twitter.com/buenabisutafgo/status/1276909111532126208?s=20)  | 1 CS Used                                  |
 | Medusa (Lancer)                 | [Link](https://twitter.com/_sky110/status/1275016251182473222?s=20)         |
+|                                 | [Link](https://www.nicovideo.jp/watch/sm37103475)                           | Solo                                       |
 | Meltryllis (Alter-Ego)          | [Link](https://twitter.com/Yuri_duelist/status/1274596847022030849?s=20)    | NoSwap, Non Event CE                       |
 |                                 | [Link](https://www.bilibili.com/video/BV12A411v7EW)                         | Solo                                       |
 |                                 | [Link](https://twitter.com/2_5_dimension/status/1276406062568976389?s=20)   | NoCE                                       |
