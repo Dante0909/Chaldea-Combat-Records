@@ -11,7 +11,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 ## Contributing
 
 - Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Chaldea-Combat-Records/blob/master/CONTRIBUTING.md).
-- I would like to extend my thanks to `Hong#7870`, `SaberOfAvalon#0001`, `Ditt93#9759`, `_Dante09#9825`,`Ivory Black#0718` and `Akaibu#9379` for contributing in growth of this repo.
+- I would like to extend my thanks to `Hong#7870`, `Prinny#9129`, `SaberOfAvalon#0001`, `Ditt93#9759`, `_Dante09#9825`,`Ivory Black#0718` and `Akaibu#9379` for contributing in growth of this repo.
 - For further discussion on in-depth topics related to FGO, please check this discord server :
   [![Discord server invite](https://discordapp.com/api/guilds/502554574423457812/embed.png)](https://discord.gg/TKJmuCR)
 
@@ -1163,6 +1163,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Caesar                          | [Link](https://twitter.com/waiwaikigurumi/status/1276100546538045446?s=20)  |
 | Calamity Jane                   | [Link](https://twitter.com/ffgo_rin/status/1274781664292438016?s=20)        |
 | Chen Gong                       | [Link](https://twitter.com/mgmg3939pnd/status/1276526521566420992?s=20)     | Non Event CE, Dual Core                    |
+| Chu Chulainn (Alter)            | [Link](https://www.bilibili.com/video/BV1aT4y177iz)                         | NoSwap, Non Event CE                       |
 | Dantes                          | [Link](https://www.youtube.com/watch?v=2iBFDjvT3QM&feature=youtu.be)        |
 | Ereshkigal                      | [Link](https://twitter.com/waiwaikigurumi/status/1274328102781349888?s=20)  |
 | Enkidu                          | [Link](https://www.youtube.com/watch?v=5-jH34-BNSo)                         | Solo                                       |
