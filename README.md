@@ -1153,6 +1153,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                 | [Link](https://twitter.com/1104shoki/status/1274521746410889216?s=20)       | NoSwap                                     |
 |                                 | [Link](https://twitter.com/1104shoki/status/1275422118704898048?s=20)       | Non Event CE, No CE on Support             |
 |                                 | [Link](https://twitter.com/1104shoki/status/1276846561335496704?s=20)       | Non SSR Supports Only                      |
+|                                 | [Link](https://twitter.com/756xyz/status/1277209593764929537?s=20)          | Solo                                       |
 | Astraea                         | [Link](https://twitter.com/Chinquepig/status/1274733432262647808?s=20)      | Non Event CE                               |
 | Atalante (Alter)                | [Link](https://twitter.com/RGrOmQJMfkWvSHg/status/1276800596784279552?s=20) |
 | Beni-emma                       | [Link](https://twitter.com/ITMST/status/1274935649901047808?s=20)           | Non Event CE                               |
@@ -1238,6 +1239,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Orion (Superhuman)              | [Link](https://twitter.com/hiduka01/status/1274468928102621184?s=20)        | Non Event CE, Non SSR Supports             |
 | Osakabehime (Archer)            | [Link](https://twitter.com/1syuten2syefi/status/1275138519153795074?s=20)   |
 | Passionlip                      | [Link](https://twitter.com/Yuri_duelist/status/1274674616833720321?s=20)    | NoSwap                                     |
+|                                 | [Link](https://twitter.com/fullice50/status/1277240450454183937?s=20)       |
 | Penthesilea                     | [Link](https://twitter.com/EdaFgo/status/1274641699893964801?s=20)          | NoSwap                                     |
 | Raikou (Berserker)              | [Link](https://twitter.com/neo_lex0403/status/1276845208949280771?s=20)     | Non SSR Supports Only                      |
 | Raikou (Lancer)                 | [Link](https://twitter.com/Peperon8310/status/1276751961354915841?s=20)     |
@@ -1250,13 +1252,17 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                 | [Link](https://twitter.com/shuten1341/status/1274713937188024320?s=20)      | Bronze Supports Only                       |
 |                                 | [Link](https://twitter.com/shuten1341/status/1274740479884537857?s=20)      | NoSwap                                     |
 | Sitonai                         | [Link](https://www.nicovideo.jp/watch/sm35602416)                           | Solo                                       |
+| Tomoe Gozen                     | [Link](https://twitter.com/ShotkAnime/status/1277282245535883264?s=20)      |
 | Vlad (Berserker)                | [Link](https://twitter.com/Raven2106/status/1274355677666750464?s=20)       |
+|                                 | [Link](https://www.bilibili.com/video/BV1Rp4y1U7dT)                         | Non Event CE                               |
 | Voyager                         | [Link](https://www.bilibili.com/video/BV1Wa4y1Y7WG)                         |
 | Wu Zetian                       | [Link](https://twitter.com/ibu_fgo/status/1276143762851295232?s=20)         |
 | Xiang Yu                        | [Link](https://twitter.com/Chinquepig/status/1274732761794744320?s=20)      | Non Event CE                               |
 |                                 | [Link](https://twitter.com/Nagato_Yuki_233/status/1275249692121550848?s=20) | Non Event CE                               |
 | Xuanzang Sanzang                | [Link](https://twitter.com/2_5_dimension/status/1274293632808316929?s=20)   | Very less RNG needed, Dual Core with Circe |
+|                                 | [Link](https://twitter.com/kumamori4/status/1277269974436900866?s=20)       | Non Event CE                               |
 | Yang Guifei                     | [Link](https://twitter.com/chwangk/status/1276427827491946496?s=20)         |
+| Zhuge Liang                     | [Link](https://twitter.com/nagaru35/status/1277218991430225922?s=20)        |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
