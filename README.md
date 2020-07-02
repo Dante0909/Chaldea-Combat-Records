@@ -86,14 +86,15 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 | DPS Used           | Link                                                | Remarks            |
 | ------------------ | --------------------------------------------------- | ------------------ |
+| Arjuna (Alter), Dantes| [Link](https://b23.tv/NXlMVq)                    | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728355366550634686/unknown.png), Skadi NP |
+| Astarte       | [Link](https://b23.tv/Hx2uPQ)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728360638446829687/unknown.png), Singlecore|
+| Hokusai            | [Link](https://b23.tv/3A9YRA)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728354565690490961/unknown.png)|
+| Lancelot (Berserker)| [Link](https://b23.tv/ShNo4q)                      | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728356971895586856/unknown.png)|
 | Musashi (Berserker)| [Link](https://b23.tv/1gloTF)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728351719712489531/unknown.png)|
 |                    | [Link](https://b23.tv/lky0ih)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728353798388711514/unknown.png)|
-| Hokusai            | [Link](https://b23.tv/3A9YRA)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728354565690490961/unknown.png)|
-| Arjuna (Alter), Dantes| [Link](https://b23.tv/NXlMVq)                    | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728355366550634686/unknown.png), Skadi uses her np |
-| Lancelot (Berserker)| [Link](https://b23.tv/ShNo4q)                      | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728356971895586856/unknown.png)|
 | Xiang Yu           | [Link](https://b23.tv/xu8Jx7)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728357248191037480/unknown.png)|
 | Chen Gong, Hijikata| [Link](https://b23.tv/8W0pMP)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728359987381796874/unknown.png)|
-| Space Ishtar       | [Link](https://b23.tv/Hx2uPQ)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728360638446829687/unknown.png), Tricolor, The only solo dps|
+
 |                    | [Link](https://b23.tv/8pac93)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728361357920960613/unknown.png)|
 
 ## Events
