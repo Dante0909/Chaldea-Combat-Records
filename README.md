@@ -45,6 +45,26 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 ## Story Bosses
 
+- Note that Hong already has solos covered for Story released in FGO NA/Global : [Link](https://www.youtube.com/playlist?list=PLVw95Imz4v-nkX-LKD6tE3NJSwGAQpyT8)
+
+### Camelot - Gawain
+
+| DPS Used               | Link                                                | Remarks |
+| ---------------------- | --------------------------------------------------- | ------- |
+| Tamamo no Mae (Lancer) | [Link](https://www.bilibili.com/video/BV14t4y1y7jV) | Solo    |
+
+### Babylonia - Quetzalcotl
+
+| DPS Used          | Link                                                | Remarks |
+| ----------------- | --------------------------------------------------- | ------- |
+| [Jack the Ripper] | [Link](https://www.youtube.com/watch?v=zo45TIxXk1E) | Solo    |
+
+### LB1 - Anastasia
+
+| DPS Used       | Link                                                | Remarks |
+| -------------- | --------------------------------------------------- | ------- |
+| Martha (Rider) | [Link](https://www.youtube.com/watch?v=mNOPl-WZksc) | Solo    |
+
 ### LB5 Chapter 7 - Arrow 2
 
 | DPS Used | Link                                                | Remarks |
@@ -91,11 +111,11 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                        | [Link](https://b23.tv/8pac93)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728361357920960613/unknown.png)             |
 | Cu Chulainn (Alter)    | [Link](https://www.bilibili.com/video/BV1QW411W7Pq/) | No CC, Solo                                                                                                          |
 | Hokusai                | [Link](https://b23.tv/3A9YRA)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728354565690490961/unknown.png)             |
-| Kama | [Link](https://www.youtube.com/watch?v=k4_d_Ux8Tco) | Solo
+| Kama                   | [Link](https://www.youtube.com/watch?v=k4_d_Ux8Tco)  | Solo                                                                                                                 |
 | King Hassan            | [Link](https://www.bilibili.com/video/av20664448/)   | No CC, Solo                                                                                                          |
 | Lancelot (Berserker)   | [Link](https://b23.tv/ShNo4q)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728356971895586856/unknown.png)             |
-| Mash Kyrielight        | [Link](https://www.youtube.com/watch?v=ThrIBwglKvo)  | Solo                                                                                                                 |
 | Merlin                 | [Link](https://www.youtube.com/watch?v=-iFp8deShKM)  | Solo, No CC                                                                                                          |
+| MHXA                   | [Link](https://www.bilibili.com/video/av87929863)    | Solo                                                                                                                 |
 | Musashi (Berserker)    | [Link](https://b23.tv/1gloTF)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728351719712489531/unknown.png)             |
 |                        | [Link](https://b23.tv/lky0ih)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728353798388711514/unknown.png)             |
 | Orion (Superhuman)     | [Link](https://www.youtube.com/watch?v=FQWYCN0NlgI)  | Solo                                                                                                                 |
