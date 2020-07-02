@@ -11,7 +11,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 ## Contributing
 
 - Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Chaldea-Combat-Records/blob/master/CONTRIBUTING.md).
-- I would like to extend my thanks to `Hong#7870`, `Prinny#9129`, `SaberOfAvalon#0001`, `Ditt93#9759`, `_Dante09#9825`,`Ivory Black#0718` and `Akaibu#9379` for contributing in growth of this repo.
+- I would like to extend my thanks to `Hong#7870`, `Prinny#9129`, `SaberOfAvalon#0001`, `Ditt93#9759`, `_Dante09#9825`,`Ivory Black#0718`, `Akaibu#9379`, `Mashmallow#5307`, `Toraso#7862` and `Ratentaisou#6437` for contributing in growth of this repo.
 - For further discussion on in-depth topics related to FGO, please check this discord server :
   [![Discord server invite](https://discordapp.com/api/guilds/502554574423457812/embed.png)](https://discord.gg/TKJmuCR)
 
@@ -84,17 +84,23 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 ### Dantes Prison Tower
 
-| DPS Used           | Link                                                | Remarks            |
-| ------------------ | --------------------------------------------------- | ------------------ |
-| Arjuna (Alter), Dantes| [Link](https://b23.tv/NXlMVq)                    | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728355366550634686/unknown.png), Skadi NP |
-| Astarte       | [Link](https://b23.tv/Hx2uPQ)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728360638446829687/unknown.png), Singlecore|
-| Hokusai            | [Link](https://b23.tv/3A9YRA)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728354565690490961/unknown.png)|
-| Lancelot (Berserker)| [Link](https://b23.tv/ShNo4q)                      | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728356971895586856/unknown.png)|
-| Musashi (Berserker)| [Link](https://b23.tv/1gloTF)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728351719712489531/unknown.png)|
-|                    | [Link](https://b23.tv/lky0ih)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728353798388711514/unknown.png)|
-| Xiang Yu           | [Link](https://b23.tv/xu8Jx7)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728357248191037480/unknown.png)|
-| Chen Gong, Hijikata| [Link](https://b23.tv/8W0pMP)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728359987381796874/unknown.png)|
-|                    | [Link](https://b23.tv/8pac93)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728361357920960613/unknown.png)|
+| DPS Used               | Link                                                 | Remarks                                                                                                              |
+| ---------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Arjuna (Alter), Dantes | [Link](https://b23.tv/NXlMVq)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728355366550634686/unknown.png), Skadi NP   |
+| Astarte                | [Link](https://b23.tv/Hx2uPQ)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728360638446829687/unknown.png), Singlecore |
+|                        | [Link](https://b23.tv/8pac93)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728361357920960613/unknown.png)             |
+| Cu Chulainn (Alter)    | [Link](https://www.bilibili.com/video/BV1QW411W7Pq/) | No CC, Solo                                                                                                          |
+| Hokusai                | [Link](https://b23.tv/3A9YRA)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728354565690490961/unknown.png)             |
+| Kama | [Link](https://www.youtube.com/watch?v=k4_d_Ux8Tco) | Solo
+| King Hassan            | [Link](https://www.bilibili.com/video/av20664448/)   | No CC, Solo                                                                                                          |
+| Lancelot (Berserker)   | [Link](https://b23.tv/ShNo4q)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728356971895586856/unknown.png)             |
+| Mash Kyrielight        | [Link](https://www.youtube.com/watch?v=ThrIBwglKvo)  | Solo                                                                                                                 |
+| Merlin                 | [Link](https://www.youtube.com/watch?v=-iFp8deShKM)  | Solo, No CC                                                                                                          |
+| Musashi (Berserker)    | [Link](https://b23.tv/1gloTF)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728351719712489531/unknown.png)             |
+|                        | [Link](https://b23.tv/lky0ih)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728353798388711514/unknown.png)             |
+| Orion (Superhuman)     | [Link](https://www.youtube.com/watch?v=FQWYCN0NlgI)  | Solo                                                                                                                 |
+| Xiang Yu               | [Link](https://b23.tv/xu8Jx7)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728357248191037480/unknown.png)             |
+| Chen Gong, Hijikata    | [Link](https://b23.tv/8W0pMP)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728359987381796874/unknown.png)             |
 
 ## Events
 
