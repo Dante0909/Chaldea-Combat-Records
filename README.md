@@ -94,7 +94,6 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                    | [Link](https://b23.tv/lky0ih)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728353798388711514/unknown.png)|
 | Xiang Yu           | [Link](https://b23.tv/xu8Jx7)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728357248191037480/unknown.png)|
 | Chen Gong, Hijikata| [Link](https://b23.tv/8W0pMP)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728359987381796874/unknown.png)|
-
 |                    | [Link](https://b23.tv/8pac93)                       | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728361357920960613/unknown.png)|
 
 ## Events
