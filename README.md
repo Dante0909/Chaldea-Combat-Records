@@ -12,7 +12,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 - Contributions are always welcome. Please check [this document](https://github.com/Arc-FGO/Chaldea-Combat-Records/blob/master/CONTRIBUTING.md).
 - I would like to extend my thanks to `Hong#7870`, `Prinny#9129`, `SaberOfAvalon#0001`, `Ditt93#9759`, `_Dante09#9825`,`Ivory Black#0718`, `Akaibu#9379`, `Mashmallow#5307`, `Toraso#7862` and `Ratentaisou#6437` for contributing in growth of this repo.
-- For further discussion on in-depth topics related to FGO, please check this discord server :
+- For further discussion on in-depth topics related to FGO, please check the **Atlas Academy** discord server :
   [![Discord server invite](https://discordapp.com/api/guilds/502554574423457812/embed.png)](https://discord.gg/TKJmuCR)
 
 ## Index
