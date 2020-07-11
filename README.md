@@ -93,6 +93,8 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 | DPS Used                       | Link                                                              | Remarks            |
 | ------------------------------ | ----------------------------------------------------------------- | ------------------ |
+| Altera (Archer)                | [Link](https://www.youtube.com/watch?v=KHC6MP31Fdo)               |
+|                                | [Link](https://www.youtube.com/watch?v=5N8j5E7h3yQ)               |
 | Anne Bonny & Mary Read         | [Link](https://www.bilibili.com/video/BV1bW411z7Pr)               |
 | Arash                          | [Link](https://twitter.com/mishima173/status/1026434834665594883) |
 | Arturia (Archer)               | [Link](https://www.youtube.com/watch?v=r8ycw0at3-0)               |
@@ -121,7 +123,6 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Okita (Saber)                  | [Link](https://www.youtube.com/watch?v=E4kSg76hhzY)               |
 | Penthesilea                    | [Link](https://www.bilibili.com/video/av66099252)                 |
 | Robin                          | [Link](https://www.bilibili.com/video/BV18441117Mr)               |
-| Santa Altera                   | [Link](https://www.youtube.com/watch?v=KHC6MP31Fdo)               |                    |
 | Sigurd                         | [Link](https://www.bilibili.com/video/BV1m4411C7fi)               |
 | Tomoe Gozen                    | [Link](https://www.bilibili.com/video/BV1F4411m7FS)               |
 | Tristan                        | [Link](https://www.bilibili.com/video/BV1m441117MX)               |
@@ -142,6 +143,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | MHXA                   | [Link](https://www.bilibili.com/video/av87929863)    | Solo                                                                                                                 |
 | Musashi (Berserker)    | [Link](https://b23.tv/1gloTF)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728351719712489531/unknown.png)             |
 |                        | [Link](https://b23.tv/lky0ih)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728353798388711514/unknown.png)             |
+| Oda Nobunaga (Maou)    | [Link](https://www.bilibili.com/video/BV1jT4y157G3)  | Solo
 | Orion (Superhuman)     | [Link](https://www.youtube.com/watch?v=FQWYCN0NlgI)  | Solo                                                                                                                 |
 | Xiang Yu               | [Link](https://b23.tv/xu8Jx7)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728357248191037480/unknown.png)             |
 | Chen Gong, Hijikata    | [Link](https://b23.tv/8W0pMP)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728359987381796874/unknown.png)             |
