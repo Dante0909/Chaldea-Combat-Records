@@ -91,16 +91,40 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 
 ### Saber Alter Memorial Quest
 
-| DPS Used           | Link                                                | Remarks            |
-| ------------------ | --------------------------------------------------- | ------------------ |
-| Gilgamesh (Archer) | [Link](https://www.youtube.com/watch?v=uMbyq6BwdeI) | Lvl 100 and 2k fou |
-|                    | [Link](https://www.youtube.com/watch?v=wBbK51mD9aQ) |
-| Arturia (Archer)   | [Link](https://www.youtube.com/watch?v=r8ycw0at3-0) |
-| Santa Altera       | [Link](https://www.youtube.com/watch?v=KHC6MP31Fdo) | Good Civilization  |
-| MHXA               | [Link](https://www.youtube.com/watch?v=3WXmt94wFDE) |
-|                    | [Link](https://www.youtube.com/watch?v=araIdZceb6M) |
-| Jack               | [Link](https://www.youtube.com/watch?v=hgBc8ePl4o8) |
-| MHX                | [Link](https://youtu.be/80t0M0zSiGc?t=1167)         |
+| DPS Used                       | Link                                                              | Remarks            |
+| ------------------------------ | ----------------------------------------------------------------- | ------------------ |
+| Anne Bonny & Mary Read         | [Link](https://www.bilibili.com/video/BV1bW411z7Pr)               |
+| Arash                          | [Link](https://twitter.com/mishima173/status/1026434834665594883) |
+| Arturia (Archer)               | [Link](https://www.youtube.com/watch?v=r8ycw0at3-0)               |
+| Arturia Pendragon (Maid Alter) | [Link](https://www.bilibili.com/video/BV1p441117XX)               |
+| Atalanta                       | [Link](https://www.bilibili.com/video/BV1a4411m7i1)               |
+| Atalanta (Alter)               | [Link](https://www.bilibili.com/video/BV14441127Bc)               |
+| Billy the Kid                  | [Link](https://www.bilibili.com/video/BV1z4411172e)               |
+| Carmilla (Assassin)            | [Link](https://www.bilibili.com/video/BV1w4411m7gj)               |
+| Chloe                          | [Link](https://www.bilibili.com/video/BV1HW41167FB)               |
+| Emiya (Archer)                 | [Link](https://www.bilibili.com/video/BV1h441127oT)               |
+| Fujino                         | [Link](https://www.bilibili.com/video/BV1i441127NY)               |
+| Gilgamesh (Archer)             | [Link](https://www.youtube.com/watch?v=uMbyq6BwdeI)               | Lvl 100 and 2k fou |
+| Heracles                       | [Link](https://www.bilibili.com/video/BV12441117PQ)               |
+| Hijikata                       | [Link](https://www.bilibili.com/video/BV1kW411z7bt)               |
+| Ibaraki                        | [Link](https://www.bilibili.com/video/BV1A4411C79m)               |
+| Ishtar                         | [Link](https://www.bilibili.com/video/BV1CW411U7Nv)               |
+| Jack                           | [Link](https://www.bilibili.com/video/BV1Ks41137dU)               |
+| Jack                           | [Link](https://www.youtube.com/watch?v=hgBc8ePl4o8)               |
+| Jeanne d'Arc (Alter)           | [Link](https://www.bilibili.com/video/BV16W411m79h)               |
+| Kintoki                        | [Link](https://www.bilibili.com/video/BV1wW411S7py)               |
+| Lancelot (Berserked)           | [Link](https://www.bilibili.com/video/BV1a4411y7mD)               |
+| MHX                            | [Link](https://youtu.be/80t0M0zSiGc?t=1167)                       |
+| MHXA                           | [Link](https://www.youtube.com/watch?v=araIdZceb6M)               |
+| Moriarty                       | [Link](https://www.bilibili.com/video/BV1CW411z7sC)               |
+| Napoleon                       | [Link](https://www.bilibili.com/video/av66125672)                 |
+| Okita (Saber)                  | [Link](https://www.youtube.com/watch?v=E4kSg76hhzY)               |
+| Penthesilea                    | [Link](https://www.bilibili.com/video/av66099252)                 |
+| Robin                          | [Link](https://www.bilibili.com/video/BV18441117Mr)               |
+| Santa Altera                   | [Link](https://www.youtube.com/watch?v=KHC6MP31Fdo)               |                    |
+| Sigurd                         | [Link](https://www.bilibili.com/video/BV1m4411C7fi)               |
+| Tomoe Gozen                    | [Link](https://www.bilibili.com/video/BV1F4411m7FS)               |
+| Tristan                        | [Link](https://www.bilibili.com/video/BV1m441117MX)               |
 
 ### Dantes Prison Tower
 
