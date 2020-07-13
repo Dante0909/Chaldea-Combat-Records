@@ -18,16 +18,19 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 ## Index
 
 - [Chaldea Combat Records](#chaldea-combat-records)
-
   - [Introduction](#introduction)
   - [Contributing](#contributing)
   - [Index](#index)
   - [Story Bosses](#story-bosses)
+    - [Camelot - Gawain](#camelot---gawain)
+    - [Babylonia - Quetzalcotl](#babylonia---quetzalcotl)
+    - [LB1 - Anastasia](#lb1---anastasia)
     - [LB5 Chapter 7 - Arrow 2](#lb5-chapter-7---arrow-2)
     - [LB5 Chapter 13 - Arrow 2](#lb5-chapter-13---arrow-2)
     - [LB5 Chapter 17 - Arrow 3](#lb5-chapter-17---arrow-3)
   - [Notable CQs](#notable-cqs)
     - [Saber Alter Memorial Quest](#saber-alter-memorial-quest)
+    - [Gugalanna - Bull of Heaven](#gugalanna---bull-of-heaven)
     - [Dantes Prison Tower](#dantes-prison-tower)
   - [Events](#events)
   - [2019](#2019)
@@ -42,7 +45,6 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
     - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
     - [Summer 4 Rerun](#summer-4-rerun)
-
 ## Story Bosses
 
 - Note that Hong already has solos covered for Story released in FGO NA/Global : [Link](https://www.youtube.com/playlist?list=PLVw95Imz4v-nkX-LKD6tE3NJSwGAQpyT8)
@@ -127,6 +129,35 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Tomoe Gozen                    | [Link](https://www.bilibili.com/video/BV1F4411m7FS)               |
 | Tristan                        | [Link](https://www.bilibili.com/video/BV1m441117MX)               |
 
+### Gugalanna - Bull of Heaven
+Note : All TAs are assumed to be dual core here unless mentioned otherwise due to the nature of the CQ
+| DPS Used                 | Link                                                 | Remarks     |
+| ------------------------ | ---------------------------------------------------- | ----------- |
+| Carmilla                 | [Link](https://www.bilibili.com/video/BV144411Z7ti?) |
+| Cleopatra                | [Link](https://www.bilibili.com/video/BV1Bt411Z7uv?) |
+| EMIYA (Assassin)         | [Link](https://www.bilibili.com/video/BV1H4411f7FZ?) |
+| Heracles                 | [Link](https://www.bilibili.com/video/BV184411U7Zw)  | Single Core |
+| Hijikata                 | [Link](https://www.bilibili.com/video/BV13s411H7bf)  |
+| Hokusai                  | [Link](https://www.bilibili.com/video/BV1H441197VX?) |
+| Hundred Face Hassan      | [Link](https://www.bilibili.com/video/BV1W4411Z7Yy)  |
+| Ibaraki                  | [Link](https://www.bilibili.com/video/BV1a4411Z79B)  | Single Core |
+| Jack the Ripper          | [Link](https://www.bilibili.com/video/BV1Zt411o7Zi?) |
+| Jeanne d'Arc (Alter)     | [Link](https://www.bilibili.com/video/BV1Wb411F7oT)  |
+| King Hassan              | [Link](https://www.bilibili.com/video/BV13t411Z79d)  |
+| Kintoki (Berserker)      | [Link](https://www.bilibili.com/video/BV15b411F7Qm)  | Single Core |
+| Lu Bu                    | [Link](https://www.bilibili.com/video/BV1Z4411U7TK)  |
+| Mecha Eli                | [Link](https://www.bilibili.com/video/BV1r4411U7u4)  |
+| Meltryllis               | [Link](https://www.bilibili.com/video/BV1y4411Z74g)  |
+| MHX                      | [Link](https://www.bilibili.com/video/BV1jt411Z7L7)  |
+| MHXA                     | [Link](https://www.bilibili.com/video/BV19t411d7wQ)  |
+| Musashi                  | [Link](https://www.bilibili.com/video/BV1D4411Z75Y)  |
+| Oda Nobunaga (Berserker) | [Link](https://www.bilibili.com/video/BV18b411F7FZ?) | Single Core |
+| Okita                    | [Link](https://www.bilibili.com/video/BV1j4411R7ub)  |
+| Okita (Alter)            | [Link](https://www.bilibili.com/video/BV1o4411U7dL)  |
+| Raikou                   | [Link](https://www.bilibili.com/video/BV154411f7em)  |
+| Shiki (Assassin)         | [Link](https://www.bilibili.com/video/BV1Ft411f7Jo)  |
+| Wu Zetian                | [Link](https://www.bilibili.com/video/BV1W4411f7g9)  |
+
 ### Dantes Prison Tower
 
 | DPS Used               | Link                                                 | Remarks                                                                                                              |
@@ -143,7 +174,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | MHXA                   | [Link](https://www.bilibili.com/video/av87929863)    | Solo                                                                                                                 |
 | Musashi (Berserker)    | [Link](https://b23.tv/1gloTF)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728351719712489531/unknown.png)             |
 |                        | [Link](https://b23.tv/lky0ih)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728353798388711514/unknown.png)             |
-| Oda Nobunaga (Maou)    | [Link](https://www.bilibili.com/video/BV1jT4y157G3)  | Solo
+| Oda Nobunaga (Maou)    | [Link](https://www.bilibili.com/video/BV1jT4y157G3)  | Solo                                                                                                                 |
 | Orion (Superhuman)     | [Link](https://www.youtube.com/watch?v=FQWYCN0NlgI)  | Solo                                                                                                                 |
 | Xiang Yu               | [Link](https://b23.tv/xu8Jx7)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728357248191037480/unknown.png)             |
 | Chen Gong, Hijikata    | [Link](https://b23.tv/8W0pMP)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728359987381796874/unknown.png)             |
