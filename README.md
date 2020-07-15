@@ -45,6 +45,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Apocrypha Rerun 2020](#apocrypha-rerun-2020)
     - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
     - [Summer 4 Rerun](#summer-4-rerun)
+    - [Main Interlude : SE.RA.PH CCC - Kingprotea Detour](#main-interlude--seraph-ccc---kingprotea-detour)
 ## Story Bosses
 
 - Note that Hong already has solos covered for Story released in FGO NA/Global : [Link](https://www.youtube.com/playlist?list=PLVw95Imz4v-nkX-LKD6tE3NJSwGAQpyT8)
@@ -1363,5 +1364,14 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Yang Guifei                     | [Link](https://twitter.com/chwangk/status/1276427827491946496?s=20)         |
 | Zhuge Liang                     | [Link](https://twitter.com/nagaru35/status/1277218991430225922?s=20)        |
 
+### Main Interlude : SE.RA.PH CCC - Kingprotea Detour
+| DPS Used                 | Link                                                                        | Remarks |
+| ------------------------ | --------------------------------------------------------------------------- | ------- |
+| Arjuna Alter             | [Link](https://twitter.com/SW87807148/status/1283379166058967040?s=20)      | Non NP  |
+| Ibaraki (Berserker)      | [Link](https://twitter.com/shuten1341/status/1283392834150608897?s=20)      |
+| Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1283359589375725570?s=20)    |
+| Raikou (Berserker)       | [Link](https://twitter.com/niflheimr413413/status/1283395953139961856?s=20) |
+| Xiang Yu                 | [Link](https://twitter.com/mgmg3939pnd/status/1283398554547965952?s=20)     | Non NP  |
+ 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
