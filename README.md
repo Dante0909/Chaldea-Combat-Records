@@ -160,25 +160,25 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 
 ### Dantes Prison Tower
 
-| DPS Used               | Link                                                 | Remarks                                                                                                              |
-| ---------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| Arjuna (Alter), Dantes | [Link](https://b23.tv/NXlMVq)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728355366550634686/unknown.png), Skadi NP   |
-| Astarte                | [Link](https://b23.tv/Hx2uPQ)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728360638446829687/unknown.png) |
-|                        | [Link](https://b23.tv/8pac93)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728361357920960613/unknown.png)             |
-| Cu Chulainn (Alter)    | [Link](https://www.bilibili.com/video/BV1QW411W7Pq/) | No CC, Solo                                                                                                          |
-| Dantes                 | [Link](https://www.bilibili.com/video/BV19K4y1s74p)  | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/732402908225601626/unknown.png)
-| Hokusai                | [Link](https://b23.tv/3A9YRA)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728354565690490961/unknown.png)             |
-| Kama                   | [Link](https://www.youtube.com/watch?v=k4_d_Ux8Tco)  | Solo                                                                                                                 |
-| King Hassan            | [Link](https://www.bilibili.com/video/av20664448/)   | No CC, Solo                                                                                                          |
-| Lancelot (Berserker)   | [Link](https://b23.tv/ShNo4q)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728356971895586856/unknown.png)             |
-| Merlin                 | [Link](https://www.youtube.com/watch?v=-iFp8deShKM)  | Solo, No CC                                                                                                          |
-| MHXA                   | [Link](https://www.bilibili.com/video/av87929863)    | Solo                                                                                                                 |
-| Musashi (Berserker)    | [Link](https://b23.tv/1gloTF)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728351719712489531/unknown.png)             |
-|                        | [Link](https://b23.tv/lky0ih)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728353798388711514/unknown.png)             |
-| Oda Nobunaga (Maou)    | [Link](https://www.bilibili.com/video/BV1jT4y157G3)  | Solo                                                                                                                 |
-| Orion (Superhuman)     | [Link](https://www.youtube.com/watch?v=FQWYCN0NlgI)  | Solo                                                                                                                 |
-| Xiang Yu               | [Link](https://b23.tv/xu8Jx7)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728357248191037480/unknown.png)             |
-| Chen Gong, Hijikata    | [Link](https://b23.tv/8W0pMP)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728359987381796874/unknown.png)             |
+| DPS Used               | Link                                                 | Remarks                                                                                                            |
+| ---------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Arjuna (Alter), Dantes | [Link](https://b23.tv/NXlMVq)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728355366550634686/unknown.png), Skadi NP |
+| Astarte                | [Link](https://b23.tv/Hx2uPQ)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728360638446829687/unknown.png)           |
+|                        | [Link](https://b23.tv/8pac93)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728361357920960613/unknown.png)           |
+| Cu Chulainn (Alter)    | [Link](https://www.bilibili.com/video/BV1QW411W7Pq/) | No CC, Solo                                                                                                        |
+| Dantes                 | [Link](https://www.bilibili.com/video/BV19K4y1s74p)  | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/732402908225601626/unknown.png)           |
+| Hokusai                | [Link](https://b23.tv/3A9YRA)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728354565690490961/unknown.png)           |
+| Kama                   | [Link](https://www.youtube.com/watch?v=k4_d_Ux8Tco)  | Solo                                                                                                               |
+| King Hassan            | [Link](https://www.bilibili.com/video/av20664448/)   | No CC, Solo                                                                                                        |
+| Lancelot (Berserker)   | [Link](https://b23.tv/ShNo4q)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728356971895586856/unknown.png)           |
+| Merlin                 | [Link](https://www.youtube.com/watch?v=-iFp8deShKM)  | Solo, No CC                                                                                                        |
+| MHXA                   | [Link](https://www.bilibili.com/video/av87929863)    | Solo                                                                                                               |
+| Musashi (Berserker)    | [Link](https://b23.tv/1gloTF)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728351719712489531/unknown.png)           |
+|                        | [Link](https://b23.tv/lky0ih)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728353798388711514/unknown.png)           |
+| Oda Nobunaga (Maou)    | [Link](https://www.bilibili.com/video/BV1jT4y157G3)  | Solo                                                                                                               |
+| Orion (Superhuman)     | [Link](https://www.youtube.com/watch?v=FQWYCN0NlgI)  | Solo                                                                                                               |
+| Xiang Yu               | [Link](https://b23.tv/xu8Jx7)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728357248191037480/unknown.png)           |
+| Chen Gong, Hijikata    | [Link](https://b23.tv/8W0pMP)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728359987381796874/unknown.png)           |
 
 ## Events
 
@@ -1365,13 +1365,18 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Zhuge Liang                     | [Link](https://twitter.com/nagaru35/status/1277218991430225922?s=20)        |
 
 ### Main Interlude : SE.RA.PH CCC - Kingprotea Detour
-| DPS Used                 | Link                                                                        | Remarks |
-| ------------------------ | --------------------------------------------------------------------------- | ------- |
-| Arjuna Alter             | [Link](https://twitter.com/SW87807148/status/1283379166058967040?s=20)      | Non NP  |
+| DPS Used                 | Link                                                                        | Remarks      |
+| ------------------------ | --------------------------------------------------------------------------- | ------------ |
+| Arjuna Alter             | [Link](https://twitter.com/SW87807148/status/1283379166058967040?s=20)      | Non NP       |
+| Hijikata                 | [Link](https://twitter.com/Aloha258_master/status/1283414466571329537?s=20) |
 | Ibaraki (Berserker)      | [Link](https://twitter.com/shuten1341/status/1283392834150608897?s=20)      |
+| Kama                     | [Link](https://twitter.com/meteordive_FGO/status/1283411142572793856?s=20)  |
+| Lancelot (Berserker)     | [Link](https://twitter.com/nmnppp/status/1283406936898072576?s=20)          | Non NP       |
 | Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1283359589375725570?s=20)    |
 | Raikou (Berserker)       | [Link](https://twitter.com/niflheimr413413/status/1283395953139961856?s=20) |
-| Xiang Yu                 | [Link](https://twitter.com/mgmg3939pnd/status/1283398554547965952?s=20)     | Non NP  |
+| Scathach                 | [Link](https://twitter.com/gameover_fate/status/1283362240251351040?s=20)   |
+| Xiang Yu                 | [Link](https://twitter.com/mgmg3939pnd/status/1283398554547965952?s=20)     | Non NP       |
+|                          | [Link](https://twitter.com/Kag_Tam/status/1283406245827719168?s=20)         | NoCE, Non NP |
  
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
