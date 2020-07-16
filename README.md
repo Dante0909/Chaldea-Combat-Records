@@ -1369,6 +1369,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | ------------------------------- | --------------------------------------------------------------------------- | ------------------------- |
 | Arjuna Alter                    | [Link](https://twitter.com/SW87807148/status/1283379166058967040?s=20)      | Non NP                    |
 |                                 | [Link](https://twitter.com/fgo38195272/status/1283647171326119938?s=20)     | No CE on Supports, Non NP |
+|                                 | [Link](https://twitter.com/buenabisutafgo/status/1283749941362356236?s=20)  | NoCE on DPS, Non NP       |
 | Beowulf                         | [Link](https://twitter.com/Hibari31/status/1283715939519758336?s=20)        |
 | Bunyan                          | [Link](https://twitter.com/756xyz/status/1283729629061120000?s=20)          |
 | Cu Chulainn (Alter)             | [Link](https://twitter.com/warfare_Holic/status/1283731607589761024?s=20)   |
@@ -1386,6 +1387,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Orion (Superhuman)              | [Link](https://twitter.com/buenabisutafgo/status/1283444785823404032?s=20)  | Non NP                    |
 | Ozymandias                      | [Link](https://twitter.com/yurNOR_fusion/status/1283699266435735553?s=20)   |
 | Raikou (Berserker)              | [Link](https://twitter.com/niflheimr413413/status/1283395953139961856?s=20) |
+|                                 | [Link](https://twitter.com/neo_lex0403/status/1283776479382220800?s=20)     | NoSwap, Non NP            |
 | Scathach                        | [Link](https://twitter.com/gameover_fate/status/1283362240251351040?s=20)   |
 | Xiang Yu                        | [Link](https://twitter.com/mgmg3939pnd/status/1283398554547965952?s=20)     | Non NP                    |
 |                                 | [Link](https://twitter.com/Kag_Tam/status/1283406245827719168?s=20)         | NoCE, Non NP              |
