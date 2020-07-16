@@ -1368,10 +1368,14 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | DPS Used                 | Link                                                                        | Remarks      |
 | ------------------------ | --------------------------------------------------------------------------- | ------------ |
 | Arjuna Alter             | [Link](https://twitter.com/SW87807148/status/1283379166058967040?s=20)      | Non NP       |
+| Heracles                 | [Link](https://twitter.com/GenmaiPro/status/1283444658241069056?s=20)       |
 | Hijikata                 | [Link](https://twitter.com/Aloha258_master/status/1283414466571329537?s=20) |
 | Ibaraki (Berserker)      | [Link](https://twitter.com/shuten1341/status/1283392834150608897?s=20)      |
 | Kama                     | [Link](https://twitter.com/meteordive_FGO/status/1283411142572793856?s=20)  |
 | Lancelot (Berserker)     | [Link](https://twitter.com/nmnppp/status/1283406936898072576?s=20)          | Non NP       |
+| Martha (Ruler)           | [Link](https://twitter.com/otkznr/status/1283440000659419137?s=20)          |
+| MHXA                     | [Link](https://www.youtube.com/watch?v=ROyYKxg0xuk&feature=youtu.be)        |
+| Musashi (Berserker)      | [Link](https://twitter.com/ShotkAnime/status/1283507509748133889?s=20)      |
 | Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1283359589375725570?s=20)    |
 | Raikou (Berserker)       | [Link](https://twitter.com/niflheimr413413/status/1283395953139961856?s=20) |
 | Scathach                 | [Link](https://twitter.com/gameover_fate/status/1283362240251351040?s=20)   |
