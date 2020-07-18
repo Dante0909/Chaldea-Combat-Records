@@ -1410,6 +1410,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Oda Nobunaga       | [Link](https://twitter.com/snowdroptree/status/1284471550276587520?s=20)  | HHWO                     |
 | Orion (Superhuman) | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)   | HHWO                     |
 | Romulus=Qurinus    | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)   | HHWO                     |
+| Sitonai            | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)       |
 | Yang Guifei        | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)  | DB                       |
 
 
