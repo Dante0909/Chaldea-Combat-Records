@@ -1403,8 +1403,9 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Kama               | [Link](https://twitter.com/2_5_dimension/status/1284484005862109190?s=20) | DB                       |
 |                    | [Link](https://twitter.com/2_5_dimension/status/1284450951173033986?s=20) | HHWO                     |
 | King Hassan        | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)   | HHWO                     |
-| Meltryllis         | [Link](https://twitter.com/DrgnWgt/status/1284526788186537984?s=20)       | DB
+| Meltryllis         | [Link](https://twitter.com/DrgnWgt/status/1284526788186537984?s=20)       | DB                       |
 |                    | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)        | DB, Dual Core with Orion |
+|                    | [Link](https://twitter.com/Peperon8310/status/1284541056562819072?s=20)   | HHWO                     |
 | Musashi            | [Link](https://twitter.com/UForeigner634/status/1284507847749849090?s=20) | HHWO                     |
 | Oda Nobunaga       | [Link](https://twitter.com/snowdroptree/status/1284471550276587520?s=20)  | HHWO                     |
 | Orion (Superhuman) | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)   | HHWO                     |
