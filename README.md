@@ -1400,6 +1400,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | ------------------ | ------------------------------------------------------------------------- | ------------------------ |
 | Astarte            | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)  | HHWO                     |
 | Gawain             | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20) | HHWO                     |
+| Jack the Ripper    | [Link](https://twitter.com/myc_1228/status/1284542610707640320?s=20)      | DB                       |
 | Kama               | [Link](https://twitter.com/2_5_dimension/status/1284484005862109190?s=20) | DB                       |
 |                    | [Link](https://twitter.com/2_5_dimension/status/1284450951173033986?s=20) | HHWO                     |
 | King Hassan        | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)   | HHWO                     |
