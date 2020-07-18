@@ -46,6 +46,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
     - [Summer 4 Rerun](#summer-4-rerun)
     - [Main Interlude : SE.RA.PH CCC - Kingprotea Detour](#main-interlude--seraph-ccc---kingprotea-detour)
+    - [Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva / Heaven's Hole (Whip Only)](#main-interlude--seraph-ccc-finale---demonic-boddhisattva--heavens-hole-whip-only)
 ## Story Bosses
 
 - Note that Hong already has solos covered for Story released in FGO NA/Global : [Link](https://www.youtube.com/playlist?list=PLVw95Imz4v-nkX-LKD6tE3NJSwGAQpyT8)
@@ -1370,10 +1371,12 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Arjuna Alter                    | [Link](https://twitter.com/SW87807148/status/1283379166058967040?s=20)      | Non NP                    |
 |                                 | [Link](https://twitter.com/fgo38195272/status/1283647171326119938?s=20)     | No CE on Supports, Non NP |
 |                                 | [Link](https://twitter.com/buenabisutafgo/status/1283749941362356236?s=20)  | NoCE on DPS, Non NP       |
+|                                 | [Link](https://twitter.com/fgo38195272/status/1284112858351984640?s=20)     | NoCE on Supports, NoSwap  |
 | Beowulf                         | [Link](https://twitter.com/Hibari31/status/1283715939519758336?s=20)        |
 | Bunyan                          | [Link](https://twitter.com/756xyz/status/1283729629061120000?s=20)          |
 | Cu Chulainn (Alter)             | [Link](https://twitter.com/warfare_Holic/status/1283731607589761024?s=20)   |
 | Heracles                        | [Link](https://twitter.com/GenmaiPro/status/1283444658241069056?s=20)       |
+|                                 | [Link](https://twitter.com/fuwa_rai/status/1284084200191094784?s=20)        | noCE on DPS               |
 | Hijikata                        | [Link](https://twitter.com/Aloha258_master/status/1283414466571329537?s=20) |
 | Ibaraki (Berserker)             | [Link](https://twitter.com/shuten1341/status/1283392834150608897?s=20)      |
 | Jeanne d'Arc (Alter, Berserker) | [Link](https://twitter.com/Miyabi_fgo_/status/1283630047513866241?s=20)     |
@@ -1392,5 +1395,18 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Xiang Yu                        | [Link](https://twitter.com/mgmg3939pnd/status/1283398554547965952?s=20)     | Non NP                    |
 |                                 | [Link](https://twitter.com/Kag_Tam/status/1283406245827719168?s=20)         | NoCE, Non NP              |
  
+### Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva / Heaven's Hole (Whip Only) 
+| DPS Used           | Link                                                                      | Remarks                  |
+| ------------------ | ------------------------------------------------------------------------- | ------------------------ |
+| Astarte            | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)  | HHWO                     |
+| Kama               | [Link](https://twitter.com/2_5_dimension/status/1284484005862109190?s=20) | DB                       |
+|                    | [Link](https://twitter.com/2_5_dimension/status/1284450951173033986?s=20) | HHWO                     |
+| King Hassan        | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)   | HHWO                     |
+| Meltryllis         | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)        | DB, Dual Core with Orion |
+| Oda Nobunaga       | [Link](https://twitter.com/snowdroptree/status/1284471550276587520?s=20)  | HHWO                     |
+| Orion (Superhuman) | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)   | HHWO                     |
+| Romulus=Qurinus    | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)   | HHWO                     |
+
+
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
