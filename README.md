@@ -46,7 +46,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
     - [Summer 4 Rerun](#summer-4-rerun)
     - [Main Interlude : SE.RA.PH CCC - Kingprotea Detour](#main-interlude--seraph-ccc---kingprotea-detour)
-    - [Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva / Heaven's Hole (Whip Only)](#main-interlude--seraph-ccc-finale---demonic-boddhisattva--heavens-hole-whip-only)
+    - [Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva [DB] / Heaven's Hole (Whip Only) [HHWO]](#main-interlude--seraph-ccc-finale---demonic-boddhisattva-db--heavens-hole-whip-only-hhwo)
 ## Story Bosses
 
 - Note that Hong already has solos covered for Story released in FGO NA/Global : [Link](https://www.youtube.com/playlist?list=PLVw95Imz4v-nkX-LKD6tE3NJSwGAQpyT8)
@@ -1395,17 +1395,20 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Xiang Yu                        | [Link](https://twitter.com/mgmg3939pnd/status/1283398554547965952?s=20)     | Non NP                    |
 |                                 | [Link](https://twitter.com/Kag_Tam/status/1283406245827719168?s=20)         | NoCE, Non NP              |
  
-### Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva / Heaven's Hole (Whip Only) 
+### Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva [DB] / Heaven's Hole (Whip Only) [HHWO]
 | DPS Used           | Link                                                                      | Remarks                  |
 | ------------------ | ------------------------------------------------------------------------- | ------------------------ |
 | Astarte            | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)  | HHWO                     |
+| Gawain             | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20) | HHWO                     |
 | Kama               | [Link](https://twitter.com/2_5_dimension/status/1284484005862109190?s=20) | DB                       |
 |                    | [Link](https://twitter.com/2_5_dimension/status/1284450951173033986?s=20) | HHWO                     |
 | King Hassan        | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)   | HHWO                     |
 | Meltryllis         | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)        | DB, Dual Core with Orion |
+| Musashi            | [Link](https://twitter.com/UForeigner634/status/1284507847749849090?s=20) | HHWO                     |
 | Oda Nobunaga       | [Link](https://twitter.com/snowdroptree/status/1284471550276587520?s=20)  | HHWO                     |
 | Orion (Superhuman) | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)   | HHWO                     |
 | Romulus=Qurinus    | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)   | HHWO                     |
+| Yang Guifei        | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)  | DB                       |
 
 
 - All videos linked in this repo are the properties of their owners.
