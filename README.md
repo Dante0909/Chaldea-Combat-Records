@@ -1396,28 +1396,31 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                 | [Link](https://twitter.com/Kag_Tam/status/1283406245827719168?s=20)         | NoCE, Non NP              |
  
 ### Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva [DB] / Heaven's Hole (Whip Only) [HHWO]
-| DPS Used            | Link                                                                      | Remarks                  |
-| ------------------- | ------------------------------------------------------------------------- | ------------------------ |
-| Astarte             | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)  | HHWO                     |
-| Astraea             | [Link](https://www.bilibili.com/video/BV1H54y1S75f)                       | DB                       |
-| Caesar              | [Link](https://twitter.com/snowdroptree/status/1284577803325726721?s=20)  | HHWO                     |
-| Fujino Asagami      | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)    | HHWO                     |
-| Gawain              | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20) | HHWO                     |
-| Hessian Lobo        | [Link](https://twitter.com/kitakitasnas/status/1284664238896644097?s=20)  | DB                       |
-| Jack the Ripper     | [Link](https://twitter.com/myc_1228/status/1284542610707640320?s=20)      | DB                       |
-| Kama                | [Link](https://www.bilibili.com/video/BV1Z54y1U7er)                       | DB                       |
-|                     | [Link](https://twitter.com/2_5_dimension/status/1284450951173033986?s=20) | HHWO                     |
-| King Hassan         | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)   | HHWO                     |
-| Meltryllis          | [Link](https://twitter.com/DrgnWgt/status/1284526788186537984?s=20)       | DB                       |
-|                     | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)        | DB, Dual Core with Orion |
-|                     | [Link](https://twitter.com/Peperon8310/status/1284541056562819072?s=20)   | HHWO                     |
-| Musashi (Berserker) | [Link](https://twitter.com/ShotkAnime/status/1284622754067562496?s=20)    | HHWO                     |
-| Musashi (Saber)     | [Link](https://twitter.com/UForeigner634/status/1284507847749849090?s=20) | HHWO                     |
-| Oda Nobunaga        | [Link](https://twitter.com/snowdroptree/status/1284471550276587520?s=20)  | HHWO                     |
-| Orion (Superhuman)  | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)   | HHWO                     |
-| Romulus=Qurinus     | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)   | HHWO                     |
-| Sitonai             | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)       | DB                       |
-| Yang Guifei         | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)  | DB                       |
+| DPS Used            | Link                                                                       | Remarks                  |
+| ------------------- | -------------------------------------------------------------------------- | ------------------------ |
+| Arjuna (Alter)      | [Link](https://twitter.com/NuuuuuN0704/status/1284712848992563200?s=20)    | NoCE, HHWO               |
+| Astarte             | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)   | HHWO                     |
+| Astraea             | [Link](https://www.bilibili.com/video/BV1H54y1S75f)                        | DB                       |
+| Caesar              | [Link](https://twitter.com/snowdroptree/status/1284577803325726721?s=20)   | HHWO                     |
+| Fujino Asagami      | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)     | HHWO                     |
+| Gawain              | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)  | HHWO                     |
+| Hessian Lobo        | [Link](https://twitter.com/kitakitasnas/status/1284664238896644097?s=20)   | DB                       |
+| Jack the Ripper     | [Link](https://twitter.com/myc_1228/status/1284542610707640320?s=20)       | DB                       |
+| Kama                | [Link](https://www.bilibili.com/video/BV1Z54y1U7er)                        | DB                       |
+|                     | [Link](https://twitter.com/2_5_dimension/status/1284450951173033986?s=20)  | HHWO                     |
+| King Hassan         | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)    | HHWO                     |
+| Meltryllis          | [Link](https://twitter.com/DrgnWgt/status/1284526788186537984?s=20)        | DB                       |
+|                     | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)         | DB, Dual Core with Orion |
+|                     | [Link](https://twitter.com/Peperon8310/status/1284541056562819072?s=20)    | HHWO                     |
+| Musashi (Berserker) | [Link](https://twitter.com/ShotkAnime/status/1284622754067562496?s=20)     | HHWO                     |
+| Musashi (Saber)     | [Link](https://twitter.com/UForeigner634/status/1284507847749849090?s=20)  | HHWO                     |
+| Oda Nobunaga        | [Link](https://twitter.com/snowdroptree/status/1284471550276587520?s=20)   | HHWO                     |
+| Orion (Superhuman)  | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)    | HHWO                     |
+|                     | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20) | DB                       |
+| Romulus=Qurinus     | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)    | HHWO                     |
+| Sitonai             | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)        | DB                       |
+| Voyager             | [Link](https://twitter.com/fgosyukai1/status/1284705568569962502?s=20)     |
+| Yang Guifei         | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)   | DB                       |
 
 
 - All videos linked in this repo are the properties of their owners.
