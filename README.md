@@ -1403,6 +1403,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Astraea             | [Link](https://www.bilibili.com/video/BV1H54y1S75f)                        | DB                       |
 |                     | [Link](https://twitter.com/Chinquepig/status/1284751373939007488?s=20)     | HHWO, NoSwap             |
 | Caesar              | [Link](https://twitter.com/snowdroptree/status/1284577803325726721?s=20)   | HHWO                     |
+| Dioscuri            | [Link](https://twitter.com/Herakles_osi/status/1284834521368735748?s=20)   | DB                       |
 | Fujino Asagami      | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)     | HHWO                     |
 | Gawain              | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)  | HHWO                     |
 | Hessian Lobo        | [Link](https://twitter.com/kitakitasnas/status/1284664238896644097?s=20)   | DB                       |
@@ -1418,15 +1419,17 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                     | [Link](https://twitter.com/2_5_dimension/status/1284769616078626816?s=20)  | NoSwap, HHWO             |
 | MHXA                | [Link](https://twitter.com/NAO42010/status/1284739009265020928?s=20)       | DB                       |
 |                     | [Link](https://www.youtube.com/watch?v=l5Ryej_64Ew&feature=youtu.be)       | HHWO                     |
+| Mori Nagayoshi      | [Link](https://twitter.com/nmnppp/status/1284823461756428288?s=20)         | HHWO                     |
 | Musashi (Berserker) | [Link](https://twitter.com/ShotkAnime/status/1284622754067562496?s=20)     | HHWO                     |
 | Musashi (Saber)     | [Link](https://twitter.com/UForeigner634/status/1284507847749849090?s=20)  | HHWO                     |
 | Oda Nobunaga        | [Link](https://twitter.com/snowdroptree/status/1284471550276587520?s=20)   | HHWO                     |
+| Okita Alter         | [Link](https://twitter.com/myc_1228/status/1284792808105111552?s=20)       | HHWO                     |
 | Orion (Superhuman)  | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)    | HHWO                     |
 |                     | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20) | DB                       |
 | Romulus=Qurinus     | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)    | HHWO                     |
 | Sitonai             | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)        | DB                       |
 |                     | [Link](https://twitter.com/X0_BR/status/1284600849226850304?s=20)          | HHWO                     |
-| Voyager             | [Link](https://twitter.com/fgosyukai1/status/1284705568569962502?s=20)     |
+| Voyager             | [Link](https://twitter.com/fgosyukai1/status/1284705568569962502?s=20)     | HHWO                     |
 | Yang Guifei         | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)   | DB                       |
 
 
