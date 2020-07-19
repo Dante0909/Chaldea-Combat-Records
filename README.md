@@ -1420,6 +1420,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                     | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20) | DB                       |
 | Romulus=Qurinus     | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)    | HHWO                     |
 | Sitonai             | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)        | DB                       |
+|                     | [Link](https://twitter.com/X0_BR/status/1284600849226850304?s=20)          | HHWO                     |
 | Voyager             | [Link](https://twitter.com/fgosyukai1/status/1284705568569962502?s=20)     |
 | Yang Guifei         | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)   | DB                       |
 
