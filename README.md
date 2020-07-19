@@ -1401,6 +1401,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Arjuna (Alter)      | [Link](https://twitter.com/NuuuuuN0704/status/1284712848992563200?s=20)    | NoCE, HHWO               |
 | Astarte             | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)   | HHWO                     |
 | Astraea             | [Link](https://www.bilibili.com/video/BV1H54y1S75f)                        | DB                       |
+|                     | [Link](https://twitter.com/Chinquepig/status/1284751373939007488?s=20)     | HHWO, NoSwap             |
 | Caesar              | [Link](https://twitter.com/snowdroptree/status/1284577803325726721?s=20)   | HHWO                     |
 | Fujino Asagami      | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)     | HHWO                     |
 | Gawain              | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)  | HHWO                     |
@@ -1414,6 +1415,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                     | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)         | DB, Dual Core with Orion |
 |                     | [Link](https://twitter.com/Peperon8310/status/1284541056562819072?s=20)    | HHWO                     |
 |                     | [Link](https://twitter.com/2_5_dimension/status/1284736213572698112?s=20)  | NoCE, HHWO               |
+|                     | [Link](https://twitter.com/2_5_dimension/status/1284769616078626816?s=20)  | NoSwap, HHWO             |
 | MHXA                | [Link](https://twitter.com/NAO42010/status/1284739009265020928?s=20)       | DB                       |
 | Musashi (Berserker) | [Link](https://twitter.com/ShotkAnime/status/1284622754067562496?s=20)     | HHWO                     |
 | Musashi (Saber)     | [Link](https://twitter.com/UForeigner634/status/1284507847749849090?s=20)  | HHWO                     |
