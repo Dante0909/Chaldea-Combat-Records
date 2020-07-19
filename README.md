@@ -1423,12 +1423,13 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Mori Nagayoshi       | [Link](https://twitter.com/nmnppp/status/1284823461756428288?s=20)         | HHWO                           |
 | Musashi (Berserker)  | [Link](https://twitter.com/ShotkAnime/status/1284622754067562496?s=20)     | HHWO                           |
 | Musashi (Saber)      | [Link](https://twitter.com/UForeigner634/status/1284507847749849090?s=20)  | HHWO                           |
+| Nero (Bride)         | [Link](https://twitter.com/mishima173/status/1284888791090511873?s=20)     | DB                             |
 | Oda Nobunaga         | [Link](https://twitter.com/snowdroptree/status/1284471550276587520?s=20)   | HHWO                           |
 | Okita Alter          | [Link](https://twitter.com/myc_1228/status/1284792808105111552?s=20)       | HHWO                           |
 | Orion (Superhuman)   | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)    | HHWO                           |
 |                      | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20) | DB                             |
 |                      | [Link](https://twitter.com/fgo38195272/status/1284868027628941313?s=20)    | HHWO, NoSwap, NoCE on Supports |
-| Penthesilea          | [Link](https://twitter.com/EdaFgo/status/1284865465672597505?s=20)         |
+| Penthesilea          | [Link](https://twitter.com/EdaFgo/status/1284865465672597505?s=20)         | HHWO
 | Romulus=Qurinus      | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)    | HHWO                           |
 | Sitonai              | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)        | DB                             |
 |                      | [Link](https://twitter.com/X0_BR/status/1284600849226850304?s=20)          | HHWO                           |
