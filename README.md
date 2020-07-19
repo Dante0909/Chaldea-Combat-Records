@@ -1399,8 +1399,9 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | DPS Used            | Link                                                                      | Remarks                  |
 | ------------------- | ------------------------------------------------------------------------- | ------------------------ |
 | Astarte             | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)  | HHWO                     |
-| Astraea             | [Link](https://www.bilibili.com/video/BV1H54y1S75f)                       | DB
+| Astraea             | [Link](https://www.bilibili.com/video/BV1H54y1S75f)                       | DB                       |
 | Caesar              | [Link](https://twitter.com/snowdroptree/status/1284577803325726721?s=20)  | HHWO                     |
+| Fujino Asagami      | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)    | HHWO                     |
 | Gawain              | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20) | HHWO                     |
 | Hessian Lobo        | [Link](https://twitter.com/kitakitasnas/status/1284664238896644097?s=20)  | DB                       |
 | Jack the Ripper     | [Link](https://twitter.com/myc_1228/status/1284542610707640320?s=20)      | DB                       |
