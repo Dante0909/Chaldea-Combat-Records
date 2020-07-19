@@ -122,6 +122,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Lancelot (Berserked)           | [Link](https://www.bilibili.com/video/BV1a4411y7mD)               |
 | MHX                            | [Link](https://youtu.be/80t0M0zSiGc?t=1167)                       |
 | MHXA                           | [Link](https://www.youtube.com/watch?v=araIdZceb6M)               |
+|                                | [Link](https://www.bilibili.com/video/BV1k441127na)               | NP1 DPS            |
 | Moriarty                       | [Link](https://www.bilibili.com/video/BV1CW411z7sC)               |
 | Napoleon                       | [Link](https://www.bilibili.com/video/av66125672)                 |
 | Okita (Saber)                  | [Link](https://www.youtube.com/watch?v=E4kSg76hhzY)               |
@@ -1429,7 +1430,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Orion (Superhuman)   | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)    | HHWO                           |
 |                      | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20) | DB                             |
 |                      | [Link](https://twitter.com/fgo38195272/status/1284868027628941313?s=20)    | HHWO, NoSwap, NoCE on Supports |
-| Penthesilea          | [Link](https://twitter.com/EdaFgo/status/1284865465672597505?s=20)         | HHWO
+| Penthesilea          | [Link](https://twitter.com/EdaFgo/status/1284865465672597505?s=20)         | HHWO                           |
 | Romulus=Qurinus      | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)    | HHWO                           |
 | Sitonai              | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)        | DB                             |
 |                      | [Link](https://twitter.com/X0_BR/status/1284600849226850304?s=20)          | HHWO                           |
