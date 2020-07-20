@@ -1408,9 +1408,10 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Fujino Asagami       | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)     | HHWO                           |
 | Gawain               | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)  | HHWO                           |
 | Hessian Lobo         | [Link](https://twitter.com/kitakitasnas/status/1284664238896644097?s=20)   | DB                             |
+| Ibaraki Douji        | [Link](https://twitter.com/snowdroptree/status/1285239226062172167?s=20)   | HHWO                           |
 | Jack the Ripper      | [Link](https://twitter.com/myc_1228/status/1284542610707640320?s=20)       | DB                             |
 |                      | [Link](https://twitter.com/Violet_g612/status/1284727481551839238?s=20)    | HHWO                           |
-| Jeanne d'Arc (Alter) | [Link](https://twitter.com/myc_1228/status/1284848548891070465?s=20)       |
+| Jeanne d'Arc (Alter) | [Link](https://twitter.com/myc_1228/status/1284848548891070465?s=20)       | HHWO
 | Kama                 | [Link](https://www.bilibili.com/video/BV1Z54y1U7er)                        | DB                             |
 |                      | [Link](https://twitter.com/2_5_dimension/status/1284450951173033986?s=20)  | HHWO                           |
 | King Hassan          | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)    | HHWO                           |
