@@ -1414,6 +1414,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Kama                 | [Link](https://www.bilibili.com/video/BV1Z54y1U7er)                        | DB                             |
 |                      | [Link](https://twitter.com/2_5_dimension/status/1284450951173033986?s=20)  | HHWO                           |
 | King Hassan          | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)    | HHWO                           |
+| Li SHuwen (Assassin) | [Link](https://twitter.com/kitakitasnas/status/1285222462783844353?s=20)   | HHWO                           |
 | Meltryllis           | [Link](https://twitter.com/DrgnWgt/status/1284526788186537984?s=20)        | DB                             |
 |                      | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)         | DB, Dual Core with Orion       |
 |                      | [Link](https://twitter.com/Peperon8310/status/1284541056562819072?s=20)    | HHWO                           |
