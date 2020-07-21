@@ -1406,12 +1406,15 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Astraea                  | [Link](https://www.bilibili.com/video/BV1H54y1S75f)                         | DB                             |
 |                          | [Link](https://twitter.com/Chinquepig/status/1284751373939007488?s=20)      | HHWO, NoSwap                   |
 | Caesar                   | [Link](https://twitter.com/snowdroptree/status/1284577803325726721?s=20)    | HHWO                           |
+| Dantes                   | [Link](https://twitter.com/sjtakgmmt/status/1285519968709144578?s=20)       | HHWO                           |
 | Dioscuri                 | [Link](https://twitter.com/Herakles_osi/status/1284834521368735748?s=20)    | DB                             |
 | Fujino Asagami           | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)      | HHWO                           |
 | Gawain                   | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)   | HHWO                           |
+| Gilgamesh                | [Link](https://twitter.com/otkznr/status/1285546927409393665?s=20)          | HHWO                           |
 | Hessian Lobo             | [Link](https://twitter.com/kitakitasnas/status/1284664238896644097?s=20)    | DB                             |
 | Ibaraki Douji            | [Link](https://twitter.com/snowdroptree/status/1285239226062172167?s=20)    | HHWO                           |
 | Ishtar (Archer)          | [Link](https://twitter.com/Gfnm1VRurkqSZxK/status/1285271366405505024?s=20) | HHWO                           |
+| Ishtar (Rider)           | [Link](https://twitter.com/kuronoiparoma/status/1285592995216027648?s=20)   | HHWO                           |
 | Jack the Ripper          | [Link](https://twitter.com/myc_1228/status/1284542610707640320?s=20)        | DB                             |
 |                          | [Link](https://twitter.com/Violet_g612/status/1284727481551839238?s=20)     | HHWO                           |
 | Jeanne d'Arc (Alter)     | [Link](https://twitter.com/myc_1228/status/1284848548891070465?s=20)        | HHWO                           |
