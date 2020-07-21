@@ -1397,50 +1397,53 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                 | [Link](https://twitter.com/Kag_Tam/status/1283406245827719168?s=20)         | NoCE, Non NP              |
  
 ### Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva [DB] / Heaven's Hole (Whip Only) [HHWO]
-| DPS Used             | Link                                                                       | Remarks                        |
-| -------------------- | -------------------------------------------------------------------------- | ------------------------------ |
-| Arjuna (Alter)       | [Link](https://twitter.com/NuuuuuN0704/status/1284712848992563200?s=20)    | NoCE, HHWO                     |
-| Astarte              | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)   | HHWO                           |
-| Astraea              | [Link](https://www.bilibili.com/video/BV1H54y1S75f)                        | DB                             |
-|                      | [Link](https://twitter.com/Chinquepig/status/1284751373939007488?s=20)     | HHWO, NoSwap                   |
-| Caesar               | [Link](https://twitter.com/snowdroptree/status/1284577803325726721?s=20)   | HHWO                           |
-| Dioscuri             | [Link](https://twitter.com/Herakles_osi/status/1284834521368735748?s=20)   | DB                             |
-| Fujino Asagami       | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)     | HHWO                           |
-| Gawain               | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)  | HHWO                           |
-| Hessian Lobo         | [Link](https://twitter.com/kitakitasnas/status/1284664238896644097?s=20)   | DB                             |
-| Ibaraki Douji        | [Link](https://twitter.com/snowdroptree/status/1285239226062172167?s=20)   | HHWO                           |
-| Jack the Ripper      | [Link](https://twitter.com/myc_1228/status/1284542610707640320?s=20)       | DB                             |
-|                      | [Link](https://twitter.com/Violet_g612/status/1284727481551839238?s=20)    | HHWO                           |
-| Jeanne d'Arc (Alter) | [Link](https://twitter.com/myc_1228/status/1284848548891070465?s=20)       | HHWO
-| Kama                 | [Link](https://www.bilibili.com/video/BV1Z54y1U7er)                        | DB                             |
-|                      | [Link](https://twitter.com/2_5_dimension/status/1284450951173033986?s=20)  | HHWO                           |
-| King Hassan          | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)    | HHWO                           |
-| Li SHuwen (Assassin) | [Link](https://twitter.com/kitakitasnas/status/1285222462783844353?s=20)   | HHWO                           |
-| Meltryllis           | [Link](https://twitter.com/DrgnWgt/status/1284526788186537984?s=20)        | DB                             |
-|                      | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)         | DB, Dual Core with Orion       |
-|                      | [Link](https://twitter.com/Peperon8310/status/1284541056562819072?s=20)    | HHWO                           |
-|                      | [Link](https://twitter.com/2_5_dimension/status/1284736213572698112?s=20)  | NoCE, HHWO                     |
-|                      | [Link](https://twitter.com/2_5_dimension/status/1284769616078626816?s=20)  | NoSwap, HHWO                   |
-| MHXA                 | [Link](https://twitter.com/NAO42010/status/1284739009265020928?s=20)       | DB                             |
-|                      | [Link](https://www.youtube.com/watch?v=l5Ryej_64Ew&feature=youtu.be)       | HHWO                           |
-| Mori Nagayoshi       | [Link](https://twitter.com/nmnppp/status/1284823461756428288?s=20)         | HHWO                           |
-| Musashi (Berserker)  | [Link](https://twitter.com/ShotkAnime/status/1284622754067562496?s=20)     | HHWO                           |
-| Musashi (Saber)      | [Link](https://twitter.com/UForeigner634/status/1284507847749849090?s=20)  | HHWO                           |
-| Nero (Bride)         | [Link](https://twitter.com/mishima173/status/1284888791090511873?s=20)     | DB                             |
-| Oda Nobunaga         | [Link](https://twitter.com/snowdroptree/status/1284471550276587520?s=20)   | HHWO                           |
-| Okita (Saber)        | [Link](https://twitter.com/yychem/status/1285221485959733249)              | DB                             |
-| Okita Alter          | [Link](https://twitter.com/myc_1228/status/1284792808105111552?s=20)       | HHWO                           |
-| Orion (Superhuman)   | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)    | HHWO                           |
-|                      | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20) | DB                             |
-|                      | [Link](https://twitter.com/fgo38195272/status/1284868027628941313?s=20)    | HHWO, NoSwap, NoCE on Supports |
-| Penthesilea          | [Link](https://twitter.com/EdaFgo/status/1284865465672597505?s=20)         | HHWO                           |
-| Raikou               | [Link](https://twitter.com/1syuten2syefi/status/1285045399275753472?s=20)  | NoNP, HHWO                     |
-| Romulus=Qurinus      | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)    | HHWO                           |
-| Scathach             | [Link](https://twitter.com/gameover_fate/status/1285231771416588288?s=20)  | DB                             |
-| Sitonai              | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)        | DB                             |
-|                      | [Link](https://twitter.com/X0_BR/status/1284600849226850304?s=20)          | HHWO                           |
-| Voyager              | [Link](https://twitter.com/fgosyukai1/status/1284705568569962502?s=20)     | HHWO                           |
-| Yang Guifei          | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)   | DB                             |
+| DPS Used                 | Link                                                                        | Remarks                        |
+| ------------------------ | --------------------------------------------------------------------------- | ------------------------------ |
+| Arjuna (Alter)           | [Link](https://twitter.com/NuuuuuN0704/status/1284712848992563200?s=20)     | NoCE, HHWO                     |
+| Asclepius                | [Link](https://twitter.com/Scarf_FGO/status/1285190025341095936?s=20)       | Solo, HHWO                     |
+| Astarte                  | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)    | HHWO                           |
+| Astraea                  | [Link](https://www.bilibili.com/video/BV1H54y1S75f)                         | DB                             |
+|                          | [Link](https://twitter.com/Chinquepig/status/1284751373939007488?s=20)      | HHWO, NoSwap                   |
+| Caesar                   | [Link](https://twitter.com/snowdroptree/status/1284577803325726721?s=20)    | HHWO                           |
+| Dioscuri                 | [Link](https://twitter.com/Herakles_osi/status/1284834521368735748?s=20)    | DB                             |
+| Fujino Asagami           | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)      | HHWO                           |
+| Gawain                   | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)   | HHWO                           |
+| Hessian Lobo             | [Link](https://twitter.com/kitakitasnas/status/1284664238896644097?s=20)    | DB                             |
+| Ibaraki Douji            | [Link](https://twitter.com/snowdroptree/status/1285239226062172167?s=20)    | HHWO                           |
+| Ishtar (Archer)          | [Link](https://twitter.com/Gfnm1VRurkqSZxK/status/1285271366405505024?s=20) | HHWO                           |
+| Jack the Ripper          | [Link](https://twitter.com/myc_1228/status/1284542610707640320?s=20)        | DB                             |
+|                          | [Link](https://twitter.com/Violet_g612/status/1284727481551839238?s=20)     | HHWO                           |
+| Jeanne d'Arc (Alter)     | [Link](https://twitter.com/myc_1228/status/1284848548891070465?s=20)        | HHWO                           |
+| Kama                     | [Link](https://www.bilibili.com/video/BV1Z54y1U7er)                         | DB                             |
+|                          | [Link](https://twitter.com/2_5_dimension/status/1284450951173033986?s=20)   | HHWO                           |
+| King Hassan              | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)     | HHWO                           |
+| Kingprotea               | [Link](https://www.youtube.com/watch?v=_LgAUmwVIuQ)                         | Solo, HHWO                     |
+| Li SHuwen (Assassin)     | [Link](https://twitter.com/kitakitasnas/status/1285222462783844353?s=20)    | HHWO                           |
+| Meltryllis               | [Link](https://twitter.com/DrgnWgt/status/1284526788186537984?s=20)         | DB                             |
+|                          | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)          | DB, Dual Core with Orion       |
+|                          | [Link](https://twitter.com/Peperon8310/status/1284541056562819072?s=20)     | HHWO                           |
+|                          | [Link](https://twitter.com/2_5_dimension/status/1284736213572698112?s=20)   | NoCE, HHWO                     |
+|                          | [Link](https://twitter.com/2_5_dimension/status/1284769616078626816?s=20)   | NoSwap, HHWO                   |
+| MHXA                     | [Link](https://twitter.com/NAO42010/status/1284739009265020928?s=20)        | DB                             |
+|                          | [Link](https://www.youtube.com/watch?v=l5Ryej_64Ew&feature=youtu.be)        | HHWO                           |
+| Mori Nagayoshi           | [Link](https://twitter.com/nmnppp/status/1284823461756428288?s=20)          | HHWO                           |
+| Musashi (Berserker)      | [Link](https://twitter.com/ShotkAnime/status/1284622754067562496?s=20)      | HHWO                           |
+| Musashi (Saber)          | [Link](https://twitter.com/UForeigner634/status/1284507847749849090?s=20)   | HHWO                           |
+| Nero (Bride)             | [Link](https://twitter.com/mishima173/status/1284888791090511873?s=20)      | DB                             |
+| Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1284471550276587520?s=20)    | HHWO                           |
+| Okita (Saber)            | [Link](https://twitter.com/yychem/status/1285221485959733249)               | DB                             |
+| Okita Alter              | [Link](https://twitter.com/myc_1228/status/1284792808105111552?s=20)        | HHWO                           |
+| Orion (Superhuman)       | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)     | HHWO                           |
+|                          | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20)  | DB                             |
+|                          | [Link](https://twitter.com/fgo38195272/status/1284868027628941313?s=20)     | HHWO, NoSwap, NoCE on Supports |
+| Penthesilea              | [Link](https://twitter.com/EdaFgo/status/1284865465672597505?s=20)          | HHWO                           |
+| Raikou                   | [Link](https://twitter.com/1syuten2syefi/status/1285045399275753472?s=20)   | NoNP, HHWO                     |
+| Romulus=Qurinus          | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)     | HHWO                           |
+| Scathach                 | [Link](https://twitter.com/gameover_fate/status/1285231771416588288?s=20)   | DB                             |
+| Sitonai                  | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)         | DB                             |
+|                          | [Link](https://twitter.com/X0_BR/status/1284600849226850304?s=20)           | HHWO                           |
+| Voyager                  | [Link](https://twitter.com/fgosyukai1/status/1284705568569962502?s=20)      | HHWO                           |
+| Yang Guifei              | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)    | DB                             |
 
 
 - All videos linked in this repo are the properties of their owners.
