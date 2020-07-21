@@ -1439,7 +1439,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Penthesilea              | [Link](https://twitter.com/EdaFgo/status/1284865465672597505?s=20)          | HHWO                           |
 | Raikou                   | [Link](https://twitter.com/1syuten2syefi/status/1285045399275753472?s=20)   | NoNP, HHWO                     |
 | Romulus=Qurinus          | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)     | HHWO                           |
-| Scathach                 | [Link](https://twitter.com/gameover_fate/status/1285231771416588288?s=20)   | DB                             |
+| Scathach                 | [Link](https://twitter.com/gameover_fate/status/1285231771416588288?s=20)   | DB, Uses 1 CS  (T7)            |
 | Sitonai                  | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)         | DB                             |
 |                          | [Link](https://twitter.com/X0_BR/status/1284600849226850304?s=20)           | HHWO                           |
 | Voyager                  | [Link](https://twitter.com/fgosyukai1/status/1284705568569962502?s=20)      | HHWO                           |
