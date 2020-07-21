@@ -172,6 +172,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Hokusai                | [Link](https://b23.tv/3A9YRA)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728354565690490961/unknown.png)           |
 | Kama                   | [Link](https://www.youtube.com/watch?v=k4_d_Ux8Tco)  | Solo                                                                                                               |
 | King Hassan            | [Link](https://www.bilibili.com/video/av20664448/)   | No CC, Solo                                                                                                        |
+| Kingprotea             | [Link](https://www.youtube.com/watch?v=pKOZucqRP2g)  | Solo                                                                                                               |
 | Lancelot (Berserker)   | [Link](https://b23.tv/ShNo4q)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728356971895586856/unknown.png)           |
 | Merlin                 | [Link](https://www.youtube.com/watch?v=-iFp8deShKM)  | Solo, No CC                                                                                                        |
 | MHXA                   | [Link](https://www.bilibili.com/video/av87929863)    | Solo                                                                                                               |
