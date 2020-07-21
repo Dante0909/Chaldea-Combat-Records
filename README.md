@@ -1400,7 +1400,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | DPS Used                 | Link                                                                        | Remarks                        |
 | ------------------------ | --------------------------------------------------------------------------- | ------------------------------ |
 | Arjuna (Alter)           | [Link](https://twitter.com/NuuuuuN0704/status/1284712848992563200?s=20)     | NoCE, HHWO                     |
-| Asclepius                | [Link](https://twitter.com/Scarf_FGO/status/1285190025341095936?s=20)       | Solo, HHWO                     |
+| Asclepius                | [Link](https://twitter.com/Scarf_FGO/status/1285190025341095936?s=20)       | Solo, DB                       |
 | Astarte                  | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)    | HHWO                           |
 | Astraea                  | [Link](https://www.bilibili.com/video/BV1H54y1S75f)                         | DB                             |
 |                          | [Link](https://twitter.com/Chinquepig/status/1284751373939007488?s=20)      | HHWO, NoSwap                   |
