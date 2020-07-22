@@ -47,6 +47,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Summer 4 Rerun](#summer-4-rerun)
     - [Main Interlude : SE.RA.PH CCC - Kingprotea Detour](#main-interlude--seraph-ccc---kingprotea-detour)
     - [Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva [DB] / Heaven's Hole (Whip Only) [HHWO]](#main-interlude--seraph-ccc-finale---demonic-boddhisattva-db--heavens-hole-whip-only-hhwo)
+
 ## Story Bosses
 
 - Note that Hong already has solos covered for Story released in FGO NA/Global : [Link](https://www.youtube.com/playlist?list=PLVw95Imz4v-nkX-LKD6tE3NJSwGAQpyT8)
@@ -133,32 +134,33 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Tristan                        | [Link](https://www.bilibili.com/video/BV1m441117MX)               |
 
 ### Gugalanna - Bull of Heaven
+
 Note : All TAs are assumed to be dual core here unless mentioned otherwise due to the nature of the CQ
-| DPS Used                 | Link                                                 | Remarks     |
+| DPS Used | Link | Remarks |
 | ------------------------ | ---------------------------------------------------- | ----------- |
-| Carmilla                 | [Link](https://www.bilibili.com/video/BV144411Z7ti?) |
-| Cleopatra                | [Link](https://www.bilibili.com/video/BV1Bt411Z7uv?) |
-| EMIYA (Assassin)         | [Link](https://www.bilibili.com/video/BV1H4411f7FZ?) | Single Core |
-| Heracles                 | [Link](https://www.bilibili.com/video/BV184411U7Zw)  | Single Core |
-| Hijikata                 | [Link](https://www.bilibili.com/video/BV13s411H7bf)  |
-| Hokusai                  | [Link](https://www.bilibili.com/video/BV1H441197VX?) |
-| Hundred Face Hassan      | [Link](https://www.bilibili.com/video/BV1W4411Z7Yy)  |
-| Ibaraki                  | [Link](https://www.bilibili.com/video/BV1a4411Z79B)  | Single Core |
-| Jack the Ripper          | [Link](https://www.bilibili.com/video/BV1Zt411o7Zi?) |
-| Jeanne d'Arc (Alter)     | [Link](https://www.bilibili.com/video/BV1Wb411F7oT)  |
-| King Hassan              | [Link](https://www.bilibili.com/video/BV13t411Z79d)  |
-| Kintoki (Berserker)      | [Link](https://www.bilibili.com/video/BV15b411F7Qm)  | Single Core |
-| Lu Bu                    | [Link](https://www.bilibili.com/video/BV1Z4411U7TK)  | Single Core |
-| Mecha Eli                | [Link](https://www.bilibili.com/video/BV1r4411U7u4)  |
-| Meltryllis               | [Link](https://www.bilibili.com/video/BV1y4411Z74g)  |
-| MHX                      | [Link](https://www.bilibili.com/video/BV1jt411Z7L7)  |
-| MHXA                     | [Link](https://www.bilibili.com/video/BV19t411d7wQ)  |
-| Musashi                  | [Link](https://www.bilibili.com/video/BV1D4411Z75Y)  |
+| Carmilla | [Link](https://www.bilibili.com/video/BV144411Z7ti?) |
+| Cleopatra | [Link](https://www.bilibili.com/video/BV1Bt411Z7uv?) |
+| EMIYA (Assassin) | [Link](https://www.bilibili.com/video/BV1H4411f7FZ?) | Single Core |
+| Heracles | [Link](https://www.bilibili.com/video/BV184411U7Zw) | Single Core |
+| Hijikata | [Link](https://www.bilibili.com/video/BV13s411H7bf) |
+| Hokusai | [Link](https://www.bilibili.com/video/BV1H441197VX?) |
+| Hundred Face Hassan | [Link](https://www.bilibili.com/video/BV1W4411Z7Yy) |
+| Ibaraki | [Link](https://www.bilibili.com/video/BV1a4411Z79B) | Single Core |
+| Jack the Ripper | [Link](https://www.bilibili.com/video/BV1Zt411o7Zi?) |
+| Jeanne d'Arc (Alter) | [Link](https://www.bilibili.com/video/BV1Wb411F7oT) |
+| King Hassan | [Link](https://www.bilibili.com/video/BV13t411Z79d) |
+| Kintoki (Berserker) | [Link](https://www.bilibili.com/video/BV15b411F7Qm) | Single Core |
+| Lu Bu | [Link](https://www.bilibili.com/video/BV1Z4411U7TK) | Single Core |
+| Mecha Eli | [Link](https://www.bilibili.com/video/BV1r4411U7u4) |
+| Meltryllis | [Link](https://www.bilibili.com/video/BV1y4411Z74g) |
+| MHX | [Link](https://www.bilibili.com/video/BV1jt411Z7L7) |
+| MHXA | [Link](https://www.bilibili.com/video/BV19t411d7wQ) |
+| Musashi | [Link](https://www.bilibili.com/video/BV1D4411Z75Y) |
 | Oda Nobunaga (Berserker) | [Link](https://www.bilibili.com/video/BV18b411F7FZ?) | Single Core |
-| Okita                    | [Link](https://www.bilibili.com/video/BV1j4411R7ub)  |
-| Okita (Alter)            | [Link](https://www.bilibili.com/video/BV1o4411U7dL)  |
-| Shiki (Assassin)         | [Link](https://www.bilibili.com/video/BV1Ft411f7Jo)  |
-| Wu Zetian                | [Link](https://www.bilibili.com/video/BV1W4411f7g9)  |
+| Okita | [Link](https://www.bilibili.com/video/BV1j4411R7ub) |
+| Okita (Alter) | [Link](https://www.bilibili.com/video/BV1o4411U7dL) |
+| Shiki (Assassin) | [Link](https://www.bilibili.com/video/BV1Ft411f7Jo) |
+| Wu Zetian | [Link](https://www.bilibili.com/video/BV1W4411f7g9) |
 
 ### Dantes Prison Tower
 
@@ -1368,6 +1370,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Zhuge Liang                     | [Link](https://twitter.com/nagaru35/status/1277218991430225922?s=20)        |
 
 ### Main Interlude : SE.RA.PH CCC - Kingprotea Detour
+
 | DPS Used                        | Link                                                                        | Remarks                   |
 | ------------------------------- | --------------------------------------------------------------------------- | ------------------------- |
 | Arjuna Alter                    | [Link](https://twitter.com/SW87807148/status/1283379166058967040?s=20)      | Non NP                    |
@@ -1396,12 +1399,14 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Scathach                        | [Link](https://twitter.com/gameover_fate/status/1283362240251351040?s=20)   |
 | Xiang Yu                        | [Link](https://twitter.com/mgmg3939pnd/status/1283398554547965952?s=20)     | Non NP                    |
 |                                 | [Link](https://twitter.com/Kag_Tam/status/1283406245827719168?s=20)         | NoCE, Non NP              |
- 
+
 ### Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva [DB] / Heaven's Hole (Whip Only) [HHWO]
+
 | DPS Used                        | Link                                                                        | Remarks                                   |
 | ------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------- |
 | Altera (Archer)                 | [Link](https://twitter.com/shortcut588/status/1285609301994856448?s=20)     | HHWO                                      |
 | Arjuna (Alter)                  | [Link](https://twitter.com/NuuuuuN0704/status/1284712848992563200?s=20)     | NoCE, HHWO                                |
+| Arturia Pendragon (Archer)      | [Link](https://www.bilibili.com/video/BV1ez4y1D7Fv)                         | DB                                        |
 | Asclepius                       | [Link](https://twitter.com/Scarf_FGO/status/1285190025341095936?s=20)       | Solo, DB                                  |
 | Astarte                         | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)    | HHWO                                      |
 | Astraea                         | [Link](https://www.bilibili.com/video/BV1H54y1S75f)                         | DB                                        |
@@ -1449,14 +1454,13 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Penthesilea                     | [Link](https://twitter.com/EdaFgo/status/1284865465672597505?s=20)          | HHWO                                      |
 | Raikou                          | [Link](https://twitter.com/1syuten2syefi/status/1285045399275753472?s=20)   | NoNP, HHWO                                |
 | Romulus=Qurinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)     | HHWO                                      |
-| Scathach                        | [Link](https://twitter.com/gameover_fate/status/1285231771416588288?s=20)   | DB, Uses 1 CS  (T7)                       |
+| Scathach                        | [Link](https://twitter.com/gameover_fate/status/1285231771416588288?s=20)   | DB, Uses 1 CS (T7)                        |
 |                                 | [Link](https://twitter.com/gameover_fate/status/1285446296145256448?s=20)   | HHWO                                      |
 | Sitonai                         | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)         | DB                                        |
 |                                 | [Link](https://twitter.com/X0_BR/status/1284600849226850304?s=20)           | HHWO                                      |
 | Voyager                         | [Link](https://twitter.com/fgosyukai1/status/1284705568569962502?s=20)      | HHWO                                      |
 | Xiang Yu                        | [Link](https://twitter.com/Violet_g612/status/1285646341029363712?s=20)     | HHWO                                      |
 | Yang Guifei                     | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)    | DB                                        |
-
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
