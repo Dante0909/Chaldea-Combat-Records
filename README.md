@@ -1446,6 +1446,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Musashi (Saber)                 | [Link](https://twitter.com/UForeigner634/status/1284507847749849090?s=20)   | HHWO                                      |
 | Nero (Bride)                    | [Link](https://twitter.com/mishima173/status/1284888791090511873?s=20)      | DB                                        |
 | Oda Nobunaga (Berserker)        | [Link](https://twitter.com/snowdroptree/status/1284471550276587520?s=20)    | HHWO                                      |
+| Oda Nobunaga (Maou)             | [Link](https://twitter.com/Nagato_Yuki_233/status/1285877089640394752?s=20) | HHWO, No NP Used                          |
 | Okita (Saber)                   | [Link](https://twitter.com/yychem/status/1285221485959733249)               | DB                                        |
 | Okita Alter                     | [Link](https://twitter.com/myc_1228/status/1284792808105111552?s=20)        | HHWO                                      |
 | Orion (Superhuman)              | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)     | HHWO                                      |
