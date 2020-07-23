@@ -1410,6 +1410,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Asclepius                       | [Link](https://twitter.com/Scarf_FGO/status/1285190025341095936?s=20)        | Solo, DB                                       |
 | Astarte                         | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)     | HHWO                                           |
 | Astolfo (Saber)                 | [Link](https://twitter.com/1104shoki/status/1286092795116007424?s=20)        | DB, Uses 1 CS (Can be avoided with better RNG) |
+|                                 | [Link](https://twitter.com/1104shoki/status/1286259216718602240?s=20)        | HHWO                                           |
 | Astraea                         | [Link](https://www.bilibili.com/video/BV1H54y1S75f)                          | DB                                             |
 |                                 | [Link](https://twitter.com/Chinquepig/status/1284751373939007488?s=20)       | HHWO, NoSwap                                   |
 | BB                              | [Link](https://www.bilibili.com/video/BV1754y1S7zZ)                          | DB                                             |
