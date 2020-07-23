@@ -1454,6 +1454,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                 | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20)  | DB                                             |
 |                                 | [Link](https://twitter.com/fgo38195272/status/1284868027628941313?s=20)     | HHWO, NoSwap, NoCE on Supports                 |
 | Penthesilea                     | [Link](https://twitter.com/EdaFgo/status/1284865465672597505?s=20)          | HHWO                                           |
+|                                 | [Link](https://twitter.com/EdaFgo/status/1286187630367932416?s=20)          | DB, Uses 1 CS                                  |
 | Raikou                          | [Link](https://twitter.com/1syuten2syefi/status/1285045399275753472?s=20)   | NoNP, HHWO                                     |
 | Romulus=Qurinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)     | HHWO                                           |
 | Scathach                        | [Link](https://twitter.com/gameover_fate/status/1285231771416588288?s=20)   | DB, Uses 1 CS (T7)                             |
