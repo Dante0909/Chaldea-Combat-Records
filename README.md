@@ -23,7 +23,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
   - [Index](#index)
   - [Story Bosses](#story-bosses)
     - [Camelot - Gawain](#camelot---gawain)
-    - [Babylonia - Quetzalcotl](#babylonia---quetzalcotl)
+    - [Babylonia - Quetzalcoatl](#babylonia---quetzalcoatl)
     - [LB1 - Anastasia](#lb1---anastasia)
     - [LB5 Chapter 7 - Arrow 2](#lb5-chapter-7---arrow-2)
     - [LB5 Chapter 13 - Arrow 2](#lb5-chapter-13---arrow-2)
@@ -58,7 +58,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | ---------------------- | --------------------------------------------------- | ------- |
 | Tamamo no Mae (Lancer) | [Link](https://www.bilibili.com/video/BV14t4y1y7jV) | Solo    |
 
-### Babylonia - Quetzalcotl
+### Babylonia - Quetzalcoatl
 
 | DPS Used          | Link                                                | Remarks |
 | ----------------- | --------------------------------------------------- | ------- |
