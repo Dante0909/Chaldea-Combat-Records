@@ -1425,7 +1425,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Gawain                          | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)    | HHWO                                           |
 | Gilgamesh                       | [Link](https://twitter.com/otkznr/status/1285546927409393665?s=20)           | HHWO                                           |
 | Hessian Lobo                    | [Link](https://twitter.com/kitakitasnas/status/1284664238896644097?s=20)     | DB                                             |
-| Hijikata                        | [Link](https://twitter.com/aloha258_master/status/1285628085082165248?s=21)  | DB, Uses 1 CS                                  |
+| Hijikata                        | [Link](https://twitter.com/Aloha258_master/status/1286629375400529922?s=20)  | DB                                             |
 | Ibaraki Douji                   | [Link](https://twitter.com/snowdroptree/status/1285239226062172167?s=20)     | HHWO                                           |
 | Ishtar (Archer)                 | [Link](https://twitter.com/Gfnm1VRurkqSZxK/status/1285271366405505024?s=20)  | HHWO                                           |
 | Ishtar (Rider)                  | [Link](https://twitter.com/kuronoiparoma/status/1285592995216027648?s=20)    | HHWO                                           |
