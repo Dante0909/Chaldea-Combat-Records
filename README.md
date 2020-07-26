@@ -1409,6 +1409,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Arjuna (Alter)                  | [Link](https://twitter.com/NuuuuuN0704/status/1284712848992563200?s=20)      | NoCE, HHWO                          |
 | Arturia Pendragon (Archer)      | [Link](https://www.bilibili.com/video/BV1ez4y1D7Fv)                          | DB                                  |
 | Asclepius                       | [Link](https://twitter.com/Scarf_FGO/status/1285190025341095936?s=20)        | Solo, DB                            |
+| Ashwatthama                     | [Link](https://twitter.com/torikawaTA/status/1287116113759723521?s=20)       | DB, 1 CS Used (Non CS Possible)     |
 | Astarte                         | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)     | HHWO                                |
 | Astolfo (Saber)                 | [Link](https://www.bilibili.com/video/BV1LK411J7jV)                          | DB                                  |
 |                                 | [Link](https://twitter.com/1104shoki/status/1286259216718602240?s=20)        | HHWO                                |
