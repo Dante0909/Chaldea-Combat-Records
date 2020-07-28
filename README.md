@@ -1475,14 +1475,20 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 
 
 ### Tokugawa Kaiten Labyrinth - Ooku (Rerun) : Main CQ
-| DPS Used             | Link                                                                       | Remarks                              |
-| -------------------- | -------------------------------------------------------------------------- | ------------------------------------ |
-| Chen Gong            | [Link](https://twitter.com/snowdroptree/status/1288068969551654912?s=20)   |
-| Gilgamesh            | [Link](https://twitter.com/gameover_fate/status/1288073439861825537?s=20)  | Triple Core with Arash and Bunyan    |
-| Lancelot (Berserker) | [Link](https://twitter.com/otkznr/status/1288047264452157441?s=20)         | Triple Core with Chen Gong and Kiara |
-| Meltryllis (Lancer)  | [Link](https://twitter.com/2_5_dimension/status/1288071450826625026?s=20)  | Triple Core with Chen Gong and Kiara |
-| Raikou (Berserker)   | [Link](https://twitter.com/Chinkyu_pencil/status/1288043198032445441?s=20) | Triple Core with Chen Gong and Kiara |
-| Romulus=Qurinus      | [Link](https://github.com/Arc-FGO/Chaldea-Combat-Records.git)              | Triple Core with Chen Gong and Kiara |
+| DPS Used                  | Link                                                                        | Remarks                              |
+| ------------------------- | --------------------------------------------------------------------------- | ------------------------------------ |
+| Arturia Pendragon (Ruler) | [Link](https://twitter.com/Aloha258_master/status/1288046160381218816?s=20) | Double Core with Chen Gong           |
+| Chen Gong                 | [Link](https://twitter.com/snowdroptree/status/1288068969551654912?s=20)    |
+|                           | [Link](https://twitter.com/mgmg3939pnd/status/1288078028170342403?s=20)     | Dual Core with Circe                 |
+| Gawain                    | [Link](https://twitter.com/orionkumachan/status/1288076097788055553?s=20)   |
+| Gilgamesh                 | [Link](https://twitter.com/gameover_fate/status/1288073439861825537?s=20)   | Triple Core with Arash and Bunyan    |
+| Lancelot (Berserker)      | [Link](https://twitter.com/otkznr/status/1288047264452157441?s=20)          | Triple Core with Chen Gong and Kiara |
+|                           | [Link](https://twitter.com/haikaga/status/1288051536149360641?s=20)         |
+| Meltryllis (Lancer)       | [Link](https://twitter.com/2_5_dimension/status/1288071450826625026?s=20)   | Triple Core with Chen Gong and Kiara |
+| Musashi (Berserker)       | [Link](https://twitter.com/neko_neko_pad/status/1288058753363763200?s=20)   | Dual Core with Arash and Chen Gong   |
+| Parvati                   | [Link](https://twitter.com/ffgo_rin/status/1288067307864907782?s=20)        | Lv1 Chen Gong on T1                  |
+| Raikou (Berserker)        | [Link](https://twitter.com/Chinkyu_pencil/status/1288043198032445441?s=20)  | Triple Core with Chen Gong and Kiara |
+| Romulus=Qurinus           | [Link](https://github.com/Arc-FGO/Chaldea-Combat-Records.git)               | Triple Core with Chen Gong and Kiara |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
