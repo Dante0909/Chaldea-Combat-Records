@@ -1477,7 +1477,9 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 ### Tokugawa Kaiten Labyrinth - Ooku (Rerun) : Main CQ
 | DPS Used                  | Link                                                                        | Remarks                              |
 | ------------------------- | --------------------------------------------------------------------------- | ------------------------------------ |
-| Arturia Pendragon (Ruler) | [Link](https://twitter.com/Aloha258_master/status/1288046160381218816?s=20) | Double Core with Chen Gong           |
+| Arturia Pendragon (Ruler) | [Link](https://twitter.com/Aloha258_master/status/1288046160381218816?s=20) | Dual Core with Chen Gong             |
+| Astarte                   | [Link](https://twitter.com/jyuubeeyuuan/status/1288091390526681089?s=20)    | Dual Core with Chen Gong             |
+|                           | [Link](https://twitter.com/tksr0000/status/1288089994335199232?s=20)        | NoCE on Support                      |
 | Chen Gong                 | [Link](https://twitter.com/snowdroptree/status/1288068969551654912?s=20)    |
 |                           | [Link](https://twitter.com/mgmg3939pnd/status/1288078028170342403?s=20)     | Dual Core with Circe                 |
 | Gawain                    | [Link](https://twitter.com/orionkumachan/status/1288076097788055553?s=20)   |
