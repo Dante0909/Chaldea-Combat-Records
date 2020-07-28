@@ -1482,6 +1482,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                           | [Link](https://twitter.com/tksr0000/status/1288089994335199232?s=20)        | NoCE on Support                        |
 | Chen Gong                 | [Link](https://twitter.com/snowdroptree/status/1288068969551654912?s=20)    |
 |                           | [Link](https://twitter.com/mgmg3939pnd/status/1288078028170342403?s=20)     | Dual Core with Circe                   |
+| Ereshkigal                | [Link](https://twitter.com/waiwaikigurumi/status/1288118748373585923?s=20)  |
 | Gawain                    | [Link](https://twitter.com/orionkumachan/status/1288076097788055553?s=20)   |
 | Gilgamesh                 | [Link](https://twitter.com/gameover_fate/status/1288073439861825537?s=20)   | Triple Core with Arash and Bunyan      |
 | Ishtar (Rider)            | [Link](https://twitter.com/waiwaikigurumi/status/1288078384250023937?s=20)  | Triple Core with Carmilla and Arash    |
@@ -1496,6 +1497,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Sei Shonagon              | [Link](https://twitter.com/kitakitasnas/status/1288105650774405120?s=20)    |
 | Shiki (Saber)             | [Link](https://twitter.com/_ao2412fgo/status/1288092682850430976?s=20)      |
 | Shuten Douji (Assassin)   | [Link](https://twitter.com/1syuten2syefi/status/1288094252279328768?s=20)   | Quad Core with Arash, Bunyan and Kiara |
+| Voyager                   | [Link](https://twitter.com/fgosyukai1/status/1288153355039064064?s=20)      | Proof of Concept, Not Final            |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
