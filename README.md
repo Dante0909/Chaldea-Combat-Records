@@ -47,6 +47,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Summer 4 Rerun](#summer-4-rerun)
     - [Main Interlude : SE.RA.PH CCC - Kingprotea Detour](#main-interlude--seraph-ccc---kingprotea-detour)
     - [Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva [DB] / Heaven's Hole (Whip Only) [HHWO]](#main-interlude--seraph-ccc-finale---demonic-boddhisattva-db--heavens-hole-whip-only-hhwo)
+    - [Tokugawa Kaiten Labyrinth - Ooku (Rerun)](#tokugawa-kaiten-labyrinth---ooku-rerun)
 
 ## Story Bosses
 
@@ -136,54 +137,55 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 ### Gugalanna - Bull of Heaven
 
 Note : All TAs are assumed to be dual core here unless mentioned otherwise due to the nature of the CQ
-| DPS Used | Link | Remarks |
+| DPS Used                 | Link                                                 | Remarks     |
 | ------------------------ | ---------------------------------------------------- | ----------- |
-| Carmilla | [Link](https://www.bilibili.com/video/BV144411Z7ti?) |
-| Cleopatra | [Link](https://www.bilibili.com/video/BV1Bt411Z7uv?) |
-| EMIYA (Assassin) | [Link](https://www.bilibili.com/video/BV1H4411f7FZ?) | Single Core |
-| Heracles | [Link](https://www.bilibili.com/video/BV184411U7Zw) | Single Core |
-| Hijikata | [Link](https://www.bilibili.com/video/BV13s411H7bf) |
-| Hokusai | [Link](https://www.bilibili.com/video/BV1H441197VX?) |
-| Hundred Face Hassan | [Link](https://www.bilibili.com/video/BV1W4411Z7Yy) |
-| Ibaraki | [Link](https://www.bilibili.com/video/BV1a4411Z79B) | Single Core |
-| Jack the Ripper | [Link](https://www.bilibili.com/video/BV1Zt411o7Zi?) |
-| Jeanne d'Arc (Alter) | [Link](https://www.bilibili.com/video/BV1Wb411F7oT) |
-| King Hassan | [Link](https://www.bilibili.com/video/BV13t411Z79d) |
-| Kintoki (Berserker) | [Link](https://www.bilibili.com/video/BV15b411F7Qm) | Single Core |
-| Lu Bu | [Link](https://www.bilibili.com/video/BV1Z4411U7TK) | Single Core |
-| Mecha Eli | [Link](https://www.bilibili.com/video/BV1r4411U7u4) |
-| Meltryllis | [Link](https://www.bilibili.com/video/BV1y4411Z74g) |
-| MHX | [Link](https://www.bilibili.com/video/BV1jt411Z7L7) |
-| MHXA | [Link](https://www.bilibili.com/video/BV19t411d7wQ) |
-| Musashi | [Link](https://www.bilibili.com/video/BV1D4411Z75Y) |
+| Carmilla                 | [Link](https://www.bilibili.com/video/BV144411Z7ti?) |
+| Cleopatra                | [Link](https://www.bilibili.com/video/BV1Bt411Z7uv?) |
+| EMIYA (Assassin)         | [Link](https://www.bilibili.com/video/BV1H4411f7FZ?) | Single Core |
+| Heracles                 | [Link](https://www.bilibili.com/video/BV184411U7Zw)  | Single Core |
+| Hijikata                 | [Link](https://www.bilibili.com/video/BV13s411H7bf)  |
+| Hokusai                  | [Link](https://www.bilibili.com/video/BV1H441197VX?) |
+| Hundred Face Hassan      | [Link](https://www.bilibili.com/video/BV1W4411Z7Yy)  |
+| Ibaraki                  | [Link](https://www.bilibili.com/video/BV1a4411Z79B)  | Single Core |
+| Jack the Ripper          | [Link](https://www.bilibili.com/video/BV1Zt411o7Zi?) |
+| Jeanne d'Arc (Alter)     | [Link](https://www.bilibili.com/video/BV1Wb411F7oT)  |
+| King Hassan              | [Link](https://www.bilibili.com/video/BV13t411Z79d)  |
+| Kintoki (Berserker)      | [Link](https://www.bilibili.com/video/BV15b411F7Qm)  | Single Core |
+| Lu Bu                    | [Link](https://www.bilibili.com/video/BV1Z4411U7TK)  | Single Core |
+| Mecha Eli                | [Link](https://www.bilibili.com/video/BV1r4411U7u4)  |
+| Meltryllis               | [Link](https://www.bilibili.com/video/BV1y4411Z74g)  |
+| MHX                      | [Link](https://www.bilibili.com/video/BV1jt411Z7L7)  |
+| MHXA                     | [Link](https://www.bilibili.com/video/BV19t411d7wQ)  |
+| Musashi                  | [Link](https://www.bilibili.com/video/BV1D4411Z75Y)  |
 | Oda Nobunaga (Berserker) | [Link](https://www.bilibili.com/video/BV18b411F7FZ?) | Single Core |
-| Okita | [Link](https://www.bilibili.com/video/BV1j4411R7ub) |
-| Okita (Alter) | [Link](https://www.bilibili.com/video/BV1o4411U7dL) |
-| Shiki (Assassin) | [Link](https://www.bilibili.com/video/BV1Ft411f7Jo) |
-| Wu Zetian | [Link](https://www.bilibili.com/video/BV1W4411f7g9) |
+| Okita                    | [Link](https://www.bilibili.com/video/BV1j4411R7ub)  |
+| Okita (Alter)            | [Link](https://www.bilibili.com/video/BV1o4411U7dL)  |
+| Shiki (Assassin)         | [Link](https://www.bilibili.com/video/BV1Ft411f7Jo)  |
+| Wu Zetian                | [Link](https://www.bilibili.com/video/BV1W4411f7g9)  |
 
 ### Dantes Prison Tower
 
-| DPS Used               | Link                                                 | Remarks                                                                                                            |
-| ---------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Arjuna (Alter), Dantes | [Link](https://b23.tv/NXlMVq)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728355366550634686/unknown.png), Skadi NP |
-| Astarte                | [Link](https://b23.tv/Hx2uPQ)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728360638446829687/unknown.png)           |
-|                        | [Link](https://b23.tv/8pac93)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728361357920960613/unknown.png)           |
-| Cu Chulainn (Alter)    | [Link](https://www.bilibili.com/video/BV1QW411W7Pq/) | No CC, Solo                                                                                                        |
-| Dantes                 | [Link](https://www.bilibili.com/video/BV19K4y1s74p)  | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/732402908225601626/unknown.png)           |
-| Hokusai                | [Link](https://b23.tv/3A9YRA)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728354565690490961/unknown.png)           |
-| Kama                   | [Link](https://www.youtube.com/watch?v=k4_d_Ux8Tco)  | Solo                                                                                                               |
-| King Hassan            | [Link](https://www.bilibili.com/video/av20664448/)   | No CC, Solo                                                                                                        |
-| Kingprotea             | [Link](https://www.youtube.com/watch?v=pKOZucqRP2g)  | Solo                                                                                                               |
-| Lancelot (Berserker)   | [Link](https://b23.tv/ShNo4q)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728356971895586856/unknown.png)           |
-| Merlin                 | [Link](https://www.youtube.com/watch?v=-iFp8deShKM)  | Solo, No CC                                                                                                        |
-| MHXA                   | [Link](https://www.bilibili.com/video/av87929863)    | Solo                                                                                                               |
-| Musashi (Berserker)    | [Link](https://b23.tv/1gloTF)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728351719712489531/unknown.png)           |
-|                        | [Link](https://b23.tv/lky0ih)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728353798388711514/unknown.png)           |
-| Oda Nobunaga (Maou)    | [Link](https://www.bilibili.com/video/BV1jT4y157G3)  | Solo                                                                                                               |
-| Orion (Superhuman)     | [Link](https://www.youtube.com/watch?v=FQWYCN0NlgI)  | Solo                                                                                                               |
-| Xiang Yu               | [Link](https://b23.tv/xu8Jx7)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728357248191037480/unknown.png)           |
-| Chen Gong, Hijikata    | [Link](https://b23.tv/8W0pMP)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728359987381796874/unknown.png)           |
+| DPS Used             | Link                                                 | Remarks                                                                                                                                   |
+| -------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Arjuna (Alter)       | [Link](https://b23.tv/NXlMVq)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728355366550634686/unknown.png), Dual Core with Dantes, Skadi NP |
+|                      | [Link](https://www.bilibili.com/video/BV1uK4y1x7Bp)  | Solo                                                                                                                                      |
+| Astarte              | [Link](https://b23.tv/Hx2uPQ)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728360638446829687/unknown.png)                                  |
+|                      | [Link](https://b23.tv/8pac93)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728361357920960613/unknown.png)                                  |
+| Cu Chulainn (Alter)  | [Link](https://www.bilibili.com/video/BV1QW411W7Pq/) | No CC, Solo                                                                                                                               |
+| Dantes               | [Link](https://www.bilibili.com/video/BV19K4y1s74p)  | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/732402908225601626/unknown.png)                                  |
+| Hokusai              | [Link](https://b23.tv/3A9YRA)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728354565690490961/unknown.png)                                  |
+| Kama                 | [Link](https://www.youtube.com/watch?v=k4_d_Ux8Tco)  | Solo                                                                                                                                      |
+| King Hassan          | [Link](https://www.bilibili.com/video/av20664448/)   | No CC, Solo                                                                                                                               |
+| Kingprotea           | [Link](https://www.youtube.com/watch?v=pKOZucqRP2g)  | Solo                                                                                                                                      |
+| Lancelot (Berserker) | [Link](https://b23.tv/ShNo4q)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728356971895586856/unknown.png)                                  |
+| Merlin               | [Link](https://www.youtube.com/watch?v=-iFp8deShKM)  | Solo, No CC                                                                                                                               |
+| MHXA                 | [Link](https://www.bilibili.com/video/av87929863)    | Solo                                                                                                                                      |
+| Musashi (Berserker)  | [Link](https://b23.tv/1gloTF)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728351719712489531/unknown.png)                                  |
+|                      | [Link](https://b23.tv/lky0ih)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728353798388711514/unknown.png)                                  |
+| Oda Nobunaga (Maou)  | [Link](https://www.bilibili.com/video/BV1jT4y157G3)  | Solo                                                                                                                                      |
+| Orion (Superhuman)   | [Link](https://www.youtube.com/watch?v=FQWYCN0NlgI)  | Solo                                                                                                                                      |
+| Xiang Yu             | [Link](https://b23.tv/xu8Jx7)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728357248191037480/unknown.png)                                  |
+| Chen Gong, Hijikata  | [Link](https://b23.tv/8W0pMP)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728359987381796874/unknown.png)                                  |
 
 ## Events
 
@@ -1470,6 +1472,12 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Voyager                         | [Link](https://twitter.com/fgosyukai1/status/1284705568569962502?s=20)       | HHWO                                |
 | Xiang Yu                        | [Link](https://twitter.com/Violet_g612/status/1285646341029363712?s=20)      | HHWO                                |
 | Yang Guifei                     | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)     | DB                                  |
+
+
+### Tokugawa Kaiten Labyrinth - Ooku (Rerun)
+| DPS Used      | Link          | Remarks       |
+| ------------- | ------------- | ------------- |
+| <placeholder> | <placeholder> | <placeholder> |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
