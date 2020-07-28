@@ -47,7 +47,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Summer 4 Rerun](#summer-4-rerun)
     - [Main Interlude : SE.RA.PH CCC - Kingprotea Detour](#main-interlude--seraph-ccc---kingprotea-detour)
     - [Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva [DB] / Heaven's Hole (Whip Only) [HHWO]](#main-interlude--seraph-ccc-finale---demonic-boddhisattva-db--heavens-hole-whip-only-hhwo)
-    - [Tokugawa Kaiten Labyrinth - Ooku (Rerun)](#tokugawa-kaiten-labyrinth---ooku-rerun)
+    - [Tokugawa Kaiten Labyrinth - Ooku (Rerun) : Main CQ](#tokugawa-kaiten-labyrinth---ooku-rerun--main-cq)
 
 ## Story Bosses
 
@@ -1474,10 +1474,15 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Yang Guifei                     | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)     | DB                                  |
 
 
-### Tokugawa Kaiten Labyrinth - Ooku (Rerun)
-| DPS Used      | Link          | Remarks       |
-| ------------- | ------------- | ------------- |
-| <placeholder> | <placeholder> | <placeholder> |
+### Tokugawa Kaiten Labyrinth - Ooku (Rerun) : Main CQ
+| DPS Used             | Link                                                                       | Remarks                              |
+| -------------------- | -------------------------------------------------------------------------- | ------------------------------------ |
+| Chen Gong            | [Link](https://twitter.com/snowdroptree/status/1288068969551654912?s=20)   |
+| Gilgamesh            | [Link](https://twitter.com/gameover_fate/status/1288073439861825537?s=20)  | Triple Core with Arash and Bunyan    |
+| Lancelot (Berserker) | [Link](https://twitter.com/otkznr/status/1288047264452157441?s=20)         | Triple Core with Chen Gong and Kiara |
+| Meltryllis (Lancer)  | [Link](https://twitter.com/2_5_dimension/status/1288071450826625026?s=20)  | Triple Core with Chen Gong and Kiara |
+| Raikou (Berserker)   | [Link](https://twitter.com/Chinkyu_pencil/status/1288043198032445441?s=20) | Triple Core with Chen Gong and Kiara |
+| Romulus=Qurinus      | [Link](https://github.com/Arc-FGO/Chaldea-Combat-Records.git)              | Triple Core with Chen Gong and Kiara |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
