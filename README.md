@@ -1479,6 +1479,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | DPS Used                  | Link                                                                        | Remarks                                       |
 | ------------------------- | --------------------------------------------------------------------------- | --------------------------------------------- |
 | Achilles                  | [Link](https://twitter.com/Violet_g612/status/1288115591354576898?s=20)     | Uses Lv1 Chen                                 |
+| Amakusa Shirou            | [Link](https://twitter.com/otkznr/status/1288499672126853120?s=20)          | Triple Core with Chen and Kiara               |
 | Arjuna Alter              | [Link](https://twitter.com/otkznr/status/1288193147550363653?s=20)          | Non-event CE, Triple Core with Chen and Kiara |
 | Arturia Pendragon (Ruler) | [Link](https://twitter.com/Aloha258_master/status/1288046160381218816?s=20) | Dual Core with Chen Gong                      |
 |                           | [Link](https://twitter.com/Aloha258_master/status/1288324336697237505?s=20) | NoCE on Support                               |
@@ -1496,9 +1497,11 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                           | [Link](https://twitter.com/gameover_fate/status/1288364508147150848?s=20)   | NoCE on Support                               |
 | Ishtar (Archer)           | [Link](https://twitter.com/waiwaikigurumi/status/1288319322880761857?s=20)  |
 | Ishtar (Rider)            | [Link](https://twitter.com/waiwaikigurumi/status/1288078384250023937?s=20)  | Triple Core with Carmilla and Arash           |
+| Jinako                    | [Link](https://twitter.com/kitakitasnas/status/1288494437924970496?s=20)    | Solo                                          |
 | Lancelot (Berserker)      | [Link](https://twitter.com/otkznr/status/1288047264452157441?s=20)          | Triple Core with Chen Gong and Kiara          |
 |                           | [Link](https://twitter.com/haikaga/status/1288051536149360641?s=20)         |
 |                           | [Link](https://twitter.com/haikaga/status/1288073830770999298?s=20)         | Triple Core with Nito and Chen Gong           |
+| Meltryllis (Alter-Ego)    | [Link](https://twitter.com/2_5_dimension/status/1288450830081826816?s=20)   |
 | Meltryllis (Lancer)       | [Link](https://twitter.com/2_5_dimension/status/1288071450826625026?s=20)   | Triple Core with Chen Gong and Kiara          |
 |                           | [Link](https://www.youtube.com/watch?v=yilwqMBE5_w)                         |
 | MHXA                      | [Link](https://twitter.com/NAO42010/status/1288322534329290752?s=20)        | Quad Core with Arash, Bunyan and Kiara        |
