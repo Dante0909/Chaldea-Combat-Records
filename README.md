@@ -1516,6 +1516,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Tesla                     | [Link](https://twitter.com/abiro_game/status/1288315336555560963?s=20)      | Triple Core with Arash, Helena                |
 | Valkyrie                  | [Link](https://twitter.com/terminas_aria/status/1288130975306625025?s=20)   |
 | Voyager                   | [Link](https://twitter.com/fgosyukai1/status/1288153355039064064?s=20)      | Proof of Concept, Not Final                   |
+| Xiang Yu                  | [Link](https://twitter.com/damenakeisanki/status/1288281630604275712?s=20)  | Triple Core with Kiara and Chen Gong          |
 
 ### Tokugawa Kaiten Labyrinth - Ooku (Rerun) : BEAST III/L 
 | DPS Used                 | Link                                                                     | Remarks     |
