@@ -1504,6 +1504,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Mordred (Saber)           | [Link](https://twitter.com/Hello_Anthem/status/1288117632202190852?s=19)    | Double Core with Kiara                        |
 | Musashi (Berserker)       | [Link](https://twitter.com/neko_neko_pad/status/1288058753363763200?s=20)   | Triple Core with Arash and Chen Gong          |
 |                           | [Link](https://twitter.com/kekekei_MHFZ/status/1288145695539568642?s=20)    | Dual Core with Arash                          |
+| Napoleon                  | [Link](https://www.youtube.com/watch?v=1jiWWyZXqy8&feature=youtu.be)        |
 | Oda Nobunaga (Berserker)  | [Link](https://twitter.com/snowdroptree/status/1288197583878291457?s=20)    | Quad Core with Arash, Gong and Kiara          |
 | Okita Souji (Assassin)    | [Link](https://twitter.com/hiduka01/status/1288147405200711680?s=20)        |
 | Parvati                   | [Link](https://twitter.com/ffgo_rin/status/1288067307864907782?s=20)        | Lv1 Chen Gong on T1                           |
