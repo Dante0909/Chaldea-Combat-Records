@@ -1493,6 +1493,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ereshkigal                | [Link](https://twitter.com/waiwaikigurumi/status/1288118748373585923?s=20)  |
 | Gawain                    | [Link](https://twitter.com/orionkumachan/status/1288076097788055553?s=20)   |
 | Gilgamesh                 | [Link](https://twitter.com/gameover_fate/status/1288073439861825537?s=20)   | Triple Core with Arash and Bunyan             |
+|                           | [Link](https://twitter.com/gameover_fate/status/1288364508147150848?s=20)   | NoCE on Support                               |
 | Ishtar (Archer)           | [Link](https://twitter.com/waiwaikigurumi/status/1288319322880761857?s=20)  |
 | Ishtar (Rider)            | [Link](https://twitter.com/waiwaikigurumi/status/1288078384250023937?s=20)  | Triple Core with Carmilla and Arash           |
 | Lancelot (Berserker)      | [Link](https://twitter.com/otkznr/status/1288047264452157441?s=20)          | Triple Core with Chen Gong and Kiara          |
