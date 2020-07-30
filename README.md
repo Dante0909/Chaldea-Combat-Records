@@ -1503,6 +1503,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Jinako                    | [Link](https://twitter.com/kitakitasnas/status/1288494437924970496?s=20)    | Solo                                                 |
 | Karna                     | [Link](https://twitter.com/Misaya0131/status/1288634756729458688?s=20)      | Triple Core with Chen Gong and Astarte               |
 | Kiara Sessoin             | [Link](https://www.youtube.com/watch?v=9-H_rDs12Io&feature=youtu.be)        | Ozy as support, Triple Core with Arash and Chen Gong |
+|                           | [Link](https://twitter.com/buenabisutafgo/status/1288842169734709249?s=20)  | Quad Core with Kama, Arjuna Alter, Raikou            |
 | Lancelot (Berserker)      | [Link](https://twitter.com/otkznr/status/1288047264452157441?s=20)          | Triple Core with Chen Gong and Kiara                 |
 |                           | [Link](https://twitter.com/haikaga/status/1288051536149360641?s=20)         |
 |                           | [Link](https://twitter.com/haikaga/status/1288073830770999298?s=20)         | Triple Core with Nito and Chen Gong                  |
@@ -1529,8 +1530,11 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Shiki (Saber)             | [Link](https://twitter.com/_ao2412fgo/status/1288092682850430976?s=20)      |
 | Shuten Douji (Assassin)   | [Link](https://twitter.com/1syuten2syefi/status/1288094252279328768?s=20)   | Quad Core with Arash, Bunyan and Kiara               |
 |                           | [Link](https://twitter.com/shuten1341/status/1288166955568906244?s=20)      |
+|                           | [Link](https://twitter.com/shuten1341/status/1288847490372968448?s=20)      | Dual Core with Kintoki                               |
+| Tamamo no Mae (Berserker) | [Link](https://twitter.com/shortcut588/status/1288872753920057344?s=20)     | Triple Core with Chen Gong and Kiara                 |
 | Tesla                     | [Link](https://twitter.com/abiro_game/status/1288315336555560963?s=20)      | Triple Core with Arash, Helena                       |
 | Valkyrie                  | [Link](https://twitter.com/terminas_aria/status/1288130975306625025?s=20)   |
+|                           | [Link](https://twitter.com/terminas_aria/status/1288851320724586497?s=20)   | NoSwap                                               |
 | Voyager                   | [Link](https://twitter.com/fgosyukai1/status/1288153355039064064?s=20)      | Proof of Concept, Not Final                          |
 | Xiang Yu                  | [Link](https://twitter.com/damenakeisanki/status/1288281630604275712?s=20)  | Triple Core with Kiara and Chen Gong                 |
 
