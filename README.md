@@ -1483,7 +1483,9 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Amakusa Shirou            | [Link](https://twitter.com/otkznr/status/1288499672126853120?s=20)          | Triple Core with Chen and Kiara                      |
 | Arjuna Alter              | [Link](https://twitter.com/otkznr/status/1288193147550363653?s=20)          | Non-event CE, Triple Core with Chen and Kiara        |
 | Arturia Pendragon (Ruler) | [Link](https://twitter.com/Aloha258_master/status/1288046160381218816?s=20) | Dual Core with Chen Gong                             |
+| Arturia Pendragon (Saber) | [Link](https://twitter.com/NuuuuuN0704/status/1288795913473802240?s=20)     | Triple Core with Chen and Astarte                    |
 |                           | [Link](https://twitter.com/Aloha258_master/status/1288324336697237505?s=20) | NoCE on Support                                      |
+|                           | [Link](https://twitter.com/Aloha258_master/status/1288798350972579847?s=20) | Non Event CE                                         |
 | Astarte                   | [Link](https://twitter.com/jyuubeeyuuan/status/1288091390526681089?s=20)    | Dual Core with Chen Gong                             |
 |                           | [Link](https://twitter.com/tksr0000/status/1288089994335199232?s=20)        | NoCE on Support                                      |
 |                           | [Link](https://www.youtube.com/watch?v=tv4zMd7GiZg&feature=youtu.be)        | NoSwap                                               |
