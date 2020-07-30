@@ -138,30 +138,30 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 ### Gugalanna - Bull of Heaven
 
 Note : All TAs are assumed to be dual core here unless mentioned otherwise due to the nature of the CQ
-| DPS Used                 | Link                                                 | Remarks      |
-| ------------------------ | ---------------------------------------------------- | ------------ |
+| DPS Used                 | Link                                                 | Remarks                   |
+| ------------------------ | ---------------------------------------------------- | ------------------------- |
 | Carmilla                 | [Link](https://www.bilibili.com/video/BV144411Z7ti?) |
 | Cleopatra                | [Link](https://www.bilibili.com/video/BV1Bt411Z7uv?) |
-| EMIYA (Assassin)         | [Link](https://www.bilibili.com/video/BV1H4411f7FZ?) | Single Core  |
-| Heracles                 | [Link](https://www.bilibili.com/video/BV184411U7Zw)  | Single Core  |
+| EMIYA (Assassin)         | [Link](https://www.bilibili.com/video/BV1H4411f7FZ?) | Single Core               |
+| Heracles                 | [Link](https://www.bilibili.com/video/BV184411U7Zw)  | Single Core               |
 | Hijikata                 | [Link](https://www.bilibili.com/video/BV13s411H7bf)  |
 | Hokusai                  | [Link](https://www.bilibili.com/video/BV1H441197VX?) |
 | Hundred Face Hassan      | [Link](https://www.bilibili.com/video/BV1W4411Z7Yy)  |
-| Ibaraki                  | [Link](https://www.bilibili.com/video/BV1a4411Z79B)  | Single Core  |
+| Ibaraki                  | [Link](https://www.bilibili.com/video/BV1a4411Z79B)  | Single Core               |
 | Jack the Ripper          | [Link](https://www.bilibili.com/video/BV1Zt411o7Zi?) |
 | Jeanne d'Arc (Alter)     | [Link](https://www.bilibili.com/video/BV1Wb411F7oT)  |
 | King Hassan              | [Link](https://www.bilibili.com/video/BV13t411Z79d)  |
-| Kintoki (Berserker)      | [Link](https://www.bilibili.com/video/BV15b411F7Qm)  | Single Core  |
-| Lu Bu                    | [Link](https://www.bilibili.com/video/BV1Z4411U7TK)  | Single Core  |
+| Kintoki (Berserker)      | [Link](https://www.bilibili.com/video/BV15b411F7Qm)  | Single Core               |
+| Lu Bu                    | [Link](https://www.bilibili.com/video/BV1Z4411U7TK)  | Single Core               |
 | Mecha Eli                | [Link](https://www.bilibili.com/video/BV1r4411U7u4)  |
 | Meltryllis               | [Link](https://www.bilibili.com/video/BV1y4411Z74g)  |
 | MHX                      | [Link](https://www.bilibili.com/video/BV1jt411Z7L7)  |
 | MHXA                     | [Link](https://www.bilibili.com/video/BV19t411d7wQ)  |
 | Musashi                  | [Link](https://www.bilibili.com/video/BV1D4411Z75Y)  |
-| Oda Nobunaga (Berserker) | [Link](https://www.bilibili.com/video/BV18b411F7FZ?) | Single Core  |
+| Oda Nobunaga (Berserker) | [Link](https://www.bilibili.com/video/BV18b411F7FZ?) | Single Core               |
 | Okita                    | [Link](https://www.bilibili.com/video/BV1j4411R7ub)  |
 | Okita (Alter)            | [Link](https://www.bilibili.com/video/BV1o4411U7dL)  |
-| Sasaki Kojiro            | [Link](https://www.youtube.com/watch?v=OFW5u6S53Ks)  | NA-exclusive |
+| Sasaki Kojiro            | [Link](https://www.youtube.com/watch?v=OFW5u6S53Ks)  | NA-exclusive, Single Core |
 | Shiki (Assassin)         | [Link](https://www.bilibili.com/video/BV1Ft411f7Jo)  |
 | Wu Zetian                | [Link](https://www.bilibili.com/video/BV1W4411f7g9)  |
 
