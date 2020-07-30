@@ -1515,7 +1515,9 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Napoleon                  | [Link](https://www.youtube.com/watch?v=1jiWWyZXqy8&feature=youtu.be)        |
 | Nursery Rhyme             | [Link](https://twitter.com/6UgYnoZKVn6PApV/status/1288553708490379264?s=20) |
 | Oda Nobunaga (Berserker)  | [Link](https://twitter.com/snowdroptree/status/1288197583878291457?s=20)    | Quad Core with Arash, Gong and Kiara                 |
+| Oda Nobunaga (Maou)       | [Link](https://twitter.com/OrGOrG_FGO/status/1288804570227855360?s=20)      | Quad Core with Anastasia, Chen Gong and Arjuna Alter |
 | Okita Souji (Assassin)    | [Link](https://twitter.com/hiduka01/status/1288147405200711680?s=20)        |
+| Osakabehime (Archer)      | [Link](https://twitter.com/1syuten2syefi/status/1288755213487058944?s=20)   |
 | Parvati                   | [Link](https://twitter.com/ffgo_rin/status/1288067307864907782?s=20)        | Lv1 Chen Gong on T1                                  |
 |                           | [Link](https://twitter.com/ffgo_rin/status/1288559592046129153?s=20)        | NoSwap                                               |
 | Raikou (Berserker)        | [Link](https://twitter.com/Chinkyu_pencil/status/1288043198032445441?s=20)  | Triple Core with Chen Gong and Kiara                 |
