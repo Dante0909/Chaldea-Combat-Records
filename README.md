@@ -1498,6 +1498,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ishtar (Archer)           | [Link](https://twitter.com/waiwaikigurumi/status/1288319322880761857?s=20)  |
 | Ishtar (Rider)            | [Link](https://twitter.com/waiwaikigurumi/status/1288078384250023937?s=20)  | Triple Core with Carmilla and Arash                  |
 | Jinako                    | [Link](https://twitter.com/kitakitasnas/status/1288494437924970496?s=20)    | Solo                                                 |
+| Karna                     | [Link](https://twitter.com/Misaya0131/status/1288634756729458688?s=20)      | Triple Core with Chen Gong and Astarte               |
 | Kiara Sessoin             | [Link](https://www.youtube.com/watch?v=9-H_rDs12Io&feature=youtu.be)        | Ozy as support, Triple Core with Arash and Chen Gong |
 | Lancelot (Berserker)      | [Link](https://twitter.com/otkznr/status/1288047264452157441?s=20)          | Triple Core with Chen Gong and Kiara                 |
 |                           | [Link](https://twitter.com/haikaga/status/1288051536149360641?s=20)         |
@@ -1510,9 +1511,11 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Musashi (Berserker)       | [Link](https://twitter.com/neko_neko_pad/status/1288058753363763200?s=20)   | Triple Core with Arash and Chen Gong                 |
 |                           | [Link](https://twitter.com/kekekei_MHFZ/status/1288145695539568642?s=20)    | Dual Core with Arash                                 |
 | Napoleon                  | [Link](https://www.youtube.com/watch?v=1jiWWyZXqy8&feature=youtu.be)        |
+| Nursery Rhyme             | [Link](https://twitter.com/6UgYnoZKVn6PApV/status/1288553708490379264?s=20) |
 | Oda Nobunaga (Berserker)  | [Link](https://twitter.com/snowdroptree/status/1288197583878291457?s=20)    | Quad Core with Arash, Gong and Kiara                 |
 | Okita Souji (Assassin)    | [Link](https://twitter.com/hiduka01/status/1288147405200711680?s=20)        |
 | Parvati                   | [Link](https://twitter.com/ffgo_rin/status/1288067307864907782?s=20)        | Lv1 Chen Gong on T1                                  |
+|                           | [Link](https://twitter.com/ffgo_rin/status/1288559592046129153?s=20)        | NoSwap                                               |
 | Raikou (Berserker)        | [Link](https://twitter.com/Chinkyu_pencil/status/1288043198032445441?s=20)  | Triple Core with Chen Gong and Kiara                 |
 |                           | [Link](https://twitter.com/1syuten2syefi/status/1288397640330121216?s=20)   | Non Event CE                                         |
 | Romulus=Qurinus           | [Link](https://github.com/Arc-FGO/Chaldea-Combat-Records.git)               | Triple Core with Chen Gong and Kiara                 |
