@@ -1542,7 +1542,9 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | DPS Used                 | Link                                                                     | Remarks     |
 | ------------------------ | ------------------------------------------------------------------------ | ----------- |
 | Astraea                  | [Link](https://www.bilibili.com/video/BV1gi4y1G7WA)                      |
+| Kama                     | [Link](https://twitter.com/bikakindefgo/status/1289046935962152961?s=20) | 6T          |
 | Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1288235416005402624?s=09) | 4T with 3CS |
+
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
