@@ -1501,6 +1501,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Gawain                    | [Link](https://twitter.com/orionkumachan/status/1288076097788055553?s=20)   |
 | Gilgamesh                 | [Link](https://twitter.com/gameover_fate/status/1288073439861825537?s=20)   | Triple Core with Arash and Bunyan                    |
 |                           | [Link](https://twitter.com/gameover_fate/status/1288364508147150848?s=20)   | NoCE on Support                                      |
+|                           | [Link](https://twitter.com/kyushu_jean4649/status/1289122267302043648?s=20) |
 | Ishtar (Archer)           | [Link](https://twitter.com/waiwaikigurumi/status/1288319322880761857?s=20)  |
 | Ishtar (Rider)            | [Link](https://twitter.com/waiwaikigurumi/status/1288078384250023937?s=20)  | Triple Core with Carmilla and Arash                  |
 | Jinako                    | [Link](https://twitter.com/kitakitasnas/status/1288494437924970496?s=20)    | Solo                                                 |
