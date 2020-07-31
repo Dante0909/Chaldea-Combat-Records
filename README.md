@@ -1520,6 +1520,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Musashi (Berserker)       | [Link](https://twitter.com/neko_neko_pad/status/1288058753363763200?s=20)   | Triple Core with Arash and Chen Gong                 |
 |                           | [Link](https://twitter.com/kekekei_MHFZ/status/1288145695539568642?s=20)    | Dual Core with Arash                                 |
 | Napoleon                  | [Link](https://www.youtube.com/watch?v=1jiWWyZXqy8&feature=youtu.be)        |
+| Nitocris                  | [Link](https://twitter.com/rvy_fgo/status/1289024279292416000?s=20)         | Double Core with Arash and Kiyo                      |
 | Nursery Rhyme             | [Link](https://twitter.com/6UgYnoZKVn6PApV/status/1288553708490379264?s=20) |
 | Oda Nobunaga (Berserker)  | [Link](https://twitter.com/snowdroptree/status/1288197583878291457?s=20)    | Quad Core with Arash, Gong and Kiara                 |
 | Oda Nobunaga (Maou)       | [Link](https://twitter.com/OrGOrG_FGO/status/1288804570227855360?s=20)      | Quad Core with Anastasia, Chen Gong and Arjuna Alter |
