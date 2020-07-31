@@ -1484,7 +1484,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Arjuna Alter              | [Link](https://twitter.com/otkznr/status/1288193147550363653?s=20)          | Non-event CE, Triple Core with Chen and Kiara        |
 |                           | [Link](https://twitter.com/otkznr/status/1289079363095289856?s=20)          | Non Event CE, Triple Core with Chen and CasGil       |
 | Arturia Pendragon (Ruler) | [Link](https://twitter.com/Aloha258_master/status/1288046160381218816?s=20) | Dual Core with Chen Gong                             |
-|                           | [https://twitter.com/Aloha258_master/status/1289126333809713152?s=20]       | NoSwap                                               |
+|                           | [Link](https://twitter.com/Aloha258_master/status/1289126333809713152?s=20) | NoSwap                                               |
 |                           | [Link](https://twitter.com/Aloha258_master/status/1288324336697237505?s=20) | NoCE on Support                                      |
 |                           | [Link](https://twitter.com/Aloha258_master/status/1288798350972579847?s=20) | Non Event CE                                         |
 | Arturia Pendragon (Saber) | [Link](https://twitter.com/NuuuuuN0704/status/1288795913473802240?s=20)     | Triple Core with Chen and Astarte                    |
@@ -1495,6 +1495,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Chen Gong                 | [Link](https://twitter.com/snowdroptree/status/1288068969551654912?s=20)    |
 |                           | [Link](https://twitter.com/mgmg3939pnd/status/1288078028170342403?s=20)     | Dual Core with Circe                                 |
 | Circe                     | [Link](https://twitter.com/2_5_dimension/status/1288316239274639360?s=20)   | Triple Core with Chen and Kama                       |
+| Cu Chulainn (Alter)       | [Link](https://twitter.com/warfare_Holic/status/1289110819720925184?s=20)   | Solo                                                 |
 | Dantes                    | [Link](https://twitter.com/NuuuuuN0704/status/1288139629695135744?s=20)     |
 | Ereshkigal                | [Link](https://twitter.com/waiwaikigurumi/status/1288118748373585923?s=20)  |
 | Gawain                    | [Link](https://twitter.com/orionkumachan/status/1288076097788055553?s=20)   |
@@ -1509,6 +1510,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Lancelot (Berserker)      | [Link](https://twitter.com/otkznr/status/1288047264452157441?s=20)          | Triple Core with Chen Gong and Kiara                 |
 |                           | [Link](https://twitter.com/haikaga/status/1288051536149360641?s=20)         |
 |                           | [Link](https://twitter.com/haikaga/status/1288073830770999298?s=20)         | Triple Core with Nito and Chen Gong                  |
+|                           | [Link](https://twitter.com/haikaga/status/1289132015975952385?s=20)         | Non Event CE                                         |
 | Meltryllis (Alter-Ego)    | [Link](https://twitter.com/2_5_dimension/status/1288450830081826816?s=20)   |
 | Meltryllis (Lancer)       | [Link](https://twitter.com/2_5_dimension/status/1288071450826625026?s=20)   | Triple Core with Chen Gong and Kiara                 |
 |                           | [Link](https://www.youtube.com/watch?v=yilwqMBE5_w)                         |
