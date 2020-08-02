@@ -1491,6 +1491,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | ------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------- |
 | Achilles                  | [Link](https://twitter.com/Violet_g612/status/1288115591354576898?s=20)     | Uses Lv1 Chen                                        |
 | Amakusa Shirou            | [Link](https://twitter.com/otkznr/status/1288499672126853120?s=20)          | Triple Core with Chen and Kiara                      |
+| Arash                     | [Link](https://twitter.com/mishima173/status/1289762690538172417?s=20)      | Triple Core with CasNero and Chen Gong               |
 | Arjuna                    | [Link](https://twitter.com/torikawaTA/status/1289276988193009670?s=20)      |
 | Arjuna Alter              | [Link](https://twitter.com/otkznr/status/1288193147550363653?s=20)          | Non-event CE, Triple Core with Chen and Kiara        |
 |                           | [Link](https://twitter.com/otkznr/status/1289079363095289856?s=20)          | Non Event CE, Triple Core with Chen and CasGil       |
@@ -1527,12 +1528,14 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Meltryllis (Alter-Ego)    | [Link](https://twitter.com/2_5_dimension/status/1288450830081826816?s=20)   |
 | Meltryllis (Lancer)       | [Link](https://twitter.com/2_5_dimension/status/1288071450826625026?s=20)   | Triple Core with Chen Gong and Kiara                 |
 |                           | [Link](https://www.youtube.com/watch?v=yilwqMBE5_w)                         |
+|                           | [Link](https://twitter.com/BOBislazyboy/status/1289787536865259521?s=20)    | Non Event CE, Kiara DC                               |
 | MHXA                      | [Link](https://twitter.com/NAO42010/status/1288322534329290752?s=20)        | Quad Core with Arash, Bunyan and Kiara               |
 | Mordred (Saber)           | [Link](https://twitter.com/Hello_Anthem/status/1288117632202190852?s=19)    | Double Core with Kiara                               |
 | Murasaki Shikibu          | [Link](https://twitter.com/Hello_Anthem/status/1288687720311558144?s=20)    | Lv1 Gong                                             |
 | Musashi (Berserker)       | [Link](https://twitter.com/neko_neko_pad/status/1288058753363763200?s=20)   | Triple Core with Arash and Chen Gong                 |
 |                           | [Link](https://twitter.com/kekekei_MHFZ/status/1288145695539568642?s=20)    | Dual Core with Arash                                 |
 | Napoleon                  | [Link](https://www.youtube.com/watch?v=1jiWWyZXqy8&feature=youtu.be)        |
+| Nero                      |
 | Nitocris                  | [Link](https://twitter.com/rvy_fgo/status/1289024279292416000?s=20)         | Double Core with Arash and Kiyo                      |
 | Nursery Rhyme             | [Link](https://twitter.com/6UgYnoZKVn6PApV/status/1288553708490379264?s=20) |
 | Oda Nobunaga (Berserker)  | [Link](https://twitter.com/snowdroptree/status/1288197583878291457?s=20)    | Quad Core with Arash, Gong and Kiara                 |
@@ -1541,6 +1544,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Osakabehime (Archer)      | [Link](https://twitter.com/1syuten2syefi/status/1288755213487058944?s=20)   |
 | Parvati                   | [Link](https://twitter.com/ffgo_rin/status/1288067307864907782?s=20)        | Lv1 Chen Gong on T1                                  |
 |                           | [Link](https://twitter.com/ffgo_rin/status/1288559592046129153?s=20)        | NoSwap                                               |
+| Penthesilea               | [Link](https://twitter.com/EdaFgo/status/1289752561428267008?s=20)          | ST TA                                                |
 | Raikou (Berserker)        | [Link](https://twitter.com/Chinkyu_pencil/status/1288043198032445441?s=20)  | Triple Core with Chen Gong and Kiara                 |
 |                           | [Link](https://twitter.com/1syuten2syefi/status/1288397640330121216?s=20)   | Non Event CE                                         |
 | Romulus=Qurinus           | [Link](https://github.com/Arc-FGO/Chaldea-Combat-Records.git)               | Triple Core with Chen Gong and Kiara                 |
@@ -1555,6 +1559,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                           | [Link](https://twitter.com/terminas_aria/status/1288851320724586497?s=20)   | NoSwap                                               |
 | Voyager                   | [Link](https://twitter.com/fgosyukai1/status/1288153355039064064?s=20)      | Proof of Concept, Not Final                          |
 | Xiang Yu                  | [Link](https://twitter.com/damenakeisanki/status/1288281630604275712?s=20)  | Triple Core with Kiara and Chen Gong                 |
+| HEXA Core                 | [Link](https://twitter.com/ITMST/status/1289820958228807685?s=20)           |
 
 ### Tokugawa Kaiten Labyrinth - Ooku (Rerun) : BEAST III/L 
 | DPS Used                 | Link                                                                     | Remarks     |
