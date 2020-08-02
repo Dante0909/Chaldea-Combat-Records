@@ -119,7 +119,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Ibaraki                        | [Link](https://www.bilibili.com/video/BV1A4411C79m)               |
 | Ishtar                         | [Link](https://www.bilibili.com/video/BV1CW411U7Nv)               |
 | Jack                           | [Link](https://www.bilibili.com/video/BV1Ks41137dU)               |
-| Jack                           | [Link](https://www.youtube.com/watch?v=hgBc8ePl4o8)               |
+|                                | [Link](https://www.youtube.com/watch?v=hgBc8ePl4o8)               |
 | Jeanne d'Arc (Alter)           | [Link](https://www.bilibili.com/video/BV16W411m79h)               |
 | Kintoki                        | [Link](https://www.bilibili.com/video/BV1wW411S7py)               |
 | Lancelot (Berserked)           | [Link](https://www.bilibili.com/video/BV1a4411y7mD)               |
