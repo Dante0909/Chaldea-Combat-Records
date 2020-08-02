@@ -149,6 +149,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Hokusai                  | [Link](https://www.bilibili.com/video/BV1H441197VX?)                 |
 | Hundred Face Hassan      | [Link](https://www.bilibili.com/video/BV1W4411Z7Yy)                  |
 |                          | [Link](https://www.youtube.com/watch?v=m9tCToCGmCE&feature=youtu.be) | NA-exclusive, Single Core             |
+|                          | [Link](https://www.youtube.com/watch?v=wHbqyFkyJs4)                  | Solo                                  |
 | Ibaraki                  | [Link](https://www.bilibili.com/video/BV1a4411Z79B)                  | Single Core                           |
 | Jack the Ripper          | [Link](https://www.bilibili.com/video/BV1Zt411o7Zi?)                 |
 |                          | [Link](https://www.youtube.com/watch?v=eLDRTZS8Y0w&feature=youtu.be) | NA-exclusive, Single Core             |
