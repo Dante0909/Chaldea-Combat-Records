@@ -1560,6 +1560,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | ------------------------ | ------------------------------------------------------------------------ | ----------- |
 | Astraea                  | [Link](https://www.bilibili.com/video/BV1gi4y1G7WA)                      |
 | Kama                     | [Link](https://twitter.com/bikakindefgo/status/1289046935962152961?s=20) | 6T          |
+| Meltryllis               | [Link](https://www.bilibili.com/video/BV1Ek4y1m7CN)                      | 6T          |
 | Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1288235416005402624?s=09) | 4T with 3CS |
 | Yang Guifei              | [Link](https://twitter.com/chwangk/status/1289316500868706307?s=20)      | 7T          |
 
