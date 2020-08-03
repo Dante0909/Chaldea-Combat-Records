@@ -1535,7 +1535,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Musashi (Berserker)       | [Link](https://twitter.com/neko_neko_pad/status/1288058753363763200?s=20)   | Triple Core with Arash and Chen Gong                 |
 |                           | [Link](https://twitter.com/kekekei_MHFZ/status/1288145695539568642?s=20)    | Dual Core with Arash                                 |
 | Napoleon                  | [Link](https://www.youtube.com/watch?v=1jiWWyZXqy8&feature=youtu.be)        |
-| Nero                      |
+| Nero                      | [Link](https://twitter.com/Chihiro1000/status/1290164306269450240?s=20)     | Double Core with Circe                               |
 | Nitocris                  | [Link](https://twitter.com/rvy_fgo/status/1289024279292416000?s=20)         | Double Core with Arash and Kiyo                      |
 | Nursery Rhyme             | [Link](https://twitter.com/6UgYnoZKVn6PApV/status/1288553708490379264?s=20) |
 | Oda Nobunaga (Berserker)  | [Link](https://twitter.com/snowdroptree/status/1288197583878291457?s=20)    | Quad Core with Arash, Gong and Kiara                 |
@@ -1544,6 +1544,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Osakabehime (Archer)      | [Link](https://twitter.com/1syuten2syefi/status/1288755213487058944?s=20)   |
 | Parvati                   | [Link](https://twitter.com/ffgo_rin/status/1288067307864907782?s=20)        | Lv1 Chen Gong on T1                                  |
 |                           | [Link](https://twitter.com/ffgo_rin/status/1288559592046129153?s=20)        | NoSwap                                               |
+| Passionlip                | [Link](https://twitter.com/onabeno_huta/status/1288853106134982657?s=20)    | Triple Core with Arash                               |
 | Penthesilea               | [Link](https://twitter.com/EdaFgo/status/1289752561428267008?s=20)          | ST TA                                                |
 | Raikou (Berserker)        | [Link](https://twitter.com/Chinkyu_pencil/status/1288043198032445441?s=20)  | Triple Core with Chen Gong and Kiara                 |
 |                           | [Link](https://twitter.com/1syuten2syefi/status/1288397640330121216?s=20)   | Non Event CE                                         |
@@ -1557,18 +1558,21 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Tesla                     | [Link](https://twitter.com/abiro_game/status/1288315336555560963?s=20)      | Triple Core with Arash, Helena                       |
 | Valkyrie                  | [Link](https://twitter.com/terminas_aria/status/1288130975306625025?s=20)   |
 |                           | [Link](https://twitter.com/terminas_aria/status/1288851320724586497?s=20)   | NoSwap                                               |
-| Voyager                   | [Link](https://twitter.com/fgosyukai1/status/1288153355039064064?s=20)      | Proof of Concept, Not Final                          |
+| Voyager                   | [Link](https://twitter.com/fgosyukai1/status/1289871537021935618?s=20)      | DC with Kiara and Kama                               |
 | Xiang Yu                  | [Link](https://twitter.com/damenakeisanki/status/1288281630604275712?s=20)  | Triple Core with Kiara and Chen Gong                 |
 | HEXA Core                 | [Link](https://twitter.com/ITMST/status/1289820958228807685?s=20)           |
 
 ### Tokugawa Kaiten Labyrinth - Ooku (Rerun) : BEAST III/L 
-| DPS Used                 | Link                                                                     | Remarks     |
-| ------------------------ | ------------------------------------------------------------------------ | ----------- |
+| DPS Used                 | Link                                                                     | Remarks            |
+| ------------------------ | ------------------------------------------------------------------------ | ------------------ |
 | Astraea                  | [Link](https://www.bilibili.com/video/BV1gi4y1G7WA)                      |
-| Kama                     | [Link](https://twitter.com/bikakindefgo/status/1289046935962152961?s=20) | 6T          |
-| Meltryllis               | [Link](https://www.bilibili.com/video/BV1Ek4y1m7CN)                      | 6T          |
-| Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1288235416005402624?s=09) | 4T with 3CS |
-| Yang Guifei              | [Link](https://twitter.com/chwangk/status/1289316500868706307?s=20)      | 7T          |
+| Kama                     | [Link](https://twitter.com/bikakindefgo/status/1289046935962152961?s=20) | 6T                 |
+|                          | [Link](https://twitter.com/OrGOrG_FGO/status/1290263980036878336?s=20)   | 5T with 1CS        |
+|                          | [Link](https://twitter.com/d_fmgfam34/status/1290280037011214337?s=20)   | 6T, Alternate comp |
+| Meltryllis               | [Link](https://www.bilibili.com/video/BV1Ek4y1m7CN)                      | 6T                 |
+| Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1288235416005402624?s=09) | 4T with 3CS        |
+| Sitonai                  | [Link](https://twitter.com/Kag_Tam/status/1290267099353378816?s=20)      | 7T                 |
+| Yang Guifei              | [Link](https://twitter.com/chwangk/status/1289316500868706307?s=20)      | 7T                 |
 
 
 - All videos linked in this repo are the properties of their owners.
