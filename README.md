@@ -1453,7 +1453,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Kiara Sessoin                   | [Link](https://twitter.com/AGRS_YUI_LUNA/status/1286128346967838722/photo/3) | DB, Solo, not a video               |
 | King Hassan                     | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)      | HHWO                                |
 | Kingprotea                      | [Link](https://www.youtube.com/watch?v=_LgAUmwVIuQ)                          | Solo, HHWO                          |
-| Li SHuwen (Assassin)            | [Link](https://twitter.com/kitakitasnas/status/1285222462783844353?s=20)     | HHWO                                |
+| Li Shuwen (Assassin)            | [Link](https://twitter.com/kitakitasnas/status/1285222462783844353?s=20)     | HHWO                                |
 | Meltryllis                      | [Link](https://twitter.com/DrgnWgt/status/1284526788186537984?s=20)          | DB                                  |
 |                                 | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)           | DB, Dual Core with Orion            |
 |                                 | [Link](https://twitter.com/Peperon8310/status/1284541056562819072?s=20)      | HHWO                                |
@@ -1473,6 +1473,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Orion (Superhuman)              | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)      | HHWO                                |
 |                                 | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20)   | DB                                  |
 |                                 | [Link](https://twitter.com/fgo38195272/status/1284868027628941313?s=20)      | HHWO, NoSwap, NoCE on Supports      |
+|                                 | [Link](https://twitter.com/hiduka01/status/1290338695359258624)              | DB, noCE on DPS                     |
 | Penthesilea                     | [Link](https://twitter.com/EdaFgo/status/1284865465672597505?s=20)           | HHWO                                |
 |                                 | [Link](https://twitter.com/EdaFgo/status/1286187630367932416?s=20)           | DB, Uses 1 CS                       |
 | Raikou                          | [Link](https://twitter.com/1syuten2syefi/status/1285045399275753472?s=20)    | NoNP, HHWO                          |
@@ -1573,6 +1574,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                          | [Link](https://twitter.com/d_fmgfam34/status/1290280037011214337?s=20)   | 6T, Alternate comp |
 | Meltryllis               | [Link](https://www.bilibili.com/video/BV1Ek4y1m7CN)                      | 6T                 |
 | Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1288235416005402624?s=09) | 4T with 3CS        |
+| | [Link](https://twitter.com/ZheliangW/status/1290402032587661312?s=20) | 7T
 | Sitonai                  | [Link](https://twitter.com/Kag_Tam/status/1290267099353378816?s=20)      | 7T                 |
 | Yang Guifei              | [Link](https://twitter.com/chwangk/status/1289316500868706307?s=20)      | 7T                 |
 
