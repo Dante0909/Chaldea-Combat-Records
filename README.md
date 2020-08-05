@@ -1129,6 +1129,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                  | [Link](https://twitter.com/mana_pwpr/status/1267123311554650112?s=20)       | NoSwap                                         |
 | Diarmuid                         | [Link](https://twitter.com/waiwaikigurumi/status/1266684625427902464?s=20)  | NoSwap                                         |
 | Dioscuri                         | [Link](https://twitter.com/Herakles_osi/status/1266676364083511296?s=20)    | Non SSR supports only                          |
+|                                  | [Link](https://www.youtube.com/watch?v=clahfDHXY4Y)                         | NoSwap                                         |
 | Elizabeth Bathory (Brave)        | [Link](https://twitter.com/snowdroptree/status/1267002737977253888?s=20)    |
 | Ereshkigal                       | [Link](https://twitter.com/waiwaikigurumi/status/1266731578488578048?s=20)  |
 |                                  | [Link](https://twitter.com/ITMST/status/1268935433460711426?s=19)           | NoCE on Support                                |
@@ -1512,6 +1513,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Chen Gong                 | [Link](https://twitter.com/snowdroptree/status/1288068969551654912?s=20)    |
 |                           | [Link](https://www.bilibili.com/video/BV12Z4y1T7DB)                         | Non Event CE                                         |
 |                           | [Link](https://twitter.com/mgmg3939pnd/status/1288078028170342403?s=20)     | Dual Core with Circe                                 |
+|                           | [Link](https://twitter.com/snowdroptree/status/1290719051421949952?s=19)    | SR Supports Only                                     |
 | Circe                     | [Link](https://twitter.com/2_5_dimension/status/1288316239274639360?s=20)   | Triple Core with Chen and Kama                       |
 | Cu Chulainn (Alter)       | [Link](https://twitter.com/warfare_Holic/status/1289110819720925184?s=20)   | Solo                                                 |
 | Dantes                    | [Link](https://twitter.com/NuuuuuN0704/status/1288139629695135744?s=20)     |
@@ -1535,6 +1537,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Meltryllis (Lancer)       | [Link](https://twitter.com/2_5_dimension/status/1288071450826625026?s=20)   | Triple Core with Chen Gong and Kiara                 |
 |                           | [Link](https://www.youtube.com/watch?v=yilwqMBE5_w)                         |
 |                           | [Link](https://twitter.com/BOBislazyboy/status/1289787536865259521?s=20)    | Non Event CE, Kiara DC                               |
+|                           | [Link](https://twitter.com/2_5_dimension/status/1290783443278651392?s=19)   | NoSwap, Double Core with Kiara                       |
 | MHXA                      | [Link](https://twitter.com/NAO42010/status/1288322534329290752?s=20)        | Quad Core with Arash, Bunyan and Kiara               |
 | Mordred (Saber)           | [Link](https://twitter.com/Hello_Anthem/status/1288117632202190852?s=19)    | Double Core with Kiara                               |
 | Murasaki Shikibu          | [Link](https://twitter.com/Hello_Anthem/status/1288687720311558144?s=20)    | Lv1 Gong                                             |
