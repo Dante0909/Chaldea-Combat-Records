@@ -1504,6 +1504,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                           | [Link](https://twitter.com/Aloha258_master/status/1289126333809713152?s=20) | NoSwap                                               |
 |                           | [Link](https://twitter.com/Aloha258_master/status/1288324336697237505?s=20) | NoCE on Support                                      |
 |                           | [Link](https://twitter.com/Aloha258_master/status/1288798350972579847?s=20) | Non Event CE                                         |
+|                           | [Link](https://twitter.com/Aloha258_master/status/1290711964109348864?s=20) | Non SSR Supports Only                                |
 | Arturia Pendragon (Saber) | [Link](https://twitter.com/NuuuuuN0704/status/1288795913473802240?s=20)     | Triple Core with Chen and Astarte                    |
 |                           | [Link](https://twitter.com/TKGFGO1/status/1289290268219342848?s=20)         |
 | Astarte                   | [Link](https://twitter.com/jyuubeeyuuan/status/1288091390526681089?s=20)    | Dual Core with Chen Gong                             |
@@ -1553,6 +1554,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Osakabehime (Archer)      | [Link](https://twitter.com/1syuten2syefi/status/1288755213487058944?s=20)   |
 | Parvati                   | [Link](https://twitter.com/ffgo_rin/status/1288067307864907782?s=20)        | Lv1 Chen Gong on T1                                  |
 |                           | [Link](https://twitter.com/ffgo_rin/status/1288559592046129153?s=20)        | NoSwap                                               |
+|                           | [Link](https://twitter.com/ffgo_rin/status/1290688996511637504?s=20)        | Non SSR Supports Only                                |
 | Passionlip                | [Link](https://twitter.com/onabeno_huta/status/1288853106134982657?s=20)    | Triple Core with Arash                               |
 | Penthesilea               | [Link](https://twitter.com/EdaFgo/status/1289752561428267008?s=20)          | ST TA                                                |
 | Raikou (Berserker)        | [Link](https://twitter.com/Chinkyu_pencil/status/1288043198032445441?s=20)  | Triple Core with Chen Gong and Kiara                 |
