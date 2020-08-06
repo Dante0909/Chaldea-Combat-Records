@@ -1436,6 +1436,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | BB (Summer)                     | [Link](https://twitter.com/ITMST/status/1286252718768578562?s=20)            | DB, Dual Core with Orion            |
 | Caesar                          | [Link](https://twitter.com/snowdroptree/status/1284577803325726721?s=20)     | HHWO                                |
 | Dantes                          | [Link](https://twitter.com/sjtakgmmt/status/1285519968709144578?s=20)        | HHWO                                |
+|                                 | [Link](https://twitter.com/mana_pwpr/status/1291052887179538432?s=19)        | DB, Dual Core with Orion            |
 | Dioscuri                        | [Link](https://twitter.com/Herakles_osi/status/1284834521368735748?s=20)     | DB                                  |
 | Enkidu                          | [Link](https://twitter.com/mgmg3939pnd/status/1285755658550210561?s=20)      | DB, 1CS needed if Skadi gets sealed |
 | Fujino Asagami                  | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)       | HHWO                                |
