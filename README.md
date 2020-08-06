@@ -138,44 +138,44 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 ### Gugalanna - Bull of Heaven
 
 Note : All TAs are assumed to be dual core here unless mentioned otherwise due to the nature of the CQ
-| DPS Used                 | Link                                                                 | Remarks                               |
-| ------------------------ | -------------------------------------------------------------------- | ------------------------------------- |
-| Carmilla                 | [Link](https://www.bilibili.com/video/BV144411Z7ti?)                 |
-|                          | [Link](https://www.youtube.com/watch?v=9mWthfgdrzs)                  | NA-exclusive, Single Core
-| Cleopatra                | [Link](https://www.bilibili.com/video/BV1Bt411Z7uv?)                 |
-| Cu Chulainn (Alter)      | [Link](https://www.youtube.com/watch?v=NnJ38CjUfmE)                  | Single Core                           |
-| EMIYA (Assassin)         | [Link](https://www.bilibili.com/video/BV1H4411f7FZ?)                 | Single Core                           |
-| Heracles                 | [Link](https://www.bilibili.com/video/BV184411U7Zw)                  | Single Core                           |
-| Hijikata                 | [Link](https://www.bilibili.com/video/BV13s411H7bf)                  |
-| Hokusai                  | [Link](https://www.bilibili.com/video/BV1H441197VX?)                 |
-| Hundred Face Hassan      | [Link](https://www.bilibili.com/video/BV1W4411Z7Yy)                  |
-|                          | [Link](https://www.youtube.com/watch?v=m9tCToCGmCE)                  | NA-exclusive, Single Core             |
-|                          | [Link](https://www.youtube.com/watch?v=wHbqyFkyJs4)                  | Solo                                  |
-| Ibaraki                  | [Link](https://www.bilibili.com/video/BV1a4411Z79B)                  | Single Core                           |
-| Jack the Ripper          | [Link](https://www.bilibili.com/video/BV1Zt411o7Zi?)                 |
-|                          | [Link](https://www.youtube.com/watch?v=eLDRTZS8Y0w)                  | NA-exclusive, Single Core             |
-| Jeanne d'Arc (Alter)     | [Link](https://www.bilibili.com/video/BV1Wb411F7oT)                  |
-| King Hassan              | [Link](https://www.bilibili.com/video/BV13t411Z79d)                  |
-| Kintoki (Berserker)      | [Link](https://www.bilibili.com/video/BV15b411F7Qm)                  | Single Core                           |
-| Lu Bu                    | [Link](https://www.bilibili.com/video/BV1Z4411U7TK)                  | Single Core                           |
-| Mecha Eli                | [Link](https://www.bilibili.com/video/BV1r4411U7u4)                  |
-| Meltryllis               | [Link](https://www.bilibili.com/video/BV1y4411Z74g)                  |
-|                          | [Link](https://www.youtube.com/watch?v=9noylDiZdA0)                  | NA-exclusive, Single Core             |
-|                          | [Link](https://www.youtube.com/watch?v=kWmxXeYOGL8)                  | Double Core with Lalter               |
-| MHX                      | [Link](https://www.bilibili.com/video/BV1jt411Z7L7)                  |
-| MHXA                     | [Link](https://www.bilibili.com/video/BV19t411d7wQ)                  |
-|                          | [Link](https://www.youtube.com/watch?v=B_ZziWnZ598)                  | NA-exclusive, Single Core             |
-| Musashi                  | [Link](https://www.bilibili.com/video/BV1D4411Z75Y)                  |
-| Oda Nobunaga (Berserker) | [Link](https://www.bilibili.com/video/BV18b411F7FZ?)                 | Single Core                           |
-| Okita                    | [Link](https://www.bilibili.com/video/BV1j4411R7ub)                  |
-| Okita (Alter)            | [Link](https://www.bilibili.com/video/BV1o4411U7dL)                  |
-| Sasaki Kojiro            | [Link](https://www.youtube.com/watch?v=OFW5u6S53Ks)                  | NA-exclusive, Single Core             |
-| Scathach                 | [Link](https://www.youtube.com/watch?v=liIPe3JH35U)                  | NA-exclusive, Single Core             |
-|                          | [Link](https://www.youtube.com/watch?v=CWVfK2dQVt8)                  | Cleaned Up version of the above video |
-| Shiki (Assassin)         | [Link](https://www.bilibili.com/video/BV1Ft411f7Jo)                  |
-| Wu Zetian                | [Link](https://www.bilibili.com/video/BV1W4411f7g9)                  |
-|                          | [Link](https://www.youtube.com/watch?v=bGDEJoj_hcA)                  | NA-exclusive
-| Yan Qing                 | [Link](https://www.youtube.com/watch?v=rQwqAX5hYAY)                  | NA-exclusive, Single Core             |
+| DPS Used                 | Link                                                 | Remarks                               |
+| ------------------------ | ---------------------------------------------------- | ------------------------------------- |
+| Carmilla                 | [Link](https://www.bilibili.com/video/BV144411Z7ti?) |
+|                          | [Link](https://www.youtube.com/watch?v=9mWthfgdrzs)  | NA-exclusive, Single Core             |
+| Cleopatra                | [Link](https://www.bilibili.com/video/BV1Bt411Z7uv?) |
+| Cu Chulainn (Alter)      | [Link](https://www.youtube.com/watch?v=NnJ38CjUfmE)  | Single Core                           |
+| EMIYA (Assassin)         | [Link](https://www.bilibili.com/video/BV1H4411f7FZ?) | Single Core                           |
+| Heracles                 | [Link](https://www.bilibili.com/video/BV184411U7Zw)  | Single Core                           |
+| Hijikata                 | [Link](https://www.bilibili.com/video/BV13s411H7bf)  |
+| Hokusai                  | [Link](https://www.bilibili.com/video/BV1H441197VX?) |
+| Hundred Face Hassan      | [Link](https://www.bilibili.com/video/BV1W4411Z7Yy)  |
+|                          | [Link](https://www.youtube.com/watch?v=m9tCToCGmCE)  | NA-exclusive, Single Core             |
+|                          | [Link](https://www.youtube.com/watch?v=wHbqyFkyJs4)  | Solo                                  |
+| Ibaraki                  | [Link](https://www.bilibili.com/video/BV1a4411Z79B)  | Single Core                           |
+| Jack the Ripper          | [Link](https://www.bilibili.com/video/BV1Zt411o7Zi?) |
+|                          | [Link](https://www.youtube.com/watch?v=eLDRTZS8Y0w)  | NA-exclusive, Single Core             |
+| Jeanne d'Arc (Alter)     | [Link](https://www.bilibili.com/video/BV1Wb411F7oT)  |
+| King Hassan              | [Link](https://www.bilibili.com/video/BV13t411Z79d)  |
+| Kintoki (Berserker)      | [Link](https://www.bilibili.com/video/BV15b411F7Qm)  | Single Core                           |
+| Lu Bu                    | [Link](https://www.bilibili.com/video/BV1Z4411U7TK)  | Single Core                           |
+| Mecha Eli                | [Link](https://www.bilibili.com/video/BV1r4411U7u4)  |
+| Meltryllis               | [Link](https://www.bilibili.com/video/BV1y4411Z74g)  |
+|                          | [Link](https://www.youtube.com/watch?v=9noylDiZdA0)  | NA-exclusive, Single Core             |
+|                          | [Link](https://www.youtube.com/watch?v=kWmxXeYOGL8)  | Double Core with Lalter               |
+| MHX                      | [Link](https://www.bilibili.com/video/BV1jt411Z7L7)  |
+| MHXA                     | [Link](https://www.bilibili.com/video/BV19t411d7wQ)  |
+|                          | [Link](https://www.youtube.com/watch?v=B_ZziWnZ598)  | NA-exclusive, Single Core             |
+| Musashi                  | [Link](https://www.bilibili.com/video/BV1D4411Z75Y)  |
+| Oda Nobunaga (Berserker) | [Link](https://www.bilibili.com/video/BV18b411F7FZ?) | Single Core                           |
+| Okita                    | [Link](https://www.bilibili.com/video/BV1j4411R7ub)  |
+| Okita (Alter)            | [Link](https://www.bilibili.com/video/BV1o4411U7dL)  |
+| Sasaki Kojiro            | [Link](https://www.youtube.com/watch?v=OFW5u6S53Ks)  | NA-exclusive, Single Core             |
+| Scathach                 | [Link](https://www.youtube.com/watch?v=liIPe3JH35U)  | NA-exclusive, Single Core             |
+|                          | [Link](https://www.youtube.com/watch?v=CWVfK2dQVt8)  | Cleaned Up version of the above video |
+| Shiki (Assassin)         | [Link](https://www.bilibili.com/video/BV1Ft411f7Jo)  |
+| Wu Zetian                | [Link](https://www.bilibili.com/video/BV1W4411f7g9)  |
+|                          | [Link](https://www.youtube.com/watch?v=bGDEJoj_hcA)  | NA-exclusive                          |
+| Yan Qing                 | [Link](https://www.youtube.com/watch?v=rQwqAX5hYAY)  | NA-exclusive, Single Core             |
 
 ### Dantes Prison Tower
 
@@ -1129,6 +1129,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                  | [Link](https://twitter.com/mana_pwpr/status/1267123311554650112?s=20)       | NoSwap                                         |
 | Diarmuid                         | [Link](https://twitter.com/waiwaikigurumi/status/1266684625427902464?s=20)  | NoSwap                                         |
 | Dioscuri                         | [Link](https://twitter.com/Herakles_osi/status/1266676364083511296?s=20)    | Non SSR supports only                          |
+|                                  | [Link](https://www.youtube.com/watch?v=clahfDHXY4Y)                         | NoSwap                                         |
 | Elizabeth Bathory (Brave)        | [Link](https://twitter.com/snowdroptree/status/1267002737977253888?s=20)    |
 | Ereshkigal                       | [Link](https://twitter.com/waiwaikigurumi/status/1266731578488578048?s=20)  |
 |                                  | [Link](https://twitter.com/ITMST/status/1268935433460711426?s=19)           | NoCE on Support                                |
@@ -1435,8 +1436,10 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | BB (Summer)                     | [Link](https://twitter.com/ITMST/status/1286252718768578562?s=20)            | DB, Dual Core with Orion            |
 | Caesar                          | [Link](https://twitter.com/snowdroptree/status/1284577803325726721?s=20)     | HHWO                                |
 | Dantes                          | [Link](https://twitter.com/sjtakgmmt/status/1285519968709144578?s=20)        | HHWO                                |
+|                                 | [Link](https://twitter.com/mana_pwpr/status/1291052887179538432?s=19)        | DB, Dual Core with Orion            |
 | Dioscuri                        | [Link](https://twitter.com/Herakles_osi/status/1284834521368735748?s=20)     | DB                                  |
 | Enkidu                          | [Link](https://twitter.com/mgmg3939pnd/status/1285755658550210561?s=20)      | DB, 1CS needed if Skadi gets sealed |
+|                                 | [Link](https://twitter.com/SW87807148/status/1291160478119538690)            | DB, 7T Completed                        |
 | Fujino Asagami                  | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)       | HHWO                                |
 | Fran (Saber)                    | [Link](https://twitter.com/FrnHorn/status/1285675915490594825?s=20)          | DB                                  |
 | Gawain                          | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)    | HHWO                                |
@@ -1455,7 +1458,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Kiara Sessoin                   | [Link](https://twitter.com/AGRS_YUI_LUNA/status/1286128346967838722/photo/3) | DB, Solo, not a video               |
 | King Hassan                     | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)      | HHWO                                |
 | Kingprotea                      | [Link](https://www.youtube.com/watch?v=_LgAUmwVIuQ)                          | Solo, HHWO                          |
-| Li SHuwen (Assassin)            | [Link](https://twitter.com/kitakitasnas/status/1285222462783844353?s=20)     | HHWO                                |
+| Li Shuwen (Assassin)            | [Link](https://twitter.com/kitakitasnas/status/1285222462783844353?s=20)     | HHWO                                |
 | Meltryllis                      | [Link](https://twitter.com/DrgnWgt/status/1284526788186537984?s=20)          | DB                                  |
 |                                 | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)           | DB, Dual Core with Orion            |
 |                                 | [Link](https://twitter.com/Peperon8310/status/1284541056562819072?s=20)      | HHWO                                |
@@ -1475,6 +1478,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Orion (Superhuman)              | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)      | HHWO                                |
 |                                 | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20)   | DB                                  |
 |                                 | [Link](https://twitter.com/fgo38195272/status/1284868027628941313?s=20)      | HHWO, NoSwap, NoCE on Supports      |
+|                                 | [Link](https://twitter.com/hiduka01/status/1290338695359258624)              | DB, noCE on DPS                     |
 | Penthesilea                     | [Link](https://twitter.com/EdaFgo/status/1284865465672597505?s=20)           | HHWO                                |
 |                                 | [Link](https://twitter.com/EdaFgo/status/1286187630367932416?s=20)           | DB, Uses 1 CS                       |
 | Raikou                          | [Link](https://twitter.com/1syuten2syefi/status/1285045399275753472?s=20)    | NoNP, HHWO                          |
@@ -1492,6 +1496,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | DPS Used                  | Link                                                                        | Remarks                                              |
 | ------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------- |
 | Achilles                  | [Link](https://twitter.com/Violet_g612/status/1288115591354576898?s=20)     | Uses Lv1 Chen                                        |
+|                           | [Link](https://twitter.com/calpis_102/status/1290582799548731393?s=20)      | Non Event CE, Triple Core with Gong and Carmilla     |
 | Amakusa Shirou            | [Link](https://twitter.com/otkznr/status/1288499672126853120?s=20)          | Triple Core with Chen and Kiara                      |
 | Arash                     | [Link](https://twitter.com/mishima173/status/1289762690538172417?s=20)      | Triple Core with CasNero and Chen Gong               |
 | Arjuna                    | [Link](https://twitter.com/torikawaTA/status/1289276988193009670?s=20)      |
@@ -1501,6 +1506,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                           | [Link](https://twitter.com/Aloha258_master/status/1289126333809713152?s=20) | NoSwap                                               |
 |                           | [Link](https://twitter.com/Aloha258_master/status/1288324336697237505?s=20) | NoCE on Support                                      |
 |                           | [Link](https://twitter.com/Aloha258_master/status/1288798350972579847?s=20) | Non Event CE                                         |
+|                           | [Link](https://twitter.com/Aloha258_master/status/1290711964109348864?s=20) | Non SSR Supports Only                                |
 | Arturia Pendragon (Saber) | [Link](https://twitter.com/NuuuuuN0704/status/1288795913473802240?s=20)     | Triple Core with Chen and Astarte                    |
 |                           | [Link](https://twitter.com/TKGFGO1/status/1289290268219342848?s=20)         |
 | Astarte                   | [Link](https://twitter.com/jyuubeeyuuan/status/1288091390526681089?s=20)    | Dual Core with Chen Gong                             |
@@ -1508,10 +1514,13 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                           | [Link](https://www.youtube.com/watch?v=tv4zMd7GiZg&feature=youtu.be)        | NoSwap                                               |
 |                           | [Link](https://twitter.com/jyuubeeyuuan/status/1288176908790726656?s=20)    | Non Event CE, Dual Core                              |
 | Chen Gong                 | [Link](https://twitter.com/snowdroptree/status/1288068969551654912?s=20)    |
+|                           | [Link](https://www.bilibili.com/video/BV12Z4y1T7DB)                         | Non Event CE                                         |
 |                           | [Link](https://twitter.com/mgmg3939pnd/status/1288078028170342403?s=20)     | Dual Core with Circe                                 |
+|                           | [Link](https://twitter.com/snowdroptree/status/1290719051421949952?s=19)    | SR Supports Only                                     |
 | Circe                     | [Link](https://twitter.com/2_5_dimension/status/1288316239274639360?s=20)   | Triple Core with Chen and Kama                       |
 | Cu Chulainn (Alter)       | [Link](https://twitter.com/warfare_Holic/status/1289110819720925184?s=20)   | Solo                                                 |
 | Dantes                    | [Link](https://twitter.com/NuuuuuN0704/status/1288139629695135744?s=20)     |
+|                           | [Link](https://twitter.com/otkznr/status/1290603468852322305?s=20)          | Non Event CE                                         |
 | Ereshkigal                | [Link](https://twitter.com/waiwaikigurumi/status/1288118748373585923?s=20)  |
 | Gawain                    | [Link](https://twitter.com/orionkumachan/status/1288076097788055553?s=20)   |
 | Gilgamesh                 | [Link](https://twitter.com/gameover_fate/status/1288073439861825537?s=20)   | Triple Core with Arash and Bunyan                    |
@@ -1531,13 +1540,14 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Meltryllis (Lancer)       | [Link](https://twitter.com/2_5_dimension/status/1288071450826625026?s=20)   | Triple Core with Chen Gong and Kiara                 |
 |                           | [Link](https://www.youtube.com/watch?v=yilwqMBE5_w)                         |
 |                           | [Link](https://twitter.com/BOBislazyboy/status/1289787536865259521?s=20)    | Non Event CE, Kiara DC                               |
+|                           | [Link](https://twitter.com/2_5_dimension/status/1290783443278651392?s=19)   | NoSwap, Double Core with Kiara                       |
 | MHXA                      | [Link](https://twitter.com/NAO42010/status/1288322534329290752?s=20)        | Quad Core with Arash, Bunyan and Kiara               |
 | Mordred (Saber)           | [Link](https://twitter.com/Hello_Anthem/status/1288117632202190852?s=19)    | Double Core with Kiara                               |
 | Murasaki Shikibu          | [Link](https://twitter.com/Hello_Anthem/status/1288687720311558144?s=20)    | Lv1 Gong                                             |
 | Musashi (Berserker)       | [Link](https://twitter.com/neko_neko_pad/status/1288058753363763200?s=20)   | Triple Core with Arash and Chen Gong                 |
 |                           | [Link](https://twitter.com/kekekei_MHFZ/status/1288145695539568642?s=20)    | Dual Core with Arash                                 |
 | Napoleon                  | [Link](https://www.youtube.com/watch?v=1jiWWyZXqy8&feature=youtu.be)        |
-| Nero                      |
+| Nero                      | [Link](https://twitter.com/Chihiro1000/status/1290164306269450240?s=20)     | Double Core with Circe                               |
 | Nitocris                  | [Link](https://twitter.com/rvy_fgo/status/1289024279292416000?s=20)         | Double Core with Arash and Kiyo                      |
 | Nursery Rhyme             | [Link](https://twitter.com/6UgYnoZKVn6PApV/status/1288553708490379264?s=20) |
 | Oda Nobunaga (Berserker)  | [Link](https://twitter.com/snowdroptree/status/1288197583878291457?s=20)    | Quad Core with Arash, Gong and Kiara                 |
@@ -1546,11 +1556,14 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Osakabehime (Archer)      | [Link](https://twitter.com/1syuten2syefi/status/1288755213487058944?s=20)   |
 | Parvati                   | [Link](https://twitter.com/ffgo_rin/status/1288067307864907782?s=20)        | Lv1 Chen Gong on T1                                  |
 |                           | [Link](https://twitter.com/ffgo_rin/status/1288559592046129153?s=20)        | NoSwap                                               |
+|                           | [Link](https://twitter.com/ffgo_rin/status/1290688996511637504?s=20)        | Non SSR Supports Only                                |
+| Passionlip                | [Link](https://twitter.com/onabeno_huta/status/1288853106134982657?s=20)    | Triple Core with Arash                               |
 | Penthesilea               | [Link](https://twitter.com/EdaFgo/status/1289752561428267008?s=20)          | ST TA                                                |
 | Raikou (Berserker)        | [Link](https://twitter.com/Chinkyu_pencil/status/1288043198032445441?s=20)  | Triple Core with Chen Gong and Kiara                 |
 |                           | [Link](https://twitter.com/1syuten2syefi/status/1288397640330121216?s=20)   | Non Event CE                                         |
 | Romulus=Qurinus           | [Link](https://github.com/Arc-FGO/Chaldea-Combat-Records.git)               | Triple Core with Chen Gong and Kiara                 |
 | Sei Shonagon              | [Link](https://twitter.com/kitakitasnas/status/1288105650774405120?s=20)    |
+|                           | [Link](https://www.bilibili.com/video/BV12Z4y1T7DB)                         | Non Event CE                                         |
 | Shiki (Saber)             | [Link](https://twitter.com/_ao2412fgo/status/1288092682850430976?s=20)      |
 | Shuten Douji (Assassin)   | [Link](https://twitter.com/1syuten2syefi/status/1288094252279328768?s=20)   | Quad Core with Arash, Bunyan and Kiara               |
 |                           | [Link](https://twitter.com/shuten1341/status/1288166955568906244?s=20)      |
@@ -1559,18 +1572,22 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Tesla                     | [Link](https://twitter.com/abiro_game/status/1288315336555560963?s=20)      | Triple Core with Arash, Helena                       |
 | Valkyrie                  | [Link](https://twitter.com/terminas_aria/status/1288130975306625025?s=20)   |
 |                           | [Link](https://twitter.com/terminas_aria/status/1288851320724586497?s=20)   | NoSwap                                               |
-| Voyager                   | [Link](https://twitter.com/fgosyukai1/status/1288153355039064064?s=20)      | Proof of Concept, Not Final                          |
+| Voyager                   | [Link](https://twitter.com/fgosyukai1/status/1289871537021935618?s=20)      | DC with Kiara and Kama                               |
 | Xiang Yu                  | [Link](https://twitter.com/damenakeisanki/status/1288281630604275712?s=20)  | Triple Core with Kiara and Chen Gong                 |
 | HEXA Core                 | [Link](https://twitter.com/ITMST/status/1289820958228807685?s=20)           |
 
 ### Tokugawa Kaiten Labyrinth - Ooku (Rerun) : BEAST III/L 
-| DPS Used                 | Link                                                                     | Remarks     |
-| ------------------------ | ------------------------------------------------------------------------ | ----------- |
+| DPS Used                 | Link                                                                     | Remarks            |
+| ------------------------ | ------------------------------------------------------------------------ | ------------------ |
 | Astraea                  | [Link](https://www.bilibili.com/video/BV1gi4y1G7WA)                      |
-| Kama                     | [Link](https://twitter.com/bikakindefgo/status/1289046935962152961?s=20) | 6T          |
-| Meltryllis               | [Link](https://www.bilibili.com/video/BV1Ek4y1m7CN)                      | 6T          |
-| Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1288235416005402624?s=09) | 4T with 3CS |
-| Yang Guifei              | [Link](https://twitter.com/chwangk/status/1289316500868706307?s=20)      | 7T          |
+| Kama                     | [Link](https://twitter.com/bikakindefgo/status/1289046935962152961?s=20) | 6T                 |
+|                          | [Link](https://twitter.com/OrGOrG_FGO/status/1290263980036878336?s=20)   | 5T with 1CS        |
+|                          | [Link](https://twitter.com/d_fmgfam34/status/1290280037011214337?s=20)   | 6T, Alternate comp |
+| Meltryllis               | [Link](https://www.bilibili.com/video/BV1Ek4y1m7CN)                      | 6T                 |
+| Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1288235416005402624?s=09) | 4T with 3CS        |
+|                          | [Link](https://twitter.com/ZheliangW/status/1290402032587661312?s=20)    | 7T                 |
+| Sitonai                  | [Link](https://twitter.com/Kag_Tam/status/1290267099353378816?s=20)      | 7T                 |
+| Yang Guifei              | [Link](https://twitter.com/chwangk/status/1289316500868706307?s=20)      | 7T                 |
 
 
 - All videos linked in this repo are the properties of their owners.
