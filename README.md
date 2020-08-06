@@ -1439,6 +1439,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                 | [Link](https://twitter.com/mana_pwpr/status/1291052887179538432?s=19)        | DB, Dual Core with Orion            |
 | Dioscuri                        | [Link](https://twitter.com/Herakles_osi/status/1284834521368735748?s=20)     | DB                                  |
 | Enkidu                          | [Link](https://twitter.com/mgmg3939pnd/status/1285755658550210561?s=20)      | DB, 1CS needed if Skadi gets sealed |
+|                                 | [Link](https://twitter.com/SW87807148/status/1291160478119538690)            | DB, 7T Completed                        |
 | Fujino Asagami                  | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)       | HHWO                                |
 | Fran (Saber)                    | [Link](https://twitter.com/FrnHorn/status/1285675915490594825?s=20)          | DB                                  |
 | Gawain                          | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)    | HHWO                                |
