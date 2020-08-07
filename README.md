@@ -1486,6 +1486,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Penthesilea                     | [Link](https://twitter.com/EdaFgo/status/1284865465672597505?s=20)           | HHWO                                |
 |                                 | [Link](https://twitter.com/EdaFgo/status/1286187630367932416?s=20)           | DB, Uses 1 CS                       |
 | Raikou                          | [Link](https://twitter.com/1syuten2syefi/status/1285045399275753472?s=20)    | NoNP, HHWO                          |
+| Robinhood                       | [Link](https://twitter.com/canal00/status/1291764413288992770?s=20)          | HHWO                                |
 | Romulus=Qurinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)      | HHWO                                |
 | Scathach                        | [Link](https://twitter.com/gameover_fate/status/1285231771416588288?s=20)    | DB, Uses 1 CS (T7)                  |
 |                                 | [Link](https://twitter.com/gameover_fate/status/1285446296145256448?s=20)    | HHWO                                |
