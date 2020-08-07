@@ -184,7 +184,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Arjuna (Alter)       | [Link](https://b23.tv/NXlMVq)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728355366550634686/unknown.png), Dual Core with Dantes, Skadi NP |
 |                      | [Link](https://www.bilibili.com/video/BV1uK4y1x7Bp)  | Solo                                                                                                                                      |
 | Astarte              | [Link](https://b23.tv/Hx2uPQ)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728360638446829687/unknown.png)                                  |
-|                      | [Link](https://b23.tv/8pac93)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728361357920960613/unknown.png)                                  |
+|                      | [Link](https://b23.tv/8pac93)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728361357920960613/unknown.png)                                  |  |
 | Cu Chulainn (Alter)  | [Link](https://www.bilibili.com/video/BV1QW411W7Pq/) | No CC, Solo                                                                                                                               |
 | Dantes               | [Link](https://www.bilibili.com/video/BV19K4y1s74p)  | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/732402908225601626/unknown.png)                                  |
 | Hokusai              | [Link](https://b23.tv/3A9YRA)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728354565690490961/unknown.png)                                  |
@@ -198,6 +198,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                      | [Link](https://b23.tv/lky0ih)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728353798388711514/unknown.png)                                  |
 | Oda Nobunaga (Maou)  | [Link](https://www.bilibili.com/video/BV1jT4y157G3)  | Solo                                                                                                                                      |
 | Orion (Superhuman)   | [Link](https://www.youtube.com/watch?v=FQWYCN0NlgI)  | Solo                                                                                                                                      |
+| Tamamo Cat           | [Link](https://www.bilibili.com/video/BV1Vp4y1q71z)  | Solo                                                                                                                                      |
 | Xiang Yu             | [Link](https://b23.tv/xu8Jx7)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728357248191037480/unknown.png)                                  |
 | Chen Gong, Hijikata  | [Link](https://b23.tv/8W0pMP)                        | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728359987381796874/unknown.png)                                  |
 
@@ -1434,12 +1435,13 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                 | [Link](https://twitter.com/Chinquepig/status/1284751373939007488?s=20)       | HHWO, NoSwap                        |
 | BB                              | [Link](https://www.bilibili.com/video/BV1754y1S7zZ)                          | DB                                  |
 | BB (Summer)                     | [Link](https://twitter.com/ITMST/status/1286252718768578562?s=20)            | DB, Dual Core with Orion            |
+|                                 | [Link](https://www.bilibili.com/video/BV1Ut4y1D7eC)                          | DB                                  |
 | Caesar                          | [Link](https://twitter.com/snowdroptree/status/1284577803325726721?s=20)     | HHWO                                |
 | Dantes                          | [Link](https://twitter.com/sjtakgmmt/status/1285519968709144578?s=20)        | HHWO                                |
 |                                 | [Link](https://twitter.com/mana_pwpr/status/1291052887179538432?s=19)        | DB, Dual Core with Orion            |
 | Dioscuri                        | [Link](https://twitter.com/Herakles_osi/status/1284834521368735748?s=20)     | DB                                  |
 | Enkidu                          | [Link](https://twitter.com/mgmg3939pnd/status/1285755658550210561?s=20)      | DB, 1CS needed if Skadi gets sealed |
-|                                 | [Link](https://twitter.com/SW87807148/status/1291160478119538690)            | DB, 7T Completed                        |
+|                                 | [Link](https://twitter.com/SW87807148/status/1291160478119538690)            | DB, 7T Completed                    |
 | Fujino Asagami                  | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)       | HHWO                                |
 | Fran (Saber)                    | [Link](https://twitter.com/FrnHorn/status/1285675915490594825?s=20)          | DB                                  |
 | Gawain                          | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)    | HHWO                                |
@@ -1452,6 +1454,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Jack the Ripper                 | [Link](https://twitter.com/myc_1228/status/1284542610707640320?s=20)         | DB                                  |
 |                                 | [Link](https://twitter.com/Violet_g612/status/1284727481551839238?s=20)      | HHWO                                |
 | Jeanne d'Arc (Alter)            | [Link](https://twitter.com/myc_1228/status/1284848548891070465?s=20)         | HHWO                                |
+| Jeanne d'Arc (Alter)            | [Link](https://www.bilibili.com/video/BV1AT4y177XQ/)                         |
 | Jeanne d'Arc (Alter, Berserker) | [Link](https://twitter.com/myc_1228/status/1285610898539896834?s=20)         | HWWO                                |
 | Kama                            | [Link](https://www.bilibili.com/video/BV1Z54y1U7er)                          | DB                                  |
 |                                 | [Link](https://twitter.com/2_5_dimension/status/1284450951173033986?s=20)    | HHWO                                |
@@ -1459,6 +1462,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | King Hassan                     | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)      | HHWO                                |
 | Kingprotea                      | [Link](https://www.youtube.com/watch?v=_LgAUmwVIuQ)                          | Solo, HHWO                          |
 | Li Shuwen (Assassin)            | [Link](https://twitter.com/kitakitasnas/status/1285222462783844353?s=20)     | HHWO                                |
+| Medusa (Lancer)                 | [Link](https://www.bilibili.com/video/BV1rh411d71j)                          | DB                                  |
 | Meltryllis                      | [Link](https://twitter.com/DrgnWgt/status/1284526788186537984?s=20)          | DB                                  |
 |                                 | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)           | DB, Dual Core with Orion            |
 |                                 | [Link](https://twitter.com/Peperon8310/status/1284541056562819072?s=20)      | HHWO                                |
