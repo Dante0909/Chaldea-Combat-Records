@@ -1588,6 +1588,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Kama                     | [Link](https://twitter.com/bikakindefgo/status/1289046935962152961?s=20) | 6T                 |
 |                          | [Link](https://twitter.com/OrGOrG_FGO/status/1290263980036878336?s=20)   | 5T with 1CS        |
 |                          | [Link](https://twitter.com/d_fmgfam34/status/1290280037011214337?s=20)   | 6T, Alternate comp |
+|                          | [Link](https://twitter.com/hp0818/status/1291953866028638208?s=20)       | 5T                 |
 | Meltryllis               | [Link](https://www.bilibili.com/video/BV1Ek4y1m7CN)                      | 6T                 |
 | Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1288235416005402624?s=09) | 4T with 3CS        |
 |                          | [Link](https://twitter.com/ZheliangW/status/1290402032587661312?s=20)    | 7T                 |
