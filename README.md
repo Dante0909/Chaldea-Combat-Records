@@ -1490,6 +1490,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Romulus=Qurinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)      | HHWO                                |
 | Scathach                        | [Link](https://twitter.com/gameover_fate/status/1285231771416588288?s=20)    | DB, Uses 1 CS (T7)                  |
 |                                 | [Link](https://twitter.com/gameover_fate/status/1285446296145256448?s=20)    | HHWO                                |
+|                                 | [Link](https://twitter.com/DrgnWgt/status/1291969475990835200?s=20)          | 7T                                  |
 | Sitonai                         | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)          | DB                                  |
 |                                 | [Link](https://twitter.com/X0_BR/status/1284600849226850304?s=20)            | HHWO                                |
 | Voyager                         | [Link](https://twitter.com/fgosyukai1/status/1284705568569962502?s=20)       | HHWO                                |
