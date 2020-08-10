@@ -1493,6 +1493,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                 | [Link](https://twitter.com/DrgnWgt/status/1291969475990835200?s=20)          | 7T                                  |
 | Sitonai                         | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)          | DB                                  |
 |                                 | [Link](https://twitter.com/X0_BR/status/1284600849226850304?s=20)            | HHWO                                |
+|                                 | [Link](https://twitter.com/buenabisutafgo/status/1292870580014682114?s=20)   | Castoria, Uses 1 CS, DB             |
 | Voyager                         | [Link](https://twitter.com/fgosyukai1/status/1284705568569962502?s=20)       | HHWO                                |
 | Xiang Yu                        | [Link](https://twitter.com/Violet_g612/status/1285646341029363712?s=20)      | HHWO                                |
 | Yang Guifei                     | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)     | DB                                  |
