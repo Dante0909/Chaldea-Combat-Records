@@ -1470,6 +1470,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 
 | DPS Used                       | Link                                                                         | Remarks                         |
 | ------------------------------ | ---------------------------------------------------------------------------- | ------------------------------- |
+| Astarte                        | [Link](https://twitter.com/Aloha258_master/status/1293089323093389312?s=19)  |
 | Anne Bonny & Mary Read (Rider) | [Link](https://twitter.com/FrnHorn/status/1286414716634427392?s=20)          |                                 |
 | Arturia Pendragon (Archer)     | [Link](https://www.bilibili.com/video/BV1ez4y1D7Fv)                          |                                 |
 | Asclepius                      | [Link](https://twitter.com/Scarf_FGO/status/1285190025341095936?s=20)        | Solo                            |
