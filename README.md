@@ -1429,6 +1429,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Astolfo (Saber)                 | [Link](https://twitter.com/1104shoki/status/1286259216718602240?s=20)       |                          |
 | Astraea                         | [Link](https://twitter.com/Chinquepig/status/1284751373939007488?s=20)      | NoSwap                   |
 | Caesar                          | [Link](https://twitter.com/snowdroptree/status/1284577803325726721?s=20)    |                          |
+| Chen Gong                       | [Link](https://twitter.com/Chinkyu_pencil/status/1293188723371253760?s=20)  |
 | Dantes                          | [Link](https://twitter.com/sjtakgmmt/status/1285519968709144578?s=20)       |                          |
 | Fujino Asagami                  | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)      |                          |
 | Gawain                          | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)   |                          |
