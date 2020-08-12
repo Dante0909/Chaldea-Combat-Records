@@ -1434,6 +1434,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Fujino Asagami                  | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)      |                          |
 | Gawain                          | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)   |                          |
 | Gilgamesh                       | [Link](https://twitter.com/otkznr/status/1285546927409393665?s=20)          |                          |
+| Hokusai (Saber)                 | [Link](https://twitter.com/snowdroptree/status/1293440648066998273?s=20)    |
 | Ibaraki Douji                   | [Link](https://twitter.com/snowdroptree/status/1285239226062172167?s=20)    |                          |
 | Ishtar (Archer)                 | [Link](https://twitter.com/Gfnm1VRurkqSZxK/status/1285271366405505024?s=20) |                          |
 | Ishtar (Rider)                  | [Link](https://twitter.com/kuronoiparoma/status/1285592995216027648?s=20)   |                          |
@@ -1444,13 +1445,15 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | King Hassan                     | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)     |                          |
 | Kingprotea                      | [Link](https://www.youtube.com/watch?v=_LgAUmwVIuQ)                         | Solo                     |
 | Li Shuwen (Assassin)            | [Link](https://twitter.com/kitakitasnas/status/1285222462783844353?s=20)    |                          |
-| Meltryllis                      | [Link](https://twitter.com/Peperon8310/status/1284541056562819072?s=20)     |                          |
+| Meltryllis (Alter-Ego)          | [Link](https://twitter.com/Peperon8310/status/1284541056562819072?s=20)     |                          |
 |                                 | [Link](https://twitter.com/2_5_dimension/status/1284736213572698112?s=20)   | NoCE                     |
 |                                 | [Link](https://twitter.com/2_5_dimension/status/1284769616078626816?s=20)   | NoSwap                   |
+| Meltryllis (Lancer)             | [Link](https://twitter.com/2_5_dimension/status/1293362376520028160?s=19)   |
 | MHXA                            | [Link](https://www.youtube.com/watch?v=l5Ryej_64Ew&feature=youtu.be)        |                          |
 | Mori Nagayoshi                  | [Link](https://twitter.com/nmnppp/status/1284823461756428288?s=20)          |                          |
 | Musashi (Berserker)             | [Link](https://twitter.com/ShotkAnime/status/1284622754067562496?s=20)      |                          |
 | Musashi (Saber)                 | [Link](https://twitter.com/UForeigner634/status/1284507847749849090?s=20)   |                          |
+| Nagao Kagetora                  | [Link](https://twitter.com/fullice50/status/1293334676682113024?s=20)       |
 | Oda Nobunaga (Berserker)        | [Link](https://twitter.com/snowdroptree/status/1284471550276587520?s=20)    |                          |
 | Oda Nobunaga (Maou)             | [Link](https://twitter.com/Nagato_Yuki_233/status/1285877089640394752?s=20) | No NP Used               |
 | Okita Alter                     | [Link](https://twitter.com/myc_1228/status/1284792808105111552?s=20)        |                          |
@@ -1481,6 +1484,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | BB (Summer)                    | [Link](https://twitter.com/ITMST/status/1286252718768578562?s=20)            | Dual Core with Orion            |
 |                                | [Link](https://www.bilibili.com/video/BV1Ut4y1D7eC)                          |                                 |
 | Dantes                         | [Link](https://twitter.com/mana_pwpr/status/1291052887179538432?s=19)        | Dual Core with Orion            |
+| David                          | [Link](https://twitter.com/snowdroptree/status/1293266072892657664?s=20)     |
 | Dioscuri                       | [Link](https://twitter.com/Herakles_osi/status/1284834521368735748?s=20)     |                                 |
 | Enkidu                         | [Link](https://twitter.com/mgmg3939pnd/status/1285755658550210561?s=20)      | 1CS needed if Skadi gets sealed |
 |                                | [Link](https://twitter.com/SW87807148/status/1291160478119538690)            | 7T Completed                    |
@@ -1498,6 +1502,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                | [Link](https://twitter.com/fgo38195272/status/1286993012975779841?s=09)      | NoCE on Support                 |
 | MHXA                           | [Link](https://twitter.com/NAO42010/status/1284739009265020928?s=20)         |                                 |
 | MHXX                           | [Link](https://twitter.com/OrGOrG_FGO/status/1292985438206963712?s=20)       |
+| Musashi (Saber)                | [Link](https://twitter.com/bikakindefgo/status/1293243069555290112?s=20)     |
 | Nero (Bride)                   | [Link](https://twitter.com/mishima173/status/1284888791090511873?s=20)       |                                 |
 | Okita (Saber)                  | [Link](https://twitter.com/yychem/status/1285221485959733249)                |                                 |
 | Orion (Superhuman)             | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20)   |                                 |
@@ -1508,6 +1513,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                | [Link](https://twitter.com/DrgnWgt/status/1291969475990835200?s=20)          | 7T                              |
 | Sitonai                        | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)          |                                 |
 |                                | [Link](https://twitter.com/buenabisutafgo/status/1292870580014682114?s=20)   | Castoria, Uses 1 CS             |
+| Vlad (Berserker)               | [Link](https://twitter.com/otkznr/status/1293248735229566981?s=20)           |
 | Yang Guifei                    | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)     |                                 |
 |                                | [Link](https://twitter.com/2_5_dimension/status/1293188957874790401?s=20)    |
 
