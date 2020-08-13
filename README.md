@@ -1496,6 +1496,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Jeanne d'Arc (Alter)           | [Link](https://www.bilibili.com/video/BV1AT4y177XQ/)                         |
 | Kama                           | [Link](https://www.bilibili.com/video/BV1Z54y1U7er)                          |                                 |
 | Kiara Sessoin                  | [Link](https://twitter.com/AGRS_YUI_LUNA/status/1286128346967838722/photo/3) | Solo, not a video               |
+| Lancelot (Saber)               | [Link](https://twitter.com/hiduka01/status/1293781247278292993?s=20)         |
 | Medusa (Lancer)                | [Link](https://www.bilibili.com/video/BV1rh411d71j)                          |                                 |
 | Meltryllis                     | [Link](https://twitter.com/DrgnWgt/status/1284526788186537984?s=20)          |                                 |
 |                                | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)           | Dual Core with Orion            |
@@ -1504,6 +1505,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | MHXX                           | [Link](https://twitter.com/OrGOrG_FGO/status/1292985438206963712?s=20)       |
 | Musashi (Saber)                | [Link](https://twitter.com/bikakindefgo/status/1293243069555290112?s=20)     |
 | Nero (Bride)                   | [Link](https://twitter.com/mishima173/status/1284888791090511873?s=20)       |                                 |
+|                                | [Link](https://twitter.com/Chihiro1000/status/1293601878605881345?s=20)      |
 | Okita (Saber)                  | [Link](https://twitter.com/yychem/status/1285221485959733249)                |                                 |
 | Orion (Superhuman)             | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20)   |                                 |
 |                                | [Link](https://twitter.com/hiduka01/status/1290338695359258624)              | noCE on DPS                     |
@@ -1512,6 +1514,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Scathach                       | [Link](https://twitter.com/gameover_fate/status/1285231771416588288?s=20)    | Uses 1 CS (T7)                  |
 |                                | [Link](https://twitter.com/DrgnWgt/status/1291969475990835200?s=20)          | 7T                              |
 | Sitonai                        | [Link](https://twitter.com/Kag_Tam/status/1284543834353922049?s=20)          |                                 |
+|                                | [Link](https://twitter.com/fgo38195272/status/1293567174829699074?s=20)      | NoCE on Support                 |
 |                                | [Link](https://twitter.com/buenabisutafgo/status/1292870580014682114?s=20)   | Castoria, Uses 1 CS             |
 | Vlad (Berserker)               | [Link](https://twitter.com/otkznr/status/1293248735229566981?s=20)           |
 | Yang Guifei                    | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)     |                                 |
