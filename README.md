@@ -1493,8 +1493,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                | [Link](https://www.youtube.com/watch?v=PBt_vrYSdRo)                          |                                 |
 | David                          | [Link](https://twitter.com/snowdroptree/status/1293266072892657664?s=20)     |
 | Dioscuri                       | [Link](https://twitter.com/Herakles_osi/status/1284834521368735748?s=20)     |                                 |
-| Enkidu                         | [Link](https://twitter.com/mgmg3939pnd/status/1285755658550210561?s=20)      | 1CS needed if Skadi gets sealed |
-|                                | [Link](https://twitter.com/SW87807148/status/1291160478119538690)            | 7T Completed                    |
+| Enkidu                         | [Link](https://twitter.com/SW87807148/status/1291160478119538690)            |                                 |
 | Fran (Saber)                   | [Link](https://twitter.com/FrnHorn/status/1285675915490594825?s=20)          |                                 |
 | Hessian Lobo                   | [Link](https://twitter.com/kitakitasnas/status/1284664238896644097?s=20)     |                                 |
 | Hijikata                       | [Link](https://twitter.com/Aloha258_master/status/1286629375400529922?s=20)  |                                 |
@@ -1519,17 +1518,14 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Okita (Saber)                  | [Link](https://twitter.com/yychem/status/1285221485959733249)                |                                 |
 | Orion (Superhuman)             | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20)   |                                 |
 |                                | [Link](https://twitter.com/hiduka01/status/1290338695359258624)              | noCE on DPS                     |
-|                                | [Link](https://twitter.com/EdaFgo/status/1286187630367932416?s=20)           | Uses 1 CS                       |
 | Penthesilea                    | [Link](https://twitter.com/EdaFgo/status/1293944695186288650?s=19)           |                                 |
 | Robinhood                      | [Link](https://twitter.com/torikawaTA/status/1293160505222164486?s=20)       |                                 |
 |                                | [Link](https://twitter.com/yychem/status/1293299862545379328?s=09)           | Ungrailed                       |
 | Romulus=Qurinus                | [Link](https://twitter.com/mishima173/status/1293898244703969283?s=09)       |                                 |
-| Scathach                       | [Link](https://twitter.com/gameover_fate/status/1285231771416588288?s=20)    | Uses 1 CS (T7)                  |
-|                                | [Link](https://twitter.com/DrgnWgt/status/1291969475990835200?s=20)          | 7T                              |
+| Scathach                       | [Link](https://twitter.com/DrgnWgt/status/1291969475990835200?s=20)          |                                 |
 | Shiki                          | [Link](https://twitter.com/_ao2412fgo/status/1294273347786665986?s=19)       |                                 |
 | Sitonai                        | [Link](https://twitter.com/Kag_Tam/status/1294210042812485633?s=20)          | NoCE on DPS                     |
 |                                | [Link](https://twitter.com/fgo38195272/status/1293567174829699074?s=20)      | NoCE on Support                 |
-|                                | [Link](https://twitter.com/buenabisutafgo/status/1292870580014682114?s=20)   | Castoria, Uses 1 CS             |
 |                                | [Link](https://twitter.com/kaga87371105/status/1294230449250680833?s=19)     |                                 |
 | Vlad (Berserker)               | [Link](https://twitter.com/otkznr/status/1293248735229566981?s=20)           |
 | Yang Guifei                    | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)     |                                 |
