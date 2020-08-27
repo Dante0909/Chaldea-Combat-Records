@@ -1633,6 +1633,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 ### Servant Summer Camp! : Chaldea Thriller Night
 | DPS Used                         | Link                                                                        | Remarks                           |
 | -------------------------------- | --------------------------------------------------------------------------- | --------------------------------- |
+| Anastasia                        | [Link](https://twitter.com/ebichiri01417/status/1299035242225795072?s=20)   |
 | Arturia Pendragon (Ruler)        | [Link](https://twitter.com/Aloha258_master/status/1298939795721211904?s=20) | NoSwap                            |
 | Astarte                          | [Link](https://twitter.com/aloha258_master/status/1298864684678828033?s=21) | NoSwap                            |
 |                                  | [Link](https://twitter.com/amfgo2/status/1298884591483146242?s=20)          | Non Event CE                      |
