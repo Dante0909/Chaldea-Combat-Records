@@ -32,6 +32,8 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Saber Alter Memorial Quest](#saber-alter-memorial-quest)
     - [Gugalanna - Bull of Heaven](#gugalanna---bull-of-heaven)
     - [Dantes Prison Tower](#dantes-prison-tower)
+    - [Main Interlude : SE.RA.PH CCC Finale - Heaven's Hole (Whip Only)](#main-interlude--seraph-ccc-finale---heavens-hole-whip-only)
+    - [Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva](#main-interlude--seraph-ccc-finale---demonic-boddhisattva)
   - [Events](#events)
   - [2019](#2019)
     - [Xmas 2019 Farming Comps](#xmas-2019-farming-comps)
@@ -46,11 +48,9 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Fate/Requiem Board Game Apocalypse](#faterequiem-board-game-apocalypse)
     - [Summer 4 Rerun](#summer-4-rerun)
     - [Main Interlude : SE.RA.PH CCC - Kingprotea Detour](#main-interlude--seraph-ccc---kingprotea-detour)
-    - [Main Interlude : SE.RA.PH CCC Finale - Heaven's Hole (Whip Only)](#main-interlude--seraph-ccc-finale---heavens-hole-whip-only)
-    - [Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva](#main-interlude--seraph-ccc-finale---demonic-boddhisattva)
     - [Tokugawa Kaiten Labyrinth - Ooku (Rerun) : Main CQ](#tokugawa-kaiten-labyrinth---ooku-rerun--main-cq)
     - [Tokugawa Kaiten Labyrinth - Ooku (Rerun) : BEAST III/L](#tokugawa-kaiten-labyrinth---ooku-rerun--beast-iiil)
-    - [Servant Summer Camp! ~Chaldea Thriller Night~](#servant-summer-camp-chaldea-thriller-night)
+    - [Servant Summer Camp! : Chaldea Thriller Night](#servant-summer-camp--chaldea-thriller-night)
 
 ## Story Bosses
 
@@ -206,6 +206,115 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Tamamo Cat           | [Link](https://www.bilibili.com/video/BV1Vp4y1q71z)                      | Solo                                                                                                                                      |
 | Xiang Yu             | [Link](https://b23.tv/xu8Jx7)                                            | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728357248191037480/unknown.png)                                  |
 | Chen Gong, Hijikata  | [Link](https://b23.tv/8W0pMP)                                            | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728359987381796874/unknown.png)                                  |
+
+### Main Interlude : SE.RA.PH CCC Finale - Heaven's Hole (Whip Only)
+
+| DPS Used                        | Link                                                                        | Remarks                  |
+| ------------------------------- | --------------------------------------------------------------------------- | ------------------------ |
+| Altera (Archer)                 | [Link](https://twitter.com/shortcut588/status/1285609301994856448?s=20)     |                          |
+| Arjuna (Alter)                  | [Link](https://twitter.com/NuuuuuN0704/status/1284712848992563200?s=20)     | NoCE                     |
+| Astarte                         | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)    |                          |
+| Astolfo (Saber)                 | [Link](https://twitter.com/1104shoki/status/1286259216718602240?s=20)       |                          |
+| Astraea                         | [Link](https://twitter.com/Chinquepig/status/1284751373939007488?s=20)      | NoSwap                   |
+| Caesar                          | [Link](https://twitter.com/snowdroptree/status/1284577803325726721?s=20)    |                          |
+| Chen Gong                       | [Link](https://twitter.com/Chinkyu_pencil/status/1293188723371253760?s=20)  |
+| Dantes                          | [Link](https://twitter.com/sjtakgmmt/status/1285519968709144578?s=20)       |                          |
+| Fujino Asagami                  | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)      |                          |
+| Gawain                          | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)   |                          |
+| Gilgamesh                       | [Link](https://twitter.com/otkznr/status/1285546927409393665?s=20)          |                          |
+| Hokusai (Saber)                 | [Link](https://twitter.com/snowdroptree/status/1293440648066998273?s=20)    |
+| Ibaraki Douji                   | [Link](https://twitter.com/snowdroptree/status/1285239226062172167?s=20)    |                          |
+| Ishtar (Archer)                 | [Link](https://twitter.com/Gfnm1VRurkqSZxK/status/1285271366405505024?s=20) |                          |
+| Ishtar (Rider)                  | [Link](https://twitter.com/kuronoiparoma/status/1285592995216027648?s=20)   |                          |
+| Jack the Ripper                 | [Link](https://twitter.com/Violet_g612/status/1284727481551839238?s=20)     |                          |
+| Jeanne d'Arc (Alter)            | [Link](https://twitter.com/myc_1228/status/1284848548891070465?s=20)        |                          |
+| Jeanne d'Arc (Alter, Berserker) | [Link](https://twitter.com/myc_1228/status/1285610898539896834?s=20)        | HWWO                     |
+| Kama                            | [Link](https://twitter.com/2_5_dimension/status/1284450951173033986?s=20)   |                          |
+| King Hassan                     | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)     |                          |
+| Kingprotea                      | [Link](https://www.youtube.com/watch?v=_LgAUmwVIuQ)                         | Solo                     |
+| Li Shuwen (Assassin)            | [Link](https://twitter.com/kitakitasnas/status/1285222462783844353?s=20)    |                          |
+| Meltryllis (Alter-Ego)          | [Link](https://twitter.com/Peperon8310/status/1284541056562819072?s=20)     |                          |
+|                                 | [Link](https://twitter.com/2_5_dimension/status/1284736213572698112?s=20)   | NoCE                     |
+|                                 | [Link](https://twitter.com/2_5_dimension/status/1284769616078626816?s=20)   | NoSwap                   |
+| Meltryllis (Lancer)             | [Link](https://twitter.com/2_5_dimension/status/1293362376520028160?s=19)   |
+| MHXA                            | [Link](https://www.youtube.com/watch?v=l5Ryej_64Ew&feature=youtu.be)        |                          |
+| Mori Nagayoshi                  | [Link](https://twitter.com/nmnppp/status/1284823461756428288?s=20)          |                          |
+| Musashi (Berserker)             | [Link](https://twitter.com/ShotkAnime/status/1284622754067562496?s=20)      |                          |
+| Musashi (Saber)                 | [Link](https://twitter.com/UForeigner634/status/1284507847749849090?s=20)   |                          |
+| Nagao Kagetora                  | [Link](https://twitter.com/fullice50/status/1293334676682113024?s=20)       |
+| Oda Nobunaga (Berserker)        | [Link](https://twitter.com/snowdroptree/status/1284471550276587520?s=20)    |                          |
+| Oda Nobunaga (Maou)             | [Link](https://twitter.com/Nagato_Yuki_233/status/1285877089640394752?s=20) | No NP Used               |
+| Okita Alter                     | [Link](https://twitter.com/myc_1228/status/1284792808105111552?s=20)        |                          |
+| Orion (Superhuman)              | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)     |                          |
+|                                 | [Link](https://twitter.com/fgo38195272/status/1284868027628941313?s=20)     | NoSwap, NoCE on Supports |
+| Penthesilea                     | [Link](https://twitter.com/EdaFgo/status/1284865465672597505?s=20)          |                          |
+| Raikou                          | [Link](https://twitter.com/1syuten2syefi/status/1285045399275753472?s=20)   | NoNP                     |
+| Robinhood                       | [Link](https://twitter.com/canal00/status/1291764413288992770?s=20)         |                          |
+| Romulus=Qurinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)     |                          |
+| Scathach                        | [Link](https://twitter.com/gameover_fate/status/1285446296145256448?s=20)   |                          |
+| Sitonai                         | [Link](https://twitter.com/X0_BR/status/1284600849226850304?s=20)           |                          |
+|                                 | [Link](https://twitter.com/2_5_dimension/status/1292921607082725378?s=20)   |                          |
+| Voyager                         | [Link](https://twitter.com/fgosyukai1/status/1284705568569962502?s=20)      |                          |
+| Xiang Yu                        | [Link](https://twitter.com/Violet_g612/status/1285646341029363712?s=20)     |                          |
+
+
+### Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva  
+
+| DPS Used                       | Link                                                                         | Remarks                     |
+| ------------------------------ | ---------------------------------------------------------------------------- | --------------------------- |
+| Astarte                        | [Link](https://twitter.com/Aloha258_master/status/1293089323093389312?s=19)  |
+| Anne Bonny & Mary Read (Rider) | [Link](https://twitter.com/FrnHorn/status/1286414716634427392?s=20)          |                             |
+| Arturia Pendragon (Archer)     | [Link](https://www.bilibili.com/video/BV1ez4y1D7Fv)                          |                             |
+|                                | [Link](http://www.bilibili.com/video/BV12A411Y7xr)                           | No rng                      |
+| Asclepius                      | [Link](https://twitter.com/Scarf_FGO/status/1285190025341095936?s=20)        | Solo                        |
+| Ashwatthama                    | [Link](https://twitter.com/torikawaTA/status/1287116113759723521?s=20)       | 1 CS Used (Non CS Possible) |
+| Astolfo (Saber)                | [Link](https://www.bilibili.com/video/BV1LK411J7jV)                          |                             |
+| Astraea                        | [Link](https://www.bilibili.com/video/BV1H54y1S75f)                          |                             |
+| BB                             | [Link](https://www.bilibili.com/video/BV1754y1S7zZ)                          |                             |
+| BB (Summer)                    | [Link](https://twitter.com/ITMST/status/1286252718768578562?s=20)            | Dual Core with Orion        |
+|                                | [Link](https://www.bilibili.com/video/BV1Ut4y1D7eC)                          |                             |
+| Chloe                          | [Link](https://www.bilibili.com/video/BV1Jh411d7ns)                          |                             |
+| Dantes                         | [Link](https://twitter.com/mana_pwpr/status/1291052887179538432?s=19)        | Dual Core with Orion        |
+|                                | [Link](https://www.youtube.com/watch?v=PBt_vrYSdRo)                          |                             |
+| David                          | [Link](https://twitter.com/snowdroptree/status/1293266072892657664?s=20)     |
+| Dioscuri                       | [Link](https://twitter.com/Herakles_osi/status/1284834521368735748?s=20)     |                             |
+| Enkidu                         | [Link](https://twitter.com/SW87807148/status/1291160478119538690)            |                             |
+| Fran (Saber)                   | [Link](https://twitter.com/FrnHorn/status/1285675915490594825?s=20)          |                             |
+| Hessian Lobo                   | [Link](https://twitter.com/kitakitasnas/status/1284664238896644097?s=20)     |                             |
+| Hijikata                       | [Link](https://twitter.com/Aloha258_master/status/1286629375400529922?s=20)  |                             |
+| Hokusai (Saber)                | [Link](https://twitter.com/snowdroptree/status/1293119491266629632?s=20)     |                             |
+| Illya                          | [Link](https://www.bilibili.com/video/BV1qZ4y1M7U6)                          |                             |
+| Jack the Ripper                | [Link](https://twitter.com/myc_1228/status/1284542610707640320?s=20)         |                             |
+| Jeanne d'Arc (Alter)           | [Link](https://www.bilibili.com/video/BV1AT4y177XQ/)                         |
+| Kama                           | [Link](https://www.bilibili.com/video/BV1Z54y1U7er)                          |                             |
+| Kiara Sessoin                  | [Link](https://twitter.com/AGRS_YUI_LUNA/status/1286128346967838722/photo/3) | Solo, not a video           |
+| Lancelot (Saber)               | [Link](https://twitter.com/hiduka01/status/1293781247278292993?s=20)         |
+| Medusa (Lancer)                | [Link](https://www.bilibili.com/video/BV1rh411d71j)                          |                             |
+|                                | [Link](https://www.nicovideo.jp/watch/sm37350006)                            |                             |
+| Meltryllis                     | [Link](https://twitter.com/DrgnWgt/status/1284526788186537984?s=20)          |                             |
+|                                | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)           | Dual Core with Orion        |
+|                                | [Link](https://twitter.com/fgo38195272/status/1286993012975779841?s=09)      | NoCE on Support             |
+| MHXA                           | [Link](https://twitter.com/NAO42010/status/1284739009265020928?s=20)         |                             |
+|                                | [Link](https://twitter.com/Bonta_Unit_07/status/1294236487454568448?s=19)    |                             |
+| MHXX                           | [Link](https://twitter.com/OrGOrG_FGO/status/1292985438206963712?s=20)       |
+| Musashi (Saber)                | [Link](https://twitter.com/bikakindefgo/status/1293243069555290112?s=20)     |
+| Nero (Bride)                   | [Link](https://twitter.com/mishima173/status/1284888791090511873?s=20)       |                             |
+|                                | [Link](https://twitter.com/Chihiro1000/status/1293601878605881345?s=20)      |
+| Okita (Saber)                  | [Link](https://twitter.com/yychem/status/1285221485959733249)                |                             |
+| Orion (Superhuman)             | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20)   |                             |
+|                                | [Link](https://twitter.com/hiduka01/status/1290338695359258624)              | noCE on DPS                 |
+| Penthesilea                    | [Link](https://twitter.com/EdaFgo/status/1293944695186288650?s=19)           |                             |
+| Robinhood                      | [Link](https://twitter.com/torikawaTA/status/1293160505222164486?s=20)       |                             |
+|                                | [Link](https://twitter.com/yychem/status/1293299862545379328?s=09)           | Ungrailed                   |
+| Romulus=Qurinus                | [Link](https://twitter.com/mishima173/status/1293898244703969283?s=09)       |                             |
+| Scathach                       | [Link](https://twitter.com/DrgnWgt/status/1291969475990835200?s=20)          |                             |
+| Shiki                          | [Link](https://twitter.com/_ao2412fgo/status/1294273347786665986?s=19)       |                             |
+| Sitonai                        | [Link](https://twitter.com/Kag_Tam/status/1294210042812485633?s=20)          | NoCE on DPS                 |
+|                                | [Link](https://twitter.com/fgo38195272/status/1293567174829699074?s=20)      | NoCE on Support             |
+|                                | [Link](https://twitter.com/kaga87371105/status/1294230449250680833?s=19)     |                             |
+| Vlad (Berserker)               | [Link](https://twitter.com/otkznr/status/1293248735229566981?s=20)           |
+| Yang Guifei                    | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)     |                             |
+|                                | [Link](https://twitter.com/2_5_dimension/status/1293188957874790401?s=20)    |
 
 ## Events
 
@@ -1423,116 +1532,6 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Xiang Yu                        | [Link](https://twitter.com/mgmg3939pnd/status/1283398554547965952?s=20)     | Non NP                    |
 |                                 | [Link](https://twitter.com/Kag_Tam/status/1283406245827719168?s=20)         | NoCE, Non NP              |
 
-### Main Interlude : SE.RA.PH CCC Finale - Heaven's Hole (Whip Only)
-
-| DPS Used                        | Link                                                                        | Remarks                  |
-| ------------------------------- | --------------------------------------------------------------------------- | ------------------------ |
-| Altera (Archer)                 | [Link](https://twitter.com/shortcut588/status/1285609301994856448?s=20)     |                          |
-| Arjuna (Alter)                  | [Link](https://twitter.com/NuuuuuN0704/status/1284712848992563200?s=20)     | NoCE                     |
-| Astarte                         | [Link](https://twitter.com/jyuubeeyuuan/status/1284437334578966528?s=20)    |                          |
-| Astolfo (Saber)                 | [Link](https://twitter.com/1104shoki/status/1286259216718602240?s=20)       |                          |
-| Astraea                         | [Link](https://twitter.com/Chinquepig/status/1284751373939007488?s=20)      | NoSwap                   |
-| Caesar                          | [Link](https://twitter.com/snowdroptree/status/1284577803325726721?s=20)    |                          |
-| Chen Gong                       | [Link](https://twitter.com/Chinkyu_pencil/status/1293188723371253760?s=20)  |
-| Dantes                          | [Link](https://twitter.com/sjtakgmmt/status/1285519968709144578?s=20)       |                          |
-| Fujino Asagami                  | [Link](https://twitter.com/_ao2412fgo/status/1284673820972834816?s=20)      |                          |
-| Gawain                          | [Link](https://twitter.com/orionkumachan/status/1284510876934914050?s=20)   |                          |
-| Gilgamesh                       | [Link](https://twitter.com/otkznr/status/1285546927409393665?s=20)          |                          |
-| Hokusai (Saber)                 | [Link](https://twitter.com/snowdroptree/status/1293440648066998273?s=20)    |
-| Ibaraki Douji                   | [Link](https://twitter.com/snowdroptree/status/1285239226062172167?s=20)    |                          |
-| Ishtar (Archer)                 | [Link](https://twitter.com/Gfnm1VRurkqSZxK/status/1285271366405505024?s=20) |                          |
-| Ishtar (Rider)                  | [Link](https://twitter.com/kuronoiparoma/status/1285592995216027648?s=20)   |                          |
-| Jack the Ripper                 | [Link](https://twitter.com/Violet_g612/status/1284727481551839238?s=20)     |                          |
-| Jeanne d'Arc (Alter)            | [Link](https://twitter.com/myc_1228/status/1284848548891070465?s=20)        |                          |
-| Jeanne d'Arc (Alter, Berserker) | [Link](https://twitter.com/myc_1228/status/1285610898539896834?s=20)        | HWWO                     |
-| Kama                            | [Link](https://twitter.com/2_5_dimension/status/1284450951173033986?s=20)   |                          |
-| King Hassan                     | [Link](https://twitter.com/NuuuuuN0704/status/1284470495321047040?s=20)     |                          |
-| Kingprotea                      | [Link](https://www.youtube.com/watch?v=_LgAUmwVIuQ)                         | Solo                     |
-| Li Shuwen (Assassin)            | [Link](https://twitter.com/kitakitasnas/status/1285222462783844353?s=20)    |                          |
-| Meltryllis (Alter-Ego)          | [Link](https://twitter.com/Peperon8310/status/1284541056562819072?s=20)     |                          |
-|                                 | [Link](https://twitter.com/2_5_dimension/status/1284736213572698112?s=20)   | NoCE                     |
-|                                 | [Link](https://twitter.com/2_5_dimension/status/1284769616078626816?s=20)   | NoSwap                   |
-| Meltryllis (Lancer)             | [Link](https://twitter.com/2_5_dimension/status/1293362376520028160?s=19)   |
-| MHXA                            | [Link](https://www.youtube.com/watch?v=l5Ryej_64Ew&feature=youtu.be)        |                          |
-| Mori Nagayoshi                  | [Link](https://twitter.com/nmnppp/status/1284823461756428288?s=20)          |                          |
-| Musashi (Berserker)             | [Link](https://twitter.com/ShotkAnime/status/1284622754067562496?s=20)      |                          |
-| Musashi (Saber)                 | [Link](https://twitter.com/UForeigner634/status/1284507847749849090?s=20)   |                          |
-| Nagao Kagetora                  | [Link](https://twitter.com/fullice50/status/1293334676682113024?s=20)       |
-| Oda Nobunaga (Berserker)        | [Link](https://twitter.com/snowdroptree/status/1284471550276587520?s=20)    |                          |
-| Oda Nobunaga (Maou)             | [Link](https://twitter.com/Nagato_Yuki_233/status/1285877089640394752?s=20) | No NP Used               |
-| Okita Alter                     | [Link](https://twitter.com/myc_1228/status/1284792808105111552?s=20)        |                          |
-| Orion (Superhuman)              | [Link](https://twitter.com/FMJ_FGO1101/status/1284496584038744069?s=20)     |                          |
-|                                 | [Link](https://twitter.com/fgo38195272/status/1284868027628941313?s=20)     | NoSwap, NoCE on Supports |
-| Penthesilea                     | [Link](https://twitter.com/EdaFgo/status/1284865465672597505?s=20)          |                          |
-| Raikou                          | [Link](https://twitter.com/1syuten2syefi/status/1285045399275753472?s=20)   | NoNP                     |
-| Robinhood                       | [Link](https://twitter.com/canal00/status/1291764413288992770?s=20)         |                          |
-| Romulus=Qurinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1284432811617734658?s=20)     |                          |
-| Scathach                        | [Link](https://twitter.com/gameover_fate/status/1285446296145256448?s=20)   |                          |
-| Sitonai                         | [Link](https://twitter.com/X0_BR/status/1284600849226850304?s=20)           |                          |
-|                                 | [Link](https://twitter.com/2_5_dimension/status/1292921607082725378?s=20)   |                          |
-| Voyager                         | [Link](https://twitter.com/fgosyukai1/status/1284705568569962502?s=20)      |                          |
-| Xiang Yu                        | [Link](https://twitter.com/Violet_g612/status/1285646341029363712?s=20)     |                          |
-
-
-### Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva  
-
-| DPS Used                       | Link                                                                         | Remarks                     |
-| ------------------------------ | ---------------------------------------------------------------------------- | --------------------------- |
-| Astarte                        | [Link](https://twitter.com/Aloha258_master/status/1293089323093389312?s=19)  |
-| Anne Bonny & Mary Read (Rider) | [Link](https://twitter.com/FrnHorn/status/1286414716634427392?s=20)          |                             |
-| Arturia Pendragon (Archer)     | [Link](https://www.bilibili.com/video/BV1ez4y1D7Fv)                          |                             |
-|                                | [Link](http://www.bilibili.com/video/BV12A411Y7xr)                           | No rng                      |
-| Asclepius                      | [Link](https://twitter.com/Scarf_FGO/status/1285190025341095936?s=20)        | Solo                        |
-| Ashwatthama                    | [Link](https://twitter.com/torikawaTA/status/1287116113759723521?s=20)       | 1 CS Used (Non CS Possible) |
-| Astolfo (Saber)                | [Link](https://www.bilibili.com/video/BV1LK411J7jV)                          |                             |
-| Astraea                        | [Link](https://www.bilibili.com/video/BV1H54y1S75f)                          |                             |
-| BB                             | [Link](https://www.bilibili.com/video/BV1754y1S7zZ)                          |                             |
-| BB (Summer)                    | [Link](https://twitter.com/ITMST/status/1286252718768578562?s=20)            | Dual Core with Orion        |
-|                                | [Link](https://www.bilibili.com/video/BV1Ut4y1D7eC)                          |                             |
-| Chloe                          | [Link](https://www.bilibili.com/video/BV1Jh411d7ns)                          |                             |
-| Dantes                         | [Link](https://twitter.com/mana_pwpr/status/1291052887179538432?s=19)        | Dual Core with Orion        |
-|                                | [Link](https://www.youtube.com/watch?v=PBt_vrYSdRo)                          |                             |
-| David                          | [Link](https://twitter.com/snowdroptree/status/1293266072892657664?s=20)     |
-| Dioscuri                       | [Link](https://twitter.com/Herakles_osi/status/1284834521368735748?s=20)     |                             |
-| Enkidu                         | [Link](https://twitter.com/SW87807148/status/1291160478119538690)            |                             |
-| Fran (Saber)                   | [Link](https://twitter.com/FrnHorn/status/1285675915490594825?s=20)          |                             |
-| Hessian Lobo                   | [Link](https://twitter.com/kitakitasnas/status/1284664238896644097?s=20)     |                             |
-| Hijikata                       | [Link](https://twitter.com/Aloha258_master/status/1286629375400529922?s=20)  |                             |
-| Hokusai (Saber)                | [Link](https://twitter.com/snowdroptree/status/1293119491266629632?s=20)     |                             |
-| Illya                          | [Link](https://www.bilibili.com/video/BV1qZ4y1M7U6)                          |                             |
-| Jack the Ripper                | [Link](https://twitter.com/myc_1228/status/1284542610707640320?s=20)         |                             |
-| Jeanne d'Arc (Alter)           | [Link](https://www.bilibili.com/video/BV1AT4y177XQ/)                         |
-| Kama                           | [Link](https://www.bilibili.com/video/BV1Z54y1U7er)                          |                             |
-| Kiara Sessoin                  | [Link](https://twitter.com/AGRS_YUI_LUNA/status/1286128346967838722/photo/3) | Solo, not a video           |
-| Lancelot (Saber)               | [Link](https://twitter.com/hiduka01/status/1293781247278292993?s=20)         |
-| Medusa (Lancer)                | [Link](https://www.bilibili.com/video/BV1rh411d71j)                          |                             |
-|                                | [Link](https://www.nicovideo.jp/watch/sm37350006)                            |                             |
-| Meltryllis                     | [Link](https://twitter.com/DrgnWgt/status/1284526788186537984?s=20)          |                             |
-|                                | [Link](https://twitter.com/otkznr/status/1284453532490334208?s=20)           | Dual Core with Orion        |
-|                                | [Link](https://twitter.com/fgo38195272/status/1286993012975779841?s=09)      | NoCE on Support             |
-| MHXA                           | [Link](https://twitter.com/NAO42010/status/1284739009265020928?s=20)         |                             |
-|                                | [Link](https://twitter.com/Bonta_Unit_07/status/1294236487454568448?s=19)    |                             |
-| MHXX                           | [Link](https://twitter.com/OrGOrG_FGO/status/1292985438206963712?s=20)       |
-| Musashi (Saber)                | [Link](https://twitter.com/bikakindefgo/status/1293243069555290112?s=20)     |
-| Nero (Bride)                   | [Link](https://twitter.com/mishima173/status/1284888791090511873?s=20)       |                             |
-|                                | [Link](https://twitter.com/Chihiro1000/status/1293601878605881345?s=20)      |
-| Okita (Saber)                  | [Link](https://twitter.com/yychem/status/1285221485959733249)                |                             |
-| Orion (Superhuman)             | [Link](https://twitter.com/buenabisutafgo/status/1284703593791016961?s=20)   |                             |
-|                                | [Link](https://twitter.com/hiduka01/status/1290338695359258624)              | noCE on DPS                 |
-| Penthesilea                    | [Link](https://twitter.com/EdaFgo/status/1293944695186288650?s=19)           |                             |
-| Robinhood                      | [Link](https://twitter.com/torikawaTA/status/1293160505222164486?s=20)       |                             |
-|                                | [Link](https://twitter.com/yychem/status/1293299862545379328?s=09)           | Ungrailed                   |
-| Romulus=Qurinus                | [Link](https://twitter.com/mishima173/status/1293898244703969283?s=09)       |                             |
-| Scathach                       | [Link](https://twitter.com/DrgnWgt/status/1291969475990835200?s=20)          |                             |
-| Shiki                          | [Link](https://twitter.com/_ao2412fgo/status/1294273347786665986?s=19)       |                             |
-| Sitonai                        | [Link](https://twitter.com/Kag_Tam/status/1294210042812485633?s=20)          | NoCE on DPS                 |
-|                                | [Link](https://twitter.com/fgo38195272/status/1293567174829699074?s=20)      | NoCE on Support             |
-|                                | [Link](https://twitter.com/kaga87371105/status/1294230449250680833?s=19)     |                             |
-| Vlad (Berserker)               | [Link](https://twitter.com/otkznr/status/1293248735229566981?s=20)           |
-| Yang Guifei                    | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)     |                             |
-|                                | [Link](https://twitter.com/2_5_dimension/status/1293188957874790401?s=20)    |
-
-
 ### Tokugawa Kaiten Labyrinth - Ooku (Rerun) : Main CQ
 | DPS Used                  | Link                                                                        | Remarks                                              |
 | ------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------- |
@@ -1631,7 +1630,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Sitonai                  | [Link](https://twitter.com/Kag_Tam/status/1290267099353378816?s=20)      | 7T                 |
 | Yang Guifei              | [Link](https://twitter.com/chwangk/status/1289316500868706307?s=20)      | 7T                 |
 
-### Servant Summer Camp! ~Chaldea Thriller Night~
+### Servant Summer Camp! : Chaldea Thriller Night
 | DPS Used            | Link                                                                   | Remarks   |
 | ------------------- | ---------------------------------------------------------------------- | --------- |
 | Da Vinci (Rider)    | [Link](https://twitter.com/shuten1341/status/1298818735243841537?s=20) | Dual Core |
