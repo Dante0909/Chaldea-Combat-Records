@@ -1639,6 +1639,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Chen Gong                        | [Link](https://twitter.com/mgmg3939pnd/status/1298923889204924417?s=20)     |
 | Da Vinci (Rider)                 | [Link](https://twitter.com/shuten1341/status/1298818735243841537?s=20)      | Dual Core          |
 | Illyasviel von Einzbern (Archer) | [Link](https://twitter.com/Herakles_osi/status/1298933957992435716?s=20)    |
+| Ishtar (Rider)                   | [Link](https://twitter.com/waiwaikigurumi/status/1298949813367484416)       |
 | Jeanne d'Arc (Archer)            | [Link](https://twitter.com/Miyabi_fgo_/status/1298833738143416323?s=20)     |
 |                                  | [Link](https://twitter.com/myc_1228/status/1298912143043989504?s=20)        | NoSwap             |
 | Jeanne d'Arc (Ruler)             | [Link](https://www.youtube.com/watch?v=NWemNESPC8M)                         | Solo               |
