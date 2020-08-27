@@ -1651,6 +1651,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Murasaki Shikibu                 | [Link](https://twitter.com/Hello_Anthem/status/1298911960998658053?s=19)    | NoSwap                            |
 | Odysseus                         | [Link](https://twitter.com/DrgnWgt/status/1298920470780157952?s=20)         |
 |                                  | [Link](https://twitter.com/damenakeisanki/status/1298935941390712834?s=20)  | NoSwap                            |
+| Voyager                          | [Link](https://twitter.com/fgosyukai1/status/1298997105453801476)           | NoSwap                            |
 | TRIPLE CORE                      | [Link](https://twitter.com/Bbci_f/status/1298945830414503936?s=20)          | BB, Abigail, Emiya                |
 | TRIPLE CORE                      | [Link](https://twitter.com/waiwaikigurumi/status/1298949813367484416)       | Arjuna Alter, Rider Ishtar, Arash |
 
