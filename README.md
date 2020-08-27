@@ -1635,7 +1635,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | --------------------- | ----------------------------------------------------------------------- | ----------- |
 | Da Vinci (Rider)      | [Link](https://twitter.com/shuten1341/status/1298818735243841537?s=20)  | Dual Core   |
 | Jeanne d'Arc (Archer) | [Link](https://twitter.com/Miyabi_fgo_/status/1298833738143416323?s=20) |
-| Meltryllis (Lancer)   | [Link](https://twitter.com/2_5_dimension/status/1298803692578066438?)   | Dual Core   |
+| Meltryllis (Lancer)   | [Link](https://twitter.com/2_5_dimension/status/1298803692578066438?)   | Lv1 Gong    |
 | Musashi (Berserker)   | [Link](https://twitter.com/fgo38195272/status/1298809635747426305)      | NoSwap, 12T |
 
 - All videos linked in this repo are the properties of their owners.
