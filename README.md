@@ -50,6 +50,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Main Interlude : SE.RA.PH CCC Finale - Demonic Boddhisattva](#main-interlude--seraph-ccc-finale---demonic-boddhisattva)
     - [Tokugawa Kaiten Labyrinth - Ooku (Rerun) : Main CQ](#tokugawa-kaiten-labyrinth---ooku-rerun--main-cq)
     - [Tokugawa Kaiten Labyrinth - Ooku (Rerun) : BEAST III/L](#tokugawa-kaiten-labyrinth---ooku-rerun--beast-iiil)
+    - [Servant Summer Camp! ~Chaldea Thriller Night~](#servant-summer-camp-chaldea-thriller-night)
 
 ## Story Bosses
 
@@ -1630,6 +1631,11 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Sitonai                  | [Link](https://twitter.com/Kag_Tam/status/1290267099353378816?s=20)      | 7T                 |
 | Yang Guifei              | [Link](https://twitter.com/chwangk/status/1289316500868706307?s=20)      | 7T                 |
 
+### Servant Summer Camp! ~Chaldea Thriller Night~
+| DPS Used            | Link                                                                   | Remarks   |
+| ------------------- | ---------------------------------------------------------------------- | --------- |
+| Da Vinci (Rider)    | [Link](https://twitter.com/shuten1341/status/1298818735243841537?s=20) | Dual Core |
+| Meltryllis (Lancer) | [Link](https://twitter.com/2_5_dimension/status/1298803692578066438?)  | Dual Core |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
