@@ -1633,7 +1633,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 ### Servant Summer Camp! : Chaldea Thriller Night
 | DPS Used                         | Link                                                                        | Remarks      |
 | -------------------------------- | --------------------------------------------------------------------------- | ------------ |
-| Arturia Pendragon (Ruler)        | [Link](https://twitter.com/Aloha258_master/status/1298939795721211904?s=20) | NoSwap
+| Arturia Pendragon (Ruler)        | [Link](https://twitter.com/Aloha258_master/status/1298939795721211904?s=20) | NoSwap       |
 | Astarte                          | [Link](https://twitter.com/aloha258_master/status/1298864684678828033?s=21) | NoSwap       |
 |                                  | [Link](https://twitter.com/amfgo2/status/1298884591483146242?s=20)          | Non Event CE |
 | Chen Gong                        | [Link](https://twitter.com/mgmg3939pnd/status/1298923889204924417?s=20)     |
@@ -1641,6 +1641,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Illyasviel von Einzbern (Archer) | [Link](https://twitter.com/Herakles_osi/status/1298933957992435716?s=20)    |
 | Jeanne d'Arc (Archer)            | [Link](https://twitter.com/Miyabi_fgo_/status/1298833738143416323?s=20)     |
 |                                  | [Link](https://twitter.com/myc_1228/status/1298912143043989504?s=20)        | NoSwap       |
+| Jeanne d'Arc (Ruler)             | [Link](https://www.youtube.com/watch?v=NWemNESPC8M)                         | Solo         |
 | Kiara Sessyoin (MoonCancer)      | [Link](https://twitter.com/damenakeisanki/status/1298845330071359488?s=19)  | NoSwap       |
 | Meltryllis (Lancer)              | [Link](https://twitter.com/2_5_dimension/status/1298803692578066438?)       | Lv1 Gong     |
 | Musashi (Berserker)              | [Link](https://twitter.com/kekekei_MHFZ/status/1298886371629645824?s=19)    |
