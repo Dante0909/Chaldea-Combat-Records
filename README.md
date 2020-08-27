@@ -1631,12 +1631,16 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Yang Guifei              | [Link](https://twitter.com/chwangk/status/1289316500868706307?s=20)      | 7T                 |
 
 ### Servant Summer Camp! : Chaldea Thriller Night
-| DPS Used              | Link                                                                    | Remarks     |
-| --------------------- | ----------------------------------------------------------------------- | ----------- |
-| Da Vinci (Rider)      | [Link](https://twitter.com/shuten1341/status/1298818735243841537?s=20)  | Dual Core   |
-| Jeanne d'Arc (Archer) | [Link](https://twitter.com/Miyabi_fgo_/status/1298833738143416323?s=20) |
-| Meltryllis (Lancer)   | [Link](https://twitter.com/2_5_dimension/status/1298803692578066438?)   | Lv1 Gong    |
-| Musashi (Berserker)   | [Link](https://twitter.com/fgo38195272/status/1298809635747426305)      | NoSwap, 12T |
+| DPS Used              | Link                                                                        | Remarks   |
+| --------------------- | --------------------------------------------------------------------------- | --------- |
+| Astarte               | [Link](https://twitter.com/aloha258_master/status/1298864684678828033?s=21) |
+| Chen Gong             | [Link](https://twitter.com/mgmg3939pnd/status/1298923889204924417?s=20)     |
+| Da Vinci (Rider)      | [Link](https://twitter.com/shuten1341/status/1298818735243841537?s=20)      | Dual Core |
+| Jeanne d'Arc (Archer) | [Link](https://twitter.com/Miyabi_fgo_/status/1298833738143416323?s=20)     |
+| Meltryllis (Lancer)   | [Link](https://twitter.com/2_5_dimension/status/1298803692578066438?)       | Lv1 Gong  |
+| Musashi (Berserker)   | [Link](https://twitter.com/kekekei_MHFZ/status/1298886371629645824?s=19)    |
+| Murasaki Shikibu      | [Link](https://twitter.com/Hello_Anthem/status/1298911960998658053?s=19)    |
+| Odysseus              | [Link](https://twitter.com/DrgnWgt/status/1298920470780157952?s=20)         |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
