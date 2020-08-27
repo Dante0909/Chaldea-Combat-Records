@@ -1645,6 +1645,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Musashi (Berserker)              | [Link](https://twitter.com/kekekei_MHFZ/status/1298886371629645824?s=19)    |
 | Murasaki Shikibu                 | [Link](https://twitter.com/Hello_Anthem/status/1298911960998658053?s=19)    | NoSwap       |
 | Odysseus                         | [Link](https://twitter.com/DrgnWgt/status/1298920470780157952?s=20)         |
+|                                  | [Link](https://twitter.com/damenakeisanki/status/1298935941390712834?s=20)  | NoSwap       |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
