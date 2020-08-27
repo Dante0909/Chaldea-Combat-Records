@@ -1638,6 +1638,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Da Vinci (Rider)                 | [Link](https://twitter.com/shuten1341/status/1298818735243841537?s=20)      | Dual Core |
 | Illyasviel von Einzbern (Archer) | [Link](https://twitter.com/Herakles_osi/status/1298933957992435716?s=20)    |
 | Jeanne d'Arc (Archer)            | [Link](https://twitter.com/Miyabi_fgo_/status/1298833738143416323?s=20)     |
+|                                  | [Link](https://twitter.com/myc_1228/status/1298912143043989504?s=20)        | NoSwap    |
 | Kiara Sessyoin (MoonCancer)      | [Link](https://twitter.com/damenakeisanki/status/1298845330071359488?s=19)  | NoSwap    |
 | Meltryllis (Lancer)              | [Link](https://twitter.com/2_5_dimension/status/1298803692578066438?)       | Lv1 Gong  |
 | Musashi (Berserker)              | [Link](https://twitter.com/kekekei_MHFZ/status/1298886371629645824?s=19)    |
