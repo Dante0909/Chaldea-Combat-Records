@@ -1648,13 +1648,16 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Jinako                           | [Link](https://www.youtube.com/watch?v=NWemNESPC8M)                         | Solo                              |
 | Kiara Sessyoin (MoonCancer)      | [Link](https://twitter.com/damenakeisanki/status/1298845330071359488?s=19)  | NoSwap                            |
 |                                  | [Link](https://twitter.com/terminas_aria/status/1298998103173816320?s=20)   | Solo                              |
-| Meltryllis (Lancer)              | [Link](https://twitter.com/2_5_dimension/status/1298803692578066438?)       | Lv1 Gong                          |
+| Lancelot (Berserker)             | [Link](https://twitter.com/DOA_KAMEN/status/1299048379566104577?s=20)       | Dual Core with Emiya              |
+| Meltryllis (Lancer)              | [Link](https://twitter.com/2_5_dimension/status/1298803692578066438?)       |                                   |
+|                                  | [Link](https://twitter.com/2_5_dimension/status/1299161651615166465?s=20)   | NoSwap                            |
 | Musashi (Berserker)              | [Link](https://twitter.com/kekekei_MHFZ/status/1298886371629645824?s=19)    |
 |                                  | [Link](https://twitter.com/rrrinka_1933/status/1298942545343332355)         |
 |                                  | [Link](https://twitter.com/fgo38195272/status/1299027736980099074)          | NoSwap                            |
 | Murasaki Shikibu                 | [Link](https://twitter.com/Hello_Anthem/status/1298911960998658053?s=19)    | NoSwap                            |
 | Odysseus                         | [Link](https://twitter.com/DrgnWgt/status/1298920470780157952?s=20)         |
 |                                  | [Link](https://twitter.com/damenakeisanki/status/1298935941390712834?s=20)  | NoSwap                            |
+| Scheherazade                     | [Link](https://twitter.com/Peperon8310/status/1299065555152850944?s=20)     | Arash, CasGil def down            |
 | Voyager                          | [Link](https://twitter.com/fgosyukai1/status/1298997105453801476)           | NoSwap                            |
 | TRIPLE CORE                      | [Link](https://twitter.com/Bbci_f/status/1298945830414503936?s=20)          | BB, Abigail, Emiya                |
 | TRIPLE CORE                      | [Link](https://twitter.com/waiwaikigurumi/status/1298949813367484416)       | Arjuna Alter, Rider Ishtar, Arash |
