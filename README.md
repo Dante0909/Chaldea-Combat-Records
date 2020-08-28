@@ -1640,6 +1640,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Chen Gong                        | [Link](https://twitter.com/mgmg3939pnd/status/1298923889204924417?s=20)     |
 | Da Vinci (Rider)                 | [Link](https://twitter.com/shuten1341/status/1298818735243841537?s=20)      | Dual Core                         |
 |                                  | [Link](https://twitter.com/d_fmgfam34/status/1299015213245591554)           | Non Event CE, NoSwap              |
+|                                  | [Link](https://www.bilibili.com/video/BV1854y127q9)                         | Dual Core, Non Event CE           |
 | Hokusai (Foreigner)              | [Link](https://www.youtube.com/watch?v=qV3gPtCykRg&feature=youtu.be)        | Solo                              |
 |                                  | [Link](https://twitter.com/kitakitasnas/status/1298983078564528129?s=19)    | NoSwap                            |
 | Illyasviel von Einzbern (Archer) | [Link](https://twitter.com/Herakles_osi/status/1298933957992435716?s=20)    |
@@ -1648,19 +1649,28 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Jinako                           | [Link](https://www.youtube.com/watch?v=NWemNESPC8M)                         | Solo                              |
 | Kiara Sessyoin (MoonCancer)      | [Link](https://twitter.com/damenakeisanki/status/1298845330071359488?s=19)  | NoSwap                            |
 |                                  | [Link](https://twitter.com/terminas_aria/status/1298998103173816320?s=20)   | Solo                              |
+|                                  | [Link](https://www.bilibili.com/video/BV1sZ4y1T7B7)                         | Non Event CE, Dual Core           |
 | Lancelot (Berserker)             | [Link](https://twitter.com/DOA_KAMEN/status/1299048379566104577?s=20)       | Dual Core with Emiya              |
 | Meltryllis (Lancer)              | [Link](https://twitter.com/2_5_dimension/status/1298803692578066438?)       |                                   |
 |                                  | [Link](https://twitter.com/2_5_dimension/status/1299161651615166465?s=20)   | NoSwap                            |
+| Mordred (Rider)                  | [Link](https://www.bilibili.com/video/BV18k4y127AB)                         | Non Event CE                      |
+| Mordred (Saber)                  | [Link](https://twitter.com/Hello_Anthem/status/1299134052000129025)         | Dual Core                         |
 | Musashi (Berserker)              | [Link](https://twitter.com/kekekei_MHFZ/status/1298886371629645824?s=19)    |
 |                                  | [Link](https://twitter.com/rrrinka_1933/status/1298942545343332355)         |
 |                                  | [Link](https://twitter.com/fgo38195272/status/1299027736980099074)          | NoSwap                            |
 | Murasaki Shikibu                 | [Link](https://twitter.com/Hello_Anthem/status/1298911960998658053?s=19)    | NoSwap                            |
 | Odysseus                         | [Link](https://twitter.com/DrgnWgt/status/1298920470780157952?s=20)         |
 |                                  | [Link](https://twitter.com/damenakeisanki/status/1298935941390712834?s=20)  | NoSwap                            |
+| Osakabehime (Archer)             | [Link](https://twitter.com/1syuten2syefi/status/1299237627820830721)        | Dual Core                         |
 | Scheherazade                     | [Link](https://twitter.com/Peperon8310/status/1299065555152850944?s=20)     | Arash, CasGil def down            |
+| Sei Shonagon                     | [Link](https://twitter.com/EdaFgo/status/1299329472085151750)               | Dual Core                         |
+| SHIKI                            | [Link](https://www.bilibili.com/video/BV1qA411n7p5)                         | Dual Core                         |
+| Tomoe (Saber)                    | [Link](https://twitter.com/FGOakauntoz/status/1299174149655465984)          | Dual Core                         |
 | Voyager                          | [Link](https://twitter.com/fgosyukai1/status/1298997105453801476)           | NoSwap                            |
 | TRIPLE CORE                      | [Link](https://twitter.com/Bbci_f/status/1298945830414503936?s=20)          | BB, Abigail, Emiya                |
 | TRIPLE CORE                      | [Link](https://twitter.com/waiwaikigurumi/status/1298949813367484416)       | Arjuna Alter, Rider Ishtar, Arash |
+| TRIPLE CORE                      | [Link](https://twitter.com/OrGOrG_FGO/status/1299256688835350528)           | Nitocris, Ishtar, Maou            |
+| TRIPLE CORE                      | [Link](https://twitter.com/Chihiro1000/status/1299266367032446978)          | Nero (Caster), Nito, Arash        |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
