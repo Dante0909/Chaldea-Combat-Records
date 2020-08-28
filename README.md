@@ -1642,6 +1642,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                  | [Link](https://twitter.com/d_fmgfam34/status/1299015213245591554)           | Non Event CE, NoSwap               |
 |                                  | [Link](https://www.bilibili.com/video/BV1854y127q9)                         | Dual Core, Non Event CE            |
 |                                  | [Link](https://twitter.com/PURIN_XX_/status/1299340311278174210?s=20)       | NoSwap, Dual Core                  |
+| Gilgamesh (Caster)               | [Link](https://twitter.com/mgmg3939pnd/status/1299354087884947456)          | NoSwap                             |
 | Hokusai (Foreigner)              | [Link](https://www.youtube.com/watch?v=qV3gPtCykRg&feature=youtu.be)        | Solo                               |
 |                                  | [Link](https://twitter.com/kitakitasnas/status/1298983078564528129?s=19)    | NoSwap                             |
 | Illyasviel von Einzbern (Archer) | [Link](https://twitter.com/Herakles_osi/status/1298933957992435716?s=20)    |
