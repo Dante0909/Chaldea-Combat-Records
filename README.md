@@ -1667,6 +1667,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Scheherazade                     | [Link](https://twitter.com/Peperon8310/status/1299065555152850944?s=20)     | Arash, CasGil def down             |
 | Sei Shonagon                     | [Link](https://twitter.com/EdaFgo/status/1299329472085151750)               | Dual Core                          |
 | SHIKI                            | [Link](https://www.bilibili.com/video/BV1qA411n7p5)                         | Dual Core                          |
+| Sieg                             | [Link](https://twitter.com/1104shoki/status/1299360348500238337)            |
 | Tomoe (Saber)                    | [Link](https://twitter.com/FGOakauntoz/status/1299174149655465984)          | Dual Core                          |
 | Voyager                          | [Link](https://twitter.com/fgosyukai1/status/1298997105453801476)           | NoSwap                             |
 | TRIPLE CORE                      | [Link](https://twitter.com/Bbci_f/status/1298945830414503936?s=20)          | BB, Abigail, Emiya                 |
