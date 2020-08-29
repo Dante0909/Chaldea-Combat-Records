@@ -1665,6 +1665,8 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Meltryllis (Alter-Ego)           | [Link](https://www.youtube.com/watch?v=GlMJzTjvRXM)                         | Dual Core, ST TA                   |
 | Meltryllis (Lancer)              | [Link](https://twitter.com/2_5_dimension/status/1298803692578066438?)       |                                    |
 |                                  | [Link](https://twitter.com/2_5_dimension/status/1299161651615166465?s=20)   | NoSwap                             |
+|                                  | [Link](https://twitter.com/2_5_dimension/status/1299700601610100737?s=20)   | Non SSR Supports Only              |
+| MHXA                             | [Link](https://twitter.com/snowdroptree/status/1299674640822890496?s=20)    | ST TA                              |
 | Mordred (Rider)                  | [Link](https://www.bilibili.com/video/BV18k4y127AB)                         | Non Event CE                       |
 |                                  | [Link](https://www.bilibili.com/video/BV1ga4y1E7qu)                         | NoSwap, Non Event CE               |
 | Mordred (Saber)                  | [Link](https://twitter.com/Hello_Anthem/status/1299134052000129025)         | Dual Core                          |
@@ -1672,6 +1674,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                  | [Link](https://twitter.com/rrrinka_1933/status/1298942545343332355)         |
 |                                  | [Link](https://twitter.com/fgo38195272/status/1299027736980099074)          | NoSwap                             |
 | Murasaki Shikibu                 | [Link](https://twitter.com/Hello_Anthem/status/1298911960998658053?s=19)    | NoSwap                             |
+| Nero (Saber)                     | [Link](https://twitter.com/Chihiro1000/status/1299716137228201984?s=20)     | NoSwap                             |
 | Odysseus                         | [Link](https://twitter.com/DrgnWgt/status/1298920470780157952?s=20)         |
 |                                  | [Link](https://twitter.com/damenakeisanki/status/1298935941390712834?s=20)  | NoSwap                             |
 | Scathach                         | [Link](https://twitter.com/gameo_fate/status/1299675641923530752?s=19)      | Dual Core, ST TA                   |
