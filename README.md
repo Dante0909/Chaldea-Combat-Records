@@ -1637,6 +1637,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Arturia Pendragon (Ruler)        | [Link](https://twitter.com/Aloha258_master/status/1298939795721211904?s=20) | NoSwap                             |
 | Astarte                          | [Link](https://twitter.com/aloha258_master/status/1298864684678828033?s=21) | NoSwap                             |
 |                                  | [Link](https://twitter.com/amfgo2/status/1298884591483146242?s=20)          | Non Event CE                       |
+| BB (Summer)                      | [Link](https://www.bilibili.com/video/BV1S54y127Ug)                         | NoSwap                             |
 | Chen Gong                        | [Link](https://twitter.com/mgmg3939pnd/status/1298923889204924417?s=20)     |
 | Da Vinci (Rider)                 | [Link](https://twitter.com/shuten1341/status/1298818735243841537?s=20)      | Dual Core                          |
 |                                  | [Link](https://twitter.com/d_fmgfam34/status/1299015213245591554)           | Non Event CE, NoSwap               |
