@@ -1634,6 +1634,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | DPS Used                         | Link                                                                        | Remarks                            |
 | -------------------------------- | --------------------------------------------------------------------------- | ---------------------------------- |
 | Achilles                         | [Link](https://twitter.com/Violet_g612/status/1299548488695336960)          | Dual Core                          |
+|                                  | [Link](https://www.youtube.com/watch?v=3WHeyVr1D24&feature=youtu.be)        | NoSwap                             |
 | Anastasia                        | [Link](https://twitter.com/ebichiri01417/status/1299035242225795072?s=20)   |
 | Arturia Pendragon (Ruler)        | [Link](https://twitter.com/Aloha258_master/status/1298939795721211904?s=20) | NoSwap                             |
 |                                  | [Link](https://twitter.com/Aloha258_master/status/1299510264325271552?s=20) | NoSwap, Non Event CE               |
@@ -1665,6 +1666,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Meltryllis (Lancer)              | [Link](https://twitter.com/2_5_dimension/status/1298803692578066438?)       |                                    |
 |                                  | [Link](https://twitter.com/2_5_dimension/status/1299161651615166465?s=20)   | NoSwap                             |
 | Mordred (Rider)                  | [Link](https://www.bilibili.com/video/BV18k4y127AB)                         | Non Event CE                       |
+|                                  | [Link](https://www.bilibili.com/video/BV1ga4y1E7qu)                         | NoSwap, Non Event CE               |
 | Mordred (Saber)                  | [Link](https://twitter.com/Hello_Anthem/status/1299134052000129025)         | Dual Core                          |
 | Musashi (Berserker)              | [Link](https://twitter.com/kekekei_MHFZ/status/1298886371629645824?s=19)    |
 |                                  | [Link](https://twitter.com/rrrinka_1933/status/1298942545343332355)         |
@@ -1672,6 +1674,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Murasaki Shikibu                 | [Link](https://twitter.com/Hello_Anthem/status/1298911960998658053?s=19)    | NoSwap                             |
 | Odysseus                         | [Link](https://twitter.com/DrgnWgt/status/1298920470780157952?s=20)         |
 |                                  | [Link](https://twitter.com/damenakeisanki/status/1298935941390712834?s=20)  | NoSwap                             |
+| Scathach                         | [Link](https://twitter.com/gameo_fate/status/1299675641923530752?s=19)      | Dual Core, ST TA                   |
 | Scheherazade                     | [Link](https://twitter.com/Peperon8310/status/1299065555152850944?s=20)     | Arash, CasGil def down             |
 | Sei Shonagon                     | [Link](https://twitter.com/EdaFgo/status/1299329472085151750)               | Dual Core                          |
 | SHIKI                            | [Link](https://www.bilibili.com/video/BV1qA411n7p5)                         | Dual Core                          |
