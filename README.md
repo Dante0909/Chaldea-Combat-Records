@@ -1636,16 +1636,20 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Achilles                         | [Link](https://twitter.com/Violet_g612/status/1299548488695336960)          | Dual Core                          |
 | Anastasia                        | [Link](https://twitter.com/ebichiri01417/status/1299035242225795072?s=20)   |
 | Arturia Pendragon (Ruler)        | [Link](https://twitter.com/Aloha258_master/status/1298939795721211904?s=20) | NoSwap                             |
+|                                  | [Link](https://twitter.com/Aloha258_master/status/1299510264325271552?s=20) | NoSwap, Non Event CE               |
 | Astarte                          | [Link](https://twitter.com/aloha258_master/status/1298864684678828033?s=21) | NoSwap                             |
 |                                  | [Link](https://twitter.com/amfgo2/status/1298884591483146242?s=20)          | Non Event CE                       |
 | BB (Summer)                      | [Link](https://www.bilibili.com/video/BV1S54y127Ug)                         | NoSwap                             |
 | Chen Gong                        | [Link](https://twitter.com/mgmg3939pnd/status/1298923889204924417?s=20)     |
+|                                  | [Link](https://twitter.com/mgmg3939pnd/status/1299644044700577793?s=20)     | Non Event CE                       |
 | Da Vinci (Rider)                 | [Link](https://twitter.com/shuten1341/status/1298818735243841537?s=20)      | Dual Core                          |
 |                                  | [Link](https://twitter.com/d_fmgfam34/status/1299015213245591554)           | Non Event CE, NoSwap               |
 |                                  | [Link](https://www.bilibili.com/video/BV1854y127q9)                         | Dual Core, Non Event CE            |
 |                                  | [Link](https://twitter.com/PURIN_XX_/status/1299340311278174210?s=20)       | NoSwap, Dual Core                  |
 | Dantes                           | [link](https://www.youtube.com/watch?v=Xhw4MDPcpEM)                         |
+| Emiya (Archer)                   | [Link](https://twitter.com/crymoon37/status/1299481890936598528?s=20)       | Dual Core                          |
 | Ereshkigal                       | [Link](https://twitter.com/waiwaikigurumi/status/1299582206688468992)       | Dual Core                          |
+| Gilgamesh (Archer)               | [Link](https://www.youtube.com/watch?v=nkvlIDdsVzU&feature=youtu.be)        | Dual Core                          |
 | Gilgamesh (Caster)               | [Link](https://twitter.com/mgmg3939pnd/status/1299354087884947456)          | NoSwap                             |
 | Hokusai (Foreigner)              | [Link](https://www.youtube.com/watch?v=qV3gPtCykRg&feature=youtu.be)        | Solo                               |
 |                                  | [Link](https://twitter.com/kitakitasnas/status/1298983078564528129?s=19)    | NoSwap                             |
@@ -1679,6 +1683,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | TRIPLE CORE                      | [Link](https://twitter.com/waiwaikigurumi/status/1298949813367484416)       | Arjuna Alter, Rider Ishtar, Arash  |
 | TRIPLE CORE                      | [Link](https://twitter.com/OrGOrG_FGO/status/1299256688835350528)           | Nitocris, Ishtar, Maou             |
 | TRIPLE CORE                      | [Link](https://twitter.com/Chihiro1000/status/1299266367032446978)          | Nero (Caster), Nito, Arash         |
-| TRIPLE COR                       | [Link](https://twitter.com/1syuten2syefi/status/1299237627820830721)        | Osakabehime (Archer), Kiara, Arash |
+| TRIPLE CORE                      | [Link](https://twitter.com/1syuten2syefi/status/1299237627820830721)        | Osakabehime (Archer), Kiara, Arash |
+| TRIPLE CORE                      | [Link](https://twitter.com/waiwaikigurumi/status/1299637114200420352?s=20)  | Junao, Ishtar, Arash               |
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
