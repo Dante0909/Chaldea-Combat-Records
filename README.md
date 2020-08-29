@@ -1657,7 +1657,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                  | [Link](https://twitter.com/terminas_aria/status/1298998103173816320?s=20)   | Solo                               |
 |                                  | [Link](https://www.bilibili.com/video/BV1sZ4y1T7B7)                         | Non Event CE, Dual Core            |
 | Lancelot (Berserker)             | [Link](https://twitter.com/DOA_KAMEN/status/1299048379566104577?s=20)       | Dual Core with Emiya               |
-| Meltryllis (Alter-Ego)           | [Link](https://twitter.com/2_5_dimension/status/1299314404186443776?s=20)   | Dual Core, ST TA                   |
+| Meltryllis (Alter-Ego)           | [Link](https://www.youtube.com/watch?v=GlMJzTjvRXM)                         | Dual Core, ST TA                   |
 | Meltryllis (Lancer)              | [Link](https://twitter.com/2_5_dimension/status/1298803692578066438?)       |                                    |
 |                                  | [Link](https://twitter.com/2_5_dimension/status/1299161651615166465?s=20)   | NoSwap                             |
 | Mordred (Rider)                  | [Link](https://www.bilibili.com/video/BV18k4y127AB)                         | Non Event CE                       |
