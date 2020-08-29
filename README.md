@@ -1645,6 +1645,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                  | [Link](https://www.bilibili.com/video/BV1854y127q9)                         | Dual Core, Non Event CE            |
 |                                  | [Link](https://twitter.com/PURIN_XX_/status/1299340311278174210?s=20)       | NoSwap, Dual Core                  |
 | Dantes                           | [link](https://www.youtube.com/watch?v=Xhw4MDPcpEM)                         |
+| Ereshkigal                       | [Link](https://twitter.com/waiwaikigurumi/status/1299582206688468992)       | Dual Core                          |
 | Gilgamesh (Caster)               | [Link](https://twitter.com/mgmg3939pnd/status/1299354087884947456)          | NoSwap                             |
 | Hokusai (Foreigner)              | [Link](https://www.youtube.com/watch?v=qV3gPtCykRg&feature=youtu.be)        | Solo                               |
 |                                  | [Link](https://twitter.com/kitakitasnas/status/1298983078564528129?s=19)    | NoSwap                             |
