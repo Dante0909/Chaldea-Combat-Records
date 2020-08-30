@@ -1652,6 +1652,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ereshkigal                       | [Link](https://twitter.com/waiwaikigurumi/status/1299582206688468992)       | Dual Core                          |
 | Gilgamesh (Archer)               | [Link](https://www.youtube.com/watch?v=nkvlIDdsVzU&feature=youtu.be)        | Dual Core                          |
 | Gilgamesh (Caster)               | [Link](https://twitter.com/mgmg3939pnd/status/1299354087884947456)          | NoSwap                             |
+|                                  | [Link](https://www.bilibili.com/video/BV1XA411n7ry)                         | Non Event CE                       |
 | Hokusai (Foreigner)              | [Link](https://www.youtube.com/watch?v=qV3gPtCykRg&feature=youtu.be)        | Solo                               |
 |                                  | [Link](https://twitter.com/kitakitasnas/status/1298983078564528129?s=19)    | NoSwap                             |
 | Illyasviel von Einzbern (Archer) | [Link](https://twitter.com/Herakles_osi/status/1298933957992435716?s=20)    |
@@ -1683,6 +1684,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Scathach                         | [Link](https://twitter.com/gameo_fate/status/1299675641923530752?s=19)      | Dual Core, ST TA                   |
 | Scheherazade                     | [Link](https://twitter.com/Peperon8310/status/1299065555152850944?s=20)     | Arash, CasGil def down             |
 | Sei Shonagon                     | [Link](https://twitter.com/EdaFgo/status/1299329472085151750)               | Dual Core                          |
+|                                  | [Link](https://twitter.com/EdaFgo/status/1299928137833168897?s=20)          | NoSwap                             |
 | SHIKI                            | [Link](https://www.bilibili.com/video/BV1qA411n7p5)                         | Dual Core                          |
 | Shuten Douji (Assassin)          | [Link](https://twitter.com/1syuten2syefi/status/1299497128230752256?s=20)   |
 | Sieg                             | [Link](https://twitter.com/1104shoki/status/1299360348500238337)            |
