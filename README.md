@@ -1655,6 +1655,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Hokusai (Foreigner)              | [Link](https://www.youtube.com/watch?v=qV3gPtCykRg&feature=youtu.be)        | Solo                               |
 |                                  | [Link](https://twitter.com/kitakitasnas/status/1298983078564528129?s=19)    | NoSwap                             |
 | Illyasviel von Einzbern (Archer) | [Link](https://twitter.com/Herakles_osi/status/1298933957992435716?s=20)    |
+| Ishtar (Archer)                  | [Link](https://twitter.com/waiwaikigurumi/status/1299926875871956992?s=20)  | NoSwap                             |
 | Jeanne d'Arc (Archer)            | [Link](https://twitter.com/Miyabi_fgo_/status/1298833738143416323?s=20)     |
 |                                  | [Link](https://twitter.com/myc_1228/status/1298912143043989504?s=20)        | NoSwap                             |
 | Jinako                           | [Link](https://www.youtube.com/watch?v=NWemNESPC8M)                         | Solo                               |
