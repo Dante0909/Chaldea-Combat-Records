@@ -1637,6 +1637,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                  | [Link](https://www.youtube.com/watch?v=3WHeyVr1D24&feature=youtu.be)        | NoSwap                             |
 | Anastasia                        | [Link](https://twitter.com/ebichiri01417/status/1299035242225795072?s=20)   |
 | Arturia Pendragon (Ruler)        | [Link](https://twitter.com/Aloha258_master/status/1298939795721211904?s=20) | NoSwap                             |
+| Arturia Pendragon (Saber)        | [Link](https://twitter.com/TKGFGO1/status/1299957277785350144)              |
 |                                  | [Link](https://twitter.com/Aloha258_master/status/1299510264325271552?s=20) | NoSwap, Non Event CE               |
 | Astarte                          | [Link](https://twitter.com/aloha258_master/status/1298864684678828033?s=21) | NoSwap                             |
 |                                  | [Link](https://twitter.com/amfgo2/status/1298884591483146242?s=20)          | Non Event CE                       |
@@ -1687,6 +1688,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                  | [Link](https://twitter.com/EdaFgo/status/1299928137833168897?s=20)          | NoSwap                             |
 | SHIKI                            | [Link](https://www.bilibili.com/video/BV1qA411n7p5)                         | Dual Core                          |
 | Shuten Douji (Assassin)          | [Link](https://twitter.com/1syuten2syefi/status/1299497128230752256?s=20)   |
+|                                  | [Link](https://twitter.com/shuten1341/status/1299958731510177794)           | NoSwap                             |
 | Sieg                             | [Link](https://twitter.com/1104shoki/status/1299360348500238337)            |
 | Tomoe (Saber)                    | [Link](https://twitter.com/FGOakauntoz/status/1299174149655465984)          | Dual Core                          |
 | Voyager                          | [Link](https://twitter.com/fgosyukai1/status/1298997105453801476)           | NoSwap                             |
