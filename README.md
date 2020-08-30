@@ -1674,6 +1674,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                  | [Link](https://twitter.com/rrrinka_1933/status/1298942545343332355)         |
 |                                  | [Link](https://twitter.com/fgo38195272/status/1299027736980099074)          | NoSwap                             |
 | Murasaki Shikibu                 | [Link](https://twitter.com/Hello_Anthem/status/1298911960998658053?s=19)    | NoSwap                             |
+| Napoleon                         | [Link](https://www.youtube.com/watch?v=NGjJ5MG3t6Y)                         |
 | Nero (Saber)                     | [Link](https://twitter.com/Chihiro1000/status/1299716137228201984?s=20)     | NoSwap                             |
 | Nursery Rhyme                    | [Link](https://twitter.com/6UgYnoZKVn6PApV/status/1299897596496891906?s=20) | NoSwap                             |
 | Odysseus                         | [Link](https://twitter.com/DrgnWgt/status/1298920470780157952?s=20)         |
