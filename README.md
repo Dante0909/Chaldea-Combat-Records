@@ -1675,6 +1675,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                  | [Link](https://twitter.com/fgo38195272/status/1299027736980099074)          | NoSwap                             |
 | Murasaki Shikibu                 | [Link](https://twitter.com/Hello_Anthem/status/1298911960998658053?s=19)    | NoSwap                             |
 | Nero (Saber)                     | [Link](https://twitter.com/Chihiro1000/status/1299716137228201984?s=20)     | NoSwap                             |
+| Nursery Rhyme                    | [Link](https://twitter.com/6UgYnoZKVn6PApV/status/1299897596496891906?s=20) | NoSwap                             |
 | Odysseus                         | [Link](https://twitter.com/DrgnWgt/status/1298920470780157952?s=20)         |
 |                                  | [Link](https://twitter.com/damenakeisanki/status/1298935941390712834?s=20)  | NoSwap                             |
 | Scathach                         | [Link](https://twitter.com/gameo_fate/status/1299675641923530752?s=19)      | Dual Core, ST TA                   |
