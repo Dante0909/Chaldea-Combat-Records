@@ -115,7 +115,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 | Chloe                          | [Link](https://www.bilibili.com/video/BV1HW41167FB)               |
 | Emiya (Archer)                 | [Link](https://www.bilibili.com/video/BV1h441127oT)               |
 | Fujino                         | [Link](https://www.bilibili.com/video/BV1i441127NY)               |
-| Gilgamesh (Archer)             | [Link](https://www.youtube.com/watch?v=uMbyq6BwdeI)               | Lvl 100 and 2k fou |
+| Gilgamesh (Archer)             | [Link](https://www.youtube.com/watch?v=uMbyq6BwdeI)               | 2145 |
 | Heracles                       | [Link](https://www.bilibili.com/video/BV12441117PQ)               |
 | Hijikata                       | [Link](https://www.bilibili.com/video/BV1kW411z7bt)               |
 | Ibaraki                        | [Link](https://www.bilibili.com/video/BV1A4411C79m)               |
