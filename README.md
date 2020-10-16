@@ -1739,23 +1739,32 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Astarte                     | [Link](https://twitter.com/KUR_NU_GI_A/status/1317086287786958848?s=20)     | NoSwap                      |
 | Astolfo                     | [Link](https://twitter.com/1104shoki/status/1317077310193893381?s=20)       |
 | BB                          | [Link](https://twitter.com/Chinkyu_pencil/status/1317065470097330179?s=20)  |
+|                             | [Link](https://twitter.com/Bonta_Unit_07/status/1317094397708705794?s=20)   | NoSwap                      |
 | Chen Gong                   | [Link](https://twitter.com/Chinkyu_pencil/status/1317049770288926720?s=20)  |
+| Dantes                      | [link](https://twitter.com/K70XG/status/1317092157157601282?s=20)           |
 | Enkidu                      | [link](https://twitter.com/mgmg3939pnd/status/1317092315308072960?s=20)     | NoSwap                      |
 | Ereshkigal                  | [Link](https://twitter.com/NAO42010/status/1317082172126154752?s=20)        |
+| Fran (Berserker)            | [Link](https://twitter.com/d_fmgfam34/status/1317050892298768384?s=20)      |
 | Gilgamesh (Archer)          | [Link](https://twitter.com/mana_pwpr/status/1317072899010826242?s=20)       | NoSwap                      |
 | Hajime Saitou               | [Link](https://twitter.com/haikaga/status/1317073381590659072?s=20)         | NoSwap                      |
 | Heracles                    | [Link](https://twitter.com/Herakles_osi/status/1317044746443894784?s=20)    |
+| Heracles                    | [Link](https://twitter.com/fuwa_rai/status/1317096215494885382?s=20)        | NoSwap                      |
 | Hijikata                    | [Link](https://twitter.com/Aloha258_master/status/1317076575418941440?s=20) | NoSwap                      |
 | Hokusai (Foreigner)         | [Link](https://twitter.com/kitakitasnas/status/1317069286985273345?s=20)    |
 | Jinako                      | [Link](https://twitter.com/kitakitasnas/status/1317087714106175488?s=20)    | Dual Core                   |
 | Kiara Sessoin (Moon Cancer) | [Link](https://twitter.com/ShotkAnime/status/1317084544298672128?s=20)      | Non Event CE                |
 | Lancelot (Berserker)        | [Link](https://twitter.com/haikaga/status/1317058482302984192?s=20)         | NoSwap                      |
+| Leornardo Da Vinci (caster) | [Link](https://twitter.com/Hello_Anthem/status/1317079334666993665?s=20)    |
+| Meltryllis (Lancer)         | [Link](https://twitter.com/2_5_dimension/status/1317061161615982594?s=20)   |
 | Mordred (Saber)             | [Link](https://twitter.com/Hello_Anthem/status/1317062889551785984?s=20)    |
+| Musashi (Berserker)         | [link](https://twitter.com/kekekei_MHFZ/status/1317050599225970689?s=20)    |
 | Nero (Bride)                | [Lnik](https://twitter.com/2_5_dimension/status/1317061161615982594?s=20)   |                             |
+| Okita Souji (Alter-Ego)     | [link](https://twitter.com/myc_1228/status/1317077240916582400?s=20)        |
 | Okita Souji (Saber)         | [Link](https://twitter.com/rikoriknriFGO/status/1317066682121121793?s=20)   | NoSwap                      |
 | Oda Nobunaga (Berserker)    | [Link](https://twitter.com/snowdroptree/status/1317081869469446146?s=20)    | NoSwap, Bronze Support only |
 | Raikou (Berserker)          | [Link](https://twitter.com/1syuten2syefi/status/1317050089865502724?s=20)   |
 | Romulus = Qurinus           | [Link](https://twitter.com/NuuuuuN0704/status/1317082531754172416?s=20)     | NoSwap                      |
+| Scathach (Lancer)           | [Link](https://twitter.com/DrgnWgt/status/1317063798583304193?s=20)         |
 | SHIKI (Saber)               | [Link](https://twitter.com/7Corner/status/1317083243854786560?s=20)         |
 | Ushiwakamaru (Assassin)     | [Link](https://twitter.com/fuwa_rai/status/1317056005771984896?s=20)        |
 
