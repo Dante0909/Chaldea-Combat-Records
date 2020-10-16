@@ -1736,6 +1736,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | DPS Used                    | Link                                                                        | Remarks                     |
 | --------------------------- | --------------------------------------------------------------------------- | --------------------------- |
 | Arturia Pendragon (Ruler)   | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1317068326166646788?s=20) |
+| Ashwatthama                 | [Link](https://twitter.com/daiwaniki/status/1317088029543075842?s=20)       |
 | Astarte                     | [Link](https://twitter.com/KUR_NU_GI_A/status/1317086287786958848?s=20)     | NoSwap                      |
 | Astolfo                     | [Link](https://twitter.com/1104shoki/status/1317077310193893381?s=20)       |
 | BB                          | [Link](https://twitter.com/Chinkyu_pencil/status/1317065470097330179?s=20)  |
@@ -1752,6 +1753,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Heracles                    | [Link](https://twitter.com/fuwa_rai/status/1317096215494885382?s=20)        | NoSwap                      |
 | Hijikata                    | [Link](https://twitter.com/Aloha258_master/status/1317076575418941440?s=20) | NoSwap                      |
 | Hokusai (Foreigner)         | [Link](https://twitter.com/kitakitasnas/status/1317069286985273345?s=20)    |
+| Jeanne d'Arc (Alter)        | [Link](https://twitter.com/Phi_fgo/status/1317099967584989187?s=20)         | Non Event CE                |
 | Jinako                      | [Link](https://twitter.com/kitakitasnas/status/1317087714106175488?s=20)    | Dual Core                   |
 | Kiara Sessoin (Moon Cancer) | [Link](https://twitter.com/ShotkAnime/status/1317084544298672128?s=20)      | Non Event CE                |
 | Lancelot (Berserker)        | [Link](https://twitter.com/haikaga/status/1317058482302984192?s=20)         | NoSwap                      |
