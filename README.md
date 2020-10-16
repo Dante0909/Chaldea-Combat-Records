@@ -1756,6 +1756,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Hokusai (Foreigner)         | [Link](https://twitter.com/kitakitasnas/status/1317069286985273345?s=20)    |
 | Jeanne d'Arc (Alter)        | [Link](https://twitter.com/Phi_fgo/status/1317099967584989187?s=20)         | Non Event CE                |
 | Jinako                      | [Link](https://twitter.com/kitakitasnas/status/1317087714106175488?s=20)    | Dual Core                   |
+| Kama                        | [link](https://twitter.com/maruihayao/status/1317092705780994048?s=20)      |
 | Kiara Sessoin (Moon Cancer) | [Link](https://twitter.com/ShotkAnime/status/1317084544298672128?s=20)      | Non Event CE                |
 | Lancelot (Berserker)        | [Link](https://twitter.com/haikaga/status/1317058482302984192?s=20)         | NoSwap                      |
 | Leornardo Da Vinci (caster) | [Link](https://twitter.com/Hello_Anthem/status/1317079334666993665?s=20)    |
