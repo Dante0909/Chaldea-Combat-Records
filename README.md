@@ -1761,6 +1761,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Leornardo Da Vinci (caster) | [Link](https://twitter.com/Hello_Anthem/status/1317079334666993665?s=20)    |
 | Meltryllis (Lancer)         | [Link](https://twitter.com/2_5_dimension/status/1317061161615982594?s=20)   |
 |                             | [link](https://twitter.com/Yuri_duelist/status/1317101736453009409?s=20)    | NoSwap                      |
+| Mori Nagayoshi              | [Link](https://twitter.com/nmnppp/status/1317101723781984256?s=20)          | Non SSR Supports Only       |
 | Mordred (Saber)             | [Link](https://twitter.com/Hello_Anthem/status/1317062889551785984?s=20)    |
 | Musashi (Berserker)         | [link](https://twitter.com/kekekei_MHFZ/status/1317050599225970689?s=20)    |
 | Nero (Bride)                | [Lnik](https://twitter.com/2_5_dimension/status/1317061161615982594?s=20)   |                             |
