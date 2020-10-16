@@ -1741,6 +1741,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Astolfo                     | [Link](https://twitter.com/1104shoki/status/1317077310193893381?s=20)       |
 | BB                          | [Link](https://twitter.com/Chinkyu_pencil/status/1317065470097330179?s=20)  |
 |                             | [Link](https://twitter.com/Bonta_Unit_07/status/1317094397708705794?s=20)   | NoSwap                      |
+| BB (Summer)                 | [Link](https://twitter.com/Peperon8310/status/1317100429746999296?s=20)     |
 | Carmilla (Rider)            | [Link](https://www.youtube.com/watch?v=q1CKNpgzqnU)                         |
 | Chen Gong                   | [Link](https://twitter.com/Chinkyu_pencil/status/1317049770288926720?s=20)  |
 | Dantes                      | [link](https://twitter.com/K70XG/status/1317092157157601282?s=20)           |
@@ -1767,6 +1768,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Okita Souji (Saber)         | [Link](https://twitter.com/rikoriknriFGO/status/1317066682121121793?s=20)   | NoSwap                      |
 | Oda Nobunaga (Berserker)    | [Link](https://twitter.com/snowdroptree/status/1317081869469446146?s=20)    | NoSwap, Bronze Support only |
 | Raikou (Berserker)          | [Link](https://twitter.com/1syuten2syefi/status/1317050089865502724?s=20)   |
+|                             | [Link](https://twitter.com/neo_lex0403/status/1317091462731886594?s=20)     | NoSwap                      |
 | Romulus = Qurinus           | [Link](https://twitter.com/NuuuuuN0704/status/1317082531754172416?s=20)     | NoSwap                      |
 | Scathach (Lancer)           | [Link](https://twitter.com/DrgnWgt/status/1317063798583304193?s=20)         |
 | SHIKI (Saber)               | [Link](https://twitter.com/7Corner/status/1317083243854786560?s=20)         |
