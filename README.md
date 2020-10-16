@@ -1735,6 +1735,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 
 | DPS Used                    | Link                                                                        | Remarks                     |
 | --------------------------- | --------------------------------------------------------------------------- | --------------------------- |
+| Arjuna (Alter)              | [Link](https://twitter.com/NuuuuuN0704/status/1317052205963177990?s=19)     | NoSwap                      |
 | Arturia Pendragon (Ruler)   | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1317068326166646788?s=20) |
 | Ashwatthama                 | [Link](https://twitter.com/daiwaniki/status/1317088029543075842?s=20)       |
 | Astarte                     | [Link](https://twitter.com/KUR_NU_GI_A/status/1317086287786958848?s=20)     | NoSwap                      |
@@ -1759,6 +1760,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Kama                        | [link](https://twitter.com/maruihayao/status/1317092705780994048?s=20)      |
 | Kiara Sessoin (Moon Cancer) | [Link](https://twitter.com/ShotkAnime/status/1317084544298672128?s=20)      | Non Event CE                |
 | Lancelot (Berserker)        | [Link](https://twitter.com/haikaga/status/1317058482302984192?s=20)         | NoSwap                      |
+|                             | [Link](https://twitter.com/DOA_KAMEN/status/1317103790005219329?s=20)       | Non Event CE                |
 | Leornardo Da Vinci (caster) | [Link](https://twitter.com/Hello_Anthem/status/1317079334666993665?s=20)    |
 | Meltryllis (Lancer)         | [Link](https://twitter.com/2_5_dimension/status/1317061161615982594?s=20)   |
 |                             | [link](https://twitter.com/Yuri_duelist/status/1317101736453009409?s=20)    | NoSwap                      |
