@@ -1740,6 +1740,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Astolfo                     | [Link](https://twitter.com/1104shoki/status/1317077310193893381?s=20)       |
 | BB                          | [Link](https://twitter.com/Chinkyu_pencil/status/1317065470097330179?s=20)  |
 |                             | [Link](https://twitter.com/Bonta_Unit_07/status/1317094397708705794?s=20)   | NoSwap                      |
+| Carmilla (Rider)            | [Link](https://www.youtube.com/watch?v=q1CKNpgzqnU)                         |
 | Chen Gong                   | [Link](https://twitter.com/Chinkyu_pencil/status/1317049770288926720?s=20)  |
 | Dantes                      | [link](https://twitter.com/K70XG/status/1317092157157601282?s=20)           |
 | Enkidu                      | [link](https://twitter.com/mgmg3939pnd/status/1317092315308072960?s=20)     | NoSwap                      |
