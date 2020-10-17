@@ -1735,9 +1735,13 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 
 | DPS Used                    | Link                                                                        | Remarks                     |
 | --------------------------- | --------------------------------------------------------------------------- | --------------------------- |
+| Altera (Archer)             | [Link](https://twitter.com/shortcut588/status/1317180189097422848?s=19)     |
+| Arash                       | [Link](https://twitter.com/Tsubu_fgo/status/1317473104340295682)            |
+| Arjuna                      | [Link](https://twitter.com/torikawaTA/status/1317227255739731968?s=19)      |
 | Arjuna (Alter)              | [Link](https://twitter.com/NuuuuuN0704/status/1317052205963177990?s=19)     | NoSwap                      |
 |                             | [Link](https://www.bilibili.com/video/BV1Yp4y1Y7Ki)                         | NoSwap, Non Event CE        |
 |                             | [Link](https://twitter.com/buenabisutafgo/status/1317149987529109505?s=20)  | NoSwap, Non Event CE        |
+| Arturia Pendragon (Archer)  | [Link](https://twitter.com/TKGFGO1/status/1317488676964806659?s=19)         | NoSwap                      |
 | Arturia Pendragon (Lancer)  | [Link](https://twitter.com/OddEye_DOL/status/1317144770200834048?s=20)      |
 | Arturia Pendragon (Ruler)   | [Link](https://twitter.com/YVMbnvWVohktKHj/status/1317068326166646788?s=20) |
 | Ashwatthama                 | [Link](https://twitter.com/daiwaniki/status/1317088029543075842?s=20)       |
@@ -1745,16 +1749,17 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                             | [Link](https://www.bilibili.com/video/BV1KD4y1d7Xf)                         | NoSwap, Non Event CE        |
 |                             | [Link](https://twitter.com/Aloha258_master/status/1317103432117841923?s=19) | NoSwap, Two lvl 1 Support   |
 | Astolfo                     | [Link](https://twitter.com/1104shoki/status/1317077310193893381?s=20)       |
-| Astolfo (Saber)             | [Link](https://twitter.com/1104shoki/status/1317142244583821312?s=20)       | NoSwap
-| Brynhildr (Berserker)       | [Link](https://twitter.com/Peperon8310/status/1317120241453858821?s=20)     | 
-| BB                          | [Link](https://twitter.com/Hello_Anthem/status/1317180306508533760?s=20)    | Non Event CE
+| Astolfo (Saber)             | [Link](https://twitter.com/1104shoki/status/1317142244583821312?s=20)       | NoSwap                      |
+| Brynhildr (Berserker)       | [Link](https://twitter.com/Peperon8310/status/1317120241453858821?s=20)     |
+| BB                          | [Link](https://twitter.com/Hello_Anthem/status/1317180306508533760?s=20)    | Non Event CE                |
 |                             | [Link](https://twitter.com/Bonta_Unit_07/status/1317094397708705794?s=20)   | NoSwap                      |
 | BB (Summer)                 | [Link](https://twitter.com/Peperon8310/status/1317100429746999296?s=20)     |
 | Carmilla (Rider)            | [Link](https://www.youtube.com/watch?v=q1CKNpgzqnU)                         |
 | Chen Gong                   | [Link](https://twitter.com/Chinkyu_pencil/status/1317049770288926720?s=20)  |
 | Dantes                      | [link](https://twitter.com/K70XG/status/1317092157157601282?s=20)           |
+|                             | [Link](https://twitter.com/mana_pwpr/status/1317242612466606080?s=19)       | NoSwap                      |
 | Darius                      | [Link](https://www.bilibili.com/video/BV1pp4y1Y7Nt)                         |
-| Dioscuri                    | [Link](https://twitter.com/Herakles_osi/status/1317091666470137858?s=19)    | NoSwap
+| Dioscuri                    | [Link](https://twitter.com/Herakles_osi/status/1317091666470137858?s=19)    | NoSwap                      |
 | Enkidu                      | [Link](https://twitter.com/mgmg3939pnd/status/1317092315308072960?s=20)     | NoSwap                      |
 | Ereshkigal                  | [Link](https://twitter.com/NAO42010/status/1317082172126154752?s=20)        |
 | Fran (Berserker)            | [Link](https://twitter.com/d_fmgfam34/status/1317050892298768384?s=20)      |
@@ -1764,21 +1769,26 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Hajime Saitou               | [Link](https://twitter.com/haikaga/status/1317073381590659072?s=20)         | NoSwap                      |
 | Heracles                    | [Link](https://twitter.com/Herakles_osi/status/1317044746443894784?s=20)    |
 |                             | [Link](https://twitter.com/fuwa_rai/status/1317096215494885382?s=20)        | NoSwap                      |
+| Hessian Lobo                | [Link](https://twitter.com/kitakitasnas/status/1317257635649875971?s=19)    | NoSwap                      |
 | Hijikata                    | [Link](https://twitter.com/Aloha258_master/status/1317076575418941440?s=20) | NoSwap                      |
 | Hokusai (Foreigner)         | [Link](https://twitter.com/kitakitasnas/status/1317069286985273345?s=20)    |
-| Ibaraki                     | [Link](https://twitter.com/snowdroptree/status/1317104605814124546?s=19)    | NoSwap
+| Ibaraki                     | [Link](https://twitter.com/snowdroptree/status/1317104605814124546?s=19)    | NoSwap                      |
+| Ishtar                      | [Link](https://twitter.com/waiwaikigurumi/status/1317331330489741312?s=19)  |
+| Ivan                        | [Link](https://www.youtube.com/watch?v=nDywwThDumg&feature=youtu.be)        |
 | Jeanne d'Arc (Alter)        | [Link](https://twitter.com/Phi_fgo/status/1317099967584989187?s=20)         | Non Event CE                |
+| Jekyll & Hyde               | [Link](https://twitter.com/fay_Calc/status/1317405734812798981)             |
 | Jinako                      | [Link](https://twitter.com/kitakitasnas/status/1317087714106175488?s=20)    | Dual Core                   |
 |                             | [Link](https://twitter.com/kitakitasnas/status/1317081051634692099?s=19)    | NoSwap, Non Event CE        |
 | Kama                        | [Link](https://twitter.com/maruihayao/status/1317092705780994048?s=20)      |
 |                             | [Link](https://twitter.com/ffgo_rin/status/1317152500487577600?s=20)        |
+|                             | [Link](https://twitter.com/ffgo_rin/status/1317196512552628224?s=19)        | Non Event CE                |
 | Karna                       | [Link](https://twitter.com/Now_north/status/1317098104676495361?s=19)       |
 | Kiara Sessoin (Moon Cancer) | [Link](https://www.bilibili.com/video/BV1ep4y1Y7nm)                         | NoSwap, Non Event CE        |
 | Lancelot (Berserker)        | [Link](https://twitter.com/haikaga/status/1317058482302984192?s=20)         | NoSwap                      |
 |                             | [Link](https://twitter.com/DOA_KAMEN/status/1317103790005219329?s=20)       | Non Event CE                |
 | Leornardo Da Vinci (caster) | [Link](https://twitter.com/Hello_Anthem/status/1317079334666993665?s=20)    |
 | Li                          | [Link](https://www.bilibili.com/video/BV1Yy4y1C7qq/)                        |                             |
-| Meltryllis                  | [Link](https://twitter.com/Yuri_duelist/status/1317135305925750784?s=20)    | Non Event CE
+| Meltryllis                  | [Link](https://twitter.com/Yuri_duelist/status/1317135305925750784?s=20)    | Non Event CE                |
 | Meltryllis (Lancer)         | [Link](https://twitter.com/2_5_dimension/status/1317061161615982594?s=20)   |
 |                             | [Link](https://twitter.com/Yuri_duelist/status/1317101736453009409?s=20)    | NoSwap                      |
 | MHXA                        | [Link](https://www.youtube.com/watch?v=MsoiColobcM)                         |
@@ -1786,25 +1796,38 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                             | [Link](https://twitter.com/nmnppp/status/1317120931370725379?s=20)          | NoSwap                      |
 | Mordred (Saber)             | [Link](https://twitter.com/Hello_Anthem/status/1317062889551785984?s=20)    |
 | Musashi (Berserker)         | [Link](https://www.bilibili.com/video/BV1hy4y1C7o6)                         |
-|                             | [Link](https://www.bilibili.com/video/BV1aV41127Sg)                         | NoSwap, Non Event CE
-| Murasaki (Rider)            | [Link](https://twitter.com/jyuubeeyuuan/status/1317177783294980096?s=19)    | Non Event CE
+|                             | [Link](https://www.bilibili.com/video/BV1aV41127Sg)                         | NoSwap, Non Event CE        |
+| Murasaki (Rider)            | [Link](https://twitter.com/jyuubeeyuuan/status/1317177783294980096?s=19)    | Non Event CE                |
+| Napoleon                    | [Link](https://www.youtube.com/watch?v=F-dRVWtafoA&feature=youtu.be)        |
 | Nero (Bride)                | [Link](https://twitter.com/Chihiro1000/status/1317145946770141194?s=20)     | NoSwap                      |
+| Nursery Rhyme               | [Link](https://twitter.com/6UgYnoZKVn6PApV/status/1317242861604151298?s=19) |
 | Okita Souji (Alter-Ego)     | [Link](https://twitter.com/myc_1228/status/1317077240916582400?s=20)        |
 | Okita Souji (Saber)         | [Link](https://twitter.com/rikoriknriFGO/status/1317066682121121793?s=20)   | NoSwap                      |
+|                             | [Link](https://twitter.com/snowdroptree/status/1317191579983966208?s=19)    | Non Event CE, Triple Core   |
 | Okita Souji (Assassin)      | [Link](https://www.bilibili.com/video/BV19a411w7Zh/)                        | Non Event CE                |
+| Oda Nobunaga (Avenger)      | [Link](https://www.youtube.com/watch?v=eXjWuBCyQB4)                         |
 | Oda Nobunaga (Berserker)    | [Link](https://twitter.com/snowdroptree/status/1317081869469446146?s=20)    | NoSwap, Bronze Support only |
 | Orion                       | [Link](https://twitter.com/hiduka01/status/1317107853241372672?s=19)        | NoSwap                      |
-| Raikou (Berserker)          | [Link](https://twitter.com/1syuten2syefi/status/1317161111486046209?s=20)   | Non Event CE
+| Osakabehime (Archer)        | [Link](https://twitter.com/mana_pwpr/status/1317242612466606080?s=19)       |
+| Qin Liang Yu                | [Link](https://twitter.com/NAO42010/status/1317269611755106304?s=19)        |
+| Raikou (Berserker)          | [Link](https://twitter.com/1syuten2syefi/status/1317161111486046209?s=20)   | Non Event CE                |
 |                             | [Link](https://twitter.com/neo_lex0403/status/1317091462731886594?s=20)     | NoSwap                      |
-| Ryouma                      | [Link](https://twitter.com/ULTRA1320/status/1317079692365635584?s=19)       | 
+| Ryouma                      | [Link](https://twitter.com/ULTRA1320/status/1317079692365635584?s=19)       |
 | Romulus = Qurinus           | [Link](https://twitter.com/NuuuuuN0704/status/1317082531754172416?s=20)     | NoSwap                      |
 | Scathach (Lancer)           | [Link](https://twitter.com/DrgnWgt/status/1317063798583304193?s=20)         |
+| Scherazade                  | [Link](https://twitter.com/otkznr/status/1317440778059198465)               |
+| Sei Shonagon                | [Link](https://twitter.com/EdaFgo/status/1317233614480838656?s=19)          |                             |
+| Shiki (Assassin)            | [Link](https://twitter.com/_ao2412/status/1317228063076147200?s=19)         | NoSwap                      |
 | SHIKI (Saber)               | [Link](https://twitter.com/_ao2412/status/1317091164747567111?s=19)         |
-| SHIKI                       | [Link](https://twitter.com/OddEye_DOL/status/1317172761769385984?s=20)      |
-| Shuten                      | [Link](https://twitter.com/1syuten2syefi/status/1317142313970278400?s=20)   | NoSwap
+|                             | [Link](https://twitter.com/OddEye_DOL/status/1317172761769385984?s=20)      |
+|                             | [link](https://twitter.com/_ao2412/status/1317193153061945344?s=19)         | Non Event CE                |
+| Shuten                      | [Link](https://twitter.com/1syuten2syefi/status/1317142313970278400?s=20)   | NoSwap                      |
+| Sitonai                     | [Link](https://twitter.com/Kag_Tam/status/1317300282989015041?s=19)         | NoSwap                      |
 | Valkyrie                    | [Link](https://twitter.com/terminas_aria/status/1317166246987591681?s=20)   |
 | Ushiwakamaru (Assassin)     | [Link](https://twitter.com/fuwa_rai/status/1317056005771984896?s=20)        |
-| Voyager                     | [Link](https://www.bilibili.com/video/BV13K411A7c5/)                        | Non Event CE
+| Vlad                        | [Link](https://twitter.com/nanaki_toshima/status/1317245183201669120?s=19)  | Non Event CE                |
+| Voyager                     | [Link](https://www.bilibili.com/video/BV13K411A7c5/)                        | Non Event CE                |
+| Yang Guifei                 | [Link](https://twitter.com/myc_1228/status/1317260205328015360?s=09)        |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
