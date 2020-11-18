@@ -1856,10 +1856,12 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 
 ### Lostbelt 4.5 : Imaginary Scramble
 
-| DPS Used            | Link                                                                     | Remarks                       |
-| ------------------- | ------------------------------------------------------------------------ | ----------------------------- |
-| Arash               | [Link](https://twitter.com/snowdroptree/status/1329045952682893312?s=20) | 5T, SQ + suicide gimmick used |
-| Musashi (Berserker) | [Link](https://twitter.com/d_fmgfam34/status/1329052279673028609)        | 8T                            |
+| DPS Used            | Link                                                                       | Remarks                       |
+| ------------------- | -------------------------------------------------------------------------- | ----------------------------- |
+| Arash               | [Link](https://twitter.com/snowdroptree/status/1329045952682893312?s=20)   | 5T, SQ + suicide gimmick used |
+| Arjuna (Alter)      | [Link](https://twitter.com/buenabisutafgo/status/1329078673480110080?s=20) | Double Core with Musashi      |
+| Musashi (Berserker) | [Link](https://twitter.com/d_fmgfam34/status/1329052279673028609)          | 8T                            |
+| Xiang Yu            | [Link](https://twitter.com/Kag_Tam/status/1329071123011567621?s=20)        | 8T                            |
 
 
 - All videos linked in this repo are the properties of their owners.
