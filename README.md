@@ -52,6 +52,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Tokugawa Kaiten Labyrinth - Ooku (Rerun) : BEAST III/L](#tokugawa-kaiten-labyrinth---ooku-rerun--beast-iiil)
     - [Servant Summer Camp! : Chaldea Thriller Night](#servant-summer-camp--chaldea-thriller-night)
     - [GUDAGUDA Yamatai-koku 2020](#gudaguda-yamatai-koku-2020)
+    - [Lostbelt 4.5 : Imaginary Scramble](#lostbelt-45--imaginary-scramble)
 
 ## Story Bosses
 
@@ -1852,6 +1853,14 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Xuanzang Sanzang                 | [Link](https://twitter.com/Hello_Anthem/status/1317516609498406912?s=19)    |
 | Yang Guifei                      | [Link](https://twitter.com/myc_1228/status/1317260205328015360?s=09)        |
 | Yu (Lancer)                      | [Link](https://twitter.com/Hello_Anthem/status/1317601605139591168?s=19)    |
+
+### Lostbelt 4.5 : Imaginary Scramble
+
+| DPS Used            | Link                                                                     | Remarks                       |
+| ------------------- | ------------------------------------------------------------------------ | ----------------------------- |
+| Arash               | [Link](https://twitter.com/snowdroptree/status/1329045952682893312?s=20) | 5T, SQ + suicide gimmick used |
+| Musashi (Berserker) | [Link](https://twitter.com/d_fmgfam34/status/1329052279673028609)        | 8T                            |
+
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
