@@ -1856,23 +1856,30 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 
 ### Lostbelt 4.5 : Imaginary Scramble
 
-| DPS Used                 | Link                                                                        | Remarks                        |
-| ------------------------ | --------------------------------------------------------------------------- | ------------------------------ |
-| Abigail Williams         | [Link](https://twitter.com/Bbci_f/status/1329762865406898176?s=20)          | MultiCore with Gogh and Arash  |
-| Arash                    | [Link](https://twitter.com/snowdroptree/status/1329045952682893312?s=20)    | 5T, SQ + suicide gimmick used  |
-| Arjuna (Alter)           | [Link](https://twitter.com/buenabisutafgo/status/1329078673480110080?s=20)  | Double Core with Musashi       |
-| Astarte                  | [Link](https://twitter.com/Aloha258_master/status/1329087200307212290?s=20) |
-|                          | [Link](https://twitter.com/Gfnm1VRurkqSZxK/status/1329326907465232386?s=20) |
-| Chen Gong                | [Link](https://twitter.com/mgmg3939pnd/status/1329334335158120448?s=20)     |
-| Hokusai                  | [Link](https://twitter.com/kitakitasnas/status/1329369519081492480?s=20)    |
-| Musashi (Berserker)      | [Link](https://twitter.com/d_fmgfam34/status/1329052279673028609)           | NoSwap                         |
-|                          | [Link](https://www.bilibili.com/video/BV1LD4y1R7Rc)                         | Multi-core, Burn Amplification |
-| Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1329687568548470784)         | ST TA, Himiko                  |
-| Oda Nobunaga (Maou)      | [Link](https://twitter.com/OrGOrG_FGO/status/1329413667993964546?s=20)      | Double Core with Junao         |
-| Penthesilea              | [Link](https://twitter.com/EdaFgo/status/1330701002740092930)               | Dual core with Nobuzerker      |
-| Raikou                   | [Link](https://twitter.com/1syuten2syefi/status/1329691301952950272)        |
-| Van Gogh                 | [Link](https://twitter.com/calpis_102/status/1329429187522748416?s=20)      | Solo                           |
-| Xiang Yu                 | [Link](https://twitter.com/Kag_Tam/status/1329071123011567621?s=20)         |                                |
+| DPS Used                  | Link                                                                        | Remarks                        |
+| ------------------------- | --------------------------------------------------------------------------- | ------------------------------ |
+| Abigail Williams          | [Link](https://twitter.com/Bbci_f/status/1329762865406898176?s=20)          | MultiCore with Gogh and Arash  |
+| Arash                     | [Link](https://twitter.com/snowdroptree/status/1329045952682893312?s=20)    | 5T, SQ + suicide gimmick used  |
+| Arjuna (Alter)            | [Link](https://twitter.com/buenabisutafgo/status/1329078673480110080?s=20)  | Double Core with Musashi       |
+| Astarte                   | [Link](https://twitter.com/Aloha258_master/status/1329087200307212290?s=20) |
+|                           | [Link](https://twitter.com/Gfnm1VRurkqSZxK/status/1329326907465232386?s=20) |
+| Chen Gong                 | [Link](https://twitter.com/mgmg3939pnd/status/1329334335158120448?s=20)     |
+|                           | [Link](https://twitter.com/jreyn3e6s627/status/1331297330318852097)         | CS, 7T                         |
+| Dantes                    | [Link](https://twitter.com/pooooh_lunatic/status/1330827931229143043)       |
+| Kiara Sessoin (Alter-Ego) | [Link](https://twitter.com/ShotkAnime/status/1330907480063320070?s=20)      | Dual Core                      |
+| Hokusai                   | [Link](https://twitter.com/kitakitasnas/status/1329369519081492480?s=20)    |
+| MHXA                      | [Link](https://twitter.com/wawawasama/status/1330808141911449600?s=20)      | ST TA, Dual MHXA               |
+| Musashi (Berserker)       | [Link](https://twitter.com/d_fmgfam34/status/1329052279673028609)           | NoSwap                         |
+|                           | [Link](https://www.bilibili.com/video/BV1LD4y1R7Rc)                         | Multi-core, Burn Amplification |
+| Oda Nobunaga (Berserker)  | [Link](https://twitter.com/snowdroptree/status/1329687568548470784)         | ST TA, Himiko                  |
+| Oda Nobunaga (Maou)       | [Link](https://twitter.com/OrGOrG_FGO/status/1329413667993964546?s=20)      | Double Core with Junao         |
+| Penthesilea               | [Link](https://twitter.com/EdaFgo/status/1330701002740092930)               | Dual core with Nobuzerker      |
+| Raikou                    | [Link](https://twitter.com/1syuten2syefi/status/1329691301952950272)        |
+| Shuten Douji              | [Link](https://twitter.com/shuten1341/status/1331426160270479360)           | CS, Poison                     |
+| Van Gogh                  | [Link](https://twitter.com/calpis_102/status/1329429187522748416?s=20)      | Solo                           |
+|                           | [Link](https://www.youtube.com/watch?v=EPhuwtAINnw)                         | Multiple Cores, VG             |
+| Xiang Yu                  | [Link](https://twitter.com/Kag_Tam/status/1329071123011567621?s=20)         |                                |
+| Bronce Only clear         | [Link](https://youtu.be/cJECYtFfia8)                                        |
 
 
 - All videos linked in this repo are the properties of their owners.
