@@ -1896,6 +1896,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 ### Saber Wars II (Rerun) - Main CQ
 | DPS Used            | Link                                                                     | Remarks              |
 | ------------------- | ------------------------------------------------------------------------ | -------------------- |
+| Arthur (Prototype)  | [Link](https://twitter.com/shishito443/status/1349324476987498496?s=20)  |
 | Ashiya Douman       | [Link](https://twitter.com/fuwa_rai/status/1349304843425378309?s=20)     |
 | Astolfo (Saber)     | [Link](https://twitter.com/1104shoki/status/1349291176105447425?s=20)    |
 | Enkidu              | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)    | Solo                 |
