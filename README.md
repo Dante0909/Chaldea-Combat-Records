@@ -1890,9 +1890,10 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |           | [Link](https://twitter.com/torikawaTA/status/1349288463519019009?s=20)  |
 
 ### Saber Wars II (Rerun) - Main CQ
-| DPS Used        | Link                                                                  | Remarks |
-| --------------- | --------------------------------------------------------------------- | ------- |
-| Astolfo (Saber) | [Link](https://twitter.com/1104shoki/status/1349291176105447425?s=20) |
+| DPS Used            | Link                                                                     | Remarks      |
+| ------------------- | ------------------------------------------------------------------------ | ------------ |
+| Astolfo (Saber)     | [Link](https://twitter.com/1104shoki/status/1349291176105447425?s=20)    |
+| Okita Souji (Saber) | [Link](https://twitter.com/snowdroptree/status/1349294478901669888?s=20) | Non Event CE |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
