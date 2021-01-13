@@ -1894,15 +1894,18 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Raikou (Berserker)           | [Link](https://twitter.com/1syuten2syefi/status/1349316720083701761?s=20)   |
 
 ### Saber Wars II (Rerun) - Main CQ
-| DPS Used            | Link                                                                     | Remarks              |
-| ------------------- | ------------------------------------------------------------------------ | -------------------- |
+| DPS Used            | Link                                                                     | Remarks                       |
+| ------------------- | ------------------------------------------------------------------------ | ----------------------------- |
 | Arthur (Prototype)  | [Link](https://twitter.com/shishito443/status/1349324476987498496?s=20)  |
 | Ashiya Douman       | [Link](https://twitter.com/fuwa_rai/status/1349304843425378309?s=20)     |
 | Astolfo (Saber)     | [Link](https://twitter.com/1104shoki/status/1349291176105447425?s=20)    |
-| Enkidu              | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)    | Solo                 |
-| Okita Souji (Saber) | [Link](https://twitter.com/snowdroptree/status/1349294478901669888?s=20) | Non Event CE         |
-| Ibuki Douji         | [Link](https://twitter.com/EIL8_gale/status/1349300173684441088?s=20)    | Bronze Supports Only |
+| Enkidu              | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)    | Solo                          |
+| Okita Souji (Saber) | [Link](https://twitter.com/snowdroptree/status/1349294478901669888?s=20) | Non Event CE                  |
+| Ozymandias          | [Link](https://twitter.com/bulsoo_dd/status/1349356619419684865?s=20)    | Solo                          |
+| Ibuki Douji         | [Link](https://twitter.com/EIL8_gale/status/1349300173684441088?s=20)    | Bronze Supports Only          |
+| Passionlip          | [Link](https://twitter.com/onabeno_huta/status/1349367801085972486?s=20) | No CE on DPS, DPS NP not used |
 | Senji Muramasa      | [Link](https://www.youtube.com/watch?v=hKeocpE-pds&feature=youtu.be)     |
+| Vritra              | [Link](https://twitter.com/jyuubeeyuuan/status/1349358434425073665?s=20) |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
