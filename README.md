@@ -1901,6 +1901,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Enkidu              | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)    | Solo                 |
 | Okita Souji (Saber) | [Link](https://twitter.com/snowdroptree/status/1349294478901669888?s=20) | Non Event CE         |
 | Ibuki Douji         | [Link](https://twitter.com/EIL8_gale/status/1349300173684441088?s=20)    | Bronze Supports Only |
+| Senji Muramasa      | [Link](https://www.youtube.com/watch?v=hKeocpE-pds&feature=youtu.be)     |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
