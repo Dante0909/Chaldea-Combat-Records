@@ -1879,7 +1879,16 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Van Gogh                  | [Link](https://twitter.com/calpis_102/status/1329429187522748416?s=20)      | Solo                           |
 |                           | [Link](https://www.youtube.com/watch?v=EPhuwtAINnw)                         | Multiple Cores, VG             |
 | Xiang Yu                  | [Link](https://twitter.com/Kag_Tam/status/1329071123011567621?s=20)         |                                |
-| Bronce Only clear         | [Link](https://youtu.be/cJECYtFfia8)                                        |
+| Bronze Only clear         | [Link](https://youtu.be/cJECYtFfia8)                                        |
+
+### Saber Wars II (Rerun) - Dark Rounds
+| DPS Used                  | Link                                                                        | Remarks                        |
+| ------------------------- | --------------------------------------------------------------------------- | ------------------------------ |
+
+
+### Saber Wars II (Rerun) - Main CQ
+| DPS Used                  | Link                                                                        | Remarks                        |
+| ------------------------- | --------------------------------------------------------------------------- | ------------------------------ |
 
 
 - All videos linked in this repo are the properties of their owners.
