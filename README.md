@@ -53,6 +53,8 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Servant Summer Camp! : Chaldea Thriller Night](#servant-summer-camp--chaldea-thriller-night)
     - [GUDAGUDA Yamatai-koku 2020](#gudaguda-yamatai-koku-2020)
     - [Lostbelt 4.5 : Imaginary Scramble](#lostbelt-45--imaginary-scramble)
+    - [Saber Wars II (Rerun) - Dark Rounds](#saber-wars-ii-rerun---dark-rounds)
+    - [Saber Wars II (Rerun) - Main CQ](#saber-wars-ii-rerun---main-cq)
 
 ## Story Bosses
 
@@ -1882,13 +1884,13 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Bronze Only clear         | [Link](https://youtu.be/cJECYtFfia8)                                        |
 
 ### Saber Wars II (Rerun) - Dark Rounds
-| DPS Used                  | Link                                                                        | Remarks                        |
-| ------------------------- | --------------------------------------------------------------------------- | ------------------------------ |
+| DPS Used | Link | Remarks |
+| -------- | ---- | ------- |
 
 
 ### Saber Wars II (Rerun) - Main CQ
-| DPS Used                  | Link                                                                        | Remarks                        |
-| ------------------------- | --------------------------------------------------------------------------- | ------------------------------ |
+| DPS Used | Link | Remarks |
+| -------- | ---- | ------- |
 
 
 - All videos linked in this repo are the properties of their owners.
