@@ -1884,10 +1884,11 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Bronze Only clear         | [Link](https://youtu.be/cJECYtFfia8)                                        |
 
 ### Saber Wars II (Rerun) - Dark Rounds
-| DPS Used  | Link                                                                    | Remarks |
-| --------- | ----------------------------------------------------------------------- | ------- |
-| Chen Gong | [Link](https://twitter.com/mgmg3939pnd/status/1349286114704584706?s=20) |
-|           | [Link](https://twitter.com/torikawaTA/status/1349288463519019009?s=20)  |
+| DPS Used                     | Link                                                                    | Remarks |
+| ---------------------------- | ----------------------------------------------------------------------- | ------- |
+| Chen Gong                    | [Link](https://twitter.com/mgmg3939pnd/status/1349286114704584706?s=20) |
+|                              | [Link](https://twitter.com/torikawaTA/status/1349288463519019009?s=20)  |
+| Miyamoto Musashi (Berserker) | [Link](https://www.youtube.com/watch?v=jqNhwTfE--I)                     |
 
 ### Saber Wars II (Rerun) - Main CQ
 | DPS Used            | Link                                                                     | Remarks      |
