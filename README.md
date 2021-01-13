@@ -1886,16 +1886,19 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 ### Saber Wars II (Rerun) - Dark Rounds
 | DPS Used                     | Link                                                                        | Remarks |
 | ---------------------------- | --------------------------------------------------------------------------- | ------- |
+| Arjuna (Alter)               | [Link](https://twitter.com/buenabisutafgo/status/1349330310270386177?s=20)  |
 | Astarte                      | [Link](https://twitter.com/Aloha258_master/status/1349301638498897920?s=20) |
 | Chen Gong                    | [Link](https://twitter.com/mgmg3939pnd/status/1349286114704584706?s=20)     |
-|                              | [Link](https://twitter.com/torikawaTA/status/1349288463519019009?s=20)      |
+| Gilgamesh (Archer)           | [Link](https://www.youtube.com/watch?v=vyEyzbHBqis)                         |
 | Miyamoto Musashi (Berserker) | [Link](https://www.youtube.com/watch?v=jqNhwTfE--I)                         |
+| Raikou (Berserker)           | [Link](https://twitter.com/1syuten2syefi/status/1349316720083701761?s=20)   |
 
 ### Saber Wars II (Rerun) - Main CQ
 | DPS Used            | Link                                                                     | Remarks              |
 | ------------------- | ------------------------------------------------------------------------ | -------------------- |
 | Ashiya Douman       | [Link](https://twitter.com/fuwa_rai/status/1349304843425378309?s=20)     |
 | Astolfo (Saber)     | [Link](https://twitter.com/1104shoki/status/1349291176105447425?s=20)    |
+| Enkidu              | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)    | Solo                 |
 | Okita Souji (Saber) | [Link](https://twitter.com/snowdroptree/status/1349294478901669888?s=20) | Non Event CE         |
 | Ibuki Douji         | [Link](https://twitter.com/EIL8_gale/status/1349300173684441088?s=20)    | Bronze Supports Only |
 
