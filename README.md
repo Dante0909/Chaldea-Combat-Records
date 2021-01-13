@@ -1892,6 +1892,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Gilgamesh (Archer)           | [Link](https://www.youtube.com/watch?v=vyEyzbHBqis)                         |
 | Miyamoto Musashi (Berserker) | [Link](https://www.youtube.com/watch?v=jqNhwTfE--I)                         |
 | Raikou (Berserker)           | [Link](https://twitter.com/1syuten2syefi/status/1349316720083701761?s=20)   |
+| Senji Muramasa               | [Link](https://twitter.com/Kag_Tam/status/1349376471651913728?s=20)         |
 
 ### Saber Wars II (Rerun) - Main CQ
 | DPS Used            | Link                                                                     | Remarks                       |
