@@ -1884,17 +1884,20 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Bronze Only clear         | [Link](https://youtu.be/cJECYtFfia8)                                        |
 
 ### Saber Wars II (Rerun) - Dark Rounds
-| DPS Used                     | Link                                                                    | Remarks |
-| ---------------------------- | ----------------------------------------------------------------------- | ------- |
-| Chen Gong                    | [Link](https://twitter.com/mgmg3939pnd/status/1349286114704584706?s=20) |
-|                              | [Link](https://twitter.com/torikawaTA/status/1349288463519019009?s=20)  |
-| Miyamoto Musashi (Berserker) | [Link](https://www.youtube.com/watch?v=jqNhwTfE--I)                     |
+| DPS Used                     | Link                                                                        | Remarks |
+| ---------------------------- | --------------------------------------------------------------------------- | ------- |
+| Astarte                      | [Link](https://twitter.com/Aloha258_master/status/1349301638498897920?s=20) |
+| Chen Gong                    | [Link](https://twitter.com/mgmg3939pnd/status/1349286114704584706?s=20)     |
+|                              | [Link](https://twitter.com/torikawaTA/status/1349288463519019009?s=20)      |
+| Miyamoto Musashi (Berserker) | [Link](https://www.youtube.com/watch?v=jqNhwTfE--I)                         |
 
 ### Saber Wars II (Rerun) - Main CQ
-| DPS Used            | Link                                                                     | Remarks      |
-| ------------------- | ------------------------------------------------------------------------ | ------------ |
+| DPS Used            | Link                                                                     | Remarks              |
+| ------------------- | ------------------------------------------------------------------------ | -------------------- |
+| Ashiya Douman       | [Link](https://twitter.com/fuwa_rai/status/1349304843425378309?s=20)     |
 | Astolfo (Saber)     | [Link](https://twitter.com/1104shoki/status/1349291176105447425?s=20)    |
-| Okita Souji (Saber) | [Link](https://twitter.com/snowdroptree/status/1349294478901669888?s=20) | Non Event CE |
+| Okita Souji (Saber) | [Link](https://twitter.com/snowdroptree/status/1349294478901669888?s=20) | Non Event CE         |
+| Ibuki Douji         | [Link](https://twitter.com/EIL8_gale/status/1349300173684441088?s=20)    | Bronze Supports Only |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
