@@ -1895,6 +1895,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Gilgamesh (Archer)           | [Link](https://www.youtube.com/watch?v=vyEyzbHBqis)                         |
 | Ishtar                       | [Link](https://twitter.com/waiwaikigurumi/status/1349503042840760321?s=20)  |
 | Jinako                       | [Link](https://www.nicovideo.jp/watch/sm38120061)                           | Solo                                 |
+| Lancelot (Berserker)         | [Link](https://twitter.com/haikaga/status/1349712203495075841?s=20)         |
 | Miyamoto Musashi (Berserker) | [Link](https://www.youtube.com/watch?v=jqNhwTfE--I)                         |
 | Raikou (Berserker)           | [Link](https://twitter.com/1syuten2syefi/status/1349316720083701761?s=20)   |
 | Sei Shonagon                 | [Link](https://twitter.com/Bbci_f/status/1349665240816836611?s=20)          |
