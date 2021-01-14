@@ -1894,6 +1894,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                              | [Link](https://www.bilibili.com/video/BV1454y1s7bR/)                        | 300% Powermod, No Powermod CE on DPS |
 | Gilgamesh (Archer)           | [Link](https://www.youtube.com/watch?v=vyEyzbHBqis)                         |
 | Ishtar                       | [Link](https://twitter.com/waiwaikigurumi/status/1349503042840760321?s=20)  |
+| Jinako                       | [Link](https://www.nicovideo.jp/watch/sm38120061)                           | Solo                                 |
 | Miyamoto Musashi (Berserker) | [Link](https://www.youtube.com/watch?v=jqNhwTfE--I)                         |
 | Raikou (Berserker)           | [Link](https://twitter.com/1syuten2syefi/status/1349316720083701761?s=20)   |
 | Sei Shonagon                 | [Link](https://twitter.com/Bbci_f/status/1349665240816836611?s=20)          |
@@ -1901,26 +1902,27 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                              | [Link](https://twitter.com/ffgo_rin/status/1349501927621447681?s=20)        | Dual Core with Ishtar                |
 
 ### Saber Wars II (Rerun) - Main CQ
-| DPS Used            | Link                                                                     | Remarks                       |
-| ------------------- | ------------------------------------------------------------------------ | ----------------------------- |
-| Arthur (Prototype)  | [Link](https://twitter.com/shishito443/status/1349324476987498496?s=20)  |
-| Ashiya Douman       | [Link](https://twitter.com/fuwa_rai/status/1349304843425378309?s=20)     |
-| Astolfo (Saber)     | [Link](https://twitter.com/1104shoki/status/1349291176105447425?s=20)    |
-| EMIYA (Assassin)    | [Link](https://twitter.com/shortcut588/status/1349551938598182917?s=20)  |
-| Enkidu              | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)    | Solo                          |
-| Hajime Saito        | [Link](https://twitter.com/FGO_KRR/status/1349400669346619393?s=20)      |
-| King Hassan         | [Link](https://twitter.com/kkkka5715/status/1349698909333975042?s=20)    |
-| Murasaki (Rider)    | [Link](https://twitter.com/k1syFGO/status/1349400825924177921?s=20)      |
-| Nagao Kagetora      | [Link](https://twitter.com/YOMI__fgo/status/1349406326158483459?s=20)    |
-| Okita Souji (Saber) | [Link](https://twitter.com/snowdroptree/status/1349294478901669888?s=20) | Non Event CE                  |
-| Orion (Superhuman)  | [Link](https://twitter.com/hiduka01/status/1349398290207444993?s=20)     |
-| Ozymandias          | [Link](https://twitter.com/bulsoo_dd/status/1349356619419684865?s=20)    | Solo                          |
-| Ibuki Douji         | [Link](https://twitter.com/EIL8_gale/status/1349300173684441088?s=20)    | Bronze Supports Only          |
-| Passionlip          | [Link](https://twitter.com/onabeno_huta/status/1349367801085972486?s=20) | No CE on DPS, DPS NP not used |
-| Scathach            | [Link](https://twitter.com/shortcut588/status/1349411407083630594?s=20)  | All Scathface team            |
-| Senji Muramasa      | [Link](https://www.youtube.com/watch?v=hKeocpE-pds&feature=youtu.be)     |
-| Sigurd              | [Link](https://twitter.com/otkznr/status/1349391085768896513?s=20)       |
-| Vritra              | [Link](https://twitter.com/jyuubeeyuuan/status/1349358434425073665?s=20) |
+| DPS Used            | Link                                                                       | Remarks                       |
+| ------------------- | -------------------------------------------------------------------------- | ----------------------------- |
+| Arthur (Prototype)  | [Link](https://twitter.com/shishito443/status/1349324476987498496?s=20)    |
+| Ashiya Douman       | [Link](https://twitter.com/fuwa_rai/status/1349304843425378309?s=20)       |
+| Astolfo (Saber)     | [Link](https://twitter.com/1104shoki/status/1349291176105447425?s=20)      |
+| Calamity Jane       | [Link](https://twitter.com/waiwaikigurumi/status/1349695090210426880?s=20) |
+| EMIYA (Assassin)    | [Link](https://twitter.com/shortcut588/status/1349551938598182917?s=20)    |
+| Enkidu              | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)      | Solo                          |
+| Hajime Saito        | [Link](https://twitter.com/FGO_KRR/status/1349400669346619393?s=20)        |
+| King Hassan         | [Link](https://twitter.com/kkkka5715/status/1349698909333975042?s=20)      |
+| Murasaki (Rider)    | [Link](https://twitter.com/k1syFGO/status/1349400825924177921?s=20)        |
+| Nagao Kagetora      | [Link](https://twitter.com/YOMI__fgo/status/1349406326158483459?s=20)      |
+| Okita Souji (Saber) | [Link](https://twitter.com/snowdroptree/status/1349294478901669888?s=20)   | Non Event CE                  |
+| Orion (Superhuman)  | [Link](https://twitter.com/hiduka01/status/1349398290207444993?s=20)       |
+| Ozymandias          | [Link](https://twitter.com/bulsoo_dd/status/1349356619419684865?s=20)      | Solo                          |
+| Ibuki Douji         | [Link](https://twitter.com/EIL8_gale/status/1349300173684441088?s=20)      | Bronze Supports Only          |
+| Passionlip          | [Link](https://twitter.com/onabeno_huta/status/1349367801085972486?s=20)   | No CE on DPS, DPS NP not used |
+| Scathach            | [Link](https://twitter.com/shortcut588/status/1349411407083630594?s=20)    | All Scathface team            |
+| Senji Muramasa      | [Link](https://www.youtube.com/watch?v=hKeocpE-pds&feature=youtu.be)       |
+| Sigurd              | [Link](https://twitter.com/otkznr/status/1349391085768896513?s=20)         |
+| Vritra              | [Link](https://twitter.com/jyuubeeyuuan/status/1349358434425073665?s=20)   |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
