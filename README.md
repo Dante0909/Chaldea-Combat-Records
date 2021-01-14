@@ -1884,18 +1884,21 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Bronze Only clear         | [Link](https://youtu.be/cJECYtFfia8)                                        |
 
 ### Saber Wars II (Rerun) - Dark Rounds
-| DPS Used                     | Link                                                                        | Remarks               |
-| ---------------------------- | --------------------------------------------------------------------------- | --------------------- |
+| DPS Used                     | Link                                                                        | Remarks                              |
+| ---------------------------- | --------------------------------------------------------------------------- | ------------------------------------ |
 | Arjuna                       | [Link](https://www.youtube.com/watch?v=mRzd7PpCs-8)                         |
 | Arjuna (Alter)               | [Link](https://twitter.com/buenabisutafgo/status/1349330310270386177?s=20)  |
 | Astarte                      | [Link](https://twitter.com/Aloha258_master/status/1349301638498897920?s=20) |
+| Brynhildr (Berserker)        | [Link](https://twitter.com/shortcut588/status/1349697759616532481?s=20)     | Uses 1 CS                            |
 | Chen Gong                    | [Link](https://twitter.com/mgmg3939pnd/status/1349286114704584706?s=20)     |
+|                              | [Link](https://www.bilibili.com/video/BV1454y1s7bR/)                        | 300% Powermod, No Powermod CE on DPS |
 | Gilgamesh (Archer)           | [Link](https://www.youtube.com/watch?v=vyEyzbHBqis)                         |
 | Ishtar                       | [Link](https://twitter.com/waiwaikigurumi/status/1349503042840760321?s=20)  |
 | Miyamoto Musashi (Berserker) | [Link](https://www.youtube.com/watch?v=jqNhwTfE--I)                         |
 | Raikou (Berserker)           | [Link](https://twitter.com/1syuten2syefi/status/1349316720083701761?s=20)   |
+| Sei Shonagon                 | [Link](https://twitter.com/Bbci_f/status/1349665240816836611?s=20)          |
 | Senji Muramasa               | [Link](https://twitter.com/Kag_Tam/status/1349376471651913728?s=20)         |
-|                              | [Link](https://twitter.com/ffgo_rin/status/1349501927621447681?s=20)        | Dual Core with Ishtar |
+|                              | [Link](https://twitter.com/ffgo_rin/status/1349501927621447681?s=20)        | Dual Core with Ishtar                |
 
 ### Saber Wars II (Rerun) - Main CQ
 | DPS Used            | Link                                                                     | Remarks                       |
@@ -1906,6 +1909,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | EMIYA (Assassin)    | [Link](https://twitter.com/shortcut588/status/1349551938598182917?s=20)  |
 | Enkidu              | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)    | Solo                          |
 | Hajime Saito        | [Link](https://twitter.com/FGO_KRR/status/1349400669346619393?s=20)      |
+| King Hassan         | [Link](https://twitter.com/kkkka5715/status/1349698909333975042?s=20)    |
 | Murasaki (Rider)    | [Link](https://twitter.com/k1syFGO/status/1349400825924177921?s=20)      |
 | Nagao Kagetora      | [Link](https://twitter.com/YOMI__fgo/status/1349406326158483459?s=20)    |
 | Okita Souji (Saber) | [Link](https://twitter.com/snowdroptree/status/1349294478901669888?s=20) | Non Event CE                  |
