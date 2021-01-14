@@ -1908,12 +1908,14 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Arthur (Prototype)  | [Link](https://twitter.com/shishito443/status/1349324476987498496?s=20)    |
 | Ashiya Douman       | [Link](https://twitter.com/fuwa_rai/status/1349304843425378309?s=20)       |
 | Astolfo (Saber)     | [Link](https://twitter.com/1104shoki/status/1349291176105447425?s=20)      |
+| Brynhildr (Lancer)  | [Link](https://twitter.com/Hello_Anthem/status/1349864808049332225?s=20)   | No Damage CE                  |
 | Calamity Jane       | [Link](https://twitter.com/waiwaikigurumi/status/1349695090210426880?s=20) |
 | Dioscuri            | [Link](https://twitter.com/Herakles_osi/status/1349648963666788356?s=20)   |
 | EMIYA (Assassin)    | [Link](https://twitter.com/shortcut588/status/1349551938598182917?s=20)    |
 | Enkidu              | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)      | Solo                          |
 | Hajime Saito        | [Link](https://twitter.com/FGO_KRR/status/1349400669346619393?s=20)        |
 | King Hassan         | [Link](https://twitter.com/kkkka5715/status/1349698909333975042?s=20)      |
+| Mori Nagayoshi      | [Link](https://twitter.com/nmnppp/status/1349740515047084034)              |
 | Murasaki (Rider)    | [Link](https://twitter.com/k1syFGO/status/1349400825924177921?s=20)        |
 | Nagao Kagetora      | [Link](https://twitter.com/YOMI__fgo/status/1349406326158483459?s=20)      |
 | Okita Souji (Saber) | [Link](https://twitter.com/snowdroptree/status/1349294478901669888?s=20)   | Non Event CE                  |
@@ -1921,6 +1923,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ozymandias          | [Link](https://twitter.com/bulsoo_dd/status/1349356619419684865?s=20)      | Solo                          |
 | Ibuki Douji         | [Link](https://twitter.com/EIL8_gale/status/1349300173684441088?s=20)      | Bronze Supports Only          |
 | Passionlip          | [Link](https://twitter.com/onabeno_huta/status/1349367801085972486?s=20)   | No CE on DPS, DPS NP not used |
+| Saito Hajime        | [Link](https://twitter.com/torikawaTA/status/1349860574390218754?s=20)     |
 | Scathach            | [Link](https://twitter.com/shortcut588/status/1349411407083630594?s=20)    | All Scathface team            |
 | Senji Muramasa      | [Link](https://www.youtube.com/watch?v=hKeocpE-pds&feature=youtu.be)       |
 | Sigurd              | [Link](https://twitter.com/otkznr/status/1349391085768896513?s=20)         |
