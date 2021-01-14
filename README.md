@@ -1909,6 +1909,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ashiya Douman       | [Link](https://twitter.com/fuwa_rai/status/1349304843425378309?s=20)       |
 | Astolfo (Saber)     | [Link](https://twitter.com/1104shoki/status/1349291176105447425?s=20)      |
 | Calamity Jane       | [Link](https://twitter.com/waiwaikigurumi/status/1349695090210426880?s=20) |
+| Dioscuri            | [Link](https://twitter.com/Herakles_osi/status/1349648963666788356?s=20)   |
 | EMIYA (Assassin)    | [Link](https://twitter.com/shortcut588/status/1349551938598182917?s=20)    |
 | Enkidu              | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)      | Solo                          |
 | Hajime Saito        | [Link](https://twitter.com/FGO_KRR/status/1349400669346619393?s=20)        |
