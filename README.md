@@ -128,7 +128,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
 |                                | [Link](https://www.youtube.com/watch?v=hgBc8ePl4o8)               |
 | Jeanne d'Arc (Alter)           | [Link](https://www.bilibili.com/video/BV16W411m79h)               |
 | Kintoki                        | [Link](https://www.bilibili.com/video/BV1wW411S7py)               |
-| Lancelot (Berserked)           | [Link](https://www.bilibili.com/video/BV1a4411y7mD)               |
+| Lancelot (Berserker)           | [Link](https://www.bilibili.com/video/BV1a4411y7mD)               |
 | MHX                            | [Link](https://youtu.be/80t0M0zSiGc?t=1167)                       |
 | MHXA                           | [Link](https://www.youtube.com/watch?v=araIdZceb6M)               |
 |                                | [Link](https://www.bilibili.com/video/BV1k441127na)               | NP1 DPS |
