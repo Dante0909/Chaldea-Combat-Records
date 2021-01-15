@@ -1918,6 +1918,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Mori Nagayoshi      | [Link](https://twitter.com/nmnppp/status/1349740515047084034)              |
 | Murasaki (Rider)    | [Link](https://twitter.com/k1syFGO/status/1349400825924177921?s=20)        |
 | Nagao Kagetora      | [Link](https://twitter.com/YOMI__fgo/status/1349406326158483459?s=20)      |
+| Nero (Saber)        | [Link](https://twitter.com/takato09217/status/1349885556000321536?s=20)    |
 | Okita Souji (Saber) | [Link](https://twitter.com/snowdroptree/status/1349294478901669888?s=20)   | Non Event CE                  |
 | Orion (Superhuman)  | [Link](https://twitter.com/hiduka01/status/1349398290207444993?s=20)       |
 | Ozymandias          | [Link](https://twitter.com/bulsoo_dd/status/1349356619419684865?s=20)      | Solo                          |
