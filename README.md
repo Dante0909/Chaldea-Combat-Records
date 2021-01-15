@@ -1932,6 +1932,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Scathach            | [Link](https://twitter.com/shortcut588/status/1349411407083630594?s=20)    | All Scathface team            |
 | Senji Muramasa      | [Link](https://www.youtube.com/watch?v=hKeocpE-pds&feature=youtu.be)       |
 | Sigurd              | [Link](https://twitter.com/otkznr/status/1349391085768896513?s=20)         |
+| Van Gogh            | [Link](https://twitter.com/hiduka01/status/1350121001749684225?s=20)       | Non Event CE
 | Vlad (Berserker)    | [Link](https://twitter.com/Raven2106/status/1349518019173597184)           |
 | Vritra              | [Link](https://twitter.com/jyuubeeyuuan/status/1349358434425073665?s=20)   |
 
