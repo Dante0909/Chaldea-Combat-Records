@@ -1901,6 +1901,8 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Sei Shonagon                 | [Link](https://twitter.com/Bbci_f/status/1349665240816836611?s=20)          |
 | Senji Muramasa               | [Link](https://twitter.com/Kag_Tam/status/1349376471651913728?s=20)         |
 |                              | [Link](https://twitter.com/ffgo_rin/status/1349501927621447681?s=20)        | Dual Core with Ishtar                |
+|                              | [Link](https://twitter.com/d_fmgfam34/status/1350040603560579072?s=20)      | Dual Core with Gilgamesh             |
+| Shuten Douji                 | [Link](https://twitter.com/1syuten2syefi/status/1350109688046653441?s=21)   | Used 1 CS                            |
 
 ### Saber Wars II (Rerun) - Main CQ
 | DPS Used            | Link                                                                       | Remarks                       |
@@ -1925,10 +1927,12 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ozymandias          | [Link](https://twitter.com/bulsoo_dd/status/1349356619419684865?s=20)      | Solo                          |
 | Ibuki Douji         | [Link](https://twitter.com/EIL8_gale/status/1349300173684441088?s=20)      | Bronze Supports Only          |
 | Passionlip          | [Link](https://twitter.com/onabeno_huta/status/1349367801085972486?s=20)   | No CE on DPS, DPS NP not used |
+| Qin Liangyu         | [Link](https://twitter.com/NAO42010/status/1350060154960703488?s=20)       |
 | Saito Hajime        | [Link](https://twitter.com/torikawaTA/status/1349860574390218754?s=20)     |
 | Scathach            | [Link](https://twitter.com/shortcut588/status/1349411407083630594?s=20)    | All Scathface team            |
 | Senji Muramasa      | [Link](https://www.youtube.com/watch?v=hKeocpE-pds&feature=youtu.be)       |
 | Sigurd              | [Link](https://twitter.com/otkznr/status/1349391085768896513?s=20)         |
+| Vlad (Berserker)    | [Link](https://twitter.com/Raven2106/status/1349518019173597184)           |
 | Vritra              | [Link](https://twitter.com/jyuubeeyuuan/status/1349358434425073665?s=20)   |
 
 - All videos linked in this repo are the properties of their owners.
