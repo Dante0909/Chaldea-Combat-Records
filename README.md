@@ -1890,6 +1890,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Arjuna (Alter)               | [Link](https://twitter.com/buenabisutafgo/status/1349330310270386177?s=20)  |
 | Astarte                      | [Link](https://twitter.com/Aloha258_master/status/1349301638498897920?s=20) |
 | Brynhildr (Berserker)        | [Link](https://twitter.com/shortcut588/status/1349697759616532481?s=20)     | Uses 1 CS                            |
+|                              | [Link](https://www.bilibili.com/video/BV1Fz4y1S7Jj)                         | Non CS version                       |
 | Chen Gong                    | [Link](https://twitter.com/mgmg3939pnd/status/1349286114704584706?s=20)     |
 |                              | [Link](https://www.bilibili.com/video/BV1454y1s7bR/)                        | 300% Powermod, No Powermod CE on DPS |
 | Gilgamesh (Archer)           | [Link](https://www.youtube.com/watch?v=vyEyzbHBqis)                         |
@@ -1916,6 +1917,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Beni-Enma           | [Link](https://twitter.com/waiwaikigurumi/status/1350026702739570690?s=20) | All Saber Team                |
 | Brynhildr (Lancer)  | [Link](https://twitter.com/Hello_Anthem/status/1349864808049332225?s=20)   | No Damage CE                  |
 | Calamity Jane       | [Link](https://twitter.com/waiwaikigurumi/status/1349695090210426880?s=20) |
+| Cu Chulainn (Alter) | [Link](https://twitter.com/warfare_Holic/status/1350305548797845506?s=20)  |
 | Dioscuri            | [Link](https://twitter.com/Herakles_osi/status/1349648963666788356?s=20)   |
 | EMIYA (Assassin)    | [Link](https://twitter.com/shortcut588/status/1349551938598182917?s=20)    |
 | Enkidu              | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)      | Solo                          |
