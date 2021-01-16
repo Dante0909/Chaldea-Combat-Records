@@ -1913,6 +1913,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Arthur (Prototype)  | [Link](https://twitter.com/shishito443/status/1349324476987498496?s=20)    |
 | Ashiya Douman       | [Link](https://twitter.com/fuwa_rai/status/1349304843425378309?s=20)       |
 | Astolfo (Saber)     | [Link](https://twitter.com/1104shoki/status/1349291176105447425?s=20)      |
+| Beni-Enma           | [Link](https://twitter.com/waiwaikigurumi/status/1350026702739570690?s=20) | All Saber Team                |
 | Brynhildr (Lancer)  | [Link](https://twitter.com/Hello_Anthem/status/1349864808049332225?s=20)   | No Damage CE                  |
 | Calamity Jane       | [Link](https://twitter.com/waiwaikigurumi/status/1349695090210426880?s=20) |
 | Dioscuri            | [Link](https://twitter.com/Herakles_osi/status/1349648963666788356?s=20)   |
