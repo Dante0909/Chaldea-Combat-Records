@@ -1921,7 +1921,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Dioscuri            | [Link](https://twitter.com/Herakles_osi/status/1349648963666788356?s=20)   |
 | EMIYA (Assassin)    | [Link](https://twitter.com/shortcut588/status/1349551938598182917?s=20)    |
 | Enkidu              | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)      | Solo                          |
-| Karna               | [Link](https://twitter.com/Misaya0131/status/1350349235179331585?s=20)     |
+| Karna               | [Link](https://twitter.com/Misaya0131/status/1350349235179331585?s=20)     | Non SSR Supports Only
 | Gawain              | [Link](https://twitter.com/orionkumachan/status/1349329967226621954?s=20)  |
 | Hajime Saito        | [Link](https://twitter.com/FGO_KRR/status/1349400669346619393?s=20)        |
 | King Hassan         | [Link](https://twitter.com/kkkka5715/status/1349698909333975042?s=20)      |
