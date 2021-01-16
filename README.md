@@ -1899,6 +1899,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Lancelot (Berserker)         | [Link](https://twitter.com/haikaga/status/1349712203495075841?s=20)         |
 | MHXX                         | [Link](https://twitter.com/yumey_c2_vv/status/1350221792896405504?s=20)     | Dual Core                            |
 | Miyamoto Musashi (Berserker) | [Link](https://www.youtube.com/watch?v=jqNhwTfE--I)                         |
+|                              | [Link](https://twitter.com/rikomineFGO/status/1350419318257815553?s=20)     | Non Event CE on DPS                  |
 | Oda Nobunaga (Berserker)     | [Link](https://twitter.com/snowdroptree/status/1350246354866511872?s=20)    | Dual Core                            |
 | Raikou (Berserker)           | [Link](https://twitter.com/1syuten2syefi/status/1349316720083701761?s=20)   |
 | Sei Shonagon                 | [Link](https://twitter.com/Bbci_f/status/1349665240816836611?s=20)          |
@@ -1921,7 +1922,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Dioscuri            | [Link](https://twitter.com/Herakles_osi/status/1349648963666788356?s=20)   |
 | EMIYA (Assassin)    | [Link](https://twitter.com/shortcut588/status/1349551938598182917?s=20)    |
 | Enkidu              | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)      | Solo                          |
-| Karna               | [Link](https://twitter.com/Misaya0131/status/1350349235179331585?s=20)     | Non SSR Supports Only
+| Karna               | [Link](https://twitter.com/Misaya0131/status/1350349235179331585?s=20)     | Non SSR Supports Only         |
 | Gawain              | [Link](https://twitter.com/orionkumachan/status/1349329967226621954?s=20)  |
 | Hajime Saito        | [Link](https://twitter.com/FGO_KRR/status/1349400669346619393?s=20)        |
 | King Hassan         | [Link](https://twitter.com/kkkka5715/status/1349698909333975042?s=20)      |
