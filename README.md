@@ -1896,7 +1896,9 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ishtar                       | [Link](https://twitter.com/waiwaikigurumi/status/1349503042840760321?s=20)  |
 | Jinako                       | [Link](https://www.nicovideo.jp/watch/sm38120061)                           | Solo                                 |
 | Lancelot (Berserker)         | [Link](https://twitter.com/haikaga/status/1349712203495075841?s=20)         |
+| MHXX                         | [Link](https://twitter.com/yumey_c2_vv/status/1350221792896405504?s=20)     | Dual Core                            |
 | Miyamoto Musashi (Berserker) | [Link](https://www.youtube.com/watch?v=jqNhwTfE--I)                         |
+| Oda Nobunaga (Berserker)     | [Link](https://twitter.com/snowdroptree/status/1350246354866511872?s=20)    | Dual Core                            |
 | Raikou (Berserker)           | [Link](https://twitter.com/1syuten2syefi/status/1349316720083701761?s=20)   |
 | Sei Shonagon                 | [Link](https://twitter.com/Bbci_f/status/1349665240816836611?s=20)          |
 | Senji Muramasa               | [Link](https://twitter.com/Kag_Tam/status/1349376471651913728?s=20)         |
@@ -1907,6 +1909,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 ### Saber Wars II (Rerun) - Main CQ
 | DPS Used            | Link                                                                       | Remarks                       |
 | ------------------- | -------------------------------------------------------------------------- | ----------------------------- |
+| Arjuna (Alter)      | [Link](https://twitter.com/OddEye_DOL/status/1350218230061703168?s=20)     |
 | Arthur (Prototype)  | [Link](https://twitter.com/shishito443/status/1349324476987498496?s=20)    |
 | Ashiya Douman       | [Link](https://twitter.com/fuwa_rai/status/1349304843425378309?s=20)       |
 | Astolfo (Saber)     | [Link](https://twitter.com/1104shoki/status/1349291176105447425?s=20)      |
@@ -1932,7 +1935,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Scathach            | [Link](https://twitter.com/shortcut588/status/1349411407083630594?s=20)    | All Scathface team            |
 | Senji Muramasa      | [Link](https://www.youtube.com/watch?v=hKeocpE-pds&feature=youtu.be)       |
 | Sigurd              | [Link](https://twitter.com/otkznr/status/1349391085768896513?s=20)         |
-| Van Gogh            | [Link](https://twitter.com/hiduka01/status/1350121001749684225?s=20)       | Non Event CE
+| Van Gogh            | [Link](https://twitter.com/hiduka01/status/1350121001749684225?s=20)       | Non Event CE                  |
 | Vlad (Berserker)    | [Link](https://twitter.com/Raven2106/status/1349518019173597184)           |
 | Vritra              | [Link](https://twitter.com/jyuubeeyuuan/status/1349358434425073665?s=20)   |
 
