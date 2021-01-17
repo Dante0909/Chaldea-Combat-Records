@@ -1896,9 +1896,11 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                              | [Link](https://www.bilibili.com/video/BV1454y1s7bR/)                        | 300% Powermod, No Powermod CE on DPS |
 |                              | [Link](https://twitter.com/Aloha258_master/status/1350756088958898176?s=20) | Dual Core with Bunny King            |
 | Gilgamesh (Archer)           | [Link](https://www.youtube.com/watch?v=vyEyzbHBqis)                         |
+|                              | [Link](https://www.bilibili.com/video/BV1754y1s7ci)                         | Powermod 200                         |
 | Ishtar                       | [Link](https://twitter.com/waiwaikigurumi/status/1349503042840760321?s=20)  |
 | Jinako                       | [Link](https://www.nicovideo.jp/watch/sm38120061)                           | Solo                                 |
 | Lancelot (Berserker)         | [Link](https://twitter.com/haikaga/status/1349712203495075841?s=20)         |
+| Mordred (Saber)              | [Link](https://twitter.com/Hello_Anthem/status/1350821832279027712)         |
 | MHXA                         | [Link](https://twitter.com/NAO42010/status/1350743745600229376?s=20)        |
 | MHXX                         | [Link](https://twitter.com/yumey_c2_vv/status/1350221792896405504?s=20)     | Dual Core                            |
 | Miyamoto Musashi (Berserker) | [Link](https://www.youtube.com/watch?v=jqNhwTfE--I)                         |
@@ -1926,6 +1928,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Dioscuri               | [Link](https://twitter.com/Herakles_osi/status/1349648963666788356?s=20)   |
 | EMIYA (Assassin)       | [Link](https://twitter.com/shortcut588/status/1349551938598182917?s=20)    |
 | Enkidu                 | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)      | Solo                          |
+| Fujino                 | [Link](https://twitter.com/TA64330880/status/1350809233533460480?s=20)     |
 | Karna                  | [Link](https://twitter.com/Misaya0131/status/1350349235179331585?s=20)     | Non SSR Supports Only         |
 | Gawain                 | [Link](https://twitter.com/orionkumachan/status/1349329967226621954?s=20)  |
 | Hajime Saito           | [Link](https://twitter.com/FGO_KRR/status/1349400669346619393?s=20)        |
@@ -1941,6 +1944,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ibuki Douji            | [Link](https://twitter.com/EIL8_gale/status/1349300173684441088?s=20)      | Bronze Supports Only          |
 | Passionlip             | [Link](https://twitter.com/onabeno_huta/status/1349367801085972486?s=20)   | No CE on DPS, DPS NP not used |
 | Qin Liangyu            | [Link](https://twitter.com/NAO42010/status/1350060154960703488?s=20)       |
+| Robinhood              | [Link](https://twitter.com/bulsoo_dd/status/1350802706286329860?s=20)      | No powermod                   |
 | Saito Hajime           | [Link](https://twitter.com/torikawaTA/status/1349860574390218754?s=20)     |
 | Scathach               | [Link](https://twitter.com/shortcut588/status/1349411407083630594?s=20)    | All Scathface team            |
 | Senji Muramasa         | [Link](https://www.youtube.com/watch?v=hKeocpE-pds&feature=youtu.be)       |
