@@ -1886,6 +1886,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 ### Saber Wars II (Rerun) - Dark Rounds
 | DPS Used                     | Link                                                                        | Remarks                              |
 | ---------------------------- | --------------------------------------------------------------------------- | ------------------------------------ |
+| Arash                        | [Link](https://twitter.com/ITMST/status/1350677387697029121)                |
 | Arjuna                       | [Link](https://www.youtube.com/watch?v=mRzd7PpCs-8)                         |
 | Arjuna (Alter)               | [Link](https://twitter.com/buenabisutafgo/status/1349330310270386177?s=20)  |
 | Astarte                      | [Link](https://twitter.com/Aloha258_master/status/1349301638498897920?s=20) |
@@ -1893,6 +1894,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                              | [Link](https://www.bilibili.com/video/BV1Fz4y1S7Jj)                         | Non CS version                       |
 | Chen Gong                    | [Link](https://twitter.com/mgmg3939pnd/status/1349286114704584706?s=20)     |
 |                              | [Link](https://www.bilibili.com/video/BV1454y1s7bR/)                        | 300% Powermod, No Powermod CE on DPS |
+|                              | [Link](https://twitter.com/Aloha258_master/status/1350756088958898176?s=20) | Dual Core with Bunny King            |
 | Gilgamesh (Archer)           | [Link](https://www.youtube.com/watch?v=vyEyzbHBqis)                         |
 | Ishtar                       | [Link](https://twitter.com/waiwaikigurumi/status/1349503042840760321?s=20)  |
 | Jinako                       | [Link](https://www.nicovideo.jp/watch/sm38120061)                           | Solo                                 |
@@ -1907,6 +1909,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Senji Muramasa               | [Link](https://twitter.com/Kag_Tam/status/1349376471651913728?s=20)         |
 |                              | [Link](https://twitter.com/ffgo_rin/status/1349501927621447681?s=20)        | Dual Core with Ishtar                |
 |                              | [Link](https://twitter.com/d_fmgfam34/status/1350040603560579072?s=20)      | Dual Core with Gilgamesh             |
+| SHIKI (Saber)                | [Link](https://twitter.com/_ao2412/status/1350587171158151170?s=21)         |
 | Shuten Douji                 | [Link](https://twitter.com/1syuten2syefi/status/1350109688046653441?s=21)   | Used 1 CS                            |
 
 ### Saber Wars II (Rerun) - Main CQ
