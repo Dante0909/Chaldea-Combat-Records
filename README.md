@@ -1897,6 +1897,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ishtar                       | [Link](https://twitter.com/waiwaikigurumi/status/1349503042840760321?s=20)  |
 | Jinako                       | [Link](https://www.nicovideo.jp/watch/sm38120061)                           | Solo                                 |
 | Lancelot (Berserker)         | [Link](https://twitter.com/haikaga/status/1349712203495075841?s=20)         |
+| MHXA | [Link](https://twitter.com/NAO42010/status/1350743745600229376?s=20)
 | MHXX                         | [Link](https://twitter.com/yumey_c2_vv/status/1350221792896405504?s=20)     | Dual Core                            |
 | Miyamoto Musashi (Berserker) | [Link](https://www.youtube.com/watch?v=jqNhwTfE--I)                         |
 |                              | [Link](https://twitter.com/rikomineFGO/status/1350419318257815553?s=20)     | Non Event CE on DPS                  |
