@@ -1897,7 +1897,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ishtar                       | [Link](https://twitter.com/waiwaikigurumi/status/1349503042840760321?s=20)  |
 | Jinako                       | [Link](https://www.nicovideo.jp/watch/sm38120061)                           | Solo                                 |
 | Lancelot (Berserker)         | [Link](https://twitter.com/haikaga/status/1349712203495075841?s=20)         |
-| MHXA | [Link](https://twitter.com/NAO42010/status/1350743745600229376?s=20)
+| MHXA                         | [Link](https://twitter.com/NAO42010/status/1350743745600229376?s=20)        |
 | MHXX                         | [Link](https://twitter.com/yumey_c2_vv/status/1350221792896405504?s=20)     | Dual Core                            |
 | Miyamoto Musashi (Berserker) | [Link](https://www.youtube.com/watch?v=jqNhwTfE--I)                         |
 |                              | [Link](https://twitter.com/rikomineFGO/status/1350419318257815553?s=20)     | Non Event CE on DPS                  |
@@ -1910,40 +1910,41 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Shuten Douji                 | [Link](https://twitter.com/1syuten2syefi/status/1350109688046653441?s=21)   | Used 1 CS                            |
 
 ### Saber Wars II (Rerun) - Main CQ
-| DPS Used            | Link                                                                       | Remarks                       |
-| ------------------- | -------------------------------------------------------------------------- | ----------------------------- |
-| Arjuna (Alter)      | [Link](https://twitter.com/OddEye_DOL/status/1350218230061703168?s=20)     |
-| Arthur (Prototype)  | [Link](https://twitter.com/shishito443/status/1349324476987498496?s=20)    |
-| Ashiya Douman       | [Link](https://twitter.com/fuwa_rai/status/1349304843425378309?s=20)       |
-| Astolfo (Saber)     | [Link](https://twitter.com/1104shoki/status/1349291176105447425?s=20)      |
-| Beni-Enma           | [Link](https://twitter.com/waiwaikigurumi/status/1350026702739570690?s=20) | All Saber Team                |
-| Brynhildr (Lancer)  | [Link](https://twitter.com/Hello_Anthem/status/1349864808049332225?s=20)   | No Damage CE                  |
-| Calamity Jane       | [Link](https://twitter.com/waiwaikigurumi/status/1349695090210426880?s=20) |
-| Cu Chulainn (Alter) | [Link](https://twitter.com/warfare_Holic/status/1350305548797845506?s=20)  |
-| Dioscuri            | [Link](https://twitter.com/Herakles_osi/status/1349648963666788356?s=20)   |
-| EMIYA (Assassin)    | [Link](https://twitter.com/shortcut588/status/1349551938598182917?s=20)    |
-| Enkidu              | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)      | Solo                          |
-| Karna               | [Link](https://twitter.com/Misaya0131/status/1350349235179331585?s=20)     | Non SSR Supports Only         |
-| Gawain              | [Link](https://twitter.com/orionkumachan/status/1349329967226621954?s=20)  |
-| Hajime Saito        | [Link](https://twitter.com/FGO_KRR/status/1349400669346619393?s=20)        |
-| King Hassan         | [Link](https://twitter.com/kkkka5715/status/1349698909333975042?s=20)      |
-| Mori Nagayoshi      | [Link](https://twitter.com/nmnppp/status/1349740515047084034)              |
-| Murasaki (Rider)    | [Link](https://twitter.com/k1syFGO/status/1349400825924177921?s=20)        |
-| Nagao Kagetora      | [Link](https://twitter.com/YOMI__fgo/status/1349406326158483459?s=20)      |
-| Nero (Saber)        | [Link](https://twitter.com/takato09217/status/1349885556000321536?s=20)    |
-| Okita Souji (Saber) | [Link](https://twitter.com/snowdroptree/status/1349294478901669888?s=20)   | Non Event CE                  |
-| Orion (Superhuman)  | [Link](https://twitter.com/hiduka01/status/1349398290207444993?s=20)       |
-| Ozymandias          | [Link](https://twitter.com/bulsoo_dd/status/1349356619419684865?s=20)      | Solo                          |
-| Ibuki Douji         | [Link](https://twitter.com/EIL8_gale/status/1349300173684441088?s=20)      | Bronze Supports Only          |
-| Passionlip          | [Link](https://twitter.com/onabeno_huta/status/1349367801085972486?s=20)   | No CE on DPS, DPS NP not used |
-| Qin Liangyu         | [Link](https://twitter.com/NAO42010/status/1350060154960703488?s=20)       |
-| Saito Hajime        | [Link](https://twitter.com/torikawaTA/status/1349860574390218754?s=20)     |
-| Scathach            | [Link](https://twitter.com/shortcut588/status/1349411407083630594?s=20)    | All Scathface team            |
-| Senji Muramasa      | [Link](https://www.youtube.com/watch?v=hKeocpE-pds&feature=youtu.be)       |
-| Sigurd              | [Link](https://twitter.com/otkznr/status/1349391085768896513?s=20)         |
-| Van Gogh            | [Link](https://twitter.com/hiduka01/status/1350121001749684225?s=20)       | Non Event CE                  |
-| Vlad (Berserker)    | [Link](https://twitter.com/Raven2106/status/1349518019173597184)           |
-| Vritra              | [Link](https://twitter.com/jyuubeeyuuan/status/1349358434425073665?s=20)   |
+| DPS Used               | Link                                                                       | Remarks                       |
+| ---------------------- | -------------------------------------------------------------------------- | ----------------------------- |
+| Arjuna (Alter)         | [Link](https://twitter.com/OddEye_DOL/status/1350218230061703168?s=20)     |
+| Arthur (Prototype)     | [Link](https://twitter.com/shishito443/status/1349324476987498496?s=20)    |
+| Ashiya Douman          | [Link](https://twitter.com/fuwa_rai/status/1349304843425378309?s=20)       |
+| Astolfo (Saber)        | [Link](https://twitter.com/1104shoki/status/1349291176105447425?s=20)      |
+| Beni-Enma              | [Link](https://twitter.com/waiwaikigurumi/status/1350026702739570690?s=20) | All Saber Team                |
+| Brynhildr (Lancer)     | [Link](https://twitter.com/Hello_Anthem/status/1349864808049332225?s=20)   | No Damage CE                  |
+| Calamity Jane          | [Link](https://twitter.com/waiwaikigurumi/status/1349695090210426880?s=20) |
+| Cu Chulainn (Alter)    | [Link](https://twitter.com/warfare_Holic/status/1350305548797845506?s=20)  |
+| Dioscuri               | [Link](https://twitter.com/Herakles_osi/status/1349648963666788356?s=20)   |
+| EMIYA (Assassin)       | [Link](https://twitter.com/shortcut588/status/1349551938598182917?s=20)    |
+| Enkidu                 | [Link](https://twitter.com/bulsoo_dd/status/1349333404920082433?s=20)      | Solo                          |
+| Karna                  | [Link](https://twitter.com/Misaya0131/status/1350349235179331585?s=20)     | Non SSR Supports Only         |
+| Gawain                 | [Link](https://twitter.com/orionkumachan/status/1349329967226621954?s=20)  |
+| Hajime Saito           | [Link](https://twitter.com/FGO_KRR/status/1349400669346619393?s=20)        |
+| King Hassan            | [Link](https://twitter.com/kkkka5715/status/1349698909333975042?s=20)      |
+| Meltryllis (Alter-Ego) | [Link](https://twitter.com/rikomineFGO/status/1350798421603487745?s=20)    |
+| Mori Nagayoshi         | [Link](https://twitter.com/nmnppp/status/1349740515047084034)              |
+| Murasaki (Rider)       | [Link](https://twitter.com/k1syFGO/status/1349400825924177921?s=20)        |
+| Nagao Kagetora         | [Link](https://twitter.com/YOMI__fgo/status/1349406326158483459?s=20)      |
+| Nero (Saber)           | [Link](https://twitter.com/takato09217/status/1349885556000321536?s=20)    |
+| Okita Souji (Saber)    | [Link](https://twitter.com/snowdroptree/status/1349294478901669888?s=20)   | Non Event CE                  |
+| Orion (Superhuman)     | [Link](https://twitter.com/hiduka01/status/1349398290207444993?s=20)       |
+| Ozymandias             | [Link](https://twitter.com/bulsoo_dd/status/1349356619419684865?s=20)      | Solo                          |
+| Ibuki Douji            | [Link](https://twitter.com/EIL8_gale/status/1349300173684441088?s=20)      | Bronze Supports Only          |
+| Passionlip             | [Link](https://twitter.com/onabeno_huta/status/1349367801085972486?s=20)   | No CE on DPS, DPS NP not used |
+| Qin Liangyu            | [Link](https://twitter.com/NAO42010/status/1350060154960703488?s=20)       |
+| Saito Hajime           | [Link](https://twitter.com/torikawaTA/status/1349860574390218754?s=20)     |
+| Scathach               | [Link](https://twitter.com/shortcut588/status/1349411407083630594?s=20)    | All Scathface team            |
+| Senji Muramasa         | [Link](https://www.youtube.com/watch?v=hKeocpE-pds&feature=youtu.be)       |
+| Sigurd                 | [Link](https://twitter.com/otkznr/status/1349391085768896513?s=20)         |
+| Van Gogh               | [Link](https://twitter.com/hiduka01/status/1350121001749684225?s=20)       | Non Event CE                  |
+| Vlad (Berserker)       | [Link](https://twitter.com/Raven2106/status/1349518019173597184)           |
+| Vritra                 | [Link](https://twitter.com/jyuubeeyuuan/status/1349358434425073665?s=20)   |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
