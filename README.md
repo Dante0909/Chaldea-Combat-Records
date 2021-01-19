@@ -1897,6 +1897,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                              | [Link](https://twitter.com/Aloha258_master/status/1350756088958898176?s=20) | Dual Core with Bunny King            |
 | Gilgamesh (Archer)           | [Link](https://www.youtube.com/watch?v=vyEyzbHBqis)                         |
 |                              | [Link](https://www.bilibili.com/video/BV1754y1s7ci)                         | Powermod 200                         |
+|                              | [Link](https://twitter.com/mana_pwpr/status/1351496770535059457?s=20)       | SR Supports Only                     |
 | Ishtar                       | [Link](https://twitter.com/waiwaikigurumi/status/1349503042840760321?s=20)  |
 | Jinako                       | [Link](https://www.nicovideo.jp/watch/sm38120061)                           | Solo                                 |
 | Lancelot (Berserker)         | [Link](https://twitter.com/haikaga/status/1349712203495075841?s=20)         |
