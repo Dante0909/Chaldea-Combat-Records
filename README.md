@@ -1956,8 +1956,9 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Vritra                 | [Link](https://twitter.com/jyuubeeyuuan/status/1349358434425073665?s=20)   |
 
 ### Return to Kamakura - Little Big Tengu 
-| DPS Used | Link | Remarks |
-| -------- | ---- | ------- |
+| DPS Used | Link                                                                  | Remarks |
+| -------- | --------------------------------------------------------------------- | ------- |
+| Sitonai  | [Link](https://twitter.com/buenabisutafgo/status/1354370763399122946) |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
