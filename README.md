@@ -1958,6 +1958,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 ### Return to Kamakura - Little Big Tengu 
 | DPS Used          | Link                                                                      | Remarks |
 | ----------------- | ------------------------------------------------------------------------- | ------- |
+| Beni-enma         | [Link](https://twitter.com/ITMST/status/1354474200560324610?s=20)         |
 | Sitonai           | [Link](https://twitter.com/buenabisutafgo/status/1354370763399122946)     |
 | Taira-no-Kagekiyo | [Link](https://www.youtube.com/watch?v=Pw9UePSJ8dQ)                       |
 | Vlad (Berserker)  | [Link](https://twitter.com/1syuten2syefi/status/1354393725418442755?s=20) |
