@@ -55,6 +55,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Lostbelt 4.5 : Imaginary Scramble](#lostbelt-45--imaginary-scramble)
     - [Saber Wars II (Rerun) - Dark Rounds](#saber-wars-ii-rerun---dark-rounds)
     - [Saber Wars II (Rerun) - Main CQ](#saber-wars-ii-rerun---main-cq)
+    - [Return to Kamakura - Little Big Tengu](#return-to-kamakura---little-big-tengu)
 
 ## Story Bosses
 
@@ -1953,6 +1954,10 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Van Gogh               | [Link](https://twitter.com/hiduka01/status/1350121001749684225?s=20)       | Non Event CE                  |
 | Vlad (Berserker)       | [Link](https://twitter.com/Raven2106/status/1349518019173597184)           |
 | Vritra                 | [Link](https://twitter.com/jyuubeeyuuan/status/1349358434425073665?s=20)   |
+
+### Return to Kamakura - Little Big Tengu 
+| DPS Used | Link | Remarks |
+| -------- | ---- | ------- |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
