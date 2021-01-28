@@ -1956,14 +1956,16 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Vritra                 | [Link](https://twitter.com/jyuubeeyuuan/status/1349358434425073665?s=20)   |
 
 ### Return to Kamakura - Little Big Tengu 
-| DPS Used               | Link                                                                      | Remarks |
-| ---------------------- | ------------------------------------------------------------------------- | ------- |
+| DPS Used               | Link                                                                      | Remarks                                             |
+| ---------------------- | ------------------------------------------------------------------------- | --------------------------------------------------- |
+| Arjuna (Alter)         | [Link](https://twitter.com/Kag_Tam/status/1354745281363886085?s=20)       |
 | Beni-enma              | [Link](https://twitter.com/ITMST/status/1354474200560324610?s=20)         |
 | Kama                   | [Link](https://twitter.com/ffgo_rin/status/1354496802695778305?s=20)      |
 | Meltryllis (Alter-Ego) | [Link](https://twitter.com/Yuri_duelist/status/1354502906884497408?s=19)  |
 | MHXA                   | [Link](https://twitter.com/wawawasama/status/1354632936444706817?s=20)    |
 | Sitonai                | [Link](https://twitter.com/buenabisutafgo/status/1354370763399122946)     |
 | Taira-no-Kagekiyo      | [Link](https://www.youtube.com/watch?v=Pw9UePSJ8dQ)                       |
+|                        | [Link](https://youtu.be/CDrBMCx_MkE)                                      | 3T, Dual Core Ashiya Douman and Curse Amplification |
 | Vlad (Berserker)       | [Link](https://twitter.com/1syuten2syefi/status/1354393725418442755?s=20) |
 
 - All videos linked in this repo are the properties of their owners.
