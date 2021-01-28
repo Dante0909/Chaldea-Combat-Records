@@ -1959,6 +1959,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | DPS Used               | Link                                                                      | Remarks |
 | ---------------------- | ------------------------------------------------------------------------- | ------- |
 | Beni-enma              | [Link](https://twitter.com/ITMST/status/1354474200560324610?s=20)         |
+| Kama                   | [Link](https://twitter.com/ffgo_rin/status/1354496802695778305?s=20)      |
 | Meltryllis (Alter-Ego) | [Link](https://twitter.com/Yuri_duelist/status/1354502906884497408?s=19)  |
 | MHXA                   | [Link](https://twitter.com/wawawasama/status/1354632936444706817?s=20)    |
 | Sitonai                | [Link](https://twitter.com/buenabisutafgo/status/1354370763399122946)     |
