@@ -1962,6 +1962,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | BB (Summer)            | [Link](https://twitter.com/TsqLs/status/1354812091257954308)                |
 | Beni-enma              | [Link](https://twitter.com/ITMST/status/1354474200560324610?s=20)           |
 | Brynhildr (Lancer)     | [Link](https://twitter.com/Hello_Anthem/status/1354925507356225538?s=20)    |
+| Cu Chulainn (Alter)    | [Link](https://twitter.com/KUR_NU_GI_A/status/1355257923841130497?s=20)     |
 | Hijikata               | [Link](https://twitter.com/aloha258_master/status/1354850606070960128?s=21) |
 | Kama                   | [Link](https://twitter.com/ffgo_rin/status/1354496802695778305?s=20)        |
 | Meltryllis (Alter-Ego) | [Link](https://twitter.com/Yuri_duelist/status/1354502906884497408?s=19)    |
@@ -1971,6 +1972,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Taira-no-Kagekiyo      | [Link](https://www.youtube.com/watch?v=Pw9UePSJ8dQ)                         |
 |                        | [Link](https://youtu.be/CDrBMCx_MkE)                                        | 3T, Dual Core Ashiya Douman and Curse Amplification |
 | Vlad (Berserker)       | [Link](https://twitter.com/1syuten2syefi/status/1354393725418442755?s=20)   |
+|                        | [Link](https://twitter.com/1syuten2syefi/status/1355249219880185858?s=20)   | 60 Cost                                             |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
