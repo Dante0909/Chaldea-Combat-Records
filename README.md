@@ -1915,6 +1915,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                              | [Link](https://twitter.com/d_fmgfam34/status/1350040603560579072?s=20)      | Dual Core with Gilgamesh             |
 | SHIKI (Saber)                | [Link](https://twitter.com/_ao2412/status/1350587171158151170?s=21)         |
 | Shuten Douji                 | [Link](https://twitter.com/1syuten2syefi/status/1350109688046653441?s=21)   | Used 1 CS                            |
+| Vlad (Berserker)             | [Link](https://www.bilibili.com/video/BV1JA411u73H)                         | ST TA                                |
 
 ### Saber Wars II (Rerun) - Main CQ
 | DPS Used               | Link                                                                       | Remarks                       |
