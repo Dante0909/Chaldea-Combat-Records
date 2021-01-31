@@ -1967,6 +1967,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Cu Chulainn (Alter)     | [Link](https://twitter.com/KUR_NU_GI_A/status/1355257923841130497?s=20)     |
 | Hijikata                | [Link](https://twitter.com/aloha258_master/status/1354850606070960128?s=21) |
 | Ibaraki (Berserker)     | [Link](https://twitter.com/snowdroptree/status/1355407750696632320?s=20)    |
+| Jinako                  | [Link](https://www.bilibili.com/video/BV1uN411o7bx)                         | Solo                                                |
 | Kama                    | [Link](https://twitter.com/ffgo_rin/status/1354496802695778305?s=20)        |
 | Meltryllis (Alter-Ego)  | [Link](https://twitter.com/Yuri_duelist/status/1354502906884497408?s=19)    |
 | MHXA                    | [Link](https://twitter.com/wawawasama/status/1354632936444706817?s=20)      |
