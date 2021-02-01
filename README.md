@@ -1957,30 +1957,31 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Vritra                 | [Link](https://twitter.com/jyuubeeyuuan/status/1349358434425073665?s=20)   |
 
 ### Return to Kamakura - Little Big Tengu 
-| DPS Used                | Link                                                                        | Remarks                                             |
-| ----------------------- | --------------------------------------------------------------------------- | --------------------------------------------------- |
-| Arjuna (Alter)          | [Link](https://twitter.com/Kag_Tam/status/1354745281363886085?s=20)         |
-| BB (Summer)             | [Link](https://twitter.com/TsqLs/status/1354812091257954308)                |
-|                         | [Link](https://twitter.com/ITMST/status/1355538434060767234)                |
-| Beni-enma               | [Link](https://twitter.com/ITMST/status/1354474200560324610?s=20)           |
-| Brynhildr (Lancer)      | [Link](https://twitter.com/Hello_Anthem/status/1354925507356225538?s=20)    |
-| Cu Chulainn (Alter)     | [Link](https://twitter.com/KUR_NU_GI_A/status/1355257923841130497?s=20)     |
-| Hijikata                | [Link](https://twitter.com/aloha258_master/status/1354850606070960128?s=21) |
-| Ibaraki (Berserker)     | [Link](https://twitter.com/snowdroptree/status/1355407750696632320?s=20)    |
-| Jinako                  | [Link](https://www.bilibili.com/video/BV1uN411o7bx)                         | Solo                                                |
-| Kama                    | [Link](https://twitter.com/ffgo_rin/status/1354496802695778305?s=20)        |
-| Kintoki (Berserker)     | [Link](https://twitter.com/WacBook/status/1356071820139458565?s=20)         |
-| Meltryllis (Alter-Ego)  | [Link](https://twitter.com/Yuri_duelist/status/1354502906884497408?s=19)    |
-| MHXA                    | [Link](https://twitter.com/wawawasama/status/1354632936444706817?s=20)      |
-| Oda Nobunaga (Maou)     | [Link](https://twitter.com/OrGOrG_FGO/status/1355214453617254401?s=19)      |
-| Penthesilea (Berserker) | [Link](https://twitter.com/EdaFgo/status/1355873081344937988?s=20)          |
-| Shiki (Assassin)        | [Link](https://twitter.com/_ao2412/status/1356078065542041607?s=20)         |
-| Sitonai                 | [Link](https://twitter.com/buenabisutafgo/status/1354370763399122946)       |
-| Taira-no-Kagekiyo       | [Link](https://www.youtube.com/watch?v=Pw9UePSJ8dQ)                         |
-|                         | [Link](https://youtu.be/CDrBMCx_MkE)                                        | 3T, Dual Core Ashiya Douman and Curse Amplification |
-|                         | [Link](https://twitter.com/rawmeat_sv/status/1355507791931162624)           | 57 Cost                                             |
-| Vlad (Berserker)        | [Link](https://twitter.com/1syuten2syefi/status/1354393725418442755?s=20)   |
-|                         | [Link](https://twitter.com/1syuten2syefi/status/1355249219880185858?s=20)   | 60 Cost                                             |
+| DPS Used                 | Link                                                                        | Remarks                                             |
+| ------------------------ | --------------------------------------------------------------------------- | --------------------------------------------------- |
+| Arjuna (Alter)           | [Link](https://twitter.com/Kag_Tam/status/1354745281363886085?s=20)         |
+| BB (Summer)              | [Link](https://twitter.com/TsqLs/status/1354812091257954308)                |
+|                          | [Link](https://twitter.com/ITMST/status/1355538434060767234)                |
+| Beni-enma                | [Link](https://twitter.com/ITMST/status/1354474200560324610?s=20)           |
+| Brynhildr (Lancer)       | [Link](https://twitter.com/Hello_Anthem/status/1354925507356225538?s=20)    |
+| Cu Chulainn (Alter)      | [Link](https://twitter.com/KUR_NU_GI_A/status/1355257923841130497?s=20)     |
+| Hijikata                 | [Link](https://twitter.com/aloha258_master/status/1354850606070960128?s=21) |
+| Ibaraki (Berserker)      | [Link](https://twitter.com/snowdroptree/status/1355407750696632320?s=20)    |
+| Jinako                   | [Link](https://www.bilibili.com/video/BV1uN411o7bx)                         | Solo                                                |
+| Kama                     | [Link](https://twitter.com/ffgo_rin/status/1354496802695778305?s=20)        |
+| Kintoki (Berserker)      | [Link](https://twitter.com/WacBook/status/1356071820139458565?s=20)         |
+| Meltryllis (Alter-Ego)   | [Link](https://twitter.com/Yuri_duelist/status/1354502906884497408?s=19)    |
+| MHXA                     | [Link](https://twitter.com/wawawasama/status/1354632936444706817?s=20)      |
+| Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1356022753543901185?s=20)    | Dual Core with Ibaraki                              |
+| Oda Nobunaga (Maou)      | [Link](https://twitter.com/OrGOrG_FGO/status/1355214453617254401?s=19)      |
+| Penthesilea (Berserker)  | [Link](https://twitter.com/EdaFgo/status/1355873081344937988?s=20)          |
+| Shiki (Assassin)         | [Link](https://twitter.com/_ao2412/status/1356078065542041607?s=20)         |
+| Sitonai                  | [Link](https://twitter.com/buenabisutafgo/status/1354370763399122946)       |
+| Taira-no-Kagekiyo        | [Link](https://www.youtube.com/watch?v=Pw9UePSJ8dQ)                         |
+|                          | [Link](https://youtu.be/CDrBMCx_MkE)                                        | 3T, Dual Core Ashiya Douman and Curse Amplification |
+|                          | [Link](https://twitter.com/rawmeat_sv/status/1355507791931162624)           | 57 Cost                                             |
+| Vlad (Berserker)         | [Link](https://twitter.com/1syuten2syefi/status/1354393725418442755?s=20)   |
+|                          | [Link](https://twitter.com/1syuten2syefi/status/1355249219880185858?s=20)   | 60 Cost                                             |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
