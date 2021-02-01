@@ -1979,6 +1979,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Sitonai                  | [Link](https://twitter.com/buenabisutafgo/status/1354370763399122946)       |
 | Taira-no-Kagekiyo        | [Link](https://www.youtube.com/watch?v=Pw9UePSJ8dQ)                         |
 |                          | [Link](https://youtu.be/CDrBMCx_MkE)                                        | 3T, Dual Core Ashiya Douman and Curse Amplification |
+|                          | [Link](https://twitter.com/buenabisutafgo/status/1356272310819246080?s=20)  | 3T, Triple Core, Curse Amplification                |
 |                          | [Link](https://twitter.com/rawmeat_sv/status/1355507791931162624)           | 57 Cost                                             |
 | Vlad (Berserker)         | [Link](https://twitter.com/1syuten2syefi/status/1354393725418442755?s=20)   |
 |                          | [Link](https://twitter.com/1syuten2syefi/status/1355249219880185858?s=20)   | 60 Cost                                             |
