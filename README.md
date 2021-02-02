@@ -1961,7 +1961,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | ------------------------ | --------------------------------------------------------------------------- | --------------------------------------------------- |
 | Arjuna (Alter)           | [Link](https://twitter.com/Kag_Tam/status/1354745281363886085?s=20)         |
 | BB (Summer)              | [Link](https://twitter.com/TsqLs/status/1354812091257954308)                |
-|                          | [Link](https://twitter.com/ITMST/status/1355538434060767234)                |
+|                          | [Link](https://twitter.com/ITMST/status/1355538434060767234)                | Orion 2nd Core                                      |
 | Beni-enma                | [Link](https://twitter.com/ITMST/status/1354474200560324610?s=20)           |
 | Brynhildr (Lancer)       | [Link](https://twitter.com/Hello_Anthem/status/1354925507356225538?s=20)    |
 | Cu Chulainn (Alter)      | [Link](https://twitter.com/KUR_NU_GI_A/status/1355257923841130497?s=20)     |
@@ -1972,6 +1972,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Kintoki (Berserker)      | [Link](https://twitter.com/WacBook/status/1356071820139458565?s=20)         |
 | Meltryllis (Alter-Ego)   | [Link](https://twitter.com/Yuri_duelist/status/1354502906884497408?s=19)    |
 | MHXA                     | [Link](https://twitter.com/wawawasama/status/1354632936444706817?s=20)      |
+| MHXX                     | [Link](https://twitter.com/OrGOrG_FGO/status/1356604820874874888?s=20)      |
 | Oda Nobunaga (Berserker) | [Link](https://twitter.com/snowdroptree/status/1356022753543901185?s=20)    | Dual Core with Ibaraki                              |
 | Oda Nobunaga (Maou)      | [Link](https://twitter.com/OrGOrG_FGO/status/1355214453617254401?s=19)      |
 | Penthesilea (Berserker)  | [Link](https://twitter.com/EdaFgo/status/1355873081344937988?s=20)          |
