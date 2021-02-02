@@ -53,6 +53,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Servant Summer Camp! : Chaldea Thriller Night](#servant-summer-camp--chaldea-thriller-night)
     - [GUDAGUDA Yamatai-koku 2020](#gudaguda-yamatai-koku-2020)
     - [Lostbelt 4.5 : Imaginary Scramble](#lostbelt-45--imaginary-scramble)
+  - [2021](#2021)
     - [Saber Wars II (Rerun) - Dark Rounds](#saber-wars-ii-rerun---dark-rounds)
     - [Saber Wars II (Rerun) - Main CQ](#saber-wars-ii-rerun---main-cq)
     - [Return to Kamakura - Little Big Tengu](#return-to-kamakura---little-big-tengu)
@@ -1884,6 +1885,8 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Xiang Yu                  | [Link](https://twitter.com/Kag_Tam/status/1329071123011567621?s=20)         |                                |
 | Bronze Only clear         | [Link](https://youtu.be/cJECYtFfia8)                                        |
 
+## 2021
+
 ### Saber Wars II (Rerun) - Dark Rounds
 | DPS Used                     | Link                                                                        | Remarks                              |
 | ---------------------------- | --------------------------------------------------------------------------- | ------------------------------------ |
@@ -1966,7 +1969,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Brynhildr (Lancer)       | [Link](https://twitter.com/Hello_Anthem/status/1354925507356225538?s=20)    |
 | Cu Chulainn (Alter)      | [Link](https://twitter.com/KUR_NU_GI_A/status/1355257923841130497?s=20)     |
 | Hijikata                 | [Link](https://twitter.com/aloha258_master/status/1354850606070960128?s=21) |
-| Ibaraki (Berserker)      | [Link](https://twitter.com/snowdroptree/status/1355407750696632320?s=20)    |
+| Ibaraki (Berserker)      | [Link](https://twitter.com/snowdroptree/status/1355407750696632320?s=20)    | Dual Core with Douman
 | Jinako                   | [Link](https://www.bilibili.com/video/BV1uN411o7bx)                         | Solo                                                |
 | Kama                     | [Link](https://twitter.com/ffgo_rin/status/1354496802695778305?s=20)        |
 | Kintoki (Berserker)      | [Link](https://twitter.com/WacBook/status/1356071820139458565?s=20)         |
