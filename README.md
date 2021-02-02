@@ -204,6 +204,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | King Hassan          | [Link](https://www.bilibili.com/video/av20664448/)                       | No CC, Solo                                                                                                                               |
 | Kingprotea           | [Link](https://www.youtube.com/watch?v=pKOZucqRP2g)                      | Solo                                                                                                                                      |
 | Lancelot (Berserker) | [Link](https://b23.tv/ShNo4q)                                            | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728356971895586856/unknown.png)                                  |
+| Medusa (Lancer)      | [Link](https://www.bilibili.com/video/BV1Py4y1n73g)                      | Solo                                                                                                                                      |
 | Merlin               | [Link](https://www.youtube.com/watch?v=-iFp8deShKM)                      | Solo, No CC                                                                                                                               |
 | MHXA                 | [Link](https://www.bilibili.com/video/av87929863)                        | Solo                                                                                                                                      |
 | Musashi (Berserker)  | [Link](https://b23.tv/1gloTF)                                            | [Team Preview](https://cdn.discordapp.com/attachments/426100309668921353/728351719712489531/unknown.png)                                  |
@@ -1968,8 +1969,10 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Beni-enma                | [Link](https://twitter.com/ITMST/status/1354474200560324610?s=20)           |
 | Brynhildr (Lancer)       | [Link](https://twitter.com/Hello_Anthem/status/1354925507356225538?s=20)    |
 | Cu Chulainn (Alter)      | [Link](https://twitter.com/KUR_NU_GI_A/status/1355257923841130497?s=20)     |
+|                          | [Link](http://www.bilibili.com/video/av203971011)                           | 3T                                                  |
+| Heracles                 | [Link](https://twitter.com/fuwa_rai/status/1356668442896605184)             |
 | Hijikata                 | [Link](https://twitter.com/aloha258_master/status/1354850606070960128?s=21) |
-| Ibaraki (Berserker)      | [Link](https://twitter.com/snowdroptree/status/1355407750696632320?s=20)    | Dual Core with Douman
+| Ibaraki (Berserker)      | [Link](https://twitter.com/snowdroptree/status/1355407750696632320?s=20)    | Dual Core with Douman                               |
 | Jinako                   | [Link](https://www.bilibili.com/video/BV1uN411o7bx)                         | Solo                                                |
 | Kama                     | [Link](https://twitter.com/ffgo_rin/status/1354496802695778305?s=20)        |
 | Kintoki (Berserker)      | [Link](https://twitter.com/WacBook/status/1356071820139458565?s=20)         |
