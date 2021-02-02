@@ -1970,6 +1970,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Jinako                   | [Link](https://www.bilibili.com/video/BV1uN411o7bx)                         | Solo                                                |
 | Kama                     | [Link](https://twitter.com/ffgo_rin/status/1354496802695778305?s=20)        |
 | Kintoki (Berserker)      | [Link](https://twitter.com/WacBook/status/1356071820139458565?s=20)         |
+| Lancelot (Berserker)     | [Link](https://twitter.com/haikaga/status/1356583526787768320?s=20)         |
 | Meltryllis (Alter-Ego)   | [Link](https://twitter.com/Yuri_duelist/status/1354502906884497408?s=19)    |
 | MHXA                     | [Link](https://twitter.com/wawawasama/status/1354632936444706817?s=20)      |
 | MHXX                     | [Link](https://twitter.com/OrGOrG_FGO/status/1356604820874874888?s=20)      |
