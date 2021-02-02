@@ -1989,6 +1989,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                          | [Link](https://youtu.be/CDrBMCx_MkE)                                        | 3T, Dual Core Ashiya Douman and Curse Amplification |
 |                          | [Link](https://twitter.com/buenabisutafgo/status/1356272310819246080?s=20)  | 3T, Triple Core, Curse Amplification                |
 |                          | [Link](https://twitter.com/rawmeat_sv/status/1355507791931162624)           | 57 Cost                                             |
+|                          | [Link](https://twitter.com/fgo38195272/status/1356608896526241792?s=20)     | 40 Cost                                             |
 | Vlad (Berserker)         | [Link](https://twitter.com/1syuten2syefi/status/1354393725418442755?s=20)   |
 |                          | [Link](https://twitter.com/1syuten2syefi/status/1355249219880185858?s=20)   | 60 Cost                                             |
 
