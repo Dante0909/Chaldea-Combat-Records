@@ -1969,7 +1969,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Beni-enma                | [Link](https://twitter.com/ITMST/status/1354474200560324610?s=20)           |
 | Brynhildr (Lancer)       | [Link](https://twitter.com/Hello_Anthem/status/1354925507356225538?s=20)    |
 | Cu Chulainn (Alter)      | [Link](https://twitter.com/KUR_NU_GI_A/status/1355257923841130497?s=20)     |
-|                          | [Link](http://www.bilibili.com/video/av203971011)                           | 3T                                                  |
+|                          | [Link](http://www.bilibili.com/video/av203971011)                           | 3T, Douman Last Bar                                 |
 | Heracles                 | [Link](https://twitter.com/fuwa_rai/status/1356668442896605184)             |
 | Hijikata                 | [Link](https://twitter.com/aloha258_master/status/1354850606070960128?s=21) |
 | Ibaraki (Berserker)      | [Link](https://twitter.com/snowdroptree/status/1355407750696632320?s=20)    | Dual Core with Douman                               |
