@@ -1997,7 +1997,8 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 ### Valentines 2021 - True Love
 | DPS Used              | Link                                                                        | Remarks                         |
 | --------------------- | --------------------------------------------------------------------------- | ------------------------------- |
-| Achille               | [Link](https://twitter.com/try_kazuya/status/1361694365278556162?s=20)      | NoCE                            |
+| Achilles              | [Link](https://twitter.com/try_kazuya/status/1361694365278556162?s=20)      | NoCE                            |
+|                       | [Link](https://twitter.com/shortcut588/status/1361679025828061186?s=20)     | NoSwap                          |
 | Arturia (Lancer)      | [Link](https://twitter.com/OddEye_DOL/status/1361639529711509509?s=20)      | Dual Core Junao                 |
 | Arturia (Ruler)       | [Link](https://twitter.com/Aloha258_master/status/1361631128898072577?s=20) | Dual Core with Hijikata, NoSwap |
 | Astarte               | [Link](https://twitter.com/Aloha258_master/status/1361620922352898049?s=20) | Dual Core                       |
