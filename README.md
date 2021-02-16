@@ -1997,6 +1997,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 ### Valentines 2021 - True Love
 | DPS Used              | Link                                                                        | Remarks                         |
 | --------------------- | --------------------------------------------------------------------------- | ------------------------------- |
+| Achille               | [Link](https://twitter.com/try_kazuya/status/1361694365278556162?s=20)      | NoCE                            |
 | Arturia (Lancer)      | [Link](https://twitter.com/OddEye_DOL/status/1361639529711509509?s=20)      | Dual Core Junao                 |
 | Arturia (Ruler)       | [Link](https://twitter.com/Aloha258_master/status/1361631128898072577?s=20) | Dual Core with Hijikata, NoSwap |
 | Astarte               | [Link](https://twitter.com/Aloha258_master/status/1361620922352898049?s=20) | Dual Core                       |
@@ -2008,9 +2009,13 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                       | [Link](https://twitter.com/Aloha258_master/status/1361679724804669446?s=20) | Cu, Angra and Bunny             |
 | Chen Gong             | [Link](https://twitter.com/snowdroptree/status/1361633316143652867?s=20)    |
 |                       | [Link](https://twitter.com/torikawaTA/status/1361645822748684288?s=20)      | NoSwap                          |
+|                       | [Link](https://twitter.com/Nagato_Yuki_233/status/1361698050184384515?s=20) | Lv1 DPS                         |
 | Dantes                | [Link](https://twitter.com/mana_pwpr/status/1361615505228922882?s=20)       | NoSwap                          |
+| Emiya                 | [Link](https://twitter.com/Now_north/status/1361691701979475972?s=20)       | NoSwap                          |
 | Ereshkigal            | [Link](https://twitter.com/waiwaikigurumi/status/1361635870214787073)       | Multi-core with Gong/Vlad       |
+|                       | [Link](https://twitter.com/waiwaikigurumi/status/1361692923490750466?s=20)  |
 | Fionn                 | [Link](https://twitter.com/Raven2106/status/1361629275422552066?s=20)       |
+| Gilgamesh             | [Link](https://twitter.com/otkznr/status/1361697669136048132?s=20)          |
 | Ibuki                 | [Link](https://twitter.com/EIL8_gale/status/1361677269018664961?s=20)       | Dual Core with Gil              |
 | Karna                 | [Link](https://twitter.com/Now_north/status/1361662274788749315?s=20)       |
 | Kiichi Hougen         | [Link](https://twitter.com/YOMI__fgo/status/1361648180190846977?s=20)       | Arash                           |
@@ -2019,6 +2024,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Meltryllis (Lancer)   | [Link](https://twitter.com/2_5_dimension/status/1361632468839751690?s=20)   | Karna T1                        |
 |                       | [Link](https://twitter.com/myc_1228/status/1361639222289989632?s=20)        | Dual Core Enkidu                |
 | Musashi (Berserker)   | [Link](https://twitter.com/kekekei_MHFZ/status/1361622467765145600?s=20)    |
+|                       | [Link](https://twitter.com/waiwaikigurumi/status/1361692923490750466?s=20)  |
 | Odysseus (Rider)      | [Link](https://twitter.com/shortcut588/status/1361656812064235533?s=20)     |
 | Osakabehime (Archer)  | [Link](https://twitter.com/1syuten2syefi/status/1361663882612285445?s=20)   | Dual Core Kintoki               |
 | Parvati               | [Link](https://twitter.com/ffgo_rin/status/1361630318197841922?s=20)        |
