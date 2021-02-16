@@ -57,6 +57,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Saber Wars II (Rerun) - Dark Rounds](#saber-wars-ii-rerun---dark-rounds)
     - [Saber Wars II (Rerun) - Main CQ](#saber-wars-ii-rerun---main-cq)
     - [Return to Kamakura - Little Big Tengu](#return-to-kamakura---little-big-tengu)
+    - [Valentines 2021 - True Love](#valentines-2021---true-love)
 
 ## Story Bosses
 
@@ -1992,6 +1993,22 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                          | [Link](https://twitter.com/fgo38195272/status/1356608896526241792?s=20)     | 40 Cost                                             |
 | Vlad (Berserker)         | [Link](https://twitter.com/1syuten2syefi/status/1354393725418442755?s=20)   |
 |                          | [Link](https://twitter.com/1syuten2syefi/status/1355249219880185858?s=20)   | 60 Cost                                             |
+
+### Valentines 2021 - True Love
+| DPS Used            | Link                                                                        | Remarks                         |
+| ------------------- | --------------------------------------------------------------------------- | ------------------------------- |
+| Arturia (Ruler)     | [Link](https://twitter.com/Aloha258_master/status/1361631128898072577?s=20) | Dual Core with Hijikata, NoSwap |
+| Chen Gong           | [Link](https://twitter.com/snowdroptree/status/1361633316143652867?s=20)    |
+| Dantes              | [Link](https://twitter.com/mana_pwpr/status/1361615505228922882?s=20)       | NoSwap                          |
+| Ereshkigal          | [Link](https://twitter.com/waiwaikigurumi/status/1361635870214787073)       | Multi-core with Gong/Vlad       |
+| Fionn               | [Link](https://twitter.com/Raven2106/status/1361629275422552066?s=20)       |
+| Meltryllis          | [Link](https://twitter.com/2_5_dimension/status/1361632468839751690?s=20)   | Karna T1                        |
+| Musashi (Berserker) | [Link](https://twitter.com/kekekei_MHFZ/status/1361622467765145600?s=20)    |
+| Parvati             | [Link](https://twitter.com/ffgo_rin/status/1361630318197841922?s=20)        |
+| Romulus=Qurinus     | [Link](https://twitter.com/neko_neko_FP/status/1361632572602654722?s=20)    | Multi-core                      |
+| Senji Muramasa      | [Link](https://twitter.com/rrrinka_1933/status/1361617644621762561?s=20)    |
+| Vritra              | [Link](https://twitter.com/shortcut588/status/1361628712635039749?s=20)     | Dual Core with Kintoki          |
+
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
