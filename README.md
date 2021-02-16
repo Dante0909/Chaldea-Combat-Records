@@ -2016,6 +2016,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ereshkigal            | [Link](https://twitter.com/waiwaikigurumi/status/1361635870214787073)       | Multi-core with Gong/Vlad       |
 |                       | [Link](https://twitter.com/waiwaikigurumi/status/1361692923490750466?s=20)  |
 | Fionn                 | [Link](https://twitter.com/Raven2106/status/1361629275422552066?s=20)       |
+| Geronimo              | [Link](https://twitter.com/ibu_fgo/status/1361713080380444677?s=20)         | Multicore, Lv1 Gong             |
 | Gilgamesh             | [Link](https://twitter.com/otkznr/status/1361697669136048132?s=20)          |
 | Ibuki                 | [Link](https://twitter.com/EIL8_gale/status/1361677269018664961?s=20)       | Dual Core with Gil              |
 | Karna                 | [Link](https://twitter.com/Now_north/status/1361662274788749315?s=20)       |
