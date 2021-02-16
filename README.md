@@ -2025,6 +2025,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                       | [Link](https://twitter.com/myc_1228/status/1361639222289989632?s=20)        | Dual Core Enkidu                |
 | Musashi (Berserker)   | [Link](https://twitter.com/kekekei_MHFZ/status/1361622467765145600?s=20)    |
 |                       | [Link](https://twitter.com/waiwaikigurumi/status/1361692923490750466?s=20)  |
+| Oda Nobunaga (Maou)   | [Link](https://youtu.be/nYcQvGf8kaA)                                        |
 | Odysseus (Rider)      | [Link](https://twitter.com/shortcut588/status/1361656812064235533?s=20)     |
 | Osakabehime (Archer)  | [Link](https://twitter.com/1syuten2syefi/status/1361663882612285445?s=20)   | Dual Core Kintoki               |
 | Parvati               | [Link](https://twitter.com/ffgo_rin/status/1361630318197841922?s=20)        |
