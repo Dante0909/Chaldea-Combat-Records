@@ -1997,17 +1997,27 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 ### Valentines 2021 - True Love
 | DPS Used            | Link                                                                        | Remarks                         |
 | ------------------- | --------------------------------------------------------------------------- | ------------------------------- |
+| Arturia (Lancer)    | [Link](https://twitter.com/OddEye_DOL/status/1361639529711509509?s=20)      | Dual Core Junao                 |
 | Arturia (Ruler)     | [Link](https://twitter.com/Aloha258_master/status/1361631128898072577?s=20) | Dual Core with Hijikata, NoSwap |
+| Astarte             | [Link](https://twitter.com/Aloha258_master/status/1361620922352898049?s=20) | Dual Core                       |
+| Caren               | [Link](https://twitter.com/2_5_dimension/status/1361640303443124230?s=20)   | Dual Core                       |
+|                     | [Link](https://twitter.com/Chihiro1000/status/1361638977376198663?s=20)     |
 | Chen Gong           | [Link](https://twitter.com/snowdroptree/status/1361633316143652867?s=20)    |
 | Dantes              | [Link](https://twitter.com/mana_pwpr/status/1361615505228922882?s=20)       | NoSwap                          |
 | Ereshkigal          | [Link](https://twitter.com/waiwaikigurumi/status/1361635870214787073)       | Multi-core with Gong/Vlad       |
 | Fionn               | [Link](https://twitter.com/Raven2106/status/1361629275422552066?s=20)       |
+| Lancelot(Berserker) | [Link](https://twitter.com/DOA_KAMEN/status/1361643250721820673?s=20  )     |
 | Meltryllis          | [Link](https://twitter.com/2_5_dimension/status/1361632468839751690?s=20)   | Karna T1                        |
+|                     | [Link](https://twitter.com/myc_1228/status/1361639222289989632?s=20)        | Dual Core Enkidu                |
 | Musashi (Berserker) | [Link](https://twitter.com/kekekei_MHFZ/status/1361622467765145600?s=20)    |
 | Parvati             | [Link](https://twitter.com/ffgo_rin/status/1361630318197841922?s=20)        |
 | Romulus=Qurinus     | [Link](https://twitter.com/neko_neko_FP/status/1361632572602654722?s=20)    | Multi-core                      |
 | Senji Muramasa      | [Link](https://twitter.com/rrrinka_1933/status/1361617644621762561?s=20)    |
+| Shuten              | [Link](https://twitter.com/1syuten2syefi/status/1361642355091103744?s=20)   | Dual Core                       |
+| Voyager             | [Link](https://twitter.com/tolkienthor/status/1361641257253003264?s=20)     |
+|                     | [Link](https://twitter.com/moyo_FGO/status/1361640448683511810?s=20)        | Solo                            |
 | Vritra              | [Link](https://twitter.com/shortcut588/status/1361628712635039749?s=20)     | Dual Core with Kintoki          |
+|                     | [Link](https://twitter.com/meteordive_FGO/status/1361627260411731972?s=20)  | Dual Core Junao                 |
 
 
 - All videos linked in this repo are the properties of their owners.
