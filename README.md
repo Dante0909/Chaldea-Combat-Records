@@ -2020,6 +2020,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Karna                 | [Link](https://twitter.com/Now_north/status/1361662274788749315?s=20)       |
 | Kiichi Hougen         | [Link](https://twitter.com/YOMI__fgo/status/1361648180190846977?s=20)       | Arash                           |
 | Lancelot(Berserker)   | [Link](https://twitter.com/DOA_KAMEN/status/1361643250721820673?s=20  )     |
+|                       | [Link](https://twitter.com/haikaga/status/1361705943881322502?s=20)         | NoSwap                          |
 | Marie (Caster)        | [Link](https://twitter.com/inochi_8/status/1361668243732135939?s=20)        | Dual Core                       |
 | Meltryllis (Lancer)   | [Link](https://twitter.com/2_5_dimension/status/1361632468839751690?s=20)   | Karna T1                        |
 |                       | [Link](https://twitter.com/myc_1228/status/1361639222289989632?s=20)        | Dual Core Enkidu                |
