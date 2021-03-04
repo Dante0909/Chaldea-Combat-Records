@@ -234,7 +234,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Hokusai (Saber)                 | [Link](https://twitter.com/snowdroptree/status/1293440648066998273?s=20)    |
 | Ibaraki Douji                   | [Link](https://twitter.com/snowdroptree/status/1285239226062172167?s=20)    |                          |
 | Ishtar (Archer)                 | [Link](https://twitter.com/Gfnm1VRurkqSZxK/status/1285271366405505024?s=20) |                          |
-| Ishtar (Rider)                  | [Link](https://twitter.com/kuronoiparoma/status/1285592995216027648?s=20)   |                          |
+| Ishtar (Rider)                  | [Link](https://twitter.com/waiwaikigurumi/status/1285575949824610309?s=20)   |                          |
 | Jack the Ripper                 | [Link](https://twitter.com/Violet_g612/status/1284727481551839238?s=20)     |                          |
 | Jeanne d'Arc (Alter)            | [Link](https://twitter.com/myc_1228/status/1284848548891070465?s=20)        |                          |
 | Jeanne d'Arc (Alter, Berserker) | [Link](https://twitter.com/myc_1228/status/1285610898539896834?s=20)        | HWWO                     |
@@ -1518,7 +1518,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                 | [Link](https://twitter.com/buenabisutafgo/status/1283749941362356236?s=20)  | NoCE on DPS, Non NP       |
 |                                 | [Link](https://twitter.com/fgo38195272/status/1284112858351984640?s=20)     | NoCE on Supports, NoSwap  |
 | Beowulf                         | [Link](https://twitter.com/Hibari31/status/1283715939519758336?s=20)        |
-| Bunyan                          | [Link](https://twitter.com/756xyz/status/1283729629061120000?s=20)          |
+| Bunyan                          | [Link](https://twitter.com/756xyz/status/1283729629061120000?s=20)          | Not a complete clear, can be improved
 | Cu Chulainn (Alter)             | [Link](https://twitter.com/warfare_Holic/status/1283731607589761024?s=20)   |
 | Heracles                        | [Link](https://twitter.com/GenmaiPro/status/1283444658241069056?s=20)       |
 |                                 | [Link](https://twitter.com/fuwa_rai/status/1284084200191094784?s=20)        | noCE on DPS               |
