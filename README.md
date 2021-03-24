@@ -58,7 +58,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Saber Wars II (Rerun) - Main CQ](#saber-wars-ii-rerun---main-cq)
     - [Return to Kamakura - Little Big Tengu](#return-to-kamakura---little-big-tengu)
     - [Valentines 2021 - True Love](#valentines-2021---true-love)
-    - [Akihabara Explosion - Repair singularity to go home](#akihabara-explosion---repair-singularity-to-go-home)
+    - [Akihabara Explosion - Until it's time to go home, we'll be repairing Singularities](#akihabara-explosion---until-its-time-to-go-home-well-be-repairing-singularities)
 
 ## Story Bosses
 
@@ -2045,7 +2045,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                       | [Link](https://twitter.com/meteordive_FGO/status/1361627260411731972?s=20)  | Dual Core Junao                 |
 |                       | [Link](https://twitter.com/buenabisutafgo/status/1361664919897210881?s=21)  |
 
-### Akihabara Explosion - Repair singularity to go home
+### Akihabara Explosion - Until it's time to go home, we'll be repairing Singularities
 | DPS Used       | Link                                                                       | Remarks                       |
 | -------------- | -------------------------------------------------------------------------- | ----------------------------- |
 | Arjuna (Alter) | [Link](https://twitter.com/buenabisutafgo/status/1374801028034351104?s=20) | Triple Core with Penth and Wu |
