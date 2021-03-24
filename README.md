@@ -58,6 +58,7 @@ Note : I do not permit this repo to be shared on r/grandorder discord server.
     - [Saber Wars II (Rerun) - Main CQ](#saber-wars-ii-rerun---main-cq)
     - [Return to Kamakura - Little Big Tengu](#return-to-kamakura---little-big-tengu)
     - [Valentines 2021 - True Love](#valentines-2021---true-love)
+    - [Akihabara Explosion - Repair singularity to go home](#akihabara-explosion---repair-singularity-to-go-home)
 
 ## Story Bosses
 
@@ -234,7 +235,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Hokusai (Saber)                 | [Link](https://twitter.com/snowdroptree/status/1293440648066998273?s=20)    |
 | Ibaraki Douji                   | [Link](https://twitter.com/snowdroptree/status/1285239226062172167?s=20)    |                          |
 | Ishtar (Archer)                 | [Link](https://twitter.com/Gfnm1VRurkqSZxK/status/1285271366405505024?s=20) |                          |
-| Ishtar (Rider)                  | [Link](https://twitter.com/waiwaikigurumi/status/1285575949824610309?s=20)   |                          |
+| Ishtar (Rider)                  | [Link](https://twitter.com/waiwaikigurumi/status/1285575949824610309?s=20)  |                          |
 | Jack the Ripper                 | [Link](https://twitter.com/Violet_g612/status/1284727481551839238?s=20)     |                          |
 | Jeanne d'Arc (Alter)            | [Link](https://twitter.com/myc_1228/status/1284848548891070465?s=20)        |                          |
 | Jeanne d'Arc (Alter, Berserker) | [Link](https://twitter.com/myc_1228/status/1285610898539896834?s=20)        | HWWO                     |
@@ -1511,34 +1512,34 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 
 ### Main Interlude : SE.RA.PH CCC - Kingprotea Detour
 
-| DPS Used                        | Link                                                                        | Remarks                   |
-| ------------------------------- | --------------------------------------------------------------------------- | ------------------------- |
-| Arjuna Alter                    | [Link](https://twitter.com/SW87807148/status/1283379166058967040?s=20)      | Non NP                    |
-|                                 | [Link](https://twitter.com/fgo38195272/status/1283647171326119938?s=20)     | No CE on Supports, Non NP |
-|                                 | [Link](https://twitter.com/buenabisutafgo/status/1283749941362356236?s=20)  | NoCE on DPS, Non NP       |
-|                                 | [Link](https://twitter.com/fgo38195272/status/1284112858351984640?s=20)     | NoCE on Supports, NoSwap  |
+| DPS Used                        | Link                                                                        | Remarks                               |
+| ------------------------------- | --------------------------------------------------------------------------- | ------------------------------------- |
+| Arjuna Alter                    | [Link](https://twitter.com/SW87807148/status/1283379166058967040?s=20)      | Non NP                                |
+|                                 | [Link](https://twitter.com/fgo38195272/status/1283647171326119938?s=20)     | No CE on Supports, Non NP             |
+|                                 | [Link](https://twitter.com/buenabisutafgo/status/1283749941362356236?s=20)  | NoCE on DPS, Non NP                   |
+|                                 | [Link](https://twitter.com/fgo38195272/status/1284112858351984640?s=20)     | NoCE on Supports, NoSwap              |
 | Beowulf                         | [Link](https://twitter.com/Hibari31/status/1283715939519758336?s=20)        |
-| Bunyan                          | [Link](https://twitter.com/756xyz/status/1283729629061120000?s=20)          | Not a complete clear, can be improved
+| Bunyan                          | [Link](https://twitter.com/756xyz/status/1283729629061120000?s=20)          | Not a complete clear, can be improved |
 | Cu Chulainn (Alter)             | [Link](https://twitter.com/warfare_Holic/status/1283731607589761024?s=20)   |
 | Heracles                        | [Link](https://twitter.com/GenmaiPro/status/1283444658241069056?s=20)       |
-|                                 | [Link](https://twitter.com/fuwa_rai/status/1284084200191094784?s=20)        | noCE on DPS               |
+|                                 | [Link](https://twitter.com/fuwa_rai/status/1284084200191094784?s=20)        | noCE on DPS                           |
 | Hijikata                        | [Link](https://twitter.com/Aloha258_master/status/1283414466571329537?s=20) |
 | Ibaraki (Berserker)             | [Link](https://twitter.com/shuten1341/status/1283392834150608897?s=20)      |
 | Jeanne d'Arc (Alter, Berserker) | [Link](https://twitter.com/Miyabi_fgo_/status/1283630047513866241?s=20)     |
 | Kama                            | [Link](https://twitter.com/meteordive_FGO/status/1283411142572793856?s=20)  |
 | Kintoki (Berserker)             | [Link](https://twitter.com/WacBook/status/1283752232979054592?s=20)         |
-| Lancelot (Berserker)            | [Link](https://twitter.com/nmnppp/status/1283406936898072576?s=20)          | Non NP                    |
+| Lancelot (Berserker)            | [Link](https://twitter.com/nmnppp/status/1283406936898072576?s=20)          | Non NP                                |
 | Martha (Ruler)                  | [Link](https://twitter.com/otkznr/status/1283440000659419137?s=20)          |
 | MHXA                            | [Link](https://www.youtube.com/watch?v=ROyYKxg0xuk&feature=youtu.be)        |
 | Musashi (Berserker)             | [Link](https://twitter.com/ShotkAnime/status/1283507509748133889?s=20)      |
 | Oda Nobunaga (Berserker)        | [Link](https://twitter.com/snowdroptree/status/1283359589375725570?s=20)    |
-| Orion (Superhuman)              | [Link](https://twitter.com/buenabisutafgo/status/1283444785823404032?s=20)  | Non NP                    |
+| Orion (Superhuman)              | [Link](https://twitter.com/buenabisutafgo/status/1283444785823404032?s=20)  | Non NP                                |
 | Ozymandias                      | [Link](https://twitter.com/yurNOR_fusion/status/1283699266435735553?s=20)   |
 | Raikou (Berserker)              | [Link](https://twitter.com/niflheimr413413/status/1283395953139961856?s=20) |
-|                                 | [Link](https://twitter.com/neo_lex0403/status/1283776479382220800?s=20)     | NoSwap, Non NP            |
+|                                 | [Link](https://twitter.com/neo_lex0403/status/1283776479382220800?s=20)     | NoSwap, Non NP                        |
 | Scathach                        | [Link](https://twitter.com/gameover_fate/status/1283362240251351040?s=20)   |
-| Xiang Yu                        | [Link](https://twitter.com/mgmg3939pnd/status/1283398554547965952?s=20)     | Non NP                    |
-|                                 | [Link](https://twitter.com/Kag_Tam/status/1283406245827719168?s=20)         | NoCE, Non NP              |
+| Xiang Yu                        | [Link](https://twitter.com/mgmg3939pnd/status/1283398554547965952?s=20)     | Non NP                                |
+|                                 | [Link](https://twitter.com/Kag_Tam/status/1283406245827719168?s=20)         | NoCE, Non NP                          |
 
 ### Tokugawa Kaiten Labyrinth - Ooku (Rerun) : Main CQ
 
@@ -2044,6 +2045,10 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                       | [Link](https://twitter.com/meteordive_FGO/status/1361627260411731972?s=20)  | Dual Core Junao                 |
 |                       | [Link](https://twitter.com/buenabisutafgo/status/1361664919897210881?s=21)  |
 
+### Akihabara Explosion - Repair singularity to go home
+| DPS Used       | Link                                                                       | Remarks                       |
+| -------------- | -------------------------------------------------------------------------- | ----------------------------- |
+| Arjuna (Alter) | [Link](https://twitter.com/buenabisutafgo/status/1374801028034351104?s=20) | Triple Core with Penth and Wu |
 
 - All videos linked in this repo are the properties of their owners.
 - Fate/Grand Order is Copyright Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. All images and names owned and trademarked by Aniplex Inc., DELiGHTWORKS, Aniplex of America and Sony Music Entertainment (Japan) Inc. are property of their respective owners.
