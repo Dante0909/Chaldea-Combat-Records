@@ -2048,6 +2048,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 ### Akihabara Explosion - Until it's time to go home, we'll be repairing Singularities
 | DPS Used                   | Link                                                                        | Remarks                                            |
 | -------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------- |
+| Anastasia                  | [Link](https://twitter.com/ebichiri01417/status/1375024205486387202?s=20)   | Kama, Xiang Yu                                     |
 | Arjuna (Alter)             | [Link](https://twitter.com/buenabisutafgo/status/1374801028034351104?s=20)  | Triple Core with Penth and Wu                      |
 | Kiara Sesshoin (Alter-Ego) | [Link](https://www.youtube.com/watch?v=gYRrRVHPizg)                         | Triple Core, Douman and Salome curse amplification |
 | Lancelot (Berserker)       | [Link](https://twitter.com/snowdroptree/status/1374987468659859464?s=20)    | Oda dual core                                      |
@@ -2056,6 +2057,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                            | [Link](https://twitter.com/ODk4rWLmNtaDMpA/status/1374932842627522561?s=20) | Similar to above                                   |
 |                            | [Link](https://twitter.com/myc_1228/status/1374930317119660032?s=20)        | Similar to above                                   |
 | Senji Muramasa             | [Link](https://youtu.be/feZhaXmo-Mo)                                        | Triple Core with Junao and Kintoki                 |
+| Multiple Core              | [Link](https://twitter.com/hoge_coo/status/1375017111249166338?s=20)        | Musashi, Fran, Douman, Ibaraki                     |
 
 
 - All videos linked in this repo are the properties of their owners.
