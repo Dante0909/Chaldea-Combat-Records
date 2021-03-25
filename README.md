@@ -2051,6 +2051,8 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Anastasia                  | [Link](https://twitter.com/ebichiri01417/status/1375024205486387202?s=20)   | Kama, Xiang Yu                                     |
 | Arjuna (Alter)             | [Link](https://twitter.com/buenabisutafgo/status/1374801028034351104?s=20)  | Triple Core with Penth and Wu                      |
 |                            | [Link](https://twitter.com/hiduka01/status/1375098541668855821?s=20)        | Dual Core, Penth                                   |
+|                            | [Link](https://twitter.com/torikawaTA/status/1375116593424785413?s=20)      | Dual Core, Oda                                     |
+| Ishtar (Archer)            | [Link](https://twitter.com/waiwaikigurumi/status/1375115863401979911?s=20)  | Dual Core with Oda                                 |
 | Kiara Sesshoin (Alter-Ego) | [Link](https://www.youtube.com/watch?v=gYRrRVHPizg)                         | Triple Core, Douman and Salome curse amplification |
 | Lancelot (Berserker)       | [Link](https://twitter.com/snowdroptree/status/1374987468659859464?s=20)    | Oda dual core                                      |
 | Musashi (Berserker)        | [Link](https://twitter.com/KUR_NU_GI_A/status/1374852679055241218?s=20)     | Triple Core with Cu and Bryn                       |
