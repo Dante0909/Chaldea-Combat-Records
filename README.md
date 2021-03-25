@@ -2059,6 +2059,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                            | [Link](https://twitter.com/1syuten2syefi/status/1374854132498984968?s=20)   | Triple Core with Penth and Wu                      |
 |                            | [Link](https://twitter.com/ODk4rWLmNtaDMpA/status/1374932842627522561?s=20) | Similar to above                                   |
 |                            | [Link](https://twitter.com/myc_1228/status/1374930317119660032?s=20)        | Similar to above                                   |
+| Oda Nobunaga (Maou)        | [Link](https://twitter.com/OrGOrG_FGO/status/1375135007488929794?s=20)      | Oda Dual Core, No Swap, Event CE on DPS, *         |
 | Senji Muramasa             | [Link](https://youtu.be/feZhaXmo-Mo)                                        | Triple Core with Junao and Kintoki                 |
 | Multiple Core              | [Link](https://twitter.com/hoge_coo/status/1375017111249166338?s=20)        | Musashi, Fran, Douman, Ibaraki                     |
 
