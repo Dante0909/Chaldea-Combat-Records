@@ -2046,22 +2046,24 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                       | [Link](https://twitter.com/buenabisutafgo/status/1361664919897210881?s=21)  |
 
 ### Akihabara Explosion - Until it's time to go home, we'll be repairing Singularities
-| DPS Used                   | Link                                                                        | Remarks                                            |
-| -------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------- |
-| Anastasia                  | [Link](https://twitter.com/ebichiri01417/status/1375024205486387202?s=20)   | Kama, Xiang Yu                                     |
-| Arjuna (Alter)             | [Link](https://twitter.com/buenabisutafgo/status/1374801028034351104?s=20)  | Triple Core with Penth and Wu                      |
-|                            | [Link](https://twitter.com/hiduka01/status/1375098541668855821?s=20)        | Dual Core, Penth                                   |
-|                            | [Link](https://twitter.com/torikawaTA/status/1375116593424785413?s=20)      | Dual Core, Oda                                     |
-| Ishtar (Archer)            | [Link](https://twitter.com/waiwaikigurumi/status/1375115863401979911?s=20)  | Dual Core with Oda                                 |
-| Kiara Sesshoin (Alter-Ego) | [Link](https://www.youtube.com/watch?v=gYRrRVHPizg)                         | Triple Core, Douman and Salome curse amplification |
-| Lancelot (Berserker)       | [Link](https://twitter.com/snowdroptree/status/1374987468659859464?s=20)    | Oda dual core                                      |
-| Musashi (Berserker)        | [Link](https://twitter.com/KUR_NU_GI_A/status/1374852679055241218?s=20)     | Triple Core with Cu and Bryn                       |
-|                            | [Link](https://twitter.com/1syuten2syefi/status/1374854132498984968?s=20)   | Triple Core with Penth and Wu                      |
-|                            | [Link](https://twitter.com/ODk4rWLmNtaDMpA/status/1374932842627522561?s=20) | Similar to above                                   |
-|                            | [Link](https://twitter.com/myc_1228/status/1374930317119660032?s=20)        | Similar to above                                   |
-| Oda Nobunaga (Maou)        | [Link](https://twitter.com/OrGOrG_FGO/status/1375135007488929794?s=20)      | Oda Dual Core, No Swap, Event CE on DPS, *         |
-| Senji Muramasa             | [Link](https://youtu.be/feZhaXmo-Mo)                                        | Triple Core with Junao and Kintoki                 |
-| Multiple Core              | [Link](https://twitter.com/hoge_coo/status/1375017111249166338?s=20)        | Musashi, Fran, Douman, Ibaraki                     |
+| DPS Used                   | Link                                                                        | Remarks                                                |
+| -------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------ |
+| Anastasia                  | [Link](https://twitter.com/ebichiri01417/status/1375024205486387202?s=20)   | Kama, Xiang Yu                                         |
+| Arjuna (Alter)             | [Link](https://twitter.com/buenabisutafgo/status/1374801028034351104?s=20)  | Triple Core with Penth and Wu                          |
+|                            | [Link](https://twitter.com/hiduka01/status/1375098541668855821?s=20)        | Dual Core, Penth                                       |
+|                            | [Link](https://twitter.com/torikawaTA/status/1375116593424785413?s=20)      | Dual Core, Oda                                         |
+| Douman                     | [Link](https://twitter.com/Bbci_f/status/1375404686757351424?s=20)          | NoSwap, Triple Core with himself and Kama, No Swap, ** |
+| Ishtar (Archer)            | [Link](https://twitter.com/waiwaikigurumi/status/1375115863401979911?s=20)  | Dual Core with Oda                                     |
+| Kiara Sesshoin (Alter-Ego) | [Link](https://www.youtube.com/watch?v=gYRrRVHPizg)                         | Triple Core, Douman and Salome curse amplification     |
+| Lancelot (Berserker)       | [Link](https://twitter.com/snowdroptree/status/1374987468659859464?s=20)    | Oda dual core                                          |
+| Musashi (Berserker)        | [Link](https://twitter.com/KUR_NU_GI_A/status/1374852679055241218?s=20)     | Triple Core with Cu and Bryn                           |
+|                            | [Link](https://twitter.com/1syuten2syefi/status/1374854132498984968?s=20)   | Triple Core with Penth and Wu                          |
+|                            | [Link](https://twitter.com/ODk4rWLmNtaDMpA/status/1374932842627522561?s=20) | Similar to above                                       |
+|                            | [Link](https://twitter.com/myc_1228/status/1374930317119660032?s=20)        | Similar to above                                       |
+| Oda Nobunaga (Maou)        | [Link](https://twitter.com/OrGOrG_FGO/status/1375135007488929794?s=20)      | Oda Dual Core, No Swap, Event CE on DPS, *             |
+| Raikou                     | [Link](https://twitter.com/keichan2273Frog/status/1375368075508244484?s=20) | Dual Core Kama                                         |
+| Senji Muramasa             | [Link](https://youtu.be/feZhaXmo-Mo)                                        | Triple Core with Junao and Kintoki                     |
+| Multiple Core              | [Link](https://twitter.com/hoge_coo/status/1375017111249166338?s=20)        | Musashi, Fran, Douman, Ibaraki                         |
 
 
 - All videos linked in this repo are the properties of their owners.
