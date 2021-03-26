@@ -2053,6 +2053,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Arjuna (Alter)             | [Link](https://twitter.com/buenabisutafgo/status/1374801028034351104?s=20)  | Triple Core with Penth and Wu                          |
 |                            | [Link](https://twitter.com/hiduka01/status/1375098541668855821?s=20)        | Dual Core, Penth                                       |
 |                            | [Link](https://twitter.com/torikawaTA/status/1375116593424785413?s=20)      | Dual Core, Oda                                         |
+|                            | [Link](https://twitter.com/hiduka01/status/1375424295803887620?s=20)        | Dual Core Oda, No Swap, **                             |
 | Douman                     | [Link](https://twitter.com/Bbci_f/status/1375404686757351424?s=20)          | NoSwap, Triple Core with himself and Kama, No Swap, ** |
 | Ishtar (Archer)            | [Link](https://twitter.com/waiwaikigurumi/status/1375115863401979911?s=20)  | Dual Core with Oda                                     |
 | Jeanne d'Arc (Archer)      | [Link](https://twitter.com/myc_1228/status/1375457512351100929?s=20)        | Dual Core Oda                                          |
