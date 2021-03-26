@@ -2048,6 +2048,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 ### Akihabara Explosion - Until it's time to go home, we'll be repairing Singularities
 | DPS Used                   | Link                                                                        | Remarks                                                |
 | -------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------ |
+| Astarte                    | [Link](https://www.bilibili.com/video/BV1fK4y1T79n?share_source=copy_web)   | Single Core                                            |
 | Anastasia                  | [Link](https://twitter.com/ebichiri01417/status/1375024205486387202?s=20)   | Kama, Xiang Yu                                         |
 | Arjuna (Alter)             | [Link](https://twitter.com/buenabisutafgo/status/1374801028034351104?s=20)  | Triple Core with Penth and Wu                          |
 |                            | [Link](https://twitter.com/hiduka01/status/1375098541668855821?s=20)        | Dual Core, Penth                                       |
