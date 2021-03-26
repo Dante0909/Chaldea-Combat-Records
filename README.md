@@ -2055,7 +2055,9 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                            | [Link](https://twitter.com/torikawaTA/status/1375116593424785413?s=20)      | Dual Core, Oda                                         |
 | Douman                     | [Link](https://twitter.com/Bbci_f/status/1375404686757351424?s=20)          | NoSwap, Triple Core with himself and Kama, No Swap, ** |
 | Ishtar (Archer)            | [Link](https://twitter.com/waiwaikigurumi/status/1375115863401979911?s=20)  | Dual Core with Oda                                     |
+| Jeanne d'Arc (Archer)      | [Link](https://twitter.com/myc_1228/status/1375457512351100929?s=20)        | Dual Core Oda                                          |
 | Kiara Sesshoin (Alter-Ego) | [Link](https://www.youtube.com/watch?v=gYRrRVHPizg)                         | Triple Core, Douman and Salome curse amplification     |
+|                            | [Link](https://twitter.com/NuuuuuN0704/status/1375454528149987335?s=20)     | Dual Core Kama                                         |
 | Lancelot (Berserker)       | [Link](https://twitter.com/snowdroptree/status/1374987468659859464?s=20)    | Oda dual core                                          |
 | Musashi (Berserker)        | [Link](https://twitter.com/KUR_NU_GI_A/status/1374852679055241218?s=20)     | Triple Core with Cu and Bryn                           |
 |                            | [Link](https://twitter.com/1syuten2syefi/status/1374854132498984968?s=20)   | Triple Core with Penth and Wu                          |
