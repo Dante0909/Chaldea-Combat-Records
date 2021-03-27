@@ -2072,6 +2072,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Oda Nobunaga (Maou)        | [Link](https://twitter.com/OrGOrG_FGO/status/1375135007488929794?s=20)      | Oda Dual Core, No Swap, Event CE on DPS, *             |
 | Raikou                     | [Link](https://twitter.com/keichan2273Frog/status/1375368075508244484?s=20) | Dual Core Kama                                         |
 | Senji Muramasa             | [Link](https://youtu.be/feZhaXmo-Mo)                                        | Triple Core with Junao and Kintoki                     |
+| Shuten Douji (Assassin)    | [Link](https://twitter.com/1syuten2syefi/status/1375765528048885760?s=20)   | Dual Core Penth                                        |
 | Multiple Core              | [Link](https://twitter.com/hoge_coo/status/1375017111249166338?s=20)        | Musashi, Fran, Douman, Ibaraki                         |
 |                            | [Link](https://twitter.com/SedgeHat/status/1375744553043456002?s=20)        | Jokita, Yu, Wu, Musashi                                |
 
