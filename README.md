@@ -2055,7 +2055,9 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                            | [Link](https://twitter.com/hiduka01/status/1375098541668855821?s=20)        | Dual Core, Penth                                       |
 |                            | [Link](https://twitter.com/torikawaTA/status/1375116593424785413?s=20)      | Dual Core, Oda                                         |
 |                            | [Link](https://twitter.com/hiduka01/status/1375424295803887620?s=20)        | Dual Core Oda, No Swap, **                             |
+|                            | [Link](https://twitter.com/buenabisutafgo/status/1375787910104981512)       | 35 cost, Caligula                                      |
 | Douman                     | [Link](https://twitter.com/Bbci_f/status/1375404686757351424?s=20)          | NoSwap, Triple Core with himself and Kama, No Swap, ** |
+|                            | [Link](https://twitter.com/SwoRa_Kento/status/1375794940035231746?s=20)     | Triple Core Salome Curse Amplification                 |
 | Ishtar (Archer)            | [Link](https://twitter.com/waiwaikigurumi/status/1375115863401979911?s=20)  | Dual Core with Oda                                     |
 | Jeanne d'Arc (Archer)      | [Link](https://twitter.com/myc_1228/status/1375457512351100929?s=20)        | Dual Core Oda                                          |
 | Kiara Sesshoin (Alter-Ego) | [Link](https://www.youtube.com/watch?v=gYRrRVHPizg)                         | Triple Core, Douman and Salome curse amplification     |
