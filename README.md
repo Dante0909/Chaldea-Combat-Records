@@ -2061,6 +2061,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                            | [Link](https://twitter.com/NuuuuuN0704/status/1375454528149987335?s=20)     | Dual Core Kama                                         |
 | Lancelot (Berserker)       | [Link](https://twitter.com/snowdroptree/status/1374987468659859464?s=20)    | Oda Dual Core                                          |
 | Meltryllis (Lancer)        | [Link](https://twitter.com/myc_1228/status/1375592427831009282?s=20)        | Oda Dual Core                                          |
+|                            | [Link](https://twitter.com/Yuri_duelist/status/1375740963671351299?s=20)    | Triple Core with Passionlip and herself                |
 | Musashi (Berserker)        | [Link](https://twitter.com/KUR_NU_GI_A/status/1374852679055241218?s=20)     | Triple Core with Cu and Bryn                           |
 |                            | [Link](https://twitter.com/1syuten2syefi/status/1374854132498984968?s=20)   | Triple Core with Penth and Wu                          |
 |                            | [Link](https://twitter.com/ODk4rWLmNtaDMpA/status/1374932842627522561?s=20) | Similar to above                                       |
