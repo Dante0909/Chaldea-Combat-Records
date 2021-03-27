@@ -2070,6 +2070,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Raikou                     | [Link](https://twitter.com/keichan2273Frog/status/1375368075508244484?s=20) | Dual Core Kama                                         |
 | Senji Muramasa             | [Link](https://youtu.be/feZhaXmo-Mo)                                        | Triple Core with Junao and Kintoki                     |
 | Multiple Core              | [Link](https://twitter.com/hoge_coo/status/1375017111249166338?s=20)        | Musashi, Fran, Douman, Ibaraki                         |
+|                            | [Link](https://twitter.com/SedgeHat/status/1375744553043456002?s=20)        | Jokita, Yu, Wu, Musashi                                |
 
 
 - All videos linked in this repo are the properties of their owners.
