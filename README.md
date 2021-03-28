@@ -2048,7 +2048,6 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 ### Akihabara Explosion - Until it's time to go home, we'll be repairing Singularities
 | DPS Used                   | Link                                                                        | Remarks                                                |
 | -------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------ |
-| Astarte                    | [Link](https://www.bilibili.com/video/BV1fK4y1T79n?share_source=copy_web)   | Single Core                                            |
 | Anastasia                  | [Link](https://twitter.com/ebichiri01417/status/1375024205486387202?s=20)   | Kama, Xiang Yu                                         |
 | Arjuna                     | [Link](https://twitter.com/torikawaTA/status/1375730592088645636?s=20)      | Dual Core Oda                                          |
 | Arjuna (Alter)             | [Link](https://twitter.com/buenabisutafgo/status/1374801028034351104?s=20)  | Triple Core with Penth and Wu                          |
@@ -2056,9 +2055,12 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                            | [Link](https://twitter.com/torikawaTA/status/1375116593424785413?s=20)      | Dual Core, Oda                                         |
 |                            | [Link](https://twitter.com/hiduka01/status/1375424295803887620?s=20)        | Dual Core Oda, No Swap, **                             |
 |                            | [Link](https://twitter.com/buenabisutafgo/status/1375787910104981512)       | 35 cost, Caligula                                      |
+| Astarte                    | [Link](https://www.bilibili.com/video/BV1fK4y1T79n?share_source=copy_web)   | Single Core                                            |
+|                            | [Link](https://twitter.com/pooooh_lunatic/status/1376150503562702850?s=20)  | NoSwap, Kintoki Dual Core, Event CE                    |
 | Douman                     | [Link](https://twitter.com/Bbci_f/status/1375404686757351424?s=20)          | NoSwap, Triple Core with himself and Kama, No Swap, ** |
 |                            | [Link](https://twitter.com/SwoRa_Kento/status/1375794940035231746?s=20)     | Triple Core Salome Curse Amplification                 |
 | Ishtar (Archer)            | [Link](https://twitter.com/waiwaikigurumi/status/1375115863401979911?s=20)  | Dual Core with Oda                                     |
+|                            | [Link](https://twitter.com/waiwaikigurumi/status/1376156284794200075?s=20)  | NoSwap, Oda Dual Core                                  |
 | Jeanne d'Arc (Archer)      | [Link](https://twitter.com/myc_1228/status/1375457512351100929?s=20)        | Dual Core Oda                                          |
 | Kiara Sesshoin (Alter-Ego) | [Link](https://www.youtube.com/watch?v=gYRrRVHPizg)                         | Triple Core, Douman and Salome curse amplification     |
 |                            | [Link](https://twitter.com/NuuuuuN0704/status/1375454528149987335?s=20)     | Dual Core Kama                                         |
@@ -2072,6 +2074,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Oda Nobunaga (Maou)        | [Link](https://twitter.com/OrGOrG_FGO/status/1375135007488929794?s=20)      | Oda Dual Core, No Swap, Event CE on DPS, *             |
 | Raikou                     | [Link](https://twitter.com/keichan2273Frog/status/1375368075508244484?s=20) | Dual Core Kama                                         |
 | Senji Muramasa             | [Link](https://youtu.be/feZhaXmo-Mo)                                        | Triple Core with Junao and Kintoki                     |
+|                            | [Link](https://twitter.com/hiduka01/status/1376090400457248769)             | Dual Core Oda, NoSwap, Event CE                        |
 | Shuten Douji (Assassin)    | [Link](https://twitter.com/1syuten2syefi/status/1375765528048885760?s=20)   | Dual Core Penth                                        |
 | Sitonai                    | [Link](https://twitter.com/snowdroptree/status/1376034593166434305?s=20)    | Solo                                                   |
 | Multiple Core              | [Link](https://twitter.com/hoge_coo/status/1375017111249166338?s=20)        | Musashi, Fran, Douman, Ibaraki                         |
