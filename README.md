@@ -2057,6 +2057,8 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                            | [Link](https://twitter.com/buenabisutafgo/status/1375787910104981512)       | 35 cost, Caligula                                      |
 | Astarte                    | [Link](https://www.bilibili.com/video/BV1fK4y1T79n?share_source=copy_web)   | Single Core                                            |
 |                            | [Link](https://twitter.com/pooooh_lunatic/status/1376150503562702850?s=20)  | NoSwap, Kintoki Dual Core, Event CE                    |
+| Caren                      | [Link](https://twitter.com/Chihiro1000/status/1376093573645398017?s=20)     | Triple Core Beo and Penth                              |
+| Chacha                     | [Link](https://twitter.com/snowdroptree/status/1376065506550018049?s=20)    | Dual Core Oda, Event CE                                |
 | Douman                     | [Link](https://twitter.com/Bbci_f/status/1375404686757351424?s=20)          | NoSwap, Triple Core with himself and Kama, No Swap, ** |
 |                            | [Link](https://twitter.com/SwoRa_Kento/status/1375794940035231746?s=20)     | Triple Core Salome Curse Amplification                 |
 | Ishtar (Archer)            | [Link](https://twitter.com/waiwaikigurumi/status/1375115863401979911?s=20)  | Dual Core with Oda                                     |
