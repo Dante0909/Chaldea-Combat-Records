@@ -2073,6 +2073,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Raikou                     | [Link](https://twitter.com/keichan2273Frog/status/1375368075508244484?s=20) | Dual Core Kama                                         |
 | Senji Muramasa             | [Link](https://youtu.be/feZhaXmo-Mo)                                        | Triple Core with Junao and Kintoki                     |
 | Shuten Douji (Assassin)    | [Link](https://twitter.com/1syuten2syefi/status/1375765528048885760?s=20)   | Dual Core Penth                                        |
+| Sitonai                    | [Link](https://twitter.com/snowdroptree/status/1376034593166434305?s=20)    | Solo                                                   |
 | Multiple Core              | [Link](https://twitter.com/hoge_coo/status/1375017111249166338?s=20)        | Musashi, Fran, Douman, Ibaraki                         |
 |                            | [Link](https://twitter.com/SedgeHat/status/1375744553043456002?s=20)        | Jokita, Yu, Wu, Musashi                                |
 
