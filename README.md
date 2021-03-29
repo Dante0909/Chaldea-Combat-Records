@@ -2061,6 +2061,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Astarte                    | [Link](https://www.bilibili.com/video/BV1fK4y1T79n?share_source=copy_web)   | Single Core                                            |
 |                            | [Link](https://twitter.com/pooooh_lunatic/status/1376150503562702850?s=20)  | NoSwap, Kintoki Dual Core, Event CE                    |
 | Brynhildr (Berserker)      | [Link](https://twitter.com/shortcut588/status/1375884337229402113?s=20)     | Dual Core Oda                                          |
+|                            | [Link](https://twitter.com/shortcut588/status/1376598266515652611?s=20)     | Dual Core Oda, NoSwap, Event CE                        |
 | Caren                      | [Link](https://twitter.com/Chihiro1000/status/1376093573645398017?s=20)     | Triple Core Beo and Penth                              |
 | Chacha                     | [Link](https://twitter.com/snowdroptree/status/1376065506550018049?s=20)    | Dual Core Oda, Event CE                                |
 | Douman                     | [Link](https://twitter.com/Bbci_f/status/1375404686757351424?s=20)          | NoSwap, Triple Core with himself and Kama, No Swap, ** |
