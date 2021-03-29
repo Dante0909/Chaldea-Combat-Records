@@ -2086,6 +2086,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Oda Nobunaga (Berserker)   | [Link](https://twitter.com/fuwa_rai/status/1376520481369595918?s=20)        | ST TA, Self Dual Core                                  |
 | Oda Nobunaga (Maou)        | [Link](https://twitter.com/OrGOrG_FGO/status/1375135007488929794?s=20)      | Oda Dual Core, No Swap, Event CE on DPS, *             |
 | Raikou                     | [Link](https://twitter.com/keichan2273Frog/status/1375368075508244484?s=20) | Dual Core Kama                                         |
+|                            | [Link](https://twitter.com/snowdroptree/status/1376655771149082626?s=20)    | NoSwap, Dual Core Oda                                  |
 | Romulus=Qurinus            | [Link](https://twitter.com/fuwa_rai/status/1376324884964372481?s=20)        | Herc Dual Core                                         |
 |                            | [Link](http://b23.tv/Hp39MO)                                                | NoSwap, Astraea Bride Triple Core, **                  |
 | Senji Muramasa             | [Link](https://youtu.be/feZhaXmo-Mo)                                        | Triple Core with Junao and Kintoki                     |
