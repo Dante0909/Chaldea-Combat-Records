@@ -2057,6 +2057,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                            | [Link](https://twitter.com/torikawaTA/status/1375116593424785413?s=20)      | Dual Core, Oda                                         |
 |                            | [Link](https://twitter.com/hiduka01/status/1375424295803887620?s=20)        | Dual Core Oda, No Swap, **                             |
 |                            | [Link](https://twitter.com/buenabisutafgo/status/1375787910104981512)       | 35 cost, Caligula                                      |
+|                            | [Link](https://twitter.com/maron_roron/status/1376587505969946626?s=20)     | 16 cost, Bunyan, **                                    |
 | Astarte                    | [Link](https://www.bilibili.com/video/BV1fK4y1T79n?share_source=copy_web)   | Single Core                                            |
 |                            | [Link](https://twitter.com/pooooh_lunatic/status/1376150503562702850?s=20)  | NoSwap, Kintoki Dual Core, Event CE                    |
 | Brynhildr (Berserker)      | [Link](https://twitter.com/shortcut588/status/1375884337229402113?s=20)     | Dual Core Oda                                          |
