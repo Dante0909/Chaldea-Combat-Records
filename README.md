@@ -2046,56 +2046,60 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                       | [Link](https://twitter.com/buenabisutafgo/status/1361664919897210881?s=21)  |
 
 ### Akihabara Explosion - Until it's time to go home, we'll be repairing Singularities
-| DPS Used                   | Link                                                                        | Remarks                                                |
-| -------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------ |
-| Altera (Saber)             | [Link](https://twitter.com/shortcut588/status/1376185200573444098?s=20)     | Triple Core sBB and Penth                              |
-| Anastasia                  | [Link](https://twitter.com/ebichiri01417/status/1375024205486387202?s=20)   | Kama, Xiang Yu                                         |
-| Arturia Pendragon (Ruler)  | [Link](https://twitter.com/Aloha258_master/status/1376370836668489731?s=20) | Triple Core Luvia and Himiko                           |
-| Arjuna                     | [Link](https://twitter.com/torikawaTA/status/1375730592088645636?s=20)      | Dual Core Oda                                          |
-| Arjuna (Alter)             | [Link](https://twitter.com/buenabisutafgo/status/1374801028034351104?s=20)  | Triple Core with Penth and Wu                          |
-|                            | [Link](https://twitter.com/hiduka01/status/1375098541668855821?s=20)        | Dual Core, Penth                                       |
-|                            | [Link](https://twitter.com/torikawaTA/status/1375116593424785413?s=20)      | Dual Core, Oda                                         |
-|                            | [Link](https://twitter.com/hiduka01/status/1375424295803887620?s=20)        | Dual Core Oda, No Swap, **                             |
-|                            | [Link](https://twitter.com/buenabisutafgo/status/1375787910104981512)       | 35 cost, Caligula                                      |
-|                            | [Link](https://twitter.com/maron_roron/status/1376587505969946626?s=20)     | 16 cost, Bunyan, **                                    |
-| Astarte                    | [Link](https://www.bilibili.com/video/BV1fK4y1T79n?share_source=copy_web)   | Single Core                                            |
-|                            | [Link](https://twitter.com/pooooh_lunatic/status/1376150503562702850?s=20)  | NoSwap, Kintoki Dual Core, Event CE                    |
-| Brynhildr (Berserker)      | [Link](https://twitter.com/shortcut588/status/1375884337229402113?s=20)     | Dual Core Oda                                          |
-|                            | [Link](https://twitter.com/shortcut588/status/1376598266515652611?s=20)     | Dual Core Oda, NoSwap, Event CE                        |
-| Caren                      | [Link](https://twitter.com/Chihiro1000/status/1376093573645398017?s=20)     | Triple Core Beo and Penth                              |
-| Chacha                     | [Link](https://twitter.com/snowdroptree/status/1376065506550018049?s=20)    | Dual Core Oda, Event CE                                |
-| Douman                     | [Link](https://twitter.com/Bbci_f/status/1375404686757351424?s=20)          | NoSwap, Triple Core with himself and Kama, No Swap, ** |
-|                            | [Link](https://twitter.com/SwoRa_Kento/status/1375794940035231746?s=20)     | Triple Core Salome Curse Amplification                 |
-| Enkidu                     | [Link](https://twitter.com/bulsoo_dd/status/1376199409969459205?s=20)       | Solo                                                   |
-| Ereshkigal                 | [Link](https://twitter.com/waiwaikigurumi/status/1376528179192492033?s=20)  | Triple Core, sBB and Penth, Event CE                   |
-| Fran (Berserker)           | [Link](https://twitter.com/ebichiri01417/status/1376211164519141377?s=20)   | Ibaraki Dual Core                                      |
-| Ishtar (Archer)            | [Link](https://twitter.com/waiwaikigurumi/status/1375115863401979911?s=20)  | Dual Core with Oda                                     |
-|                            | [Link](https://twitter.com/waiwaikigurumi/status/1376156284794200075?s=20)  | NoSwap, Oda Dual Core                                  |
-| Jeanne d'Arc (Archer)      | [Link](https://twitter.com/myc_1228/status/1375457512351100929?s=20)        | Dual Core Oda                                          |
-| Kiara Sesshoin (Alter-Ego) | [Link](https://www.youtube.com/watch?v=gYRrRVHPizg)                         | Triple Core, Douman and Salome curse amplification     |
-|                            | [Link](https://twitter.com/NuuuuuN0704/status/1375454528149987335?s=20)     | Dual Core Kama                                         |
-| Lancelot (Berserker)       | [Link](https://twitter.com/snowdroptree/status/1374987468659859464?s=20)    | Oda Dual Core                                          |
-| Meltryllis (Lancer)        | [Link](https://twitter.com/myc_1228/status/1375592427831009282?s=20)        | Oda Dual Core                                          |
-|                            | [Link](https://twitter.com/Yuri_duelist/status/1375740963671351299?s=20)    | Triple Core with Passionlip and herself                |
-| Merlin                     | [Link](https://twitter.com/bulsoo_dd/status/1376076517264871426?s=20)       | Solo                                                   |
-| Mordred (Saber)            | [Link](https://twitter.com/Hello_Anthem/status/1376336423343681539?s=20)    | Galatea Dual Core                                      |
-| Musashi (Berserker)        | [Link](https://twitter.com/KUR_NU_GI_A/status/1374852679055241218?s=20)     | Triple Core with Cu and Bryn                           |
-|                            | [Link](https://twitter.com/1syuten2syefi/status/1374854132498984968?s=20)   | Triple Core with Penth and Wu                          |
-|                            | [Link](https://twitter.com/ODk4rWLmNtaDMpA/status/1374932842627522561?s=20) | Similar to above                                       |
-|                            | [Link](https://twitter.com/myc_1228/status/1374930317119660032?s=20)        | Similar to above                                       |
-| Oda Nobunaga (Berserker)   | [Link](https://twitter.com/fuwa_rai/status/1376520481369595918?s=20)        | ST TA, Self Dual Core                                  |
-| Oda Nobunaga (Maou)        | [Link](https://twitter.com/OrGOrG_FGO/status/1375135007488929794?s=20)      | Oda Dual Core, No Swap, Event CE on DPS, *             |
-| Raikou                     | [Link](https://twitter.com/keichan2273Frog/status/1375368075508244484?s=20) | Dual Core Kama                                         |
-|                            | [Link](https://twitter.com/snowdroptree/status/1376655771149082626?s=20)    | NoSwap, Dual Core Oda                                  |
-| Romulus=Qurinus            | [Link](https://twitter.com/fuwa_rai/status/1376324884964372481?s=20)        | Herc Dual Core                                         |
-|                            | [Link](http://b23.tv/Hp39MO)                                                | NoSwap, Astraea Bride Triple Core, **                  |
-| Senji Muramasa             | [Link](https://youtu.be/feZhaXmo-Mo)                                        | Triple Core with Junao and Kintoki                     |
-|                            | [Link](https://twitter.com/hiduka01/status/1376090400457248769)             | Dual Core Oda, NoSwap, Event CE                        |
-| Shuten Douji (Assassin)    | [Link](https://twitter.com/1syuten2syefi/status/1375765528048885760?s=20)   | Dual Core Penth                                        |
-| Sitonai                    | [Link](https://twitter.com/snowdroptree/status/1376034593166434305?s=20)    | Solo                                                   |
-| Multiple Core              | [Link](https://twitter.com/hoge_coo/status/1375017111249166338?s=20)        | Musashi, Fran, Douman, Ibaraki                         |
-|                            | [Link](https://twitter.com/SedgeHat/status/1375744553043456002?s=20)        | Jokita, Yu, Wu, Musashi                                |
-|                            | [Link](https://twitter.com/ODk4rWLmNtaDMpA/status/1376526337792303104?s=20) | Raikou, MHXA, Gong, Danzo                              |
+| DPS Used                   | Link                                                                        | Remarks                                            |
+| -------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------- |
+| Altera (Saber)             | [Link](https://twitter.com/shortcut588/status/1376185200573444098?s=20)     | Triple Core sBB and Penth                          |
+| Anastasia                  | [Link](https://twitter.com/ebichiri01417/status/1375024205486387202?s=20)   | Kama, Xiang Yu                                     |
+| Arturia Pendragon (Ruler)  | [Link](https://twitter.com/Aloha258_master/status/1376370836668489731?s=20) | Triple Core Luvia and Himiko                       |
+| Arjuna                     | [Link](https://twitter.com/torikawaTA/status/1375730592088645636?s=20)      | Dual Core Oda                                      |
+| Arjuna (Alter)             | [Link](https://twitter.com/buenabisutafgo/status/1374801028034351104?s=20)  | Triple Core with Penth and Wu                      |
+|                            | [Link](https://twitter.com/hiduka01/status/1375098541668855821?s=20)        | Dual Core, Penth                                   |
+|                            | [Link](https://twitter.com/torikawaTA/status/1375116593424785413?s=20)      | Dual Core, Oda                                     |
+|                            | [Link](https://twitter.com/hiduka01/status/1375424295803887620?s=20)        | Dual Core Oda, No Swap                             |
+|                            | [Link](https://twitter.com/buenabisutafgo/status/1375787910104981512)       | 35 cost, Caligula                                  |
+|                            | [Link](https://twitter.com/maron_roron/status/1376587505969946626?s=20)     | 16 cost, Bunyan                                    |
+| Astarte                    | [Link](https://www.bilibili.com/video/BV1fK4y1T79n?share_source=copy_web)   | Single Core                                        |
+|                            | [Link](https://twitter.com/pooooh_lunatic/status/1376150503562702850?s=20)  | NoSwap, Kintoki Dual Core, Event CE                |
+| Astolfo (Saber)            | [Link](https://twitter.com/1104shoki/status/1376862563682508804?s=20)       | Solo                                               |
+| Brynhildr (Berserker)      | [Link](https://twitter.com/shortcut588/status/1375884337229402113?s=20)     | Dual Core Oda                                      |
+|                            | [Link](https://twitter.com/shortcut588/status/1376598266515652611?s=20)     | Dual Core Oda, NoSwap, Event CE                    |
+| Caren                      | [Link](https://twitter.com/Chihiro1000/status/1376093573645398017?s=20)     | Triple Core Beo and Penth                          |
+| Chacha                     | [Link](https://twitter.com/snowdroptree/status/1376065506550018049?s=20)    | Dual Core Oda, Event CE                            |
+| Douman                     | [Link](https://twitter.com/Bbci_f/status/1375404686757351424?s=20)          | NoSwap, Triple Core with himself and Kama, No Swap |
+|                            | [Link](https://twitter.com/SwoRa_Kento/status/1375794940035231746?s=20)     | Triple Core Salome Curse Amplification             |
+| Enkidu                     | [Link](https://twitter.com/bulsoo_dd/status/1376199409969459205?s=20)       | Solo                                               |
+| Ereshkigal                 | [Link](https://twitter.com/waiwaikigurumi/status/1376528179192492033?s=20)  | Triple Core, sBB and Penth, Event CE               |
+| Fran (Berserker)           | [Link](https://twitter.com/ebichiri01417/status/1376211164519141377?s=20)   | Ibaraki Dual Core                                  |
+| Ishtar (Archer)            | [Link](https://twitter.com/waiwaikigurumi/status/1375115863401979911?s=20)  | Dual Core with Oda                                 |
+|                            | [Link](https://twitter.com/waiwaikigurumi/status/1376156284794200075?s=20)  | NoSwap, Oda Dual Core                              |
+| Jeanne d'Arc (Archer)      | [Link](https://twitter.com/myc_1228/status/1375457512351100929?s=20)        | Dual Core Oda                                      |
+| Kiara Sesshoin (Alter-Ego) | [Link](https://www.youtube.com/watch?v=gYRrRVHPizg)                         | Triple Core, Douman and Salome curse amplification |
+|                            | [Link](https://twitter.com/NuuuuuN0704/status/1375454528149987335?s=20)     | Dual Core Kama                                     |
+| Lancelot (Berserker)       | [Link](https://twitter.com/snowdroptree/status/1374987468659859464?s=20)    | Oda Dual Core                                      |
+| Meltryllis (Lancer)        | [Link](https://twitter.com/myc_1228/status/1375592427831009282?s=20)        | Oda Dual Core                                      |
+|                            | [Link](https://twitter.com/Yuri_duelist/status/1375740963671351299?s=20)    | Triple Core with Passionlip and herself            |
+| Merlin                     | [Link](https://twitter.com/bulsoo_dd/status/1376076517264871426?s=20)       | Solo                                               |
+| Mordred (Saber)            | [Link](https://twitter.com/Hello_Anthem/status/1376336423343681539?s=20)    | Galatea Dual Core                                  |
+| Musashi (Berserker)        | [Link](https://twitter.com/KUR_NU_GI_A/status/1374852679055241218?s=20)     | Triple Core with Cu and Bryn                       |
+|                            | [Link](https://twitter.com/1syuten2syefi/status/1374854132498984968?s=20)   | Triple Core with Penth and Wu                      |
+|                            | [Link](https://twitter.com/ODk4rWLmNtaDMpA/status/1374932842627522561?s=20) | Similar to above                                   |
+|                            | [Link](https://twitter.com/myc_1228/status/1374930317119660032?s=20)        | Similar to above                                   |
+| Oda Nobunaga (Berserker)   | [Link](https://twitter.com/fuwa_rai/status/1376520481369595918?s=20)        | ST TA, Self Dual Core                              |
+| Oda Nobunaga (Maou)        | [Link](https://twitter.com/OrGOrG_FGO/status/1375135007488929794?s=20)      | Oda Dual Core, No Swap, Event CE on DPS            |
+| Raikou                     | [Link](https://twitter.com/keichan2273Frog/status/1375368075508244484?s=20) | Dual Core Kama                                     |
+|                            | [Link](https://twitter.com/snowdroptree/status/1376655771149082626?s=20)    | NoSwap, Dual Core Oda                              |
+| Romulus=Qurinus            | [Link](https://twitter.com/fuwa_rai/status/1376324884964372481?s=20)        | Herc Dual Core                                     |
+|                            | [Link](http://b23.tv/Hp39MO)                                                | NoSwap, Astraea Bride Triple Core                  |
+| Sei Shonagon               | [Link](https://twitter.com/kyoukuroneko/status/1376771461210275841?s=20)    |
+| Senji Muramasa             | [Link](https://youtu.be/feZhaXmo-Mo)                                        | Triple Core with Junao and Kintoki                 |
+|                            | [Link](https://twitter.com/hiduka01/status/1376090400457248769)             | Dual Core Oda, NoSwap, Event CE                    |
+|                            | [Link](https://twitter.com/hiduka01/status/1376882706177355780?s=20)        | Dual Core Oda, NoSwap                              |
+| Shuten Douji (Assassin)    | [Link](https://twitter.com/1syuten2syefi/status/1375765528048885760?s=20)   | Dual Core Penth                                    |
+| Sitonai                    | [Link](https://twitter.com/snowdroptree/status/1376034593166434305?s=20)    | Solo                                               |
+| Multiple Core              | [Link](https://twitter.com/hoge_coo/status/1375017111249166338?s=20)        | Musashi, Fran, Douman, Ibaraki                     |
+|                            | [Link](https://twitter.com/SedgeHat/status/1375744553043456002?s=20)        | Jokita, Yu, Wu, Musashi                            |
+|                            | [Link](https://twitter.com/ODk4rWLmNtaDMpA/status/1376526337792303104?s=20) | Raikou, MHXA, Gong, Danzo                          |
+|                            | [Link](https://twitter.com/ebichiri01417/status/1376867620389982221?s=20)   | Goghs, Abigails, Voyager                           |
 
 
 - All videos linked in this repo are the properties of their owners.
