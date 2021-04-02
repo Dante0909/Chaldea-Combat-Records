@@ -2060,6 +2060,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                            | [Link](https://twitter.com/hiduka01/status/1375424295803887620?s=20)        | Dual Core Oda, No Swap                             |
 |                            | [Link](https://twitter.com/buenabisutafgo/status/1375787910104981512)       | 35 cost, Caligula                                  |
 |                            | [Link](https://twitter.com/maron_roron/status/1376587505969946626?s=20)     | 16 cost, Bunyan                                    |
+| Ashwatthama                | [Link](https://twitter.com/torikawaTA/status/1378104535558676482?s=20)      | Solo                                               |
 | Astarte                    | [Link](https://www.bilibili.com/video/BV1fK4y1T79n?share_source=copy_web)   | Single Core                                        |
 |                            | [Link](https://twitter.com/pooooh_lunatic/status/1376150503562702850?s=20)  | NoSwap, Kintoki Dual Core, Event CE                |
 | Astolfo (Saber)            | [Link](https://twitter.com/1104shoki/status/1376862563682508804?s=20)       | Solo                                               |
