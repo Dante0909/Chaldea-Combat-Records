@@ -794,7 +794,8 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Salome                 | [Link](https://twitter.com/Yuri_duelist/status/1223275653274853376?s=20)    |                                           |
 |                        | [Link](https://twitter.com/SwoRa_Kento/status/1220401751880192000?s=20)     |                                           |
 | Sasaki Kojiro          | [Link](https://twitter.com/Violet_g612/status/1221011126781038592?s=20)     |                                           |
-| Scathach               | [Link](https://twitter.com/gameover_fate/status/1220797758447083520?s=20)   |                                           |
+| Scathach               | [Link](https://www.youtube.com/watch?v=MU_Hw2KKYRU)                         | NoSwap                                    |
+|                        | [Link](https://twitter.com/gameover_fate/status/1220797758447083520?s=20)   |                                           |
 |                        | [Link](https://twitter.com/gameover_fate/status/1220167813693767680?s=20)   |                                           |
 | Scheherazade           | [Link](https://twitter.com/7Corner/status/1224886521972416512?s=20)         | NoSwap, Tamamo Waver                      |
 |                        | [Link](https://twitter.com/Chinquepig/status/1224683836187009026?s=20)      | NoSwap, Bride, Prince of Lanling          |
