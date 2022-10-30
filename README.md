@@ -317,12 +317,14 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                | [Link](https://twitter.com/yychem/status/1293299862545379328?s=09)           | Ungrailed                   |
 | Romulus=Qurinus                | [Link](https://twitter.com/mishima173/status/1293898244703969283?s=09)       |                             |
 | Scathach                       | [Link](https://twitter.com/DrgnWgt/status/1291969475990835200?s=20)          |                             |
+|                                | [Link](https://twitter.com/firq_ow/status/1545676083500093442)               | 120, NoDuplicates           |
+|                                | [Link](https://www.youtube.com/watch?v=jKoSw1XM6-c)                          | 120                         |
 | Shiki                          | [Link](https://twitter.com/_ao2412fgo/status/1294273347786665986?s=19)       |                             |
 | Sitonai                        | [Link](https://twitter.com/Kag_Tam/status/1294210042812485633?s=20)          | NoCE on DPS                 |
 |                                | [Link](https://twitter.com/fgo38195272/status/1293567174829699074?s=20)      | NoCE on Support             |
 |                                | [Link](https://twitter.com/kaga87371105/status/1294230449250680833?s=19)     |                             |
 | Vlad (Berserker)               | [Link](https://twitter.com/otkznr/status/1293248735229566981?s=20)           |
-| Yang Guifei                    | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)     |                             |
+| Yang Guifei                    | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)     |                             | 
 |                                | [Link](https://twitter.com/2_5_dimension/status/1293188957874790401?s=20)    |
 
 ## Events
@@ -354,41 +356,45 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 
 ### Xmas 2019
 
-| DPS Used               | Link                                                                       | Remarks                       |
-| ---------------------- | -------------------------------------------------------------------------- | ----------------------------- |
-| Arjuna (Alter)         | [Link](https://twitter.com/ITMST/status/1202969972055531520)               | Multi-Core with Saber Astolfo |
-|                        | [Link](https://twitter.com/ITMST/status/1202609077928382464)               |                               |
-| Arturia                | [Link](https://twitter.com/spike197905/status/1202524161865740289)         |                               |
-| Arturia (Lancer Alter) | [Link](https://twitter.com/7Corner/status/1202465928593592326?s=20)        |                               |
-| Astarte                | [Link](https://www.youtube.com/watch?v=JkQR5uKcnEQ&feature=youtu.be)       |                               |
-| Astraea                | [Link](https://www.bilibili.com/video/av78857973)                          |                               |
-| Chen Gong              | [Link](https://twitter.com/mgmg3939pnd/status/1201840650418704384)         |                               |
-| Dantes                 | [Link](https://twitter.com/monhanluna/status/1201804182149165056?s=20)     |                               |
-| Drake                  | [Link](https://twitter.com/7Corner/status/1202387677598769153?s=20)        |                               |
-| Ereshkigal             | [Link](https://twitter.com/SW87807148/status/1201865470506201093)          | NoCE on DPS                   |
-| Frankenstein           | [Link](https://twitter.com/FrnHorn/status/1201899991498817536)             |                               |
-| Gilgamesh              | [Link](https://twitter.com/KUR_NU_GI_A/status/1201911136091701248?s=20)    | noCE on DPS                   |
-| Hessian Lobo           | [Link](https://twitter.com/kitakitasnas/status/1202482956045938688)        |                               |
-| Ishtar                 | [Link](https://twitter.com/waiwaikigurumi/status/1203639263964741633?s=20) | noCE on DPS                   |
-| Ishtar (Rider)         | [Link](https://twitter.com/waiwaikigurumi/status/1201817173905162240)      |                               |
-|                        | [Link](https://twitter.com/waiwaikigurumi/status/1204710940106620928)      | Fully NoCE                    |
-|                        | [Link](https://twitter.com/waiwaikigurumi/status/1202206000398262272)      | NoCE on DPS                   |
-| Ivan                   | [Link](https://twitter.com/7Corner/status/1202404446098968577?s=20)        |                               |
-| Kingprotea             | [Link](https://twitter.com/BOBislazyboy/status/1202005665658671104)        |                               |
-| Melt (Alter-Ego)       | [Link](https://twitter.com/2_5_dimension/status/1203582486334164997?s=20)  |                               |
-| Melt (Lancer)          | [Link](https://twitter.com/BOBislazyboy/status/1201906559674130433)        | NoSwap                        |
-|                        | [Link](https://www.youtube.com/watch?v=oaypoWXbuFw&feature=youtu.be)       |                               |
-| MHXA                   | [Link](https://twitter.com/Bonta_Unit_07/status/1204248994194448385?s=20)  |                               |
-| Murasaki Shikibu       | [Link](https://www.bilibili.com/video/av78006414)                          |                               |
-| Musashi (Berserker)    | [Link](https://twitter.com/KUR_NU_GI_A/status/1202423715637555200?s=20)    | noCE on DPS                   |
-| Nero (Saber)           | [Link](https://twitter.com/Chihiro1000/status/1202800990140821504?s=20)    | w/Bride Meme                  |
-| Nobu (Maou)            | [Link](https://twitter.com/OrGOrG_FGO/status/1201934364197543936)          | NoSwap                        |
-| Okita (Alter)          | [Link](https://twitter.com/BOBislazyboy/status/1203876232414281730)        |                               |
-| Passionlip             | [Link](https://twitter.com/onabeno_huta/status/1203693162532724737)        |                               |
-| Semiramis              | [Link](https://twitter.com/7Corner/status/1204418511272960004)             |                               |
-| Tesla                  | [Link](https://twitter.com/abiro_game/status/1201872557093400580)          |                               |
-| Tesla                  | [Link](https://twitter.com/abiro_game/status/1202526989178925056?s=20)     | NoCE on DPS                   |
-| Yu Miaoyi              | [Link](https://twitter.com/EstesT32/status/1202028169420689408)            |                               |
+| DPS Used               | Link                                                                       | Remarks                         |
+| ---------------------- | -------------------------------------------------------------------------- | ------------------------------- |
+| Arjuna (Alter)         | [Link](https://twitter.com/ITMST/status/1202969972055531520)               | Multi-Core with Saber Astolfo   |
+|                        | [Link](https://twitter.com/ITMST/status/1202609077928382464)               |                                 |
+| Arturia                | [Link](https://twitter.com/spike197905/status/1202524161865740289)         |                                 |
+| Arturia (Lancer Alter) | [Link](https://twitter.com/7Corner/status/1202465928593592326?s=20)        |                                 |
+| Astarte                | [Link](https://www.youtube.com/watch?v=JkQR5uKcnEQ&feature=youtu.be)       |                                 |
+| Astraea                | [Link](https://www.bilibili.com/video/av78857973)                          |                                 |
+| Chen Gong              | [Link](https://twitter.com/mgmg3939pnd/status/1201840650418704384)         |                                 |
+| Dantes                 | [Link](https://twitter.com/monhanluna/status/1201804182149165056?s=20)     |                                 |
+| Drake                  | [Link](https://twitter.com/7Corner/status/1202387677598769153?s=20)        |                                 |
+| Ereshkigal             | [Link](https://twitter.com/SW87807148/status/1201865470506201093)          | NoCE on DPS                     |
+|                        | [Link](https://www.youtube.com/watch?v=9zJUp_8DJTM)                        | NoDuplicates                    |
+| Frankenstein           | [Link](https://twitter.com/FrnHorn/status/1201899991498817536)             |                                 |
+| Fionn                  | [Link](https://www.youtube.com/watch?v=0qQUZzJgtFE                         | NoBG                            |
+| Gilgamesh              | [Link](https://twitter.com/KUR_NU_GI_A/status/1201911136091701248?s=20)    | noCE on DPS                     |
+| Hessian Lobo           | [Link](https://twitter.com/kitakitasnas/status/1202482956045938688)        |                                 |
+| Ishtar                 | [Link](https://twitter.com/waiwaikigurumi/status/1203639263964741633?s=20) | noCE on DPS                     |
+| Ishtar (Rider)         | [Link](https://twitter.com/waiwaikigurumi/status/1201817173905162240)      |                                 |
+|                        | [Link](https://twitter.com/waiwaikigurumi/status/1204710940106620928)      | Fully NoCE                      |
+|                        | [Link](https://twitter.com/waiwaikigurumi/status/1202206000398262272)      | NoCE on DPS                     |
+| Ivan                   | [Link](https://twitter.com/7Corner/status/1202404446098968577?s=20)        |                                 |
+| Jeanne d'Arc Alter     | [Link](https://www.youtube.com/watch?v=gGgl1Ptrjf8)                        | 120, Non Event CE, NoDuplicates |
+| Kingprotea             | [Link](https://twitter.com/BOBislazyboy/status/1202005665658671104)        |                                 |
+| Melt (Alter-Ego)       | [Link](https://twitter.com/2_5_dimension/status/1203582486334164997?s=20)  |                                 |
+| Melt (Lancer)          | [Link](https://twitter.com/BOBislazyboy/status/1201906559674130433)        | NoSwap                          |
+|                        | [Link](https://www.youtube.com/watch?v=oaypoWXbuFw&feature=youtu.be)       |                                 |
+| MHXA                   | [Link](https://twitter.com/Bonta_Unit_07/status/1204248994194448385?s=20)  |                                 |
+| Murasaki Shikibu       | [Link](https://www.bilibili.com/video/av78006414)                          |                                 |
+| Musashi (Berserker)    | [Link](https://twitter.com/KUR_NU_GI_A/status/1202423715637555200?s=20)    | noCE on DPS                     |
+| Nero (Saber)           | [Link](https://twitter.com/Chihiro1000/status/1202800990140821504?s=20)    | w/Bride Meme                    |
+| Nobu (Maou)            | [Link](https://twitter.com/OrGOrG_FGO/status/1201934364197543936)          | NoSwap                          |
+| Okita (Alter)          | [Link](https://twitter.com/BOBislazyboy/status/1203876232414281730)        |                                 |
+| Passionlip             | [Link](https://twitter.com/onabeno_huta/status/1203693162532724737)        |                                 |
+| Scathach               | [Link](https://www.youtube.com/watch?v=cpqhx9dUgTU)                        | 120                             |
+| Semiramis              | [Link](https://twitter.com/7Corner/status/1204418511272960004)             |                                 |
+| Tesla                  | [Link](https://twitter.com/abiro_game/status/1201872557093400580)          |                                 |
+| Tesla                  | [Link](https://twitter.com/abiro_game/status/1202526989178925056?s=20)     | NoCE on DPS                     |
+| Yu Miaoyi              | [Link](https://twitter.com/EstesT32/status/1202028169420689408)            |                                 |
 
 ## 2020
 
@@ -788,7 +794,8 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Salome                 | [Link](https://twitter.com/Yuri_duelist/status/1223275653274853376?s=20)    |                                           |
 |                        | [Link](https://twitter.com/SwoRa_Kento/status/1220401751880192000?s=20)     |                                           |
 | Sasaki Kojiro          | [Link](https://twitter.com/Violet_g612/status/1221011126781038592?s=20)     |                                           |
-| Scathach               | [Link](https://twitter.com/gameover_fate/status/1220797758447083520?s=20)   |                                           |
+| Scathach               | [Link](https://www.youtube.com/watch?v=MU_Hw2KKYRU)                         | NoSwap                                    |
+|                        | [Link](https://twitter.com/gameover_fate/status/1220797758447083520?s=20)   |                                           |
 |                        | [Link](https://twitter.com/gameover_fate/status/1220167813693767680?s=20)   |                                           |
 | Scheherazade           | [Link](https://twitter.com/7Corner/status/1224886521972416512?s=20)         | NoSwap, Tamamo Waver                      |
 |                        | [Link](https://twitter.com/Chinquepig/status/1224683836187009026?s=20)      | NoSwap, Bride, Prince of Lanling          |
@@ -1361,6 +1368,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Romulus=Quirinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1266772110921232385?s=20)     |
 | Sasaki Kojiro                    | [Link](https://twitter.com/roomatoraiaruma/status/1267026204411883523?s=19) |
 | Scathach                         | [Link](https://twitter.com/gameover_fate/status/1266745838157496321?s=20)   |
+|                                  | [Link](https://www.youtube.com/watch?v=k7vGC4kpEFg)                         | Alternative link                               |
 | Seigfried                        | [Link](https://twitter.com/otkznr/status/1267815727362265092?s=19)          |
 | SHIKI                            | [Link](https://twitter.com/7Corner/status/1266672767975317505?s=20)         |
 |                                  | [Link](https://twitter.com/liyangru/status/1266968357380616194?s=19)        | No powermod CE                                 |
@@ -1537,7 +1545,8 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ozymandias                      | [Link](https://twitter.com/yurNOR_fusion/status/1283699266435735553?s=20)   |
 | Raikou (Berserker)              | [Link](https://twitter.com/niflheimr413413/status/1283395953139961856?s=20) |
 |                                 | [Link](https://twitter.com/neo_lex0403/status/1283776479382220800?s=20)     | NoSwap, Non NP                        |
-| Scathach                        | [Link](https://twitter.com/gameover_fate/status/1283362240251351040?s=20)   |
+| Scathach                        | [Link](https://twitter.com/gameover_fate/status/1283362240251351040?s=20)   |                                       |
+|                                 | [Link](https://www.youtube.com/watch?v=m3SATSOfpt4)                         | Alternative link, 116                 |
 | Xiang Yu                        | [Link](https://twitter.com/mgmg3939pnd/status/1283398554547965952?s=20)     | Non NP                                |
 |                                 | [Link](https://twitter.com/Kag_Tam/status/1283406245827719168?s=20)         | NoCE, Non NP                          |
 
@@ -1796,6 +1805,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ishtar                           | [Link](https://twitter.com/waiwaikigurumi/status/1317331330489741312?s=19)  |
 | Ivan                             | [Link](https://www.youtube.com/watch?v=nDywwThDumg&feature=youtu.be)        |
 | Jeanne d'Arc (Alter)             | [Link](https://twitter.com/Phi_fgo/status/1317099967584989187?s=20)         | Non Event CE                |
+|                                  | [Link](https://www.youtube.com/watch?v=HmrWnxp8Qz0)                         | 120, NoSwap                 |
 | Jeanne d'Arc (Alter) (Berserker) | [Link](https://twitter.com/miki3568/status/1317493514423345154?s=20)        | Bronze Supports Only        |
 | Jekyll & Hyde                    | [Link](https://twitter.com/fay_Calc/status/1317405734812798981)             |
 | Jinako                           | [Link](https://twitter.com/kitakitasnas/status/1317087714106175488?s=20)    | Dual Core                   |
@@ -1826,6 +1836,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Murasaki (Rider)                 | [Link](https://twitter.com/jyuubeeyuuan/status/1317177783294980096?s=19)    | Non Event CE                |
 |                                  | [Link](https://twitter.com/k1syFGO/status/1317526993563365377?s=19)         | NoSwap                      |
 | Napoleon                         | [Link](https://www.youtube.com/watch?v=F-dRVWtafoA&feature=youtu.be)        |
+| Nero (Saber)                     | [Link](https://www.youtube.com/watch?v=0qQUZzJgtFE)                         |                             |
 | Nero (Bride)                     | [Link](https://twitter.com/Chihiro1000/status/1317145946770141194?s=20)     | NoSwap                      |
 | Nursery Rhyme                    | [Link](https://twitter.com/6UgYnoZKVn6PApV/status/1317242861604151298?s=19) |
 | Odysseus                         | [Link](https://www.youtube.com/watch?v=xPT3H4mbmIQ&feature=youtu.be)        |
@@ -1845,7 +1856,8 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                  | [Link](https://twitter.com/neo_lex0403/status/1317475356085866497?s=20)     | NoSwap, Non Event CE        |
 | Ryouma                           | [Link](https://twitter.com/ULTRA1320/status/1317079692365635584?s=19)       |
 | Romulus = Qurinus                | [Link](https://twitter.com/NuuuuuN0704/status/1317082531754172416?s=20)     | NoSwap                      |
-| Scathach (Lancer)                | [Link](https://twitter.com/DrgnWgt/status/1317063798583304193?s=20)         |
+| Scathach (Lancer)                | [Link](https://twitter.com/DrgnWgt/status/1317063798583304193?s=20)         |                             |
+|                                  | [Link](https://www.youtube.com/watch?v=3scILqsgobU)                         | 120, NoSwap                 |
 | Scherazade                       | [Link](https://twitter.com/otkznr/status/1317440778059198465)               |
 | Sei Shonagon                     | [Link](https://twitter.com/EdaFgo/status/1317233614480838656?s=19)          |                             |
 | Shiki (Assassin)                 | [Link](https://twitter.com/_ao2412/status/1317228063076147200?s=19)         | NoSwap                      |
