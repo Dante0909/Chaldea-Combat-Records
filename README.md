@@ -318,7 +318,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Romulus=Qurinus                | [Link](https://twitter.com/mishima173/status/1293898244703969283?s=09)       |                             |
 | Scathach                       | [Link](https://twitter.com/DrgnWgt/status/1291969475990835200?s=20)          |                             |
 |                                | [Link](https://twitter.com/firq_ow/status/1545676083500093442)               | 120, NoDuplicates           |
-|                                | [Link](https://www.youtube.com/watch?v=jKoSw1XM6-c)               			| 120			              |
+|                                | [Link](https://www.youtube.com/watch?v=jKoSw1XM6-c)                           | 120                          |
 | Shiki                          | [Link](https://twitter.com/_ao2412fgo/status/1294273347786665986?s=19)       |                             |
 | Sitonai                        | [Link](https://twitter.com/Kag_Tam/status/1294210042812485633?s=20)          | NoCE on DPS                 |
 |                                | [Link](https://twitter.com/fgo38195272/status/1293567174829699074?s=20)      | NoCE on Support             |
@@ -376,7 +376,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                        | [Link](https://twitter.com/waiwaikigurumi/status/1204710940106620928)      | Fully NoCE                      |
 |                        | [Link](https://twitter.com/waiwaikigurumi/status/1202206000398262272)      | NoCE on DPS                     |
 | Ivan                   | [Link](https://twitter.com/7Corner/status/1202404446098968577?s=20)        |                                 |
-| Jeanne d'Arc Alter     | [Link](https://www.youtube.com/watch?v=gGgl1Ptrjf8)         				  | 120, Non Event CE, NoDuplicates |
+| Jeanne d'Arc Alter     | [Link](https://www.youtube.com/watch?v=gGgl1Ptrjf8)                           | 120, Non Event CE, NoDuplicates |
 | Kingprotea             | [Link](https://twitter.com/BOBislazyboy/status/1202005665658671104)        |                                 |
 | Melt (Alter-Ego)       | [Link](https://twitter.com/2_5_dimension/status/1203582486334164997?s=20)  |                                 |
 | Melt (Lancer)          | [Link](https://twitter.com/BOBislazyboy/status/1201906559674130433)        | NoSwap                          |
@@ -388,7 +388,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Nobu (Maou)            | [Link](https://twitter.com/OrGOrG_FGO/status/1201934364197543936)          | NoSwap                          |
 | Okita (Alter)          | [Link](https://twitter.com/BOBislazyboy/status/1203876232414281730)        |                                 |
 | Passionlip             | [Link](https://twitter.com/onabeno_huta/status/1203693162532724737)        |                                 |
-| Scathach				 | [Link](https://www.youtube.com/watch?v=cpqhx9dUgTU					      | 120                             |
+| Scathach                 | [Link](https://www.youtube.com/watch?v=cpqhx9dUgTU                          | 120                             |
 | Semiramis              | [Link](https://twitter.com/7Corner/status/1204418511272960004)             |                                 |
 | Tesla                  | [Link](https://twitter.com/abiro_game/status/1201872557093400580)          |                                 |
 | Tesla                  | [Link](https://twitter.com/abiro_game/status/1202526989178925056?s=20)     | NoCE on DPS                     |
@@ -1541,8 +1541,8 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ozymandias                      | [Link](https://twitter.com/yurNOR_fusion/status/1283699266435735553?s=20)   |
 | Raikou (Berserker)              | [Link](https://twitter.com/niflheimr413413/status/1283395953139961856?s=20) |
 |                                 | [Link](https://twitter.com/neo_lex0403/status/1283776479382220800?s=20)     | NoSwap, Non NP                        |
-| Scathach                        | [Link](https://twitter.com/gameover_fate/status/1283362240251351040?s=20)   |										|
-|								  | [Link](https://www.youtube.com/watch?v=m3SATSOfpt4)							| 116									|
+| Scathach                        | [Link](https://twitter.com/gameover_fate/status/1283362240251351040?s=20)   |                                        |
+|                                  | [Link](https://www.youtube.com/watch?v=m3SATSOfpt4)                            | 116                                    |
 | Xiang Yu                        | [Link](https://twitter.com/mgmg3939pnd/status/1283398554547965952?s=20)     | Non NP                                |
 |                                 | [Link](https://twitter.com/Kag_Tam/status/1283406245827719168?s=20)         | NoCE, Non NP                          |
 
@@ -1851,8 +1851,8 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                  | [Link](https://twitter.com/neo_lex0403/status/1317475356085866497?s=20)     | NoSwap, Non Event CE        |
 | Ryouma                           | [Link](https://twitter.com/ULTRA1320/status/1317079692365635584?s=19)       |
 | Romulus = Qurinus                | [Link](https://twitter.com/NuuuuuN0704/status/1317082531754172416?s=20)     | NoSwap                      |
-| Scathach (Lancer)                | [Link](https://twitter.com/DrgnWgt/status/1317063798583304193?s=20)         |							   |
-| 								   | [Link](https://www.youtube.com/watch?v=3scILqsgobU)						 | 120, NoSwap  			   |
+| Scathach (Lancer)                | [Link](https://twitter.com/DrgnWgt/status/1317063798583304193?s=20)         |                               |
+|                                    | [Link](https://www.youtube.com/watch?v=3scILqsgobU)                         | 120, NoSwap                 |
 | Scherazade                       | [Link](https://twitter.com/otkznr/status/1317440778059198465)               |
 | Sei Shonagon                     | [Link](https://twitter.com/EdaFgo/status/1317233614480838656?s=19)          |                             |
 | Shiki (Assassin)                 | [Link](https://twitter.com/_ao2412/status/1317228063076147200?s=19)         | NoSwap                      |
