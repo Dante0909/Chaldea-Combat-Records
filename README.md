@@ -368,7 +368,9 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Dantes                 | [Link](https://twitter.com/monhanluna/status/1201804182149165056?s=20)     |                                 |
 | Drake                  | [Link](https://twitter.com/7Corner/status/1202387677598769153?s=20)        |                                 |
 | Ereshkigal             | [Link](https://twitter.com/SW87807148/status/1201865470506201093)          | NoCE on DPS                     |
+|                        | [Link](https://www.youtube.com/watch?v=9zJUp_8DJTM)                        | NoDuplicates                    |
 | Frankenstein           | [Link](https://twitter.com/FrnHorn/status/1201899991498817536)             |                                 |
+| Fionn                  | [Link](https://www.youtube.com/watch?v=0qQUZzJgtFE                         | NoBG                            |
 | Gilgamesh              | [Link](https://twitter.com/KUR_NU_GI_A/status/1201911136091701248?s=20)    | noCE on DPS                     |
 | Hessian Lobo           | [Link](https://twitter.com/kitakitasnas/status/1202482956045938688)        |                                 |
 | Ishtar                 | [Link](https://twitter.com/waiwaikigurumi/status/1203639263964741633?s=20) | noCE on DPS                     |
@@ -388,7 +390,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Nobu (Maou)            | [Link](https://twitter.com/OrGOrG_FGO/status/1201934364197543936)          | NoSwap                          |
 | Okita (Alter)          | [Link](https://twitter.com/BOBislazyboy/status/1203876232414281730)        |                                 |
 | Passionlip             | [Link](https://twitter.com/onabeno_huta/status/1203693162532724737)        |                                 |
-| Scathach               | [Link](https://www.youtube.com/watch?v=cpqhx9dUgTU                         | 120                             |
+| Scathach               | [Link](https://www.youtube.com/watch?v=cpqhx9dUgTU)                        | 120                             |
 | Semiramis              | [Link](https://twitter.com/7Corner/status/1204418511272960004)             |                                 |
 | Tesla                  | [Link](https://twitter.com/abiro_game/status/1201872557093400580)          |                                 |
 | Tesla                  | [Link](https://twitter.com/abiro_game/status/1202526989178925056?s=20)     | NoCE on DPS                     |
@@ -1365,6 +1367,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Romulus=Quirinus                 | [Link](https://twitter.com/NuuuuuN0704/status/1266772110921232385?s=20)     |
 | Sasaki Kojiro                    | [Link](https://twitter.com/roomatoraiaruma/status/1267026204411883523?s=19) |
 | Scathach                         | [Link](https://twitter.com/gameover_fate/status/1266745838157496321?s=20)   |
+|                                  | [Link](https://www.youtube.com/watch?v=k7vGC4kpEFg)                         | Alternative link                               |
 | Seigfried                        | [Link](https://twitter.com/otkznr/status/1267815727362265092?s=19)          |
 | SHIKI                            | [Link](https://twitter.com/7Corner/status/1266672767975317505?s=20)         |
 |                                  | [Link](https://twitter.com/liyangru/status/1266968357380616194?s=19)        | No powermod CE                                 |
@@ -1542,7 +1545,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Raikou (Berserker)              | [Link](https://twitter.com/niflheimr413413/status/1283395953139961856?s=20) |
 |                                 | [Link](https://twitter.com/neo_lex0403/status/1283776479382220800?s=20)     | NoSwap, Non NP                        |
 | Scathach                        | [Link](https://twitter.com/gameover_fate/status/1283362240251351040?s=20)   |                                       |
-|                                 | [Link](https://www.youtube.com/watch?v=m3SATSOfpt4)                         | 116                                   |
+|                                 | [Link](https://www.youtube.com/watch?v=m3SATSOfpt4)                         | Alternative link, 116                 |
 | Xiang Yu                        | [Link](https://twitter.com/mgmg3939pnd/status/1283398554547965952?s=20)     | Non NP                                |
 |                                 | [Link](https://twitter.com/Kag_Tam/status/1283406245827719168?s=20)         | NoCE, Non NP                          |
 
@@ -1832,6 +1835,7 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Murasaki (Rider)                 | [Link](https://twitter.com/jyuubeeyuuan/status/1317177783294980096?s=19)    | Non Event CE                |
 |                                  | [Link](https://twitter.com/k1syFGO/status/1317526993563365377?s=19)         | NoSwap                      |
 | Napoleon                         | [Link](https://www.youtube.com/watch?v=F-dRVWtafoA&feature=youtu.be)        |
+| Nero (Saber)                     | [Link](https://www.youtube.com/watch?v=0qQUZzJgtFE)                         |                             |
 | Nero (Bride)                     | [Link](https://twitter.com/Chihiro1000/status/1317145946770141194?s=20)     | NoSwap                      |
 | Nursery Rhyme                    | [Link](https://twitter.com/6UgYnoZKVn6PApV/status/1317242861604151298?s=19) |
 | Odysseus                         | [Link](https://www.youtube.com/watch?v=xPT3H4mbmIQ&feature=youtu.be)        |
