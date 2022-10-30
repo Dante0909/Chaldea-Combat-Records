@@ -317,12 +317,13 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                | [Link](https://twitter.com/yychem/status/1293299862545379328?s=09)           | Ungrailed                   |
 | Romulus=Qurinus                | [Link](https://twitter.com/mishima173/status/1293898244703969283?s=09)       |                             |
 | Scathach                       | [Link](https://twitter.com/DrgnWgt/status/1291969475990835200?s=20)          |                             |
+|                                | [Link](https://twitter.com/firq_ow/status/1545676083500093442)               | 120, NoDuplicates           |
 | Shiki                          | [Link](https://twitter.com/_ao2412fgo/status/1294273347786665986?s=19)       |                             |
 | Sitonai                        | [Link](https://twitter.com/Kag_Tam/status/1294210042812485633?s=20)          | NoCE on DPS                 |
 |                                | [Link](https://twitter.com/fgo38195272/status/1293567174829699074?s=20)      | NoCE on Support             |
 |                                | [Link](https://twitter.com/kaga87371105/status/1294230449250680833?s=19)     |                             |
 | Vlad (Berserker)               | [Link](https://twitter.com/otkznr/status/1293248735229566981?s=20)           |
-| Yang Guifei                    | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)     |                             |
+| Yang Guifei                    | [Link](https://twitter.com/bikakindefgo/status/1284506626704027648?s=20)     |                             | 
 |                                | [Link](https://twitter.com/2_5_dimension/status/1293188957874790401?s=20)    |
 
 ## Events
@@ -1537,7 +1538,8 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 | Ozymandias                      | [Link](https://twitter.com/yurNOR_fusion/status/1283699266435735553?s=20)   |
 | Raikou (Berserker)              | [Link](https://twitter.com/niflheimr413413/status/1283395953139961856?s=20) |
 |                                 | [Link](https://twitter.com/neo_lex0403/status/1283776479382220800?s=20)     | NoSwap, Non NP                        |
-| Scathach                        | [Link](https://twitter.com/gameover_fate/status/1283362240251351040?s=20)   |
+| Scathach                        | [Link](https://twitter.com/gameover_fate/status/1283362240251351040?s=20)   |										|
+|								  | [Link](https://www.youtube.com/watch?v=m3SATSOfpt4)							| 116									|
 | Xiang Yu                        | [Link](https://twitter.com/mgmg3939pnd/status/1283398554547965952?s=20)     | Non NP                                |
 |                                 | [Link](https://twitter.com/Kag_Tam/status/1283406245827719168?s=20)         | NoCE, Non NP                          |
 
@@ -1845,7 +1847,8 @@ Note : All TAs are assumed to be dual core here unless mentioned otherwise due t
 |                                  | [Link](https://twitter.com/neo_lex0403/status/1317475356085866497?s=20)     | NoSwap, Non Event CE        |
 | Ryouma                           | [Link](https://twitter.com/ULTRA1320/status/1317079692365635584?s=19)       |
 | Romulus = Qurinus                | [Link](https://twitter.com/NuuuuuN0704/status/1317082531754172416?s=20)     | NoSwap                      |
-| Scathach (Lancer)                | [Link](https://twitter.com/DrgnWgt/status/1317063798583304193?s=20)         |
+| Scathach (Lancer)                | [Link](https://twitter.com/DrgnWgt/status/1317063798583304193?s=20)         |							   |
+| 								   | [Link](https://www.youtube.com/watch?v=3scILqsgobU)						 | 120, NoSwap  			   |
 | Scherazade                       | [Link](https://twitter.com/otkznr/status/1317440778059198465)               |
 | Sei Shonagon                     | [Link](https://twitter.com/EdaFgo/status/1317233614480838656?s=19)          |                             |
 | Shiki (Assassin)                 | [Link](https://twitter.com/_ao2412/status/1317228063076147200?s=19)         | NoSwap                      |
